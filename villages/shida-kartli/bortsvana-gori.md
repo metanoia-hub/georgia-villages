@@ -1,13 +1,29 @@
 # Bortsvana
 
-**Gori, Shida Kartli** · community: Mghebriani
+**Gori, Shida Kartli** · community: Mghebriani · altitude: **1437 m**
 
-Residents: **0** in 2024 · unknown in 2014 (Georgian census) · no 2014 match by name
+## Size
+- Population: 2002: **0** · 2014: **0** · 2024: **0**
+- Peak population found: **0 (2002/2014/2024)**
+- Houses: not counted yet
+- Last change: 0 in every census found (2002,2014,2024)
+- Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat)
 
-## Where
-- Coordinates: 41.781817, 44.0747881
-- OpenStreetMap: https://www.openstreetmap.org/?mlat=41.781817&mlon=44.0747881#map=14/41.781817/44.0747881
-- Google Maps (satellite): https://www.google.com/maps/@41.781817,44.0747881,2000m/data=!3m1!1e3
+## Maps
+- Satellite (see the roofs): https://www.google.com/maps/@41.781817,44.0747881,1500m/data=!3m1!1e3
+- Relief (terrain): https://www.google.com/maps/@41.781817,44.0747881,14z/data=!5m1!1e4
+- OpenStreetMap: https://www.openstreetmap.org/?mlat=41.781817&mlon=44.0747881#map=15/41.781817/44.0747881
+- Street photos, where they exist: https://www.mapillary.com/app/?lat=41.781817&lng=44.0747881&z=15
+- Land ownership map (Public Registry): https://maps.gov.ge/map/portal (search the coordinates 41.781817, 44.0747881)
+
+## Who To Contact
+- Mayor's representative for Mghebriani: Jumber Gigauri (Mghebriani administrative unit) · phone: 598 22 29 98
+- City Hall, Gori: https://gori.gov.ge · Hotline 0 370 27 00 06; PR department (+995) 577 50 09 12 · info@gori.gov.ge; press@gori.gov.ge
+- Mayor: Konstantine Buzaladze (named as Gori Municipality mayor in gmnews.com.ge news of 06.08.2026). Note: gori.gov.ge mayor page still lists Simon Guledani as acting mayor (stale); Guledani is now State Governor of Shida Kartli.
+- Council (Sakrebulo): chair: Marlen Nadiradze (named council chair in gmnews.com.ge 06.08.2026); email: sakrebulo@gori.gov.ge (from search-result snippet only, not fetched; unverified); site: gori.mun.gov.ge is NOT usable: the domain now serves unrelated spam content with a certificate for agrozone.ge
+- Region (Shida Kartli): State Representative-Governor Simon Guledani (since 2025, per shidakartli.gov.ge); site https://shidakartli.gov.ge ; address Gori, Gr. Peradze St. 5; email government@shidakartli.gov.ge; phone 0 32 2 28 57 00 as printed on contact page (unclear format); Facebook https://www.facebook.com/shidakartlismxare/
+- Public Registry office: NAPR Shida Kartli regional office, Gori, near D. Gurmishvili St. 5 (address as printed: d. guramishvilis k. N5-is mimdebared); NAPR hotline 2 405 405, info@napr.gov.ge; regional phone unknown
+- State Property office: NASP Shida Kartli and Mtskheta-Mtianeti regional service, Gori, Samepo St. 50 (and Mtskheta, Aghmashenebeli Ave. 51); central phone (+995 32) 2 98 11 11, info@nasp.gov.ge; regional phone unknown
 
 ## Health And Emergency
 - Nearest hospital with emergency department: Gori Regional Hospital Gormedi (Gori), 42.7 km, 137 min by road
@@ -16,13 +32,30 @@ Residents: **0** in 2024 · unknown in 2014 (Georgian census) · no 2014 match b
 - Nearest ambulance station: Tsalka, Takhaishvili 4, unknown km
 - Winter road: unknown
 
+## History
+- being researched
+
+## Population Over Time (Other Sources)
+- being researched
+
+## Crafts And Traditions
+- being researched
+
+## Churches, Towers, Monuments
+- being researched
+
+## Photos And Videos
+
+## Articles
+- being researched
+
 ## Road
 
 ## Water
 
 ## Power And Gas
 
-## Houses (How Many, What State)
+## Houses (What State)
 
 ## Land Around (Farmland, Forest, Pasture)
 
@@ -34,17 +67,6 @@ Residents: **0** in 2024 · unknown in 2014 (Georgian census) · no 2014 match b
 
 ## Opportunities
 
-## Visits And Photos
+## Visits
 
 ## Notes
-
-## Sources
-- https://www.openstreetmap.org/node/12370462451
-- https://georgia.travel/coming-to-georgia/medical-information
-- https://ge.near-place.com/goris-regionaluri-saavadmqopo-gormedi-x4w74f8-gori
-- https://www.openstreetmap.org/way/628496047
-- https://08.ge/organizations/view/12333877/
-- https://www.openstreetmap.org/node/11414817697
-- https://emsc.moh.gov.ge/ge/map
-- https://download.geofabrik.de/europe/georgia.html
-- https://github.com/Project-OSRM/osrm-backend/blob/v6.0.0/profiles/car.lua

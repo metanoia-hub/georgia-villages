@@ -1,13 +1,29 @@
 # Tkhinala
 
-**Gori, Shida Kartli** · community: Boshuri
+**Gori, Shida Kartli** · community: Boshuri · altitude: **1315 m**
 
-Residents: **1** in 2024 · not published (...) in 2014 (Georgian census)
+## Size
+- Population: 1923: **187** · 2002: **2** · 2014: **1**
+- Peak population found: **187 (1923)**
+- Houses: not counted yet
+- Last change: unknown
+- Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 2002 Geostat village volume PDF (confirms 2) ; 1923 Georgia rural census by settlement (Mashke pop-stat.mashke.org/georgia-ethnic-loc1923.htm), unit: Goris/Ormotsis
 
-## Where
-- Coordinates: 41.8402006, 44.0038251
-- OpenStreetMap: https://www.openstreetmap.org/?mlat=41.8402006&mlon=44.0038251#map=14/41.8402006/44.0038251
-- Google Maps (satellite): https://www.google.com/maps/@41.8402006,44.0038251,2000m/data=!3m1!1e3
+## Maps
+- Satellite (see the roofs): https://www.google.com/maps/@41.8402006,44.0038251,1500m/data=!3m1!1e3
+- Relief (terrain): https://www.google.com/maps/@41.8402006,44.0038251,14z/data=!5m1!1e4
+- OpenStreetMap: https://www.openstreetmap.org/?mlat=41.8402006&mlon=44.0038251#map=15/41.8402006/44.0038251
+- Street photos, where they exist: https://www.mapillary.com/app/?lat=41.8402006&lng=44.0038251&z=15
+- Land ownership map (Public Registry): https://maps.gov.ge/map/portal (search the coordinates 41.8402006, 44.0038251)
+
+## Who To Contact
+- Mayor's representative for Boshuri: Jumber Gigauri (Mghebriani administrative unit, which lists lower and upper Boshuri among its villages) · phone: 598 22 29 98
+- City Hall, Gori: https://gori.gov.ge · Hotline 0 370 27 00 06; PR department (+995) 577 50 09 12 · info@gori.gov.ge; press@gori.gov.ge
+- Mayor: Konstantine Buzaladze (named as Gori Municipality mayor in gmnews.com.ge news of 06.08.2026). Note: gori.gov.ge mayor page still lists Simon Guledani as acting mayor (stale); Guledani is now State Governor of Shida Kartli.
+- Council (Sakrebulo): chair: Marlen Nadiradze (named council chair in gmnews.com.ge 06.08.2026); email: sakrebulo@gori.gov.ge (from search-result snippet only, not fetched; unverified); site: gori.mun.gov.ge is NOT usable: the domain now serves unrelated spam content with a certificate for agrozone.ge
+- Region (Shida Kartli): State Representative-Governor Simon Guledani (since 2025, per shidakartli.gov.ge); site https://shidakartli.gov.ge ; address Gori, Gr. Peradze St. 5; email government@shidakartli.gov.ge; phone 0 32 2 28 57 00 as printed on contact page (unclear format); Facebook https://www.facebook.com/shidakartlismxare/
+- Public Registry office: NAPR Shida Kartli regional office, Gori, near D. Gurmishvili St. 5 (address as printed: d. guramishvilis k. N5-is mimdebared); NAPR hotline 2 405 405, info@napr.gov.ge; regional phone unknown
+- State Property office: NASP Shida Kartli and Mtskheta-Mtianeti regional service, Gori, Samepo St. 50 (and Mtskheta, Aghmashenebeli Ave. 51); central phone (+995 32) 2 98 11 11, info@nasp.gov.ge; regional phone unknown
 
 ## Health And Emergency
 - Nearest hospital with emergency department: Gori Regional Hospital Gormedi (Gori), 36.2 km, 53 min by road
@@ -16,13 +32,30 @@ Residents: **1** in 2024 · not published (...) in 2014 (Georgian census)
 - Nearest ambulance station: Gori, Chonkadze 14, 35.7 km
 - Winter road: unknown
 
+## History
+- being researched
+
+## Population Over Time (Other Sources)
+- being researched
+
+## Crafts And Traditions
+- being researched
+
+## Churches, Towers, Monuments
+- being researched
+
+## Photos And Videos
+
+## Articles
+- being researched
+
 ## Road
 
 ## Water
 
 ## Power And Gas
 
-## Houses (How Many, What State)
+## Houses (What State)
 
 ## Land Around (Farmland, Forest, Pasture)
 
@@ -34,18 +67,6 @@ Residents: **1** in 2024 · not published (...) in 2014 (Georgian census)
 
 ## Opportunities
 
-## Visits And Photos
+## Visits
 
 ## Notes
-
-## Sources
-- https://www.openstreetmap.org/node/457359942
-- https://georgia.travel/coming-to-georgia/medical-information
-- https://ge.near-place.com/goris-regionaluri-saavadmqopo-gormedi-x4w74f8-gori
-- https://www.openstreetmap.org/way/628496047
-- https://08.ge/organizations/view/12333877/
-- https://www.openstreetmap.org/node/11414817697
-- https://emsc.moh.gov.ge/ge/map
-- https://www.08.ge/organizations/view/12209395/
-- https://download.geofabrik.de/europe/georgia.html
-- https://github.com/Project-OSRM/osrm-backend/blob/v6.0.0/profiles/car.lua

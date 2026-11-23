@@ -1,13 +1,29 @@
 # Velistsikhe
 
-**Kareli, Shida Kartli** · community: Zghuderi
+**Kareli, Shida Kartli** · community: Zghuderi · altitude: **1529 m**
 
-Residents: **0** in 2024 · 0 in 2014 (Georgian census)
+## Size
+- Population: 1917: **4536** · 1923: **97** · 2014: **0** · 2024: **0**
+- Peak population found: **4536 (1917)**
+- Houses: not counted yet
+- Last change: first census with 0 residents: 2014 (last with residents: 1923)
+- Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 1923 Georgia rural census by settlement (Mashke pop-stat.mashke.org/georgia-ethnic-loc1923.htm), unit: Goris/Zghudris ; 1917 Tiflis governorate villages (Mashke pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm), unit: 
 
-## Where
-- Coordinates: 41.9045104, 43.838953
-- OpenStreetMap: https://www.openstreetmap.org/?mlat=41.9045104&mlon=43.838953#map=14/41.9045104/43.838953
-- Google Maps (satellite): https://www.google.com/maps/@41.9045104,43.838953,2000m/data=!3m1!1e3
+## Maps
+- Satellite (see the roofs): https://www.google.com/maps/@41.9045104,43.838953,1500m/data=!3m1!1e3
+- Relief (terrain): https://www.google.com/maps/@41.9045104,43.838953,14z/data=!5m1!1e4
+- OpenStreetMap: https://www.openstreetmap.org/?mlat=41.9045104&mlon=43.838953#map=15/41.9045104/43.838953
+- Street photos, where they exist: https://www.mapillary.com/app/?lat=41.9045104&lng=43.838953&z=15
+- Land ownership map (Public Registry): https://maps.gov.ge/map/portal (search the coordinates 41.9045104, 43.838953)
+
+## Who To Contact
+- Mayor's representative for Zghuderi: Malkhaz Sanebidze · phone: +995 577050109
+- City Hall, Kareli: http://kareli.gov.ge (also www.kareli.gov.ge; HTTP works, HTTPS fails with certificate mismatch) · 0 369 231734 (also 0 369 232121 per search listing, not fetched) · karelismeria@gmail.com
+- Mayor: Zaza Guliashvili (mayor since 2017; named as mayor on kareli.gov.ge in Nov 2026 news)
+- Council (Sakrebulo): chair: Tsira Induashvili (signs Sakrebulo resolution of 27 March 2026 on matsne.gov.ge); address: Kareli, Ninoshvili St. 3 (per 08.ge listing)
+- Region (Shida Kartli): State Representative-Governor Simon Guledani (since 2025, per shidakartli.gov.ge); site https://shidakartli.gov.ge ; address Gori, Gr. Peradze St. 5; email government@shidakartli.gov.ge; phone 0 32 2 28 57 00 as printed on contact page (unclear format); Facebook https://www.facebook.com/shidakartlismxare/
+- Public Registry office: NAPR Shida Kartli regional office, Gori, near D. Gurmishvili St. 5 (address as printed: d. guramishvilis k. N5-is mimdebared); NAPR hotline 2 405 405, info@napr.gov.ge; regional phone unknown
+- State Property office: NASP Shida Kartli and Mtskheta-Mtianeti regional service, Gori, Samepo St. 50 (and Mtskheta, Aghmashenebeli Ave. 51); central phone (+995 32) 2 98 11 11, info@nasp.gov.ge; regional phone unknown
 
 ## Health And Emergency
 - Nearest hospital with emergency department: Kareli Clinic (Kareli), 21.8 km, 46 min by road
@@ -16,13 +32,30 @@ Residents: **0** in 2024 · 0 in 2014 (Georgian census)
 - Nearest ambulance station: Kareli, Panaskerteli 30, 21.8 km
 - Winter road: unknown
 
+## History
+- being researched
+
+## Population Over Time (Other Sources)
+- being researched
+
+## Crafts And Traditions
+- being researched
+
+## Churches, Towers, Monuments
+- being researched
+
+## Photos And Videos
+
+## Articles
+- being researched
+
 ## Road
 
 ## Water
 
 ## Power And Gas
 
-## Houses (How Many, What State)
+## Houses (What State)
 
 ## Land Around (Farmland, Forest, Pasture)
 
@@ -34,16 +67,6 @@ Residents: **0** in 2024 · 0 in 2014 (Georgian census)
 
 ## Opportunities
 
-## Visits And Photos
+## Visits
 
 ## Notes
-
-## Sources
-- https://www.openstreetmap.org/node/448880541
-- https://www.georgianclinics.ge/hospital/kareli-clinic/en
-- https://yandex.com/maps/org/kareli_clinic/91629639648/
-- https://www.nvi.ge/uploads/docs/Providers_ENG_NEW.pdf
-- https://www.openstreetmap.org/node/11417927803
-- https://emsc.moh.gov.ge/ge/map
-- https://download.geofabrik.de/europe/georgia.html
-- https://github.com/Project-OSRM/osrm-backend/blob/v6.0.0/profiles/car.lua

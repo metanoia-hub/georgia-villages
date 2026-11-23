@@ -1,13 +1,29 @@
 # Sijanani
 
-**Dusheti, Mtskheta-Mtianeti** · community: Gudamaqari
+**Dusheti, Mtskheta-Mtianeti** · community: Gudamaqari · altitude: **1560 m**
 
-Residents: **0** in 2024 · not published (...) in 2014 (Georgian census)
+## Size
+- Population: 2002: **8** · 2014: **1** · 2024: **0**
+- Peak population found: **8 (2002)**
+- Houses: not counted yet
+- Last change: first census with 0 residents: 2024 (last with residents: 2014)
+- Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 2002 Geostat village volume PDF (confirms 8)
 
-## Where
-- Coordinates: 42.4611773, 44.7993839
-- OpenStreetMap: https://www.openstreetmap.org/?mlat=42.4611773&mlon=44.7993839#map=14/42.4611773/44.7993839
-- Google Maps (satellite): https://www.google.com/maps/@42.4611773,44.7993839,2000m/data=!3m1!1e3
+## Maps
+- Satellite (see the roofs): https://www.google.com/maps/@42.4611773,44.7993839,1500m/data=!3m1!1e3
+- Relief (terrain): https://www.google.com/maps/@42.4611773,44.7993839,14z/data=!5m1!1e4
+- OpenStreetMap: https://www.openstreetmap.org/?mlat=42.4611773&mlon=44.7993839#map=15/42.4611773/44.7993839
+- Street photos, where they exist: https://www.mapillary.com/app/?lat=42.4611773&lng=44.7993839&z=15
+- Land ownership map (Public Registry): https://maps.gov.ge/map/portal (search the coordinates 42.4611773, 44.7993839)
+
+## Who To Contact
+- Mayor's representative for Gudamaqari: Tamazi Bekauri (tamazi bekauri) · phone: 599 93 11 07
+- City Hall, Dusheti: https://dusheti.gov.ge · (0 346) 221989; +995 346 22 19 90 (mayors reception) · info@dusheti.gov.ge
+- Mayor: Kakhaber Chitauri (kakhaber chitauri), kaxachitauri7@gmail.com
+- Council (Sakrebulo): Chair Nukri Undilashvili (nukri undilashvili); separate sakrebulo phone/email: unknown (site shows only info@dusheti.gov.ge)
+- Region (Mtskheta-Mtianeti): State Representative-Governors Administration for Dusheti, Tianeti, Mtskheta, Kazbegi: Mtskheta, D. Aghmashenebeli St 73; tel +995 322 24 45 52 (also 224 45 50/51); website mtskheta-mtianeti.gov.ge (http redirects to a webmail login, no content); governor name unknown. Source is third-party (tendermonitor.ge), not an official page
+- Public Registry office: NAPR Mtskheta branch (mtskhetis piliali), Mtskheta, Mukhrani St 17; branch phone unknown; NAPR hotline 2 405 405, info@napr.gov.ge; no Dusheti/Tianeti/Kazbegi branches listed
+- State Property office: NASP Regional Service for Shida Kartli and Mtskheta-Mtianeti: Mtskheta, Aghmashenebeli Ave 51 (and Gori, Samepo St 50); phone 1420 (from nasp.gov.ge); email info@nasp.gov.ge only from a third-party catalog
 
 ## Health And Emergency
 - Nearest hospital with emergency department: Stepantsminda Regional Health Center (Stepantsminda), 45.0 km, 230 min by road
@@ -16,13 +32,30 @@ Residents: **0** in 2024 · not published (...) in 2014 (Georgian census)
 - Nearest ambulance station: Stepantsminda, Kazbegi 35, 45.0 km
 - Winter road: unknown
 
+## History
+- being researched
+
+## Population Over Time (Other Sources)
+- being researched
+
+## Crafts And Traditions
+- being researched
+
+## Churches, Towers, Monuments
+- being researched
+
+## Photos And Videos
+
+## Articles
+- being researched
+
 ## Road
 
 ## Water
 
 ## Power And Gas
 
-## Houses (How Many, What State)
+## Houses (What State)
 
 ## Land Around (Farmland, Forest, Pasture)
 
@@ -34,16 +67,6 @@ Residents: **0** in 2024 · not published (...) in 2014 (Georgian census)
 
 ## Opportunities
 
-## Visits And Photos
+## Visits
 
 ## Notes
-
-## Sources
-- https://www.openstreetmap.org/node/449219309
-- https://www.08.ge/organizations/view/12325759/
-- https://nvi.ge/uploads/docs/Providers_ENG.pdf
-- https://www.bia.ge/EN/Company/97098
-- https://www.openstreetmap.org/node/1207164980
-- https://emsc.moh.gov.ge/ge/map
-- https://download.geofabrik.de/europe/georgia.html
-- https://github.com/Project-OSRM/osrm-backend/blob/v6.0.0/profiles/car.lua

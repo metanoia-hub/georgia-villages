@@ -1,13 +1,29 @@
 # Bochorna
 
-**Akhmeta, Kakheti** · community: Tusheti (Omalo)
+**Akhmeta, Kakheti** · community: Tusheti (Omalo) · altitude: **2310 m**
 
-Residents: **1** in 2024 · not published (...) in 2014 (Georgian census)
+## Size
+- Population: 2014: **1**
+- Peak population found: **1 (2014)**
+- Houses: 50 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
+- Last change: unknown
+- Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat)
 
-## Where
-- Coordinates: 42.4021779, 45.5868159
-- OpenStreetMap: https://www.openstreetmap.org/?mlat=42.4021779&mlon=45.5868159#map=14/42.4021779/45.5868159
-- Google Maps (satellite): https://www.google.com/maps/@42.4021779,45.5868159,2000m/data=!3m1!1e3
+## Maps
+- Satellite (see the roofs): https://www.google.com/maps/@42.4021779,45.5868159,1500m/data=!3m1!1e3
+- Relief (terrain): https://www.google.com/maps/@42.4021779,45.5868159,14z/data=!5m1!1e4
+- OpenStreetMap: https://www.openstreetmap.org/?mlat=42.4021779&mlon=45.5868159#map=15/42.4021779/45.5868159
+- Street photos, where they exist: https://www.mapillary.com/app/?lat=42.4021779&lng=45.5868159&z=15
+- Land ownership map (Public Registry): https://maps.gov.ge/map/portal (search the coordinates 42.4021779, 45.5868159)
+
+## Who To Contact
+- Mayor's representative for Tusheti (Omalo): Beka Bekuraidze (Tusheti unit) · phone: 558 34 44 55
+- City Hall, Akhmeta: https://akhmeta.gov.ge/ (verified as the real domain via archive and web results, but the server refuses connections as of 23 Nov 2026; data below is from the Dec 2024 archive copy) · +995 599 09 96 35 · akhmetameria@gmail.com; akhmeta.pr@yahoo.com
+- Mayor: Aleksi Pitskhelauri (mayor since 2021; incumbent GD candidate Oct 2025 per civil.ge; called Akhmeta mayor in infopostalioni.com article on the 4 Oct 2025 election); tel 591 01 01 99 (2024 archive)
+- Council (Sakrebulo): Chair Ioseb Karumashvili (signs Akhmeta Sakrebulo decisions on matsne.gov.ge in 2026); Sakrebulo: Cholokashvili St. N49; +995 599 501 686; akhmeta.sakrebulo@gmail.com (2024 archive)
+- Region (Kakheti): State Governors Administration of Kakheti, Telavi; website kakheti.gov.ge (now redirects to an unrelated site; the Jan 2026 archive shows the official page, deputies Platon Kalmakhelidze, Givi Metreveli, Levan Liluashvili); governors name, phone and address: unknown (archived contact pages blocked)
+- Public Registry office: NAPR Kakheti Regional Office, Telavi, Erekle II Ave N3; Akhmeta branch, Cholokashvili St. N50; Sagarejo branch, Japaridze St. N2; hotline 2 405 405; info@napr.gov.ge
+- State Property office: NASP Kakheti Regional Service, Telavi, Erekle II Ave N6; head office phone (+995 32) 2 98 11 11, 1420
 
 ## Health And Emergency
 - Nearest hospital with emergency department: Akhmeta Clinic (Akhmeta), unknown km, unknown min by road
@@ -16,13 +32,30 @@ Residents: **1** in 2024 · not published (...) in 2014 (Georgian census)
 - Nearest ambulance station: unknown, unknown km
 - Winter road: Abano Pass closed to all vehicles on km 22–72 since 24 Oct 2026. Local village-road status unknown.
 
+## History
+- being researched
+
+## Population Over Time (Other Sources)
+- being researched
+
+## Crafts And Traditions
+- being researched
+
+## Churches, Towers, Monuments
+- being researched
+
+## Photos And Videos
+
+## Articles
+- being researched
+
 ## Road
 
 ## Water
 
 ## Power And Gas
 
-## Houses (How Many, What State)
+## Houses (What State)
 
 ## Land Around (Farmland, Forest, Pasture)
 
@@ -34,15 +67,6 @@ Residents: **1** in 2024 · not published (...) in 2014 (Georgian census)
 
 ## Opportunities
 
-## Visits And Photos
+## Visits
 
 ## Notes
-
-## Sources
-- https://www.openstreetmap.org/node/3084298006
-- https://georoad.gov.ge/en/restriction/5292
-- https://www.tushetipl.ge/en/unique_ways_of_tusheti
-- https://chaikhana.media/ka/stories/1707/mtashi-ghmertis-imedad-darchenilebi
-- https://www.georgianclinics.ge/hospital/akhmeta-clinic/en
-- https://mapcarta.com/N1182755148
-- https://www.bia.ge/en/Company/37519

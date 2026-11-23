@@ -1,13 +1,29 @@
 # Chubari
 
-**Mestia, Samegrelo-Zemo Svaneti** · community: Nakra
+**Mestia, Samegrelo-Zemo Svaneti** · community: Nakra · altitude: **1499 m**
 
-Residents: **0** in 2024 · 0 in 2014 (Georgian census)
+## Size
+- Population: 2002: **0** · 2014: **0** · 2024: **0**
+- Peak population found: **0 (2002/2014/2024)**
+- Houses: not counted yet
+- Last change: 0 in every census found (2002,2014,2024)
+- Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat)
 
-## Where
-- Coordinates: 43.0708424, 42.4460625
-- OpenStreetMap: https://www.openstreetmap.org/?mlat=43.0708424&mlon=42.4460625#map=14/43.0708424/42.4460625
-- Google Maps (satellite): https://www.google.com/maps/@43.0708424,42.4460625,2000m/data=!3m1!1e3
+## Maps
+- Satellite (see the roofs): https://www.google.com/maps/@43.0708424,42.4460625,1500m/data=!3m1!1e3
+- Relief (terrain): https://www.google.com/maps/@43.0708424,42.4460625,14z/data=!5m1!1e4
+- OpenStreetMap: https://www.openstreetmap.org/?mlat=43.0708424&mlon=42.4460625#map=15/43.0708424/42.4460625
+- Street photos, where they exist: https://www.mapillary.com/app/?lat=43.0708424&lng=42.4460625&z=15
+- Land ownership map (Public Registry): https://maps.gov.ge/map/portal (search the coordinates 43.0708424, 42.4460625)
+
+## Who To Contact
+- Mayor's representative for Nakra: tengiz gvarmiani · phone: +995 599 55 47 82
+- City Hall, Mestia: https://mestia.gov.ge · +995 595 08 95 30 (public relations +995 599 855 525) · gamgeobamestia@yahoo.com
+- Mayor: kapiton zhorzholiani (Kapiton Zhorzholiani), +995 577 92 06 00, kakhaber77@gmail.com; website mayor page and contact table still show him (page text says in office since 13.10.2017, not updated for 2025 election; 2025 result not independently confirmed)
+- Council (Sakrebulo): Chair: maizer japaridze (Maizer Japaridze), 599 85 55 40, mr.maizer@gmail.com; council office +995 595 05 49 17, mestiasakrebulo@gmail.com; press contact Irma Jachvliani +995 599 855 545
+- Region (Samegrelo-Zemo Svaneti): State Governor davit verava (Davit Verava), davit.verava@szs.gov.ge; administration covers Abasha, Zugdidi, Martvili, Mestia, Senaki, Chkhorotsku, Tsalenjikha, Khobi and Poti. Site https://szs.gov.ge ; address 2100 Zugdidi, Gamsakhurdia Ave 45; hotline 146 / +995 706 706 146 / (+995) 415 25 05 05; szs@szs.gov.ge
+- Public Registry office: Samegrelo Regional Office, Zugdidi, Teatris St 2 (phone for this office not listed; HQ hotline 2 405 405, INFO@NAPR.GOV.GE)
+- State Property office: West Georgia Regional Department (Kutaisi, Javakhishvili 5; Poti, 26 Maisi 2); coverage inferred, not stated. HQ tel 1420 / (+995 32) 2 98 11 11, info@nasp.gov.ge
 
 ## Health And Emergency
 - Nearest hospital with emergency department: Mestia Hospital (Mestia), 42.1 km, 68 min by road
@@ -16,13 +32,30 @@ Residents: **0** in 2024 · 0 in 2014 (Georgian census)
 - Nearest ambulance station: Khaishi, 34.5 km
 - Winter road: unknown
 
+## History
+- being researched
+
+## Population Over Time (Other Sources)
+- being researched
+
+## Crafts And Traditions
+- being researched
+
+## Churches, Towers, Monuments
+- being researched
+
+## Photos And Videos
+
+## Articles
+- being researched
+
 ## Road
 
 ## Water
 
 ## Power And Gas
 
-## Houses (How Many, What State)
+## Houses (What State)
 
 ## Land Around (Farmland, Forest, Pasture)
 
@@ -34,18 +67,6 @@ Residents: **0** in 2024 · 0 in 2014 (Georgian census)
 
 ## Opportunities
 
-## Visits And Photos
+## Visits
 
 ## Notes
-
-## Sources
-- https://www.openstreetmap.org/node/478655772
-- https://hellosvaneti.com/tourist-information/
-- https://test.ncdc.ge/Pages/User/News.aspx?ID=53efeed2-557f-4a9e-9233-72e2afd1c37d
-- https://georgia.travel/coming-to-georgia/medical-information
-- https://www.openstreetmap.org/way/406774929
-- https://mestia.gov.ge/sites/default/files/mestiis_municipalitetis_sashualovadiani_ganvitarebis_dokumenti.pdf
-- https://www.openstreetmap.org/node/14172777746
-- https://www.openstreetmap.org/node/14172777740
-- https://download.geofabrik.de/europe/georgia.html
-- https://github.com/Project-OSRM/osrm-backend/blob/v6.0.0/profiles/car.lua

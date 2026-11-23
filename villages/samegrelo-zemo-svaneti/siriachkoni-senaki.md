@@ -1,13 +1,29 @@
 # Siriachkoni
 
-**Senaki, Samegrelo-Zemo Svaneti** · community: Zemo Chaladidi
+**Senaki, Samegrelo-Zemo Svaneti** · community: Zemo Chaladidi · altitude: **13 m**
 
-Residents: **1** in 2024 · 13 in 2014 (Georgian census)
+## Size
+- Population: 1923: **620** · 2002: **67** · 2014: **13**
+- Peak population found: **620 (1923)**
+- Houses: not counted yet
+- Last change: unknown
+- Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 2002 Geostat village volume PDF (confirms 67) ; 1923 Georgia rural census by settlement (Mashke pop-stat.mashke.org/georgia-ethnic-loc1923.htm), unit: Zemo Chaladidis
 
-## Where
-- Coordinates: 42.18176, 42.0078215
-- OpenStreetMap: https://www.openstreetmap.org/?mlat=42.18176&mlon=42.0078215#map=14/42.18176/42.0078215
-- Google Maps (satellite): https://www.google.com/maps/@42.18176,42.0078215,2000m/data=!3m1!1e3
+## Maps
+- Satellite (see the roofs): https://www.google.com/maps/@42.18176,42.0078215,1500m/data=!3m1!1e3
+- Relief (terrain): https://www.google.com/maps/@42.18176,42.0078215,14z/data=!5m1!1e4
+- OpenStreetMap: https://www.openstreetmap.org/?mlat=42.18176&mlon=42.0078215#map=15/42.18176/42.0078215
+- Street photos, where they exist: https://www.mapillary.com/app/?lat=42.18176&lng=42.0078215&z=15
+- Land ownership map (Public Registry): https://maps.gov.ge/map/portal (search the coordinates 42.18176, 42.0078215)
+
+## Who To Contact
+- Mayor's representative for Zemo Chaladidi: vakanturi (vacant) · phone: unknown; assistant Patiko Tsaava 551 04 66 69
+- City Hall, Senaki: https://senaki.gov.ge · unknown (hotline field blank on site); mayor tel +599 30 44 00 as printed · senakismeria@gmail.com
+- Mayor: vakhtang gadelia (Vakhtang Gadelia), mayor since 21 Nov 2021; website biography not updated for 2025; v.gadelia@senaki.gov.ge; second term from Oct 2025 reported by local press (senakelebi.ge, via search snippet, not fetched)
+- Council (Sakrebulo): Chair: jumberi tqebuchava (Jumberi Tkebuchava); tel 0 (413) 27 60 60; sakrebulo.senaki@gmail.com; Rustaveli St 243, Senaki; site https://senaki-sakrebulo.gov.ge; FB https://www.facebook.com/profile.php?id=100067609040781
+- Region (Samegrelo-Zemo Svaneti): State Governor davit verava (Davit Verava), davit.verava@szs.gov.ge; administration covers Abasha, Zugdidi, Martvili, Mestia, Senaki, Chkhorotsku, Tsalenjikha, Khobi and Poti. Site https://szs.gov.ge ; address 2100 Zugdidi, Gamsakhurdia Ave 45; hotline 146 / +995 706 706 146 / (+995) 415 25 05 05; szs@szs.gov.ge
+- Public Registry office: Samegrelo Regional Office, Zugdidi, Teatris St 2 (phone for this office not listed; HQ hotline 2 405 405, INFO@NAPR.GOV.GE)
+- State Property office: West Georgia Regional Department (Kutaisi, Javakhishvili 5; Poti, 26 Maisi 2); coverage inferred, not stated. HQ tel 1420 / (+995 32) 2 98 11 11, info@nasp.gov.ge
 
 ## Health And Emergency
 - Nearest hospital with emergency department: Samtredia Multiprofile Medical Center (Samtredia), 33.1 km, 88 min by road
@@ -16,13 +32,30 @@ Residents: **1** in 2024 · 13 in 2014 (Georgian census)
 - Nearest ambulance station: Abasha, Tavisupleba 143, unknown km
 - Winter road: unknown
 
+## History
+- being researched
+
+## Population Over Time (Other Sources)
+- being researched
+
+## Crafts And Traditions
+- being researched
+
+## Churches, Towers, Monuments
+- being researched
+
+## Photos And Videos
+
+## Articles
+- being researched
+
 ## Road
 
 ## Water
 
 ## Power And Gas
 
-## Houses (How Many, What State)
+## Houses (What State)
 
 ## Land Around (Farmland, Forest, Pasture)
 
@@ -34,18 +67,6 @@ Residents: **1** in 2024 · 13 in 2014 (Georgian census)
 
 ## Opportunities
 
-## Visits And Photos
+## Visits
 
 ## Notes
-
-## Sources
-- https://www.openstreetmap.org/node/7046495776
-- https://gh.ge/ka/clinics/samtrediis-mravalpropiluri-sameditsino-tsentri
-- https://gh.ge/doctor/eter-sturua/
-- https://www.openstreetmap.org/way/1355497648
-- https://senaki.gov.ge/%E1%83%AF%E1%83%90%E1%83%9C%E1%83%93%E1%83%90%E1%83%AA%E1%83%95%E1%83%90-%E1%83%93%E1%83%90-%E1%83%A1%E1%83%9D%E1%83%AA%E1%83%98%E1%83%90%E1%83%9A%E1%83%A3%E1%83%A0%E1%83%98-%E1%83%A1%E1%83%A4/
-- https://www.yell.ge/company.php?id=150036&lan=geo
-- https://www.openstreetmap.org/way/583895511
-- https://emsc.moh.gov.ge/ge/map
-- https://download.geofabrik.de/europe/georgia.html
-- https://github.com/Project-OSRM/osrm-backend/blob/v6.0.0/profiles/car.lua
