@@ -5,7 +5,7 @@
 ## Size
 - Population: 2024: **0**
 - Peak population found: **0 (2024)**
-- Houses: not counted yet
+- Houses: 4 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: 0 in every census found (2024)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat)
 
@@ -33,22 +33,25 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- The municipal administrative list names Shamta 2 and Shamta 1 as separate villages in the Orbeti administrative unit. The sources searched do not establish when Shamta II was founded or first recorded, who lived there, when or why it emptied, or who its last inhabitants were. ([source](https://new.matsne.gov.ge/ka/document/view/6990204))
 
 ## Population Over Time (Other Sources)
-- 2024: 0 residents, as listed in the project GeoJSON; the online settlement profile is the cited web reference. Earlier census counts (1989, 2002, 2014) were not independently verified in a directly accessible census table. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- 0 residents in 2024, according to the project’s Geostat-derived census series. The project page reports the 2024 figure; comparable earlier village-level counts were not verified in the sources searched. ([source](https://pop-stat.mashke.org/georgia-census2024.htm))
 
 ## Crafts And Traditions
-- nothing found yet
+- No Shamta II-specific crafts, trades, or feast-day tradition was found in the English-, Georgian-, or Russian-language searches. Information about the wider Shamta area is not treated as specific to this separate settlement. ([source](https://new.matsne.gov.ge/ka/document/view/6990204))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No church, tower, monument, or formal heritage-register entry was confirmed specifically for Shamta II in the sources searched in English, Georgian, and Russian. ([source](https://memkvidreoba.gov.ge/))
 
 ## Photos And Videos
-- No village-specific photo or video URLs were confirmed in the reviewed results. Search YouTube by Latin, Georgian-script, and Russian names plus Tetritskaro Municipality. ([source](https://www.youtube.com/results?search_query=shamta+ii+Tetritskaro))
+- YouTube search results for Shamta II and Tetritskaro in English; no specific video was confirmed. ([source](https://www.youtube.com/results?search_query=Shamta+II+Tetritskaro))
+- YouTube search results for the Georgian spelling of Shamta 2; no specific video was confirmed. ([source](https://www.youtube.com/results?search_query=%E1%83%A8%E1%83%90%E1%83%9B%E1%83%97%E1%83%90+2+%E1%83%97%E1%83%94%E1%83%97%E1%83%A0%E1%83%98%E1%83%AC%E1%83%A7%E1%83%90%E1%83%A0%E1%83%9D))
+- YouTube search results for the Russian/Soviet spelling; no specific video was confirmed. ([source](https://www.youtube.com/results?search_query=%D0%A8%D0%B0%D0%BC%D1%82%D0%B0+2+%D0%A2%D0%B5%D1%82%D1%80%D0%B8%D1%86%D0%BA%D0%B0%D1%80%D0%BE))
 
 ## Articles
-- No village-specific article URLs were confirmed in the reviewed results. ([source](https://explore-georgia.ge/en/kvemo-kartli/tetritskaro-municipality/shamta-ii))
+- Official municipal administrative-unit list identifying Shamta 2 and Shamta 1 as distinct Orbeti villages. ([source](https://new.matsne.gov.ge/ka/document/view/6990204))
+- Geostat-derived census table used for the 2024 zero population figure. ([source](https://pop-stat.mashke.org/georgia-census2024.htm))
 
 ## Road
 

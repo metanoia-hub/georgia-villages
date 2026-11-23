@@ -33,22 +33,28 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Buchqinta (older Russian spelling: Buchkinta) is recorded as a settlement in the 19th century. Radde’s account of his 1876 journey lists 11 men there. A 1954 Georgian Soviet decree transferred Buchkinta, with five other villages, from the abolished Sharakhevi village council to Zaridzeebi council; this documents administrative status, not the reason for depopulation. The sources reviewed do not establish a founding date, why or when it emptied, or the last inhabitants. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1860-1880/Radde_G_I/text2.htm))
+- The 1954 decree lists Buchkinta among the villages of the Sharakhevi council before that council was abolished. ([source](https://dspace.nplg.gov.ge/bitstream/1234/283641/2/Umaglesi_Sabchos_Uwyebebi_1954_N5_Rus.pdf))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 2014 census: 0 residents; 2002 census: 1 resident. Radde’s account of 1876 lists 11 men, not a total population count. ([source](https://pop-stat.mashke.org/georgia-census2014.htm))
+- 1876 travel account records 11 men in Buchkinta. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1860-1880/Radde_G_I/text2.htm))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific craft, trade or feast-day tradition was found in English, Georgian or Russian searches. ([source](https://explore-georgia.ge/en/settlements))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No church, tower or heritage-register listing specifically attributed to Buchqinta was confirmed in the sources searched. ([source](https://memkvidreoba.gov.ge/))
 
 ## Photos And Videos
-- nothing found yet
+- Buchqinta locality map page with map imagery. ([source](https://mapcarta.com/13576426))
+- No village-specific YouTube video was located in English, Georgian or Russian searches, including the Russian spelling and Tianeti Municipality. ([source](https://www.youtube.com/results?search_query=Buchqinta+Tianeti+%D0%91%D1%83%D1%87%D0%BA%D0%B8%D0%BD%D1%82%D0%B0+%E1%83%91%E1%83%A3%E1%83%AD%E1%83%A7%E1%83%98%E1%83%9C%E1%83%A2%E1%83%90))
 
 ## Articles
-- nothing found yet
+- Radde’s 1876 account, with Buchkinta listed in the Sharakhevi area and its recorded male population. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1860-1880/Radde_G_I/text2.htm))
+- 1954 Soviet decree on abolition of the Sharakhevi village council and reassignment of Buchkinta. ([source](https://dspace.nplg.gov.ge/bitstream/1234/283641/2/Umaglesi_Sabchos_Uwyebebi_1954_N5_Rus.pdf))
+- Georgian settlement list identifying Buchqinta as abandoned. ([source](https://explore-georgia.ge/en/settlements))
+- Russian-language Buchkinta entry. ([source](https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%87%D0%BA%D0%B8%D0%BD%D1%82%D0%B0))
 
 ## Road
 

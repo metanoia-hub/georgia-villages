@@ -5,7 +5,7 @@
 ## Size
 - Population: 1923: **169** · 2002: **3** · 2014: **0** · 2024: **0**
 - Peak population found: **169 (1923)**
-- Houses: not counted yet
+- Houses: 10 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2014 (last with residents: 2002)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 2002 Geostat village volume PDF (confirms 3) ; 1923 Georgia rural census by settlement (Mashke pop-stat.mashke.org/georgia-ethnic-loc1923.htm), unit: Onis
 
@@ -33,25 +33,30 @@
 - Winter road: Village road unknown. The main road into Oni was reported closed for works on 23 Nov 2026. The Shkmeri detour had a winter trailer ban.
 
 ## History
-- nothing found yet
+- Art-historical scholarship dates the Skhieri church altar-screen reliefs to the early 10th century; this dates the monument, not the village’s founding. No reliable source located in targeted English, Georgian, or Russian searches established a foundation date, first written mention, cause/date of depopulation, or last residents. ([source](https://kartvelologist.journals.humanities.tsu.ge/index.php/kartvelologist/article/download/9598/9417/16334))
+- A Georgian historical account identifies Dziriani as an older village name and argues the settlement developed near the church in the late feudal period; it does not establish a firm founding date. ([source](https://qvishareli.blogspot.com/2011/07/blog-post.html))
 
 ## Population Over Time (Other Sources)
-- No village-by-village series for 1989, 2002, 2014 and 2024 was verified in consulted sources. ([source](https://www.geostat.ge/en/modules/categories/12/2024-population-census-of-georgia-results))
+- 2014 census: 0 residents. Oni Municipality separately reports 1 registered person on 1 January 2023. ([source](https://oni.gov.ge/mosaxleobis-raodenoba-da-urbanuli-gadanawileba/amp/))
+- A Ministry spatial-planning document lists 3 residents in 2014 and 1 in 2016, conflicting with the census; treat it as a separate municipal estimate. ([source](https://moi.gov.ge/pdf/5d960d8d7bb93.pdf/%E1%83%9D%E1%83%9C%E1%83%98%E1%83%A1%20%E1%83%9B%E1%83%A3%E1%83%9C%E1%83%98%E1%83%AA%E1%83%98%E1%83%9E%E1%83%90%E1%83%9A%E1%83%98%E1%83%A2%E1%83%94%E1%83%A1%20%E1%83%A1%E1%83%98%E1%83%95%E1%83%A0%E1%83%AA%E1%83%98%E1%83%97%E1%83%98%E1%83%A1%20%E1%83%A2%E1%83%94%E1%83%A5%E1%83%A1%E1%83%A2%E1%83%A3%E1%83%A0%E1%83%98%20%E1%83%9C%E1%83%90%E1%83%AC%E1%83%98%E1%83%9A%E1%83%98.pdf))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific craft or trade source was found. A local account identifies the feast Skhieroba in the second week of August and describes food prepared for it. ([source](https://www.karibche.ge/eklesia/mghvdelmthavarni/3172-me-ghmerthma-momiyvana-da-roca-ghvthis-neba-ikneba-mashin-tsavalo.html))
 
 ## Churches, Towers, Monuments
-- Explore Georgia describes Skhieri as deserted; Georgia Travel names the Skhieri Monastery Complex among Oni’s historical monuments. Official designation was not verified. ([source](https://georgia.travel/cities-towns/oni))
+- Skhieri Monastery includes the Church of St George, also called Mirianeuli Udzravi. Oni Municipality reports that an altar-screen slab, a column, and its capital were transferred to the Oni local-history museum during the 20th century; Explore Georgia identifies the church as a listed developed-medieval heritage monument. ([source](https://oni.gov.ge/%E1%83%9D%E1%83%9C%E1%83%98%E1%83%A1-%E1%83%A6%E1%83%98%E1%83%A0%E1%83%A1%E1%83%90%E1%83%9C%E1%83%98%E1%83%A8%E1%83%9C%E1%83%90%E1%83%9D%E1%83%91%E1%83%94%E1%83%91%E1%83%98/amp/))
+- Specialist scholarship dates the carved altar-screen reliefs to the early 10th century. ([source](https://kartvelologist.journals.humanities.tsu.ge/index.php/kartvelologist/article/download/9598/9417/16334))
 
 ## Photos And Videos
-- The referenced village page includes online location imagery/photographs where available; this is a village page, not a verified independent photo archive. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/oni-municipality/skhieri))
-- YouTube result titled “RACHA - GEORGIA” lists this village among places in the Racha sequence; published circa 2007 (search-index age). ([source](https://www.youtube.com/watch?v=WRfUEWoWkhg))
+- Illustrated monastery page with photographs. ([source](https://georgiantravelguide.com/en/skhieris-monasteri))
+- No relevant YouTube video surfaced in the targeted English, Georgian, and Russian searches; YouTube search. ([source](https://www.youtube.com/results?search_query=Skhieri+Oni+monastery+სხიერი+Схиери))
 - https://commons.wikimedia.org/wiki/File%3AOni_town.jpg
 - https://commons.wikimedia.org/wiki/File%3AOni_sign.jpg
 
 ## Articles
-- Village reference or report. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/oni-municipality/skhieri))
+- Oni Municipality entry on the monastery. ([source](https://oni.gov.ge/%E1%83%9D%E1%83%9C%E1%83%98%E1%83%A1-%E1%83%A6%E1%83%98%E1%83%A0%E1%83%A1%E1%83%90%E1%83%9C%E1%83%98%E1%83%A8%E1%83%9C%E1%83%90%E1%83%9D%E1%83%91%E1%83%94%E1%83%91%E1%83%98/amp/))
+- Digitized study of Racha church art. ([source](https://dspace.nplg.gov.ge/bitstream/1234/373638/1/Saqartvelos_Sidzveleni_N15_2012.pdf))
+- Local feature on the village feast. ([source](https://www.karibche.ge/eklesia/mghvdelmthavarni/3172-me-ghmerthma-momiyvana-da-roca-ghvthis-neba-ikneba-mashin-tsavalo.html))
 
 ## Road
 

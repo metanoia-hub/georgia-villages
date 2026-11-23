@@ -33,22 +33,24 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Bortsvana is a highland settlement on the right side of the Tedzmi River, at the foot of Mount Tsupi. Sources checked in English, Georgian, and Russian did not establish when it was founded or first recorded. An OSCE report states that 63 families (194 people) were expelled from a group of ten village councils in the Mghebriani area, including Bortsvana; that is a combined figure, not a Bortsvana-only count. A Georgian legislative proposal lists Bortsvana among the Gori Municipality villages that became abandoned settlements during 2015–2021. Neither source identifies Bortsvana’s last inhabitants or provides a village-specific account of why it emptied. ([source](https://cdn.osce.org/sites/default/files/f/documents/8/e/83387.pdf))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 0 residents in the 2002, 2014, and 2024 censuses, according to the settlement profile. ([source](https://explore-georgia.ge/en/shida-kartli/gori-municipality/bortsvana))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific trade, craft, or feast day was found in English, Georgian, or Russian searches. ([source](https://explore-georgia.ge/en/shida-kartli/gori-municipality/bortsvana))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No church, tower, or protected monument specifically attributed to Bortsvana was verified in the settlement profile, heritage registry searches, or multilingual searches. No heritage status was confirmed. ([source](https://explore-georgia.ge/en/shida-kartli/gori-municipality/bortsvana))
 
 ## Photos And Videos
 - nothing found yet
 
 ## Articles
-- No village-specific article located in the sources reviewed. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- Settlement profile with location and 2002, 2014, and 2024 population counts. ([source](https://explore-georgia.ge/en/shida-kartli/gori-municipality/bortsvana))
+- OSCE report documenting a combined total of 63 families expelled from ten village councils in Mghebriani, including Bortsvana. ([source](https://cdn.osce.org/sites/default/files/f/documents/8/e/83387.pdf))
+- Georgian legislative proposal listing Bortsvana among villages in Gori Municipality said to have become abandoned during 2015–2021. ([source](https://www.legali.ge/project/25874/))
 
 ## Road
 

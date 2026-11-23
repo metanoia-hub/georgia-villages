@@ -33,24 +33,24 @@
 - Winter road: Village road unknown. Gudauri–Kobi main road reopened 22 Nov 2026 and is subject to winter closures.
 
 ## History
-- nothing found yet
+- Listed by the Georgian National Encyclopedia as a village in Kazbegi Municipality, in the Gudauri community. A current settlement directory classifies it as abandoned village. No reliable source located for founding/first record, former residents, when or why it emptied, or last inhabitants. ([source](https://explore-georgia.ge/en/municipalities/kazbegi-municipality))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- No dated population figure verified in sources found; current settlement directory classifies it as abandoned. ([source](https://explore-georgia.ge/en/settlements))
 
 ## Crafts And Traditions
 - nothing found yet
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No village-specific monument or heritage-register entry verified. ([source](https://memkvidreoba.gov.ge/))
 
 ## Photos And Videos
-- nothing found yet
+- Village-specific YouTube search (Ganisi; Georgian and Russian names also searched); no video title/year verified. ([source](https://www.youtube.com/results?search_query=Ganisi+Kazbegi+%E1%83%92%E1%83%90%E1%83%9C%E1%83%98%E1%83%A1%E1%83%98))
 
 - Main picture: http://commons.wikimedia.org/wiki/Special:FilePath/%E1%83%A13%2C%20Ganisi.%20%28franek2%202012%29.jpg
 
 ## Articles
-- nothing found yet
+- Ganisi settlement listing and status/location. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/kazbegi-municipality/ganisi))
 
 ## Road
 

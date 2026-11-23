@@ -33,22 +33,25 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Lelobi is an abandoned settlement in the Lisi community of Mtskheta Municipality. The sources reviewed do not establish its founding or first record, historical residents, the cause or date of depopulation, or the last inhabitants. A reference to the Lelobi monastery appears in regional place descriptions, but does not provide a village history. ([source](https://explore-georgia.ge/ka/mtskheta-mtianeti/mtskhetis-municipaliteti/lelobi))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- The 2002 and 2014 censuses recorded no residents. ([source](https://explore-georgia.ge/ka/mtskheta-mtianeti/mtskhetis-municipaliteti/lelobi))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific craft, trade or feast-day tradition was found in English, Georgian or Russian searches. ([source](https://explore-georgia.ge/ka/mtskheta-mtianeti/mtskhetis-municipaliteti/lelobi))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- A monastery associated with Lelobi is identified in regional map descriptions, but its date, constituent structures and formal heritage status were not confirmed in the sources retrieved. No village-specific tower listing was found. ([source](https://mapcarta.com/13572158))
 
 ## Photos And Videos
-- nothing found yet
+- Lelobi locality map page with map imagery. ([source](https://mapcarta.com/13572158))
+- No village-specific YouTube video was located in English, Georgian or Russian searches, including the Russian spelling and Mtskheta Municipality. ([source](https://www.youtube.com/results?search_query=Lelobi+Mtskheta+%D0%9B%D0%B5%D0%BB%D0%BE%D0%B1%D0%B8+%E1%83%9A%E1%83%94%E1%83%9A%E1%83%9D%E1%83%91%E1%83%98))
 
 ## Articles
-- nothing found yet
+- Georgian-language settlement profile noting the 2002 and 2014 zero-resident censuses. ([source](https://explore-georgia.ge/ka/mtskheta-mtianeti/mtskhetis-municipaliteti/lelobi))
+- Russian-language Lelobi entry, including the 2014 census status. ([source](https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BB%D0%BE%D0%B1%D0%B8))
+- Map entry placing the Lelobi monastery in the vicinity. ([source](https://mapcarta.com/13572158))
 
 ## Road
 

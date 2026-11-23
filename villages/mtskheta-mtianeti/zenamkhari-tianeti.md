@@ -33,22 +33,29 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Zenamkhari was formerly called Bejaantkari. A travel guide locates it on the eastern slope of the Kartli Ridge, beside the Tseratouli River in the Iori basin, and describes it today as a summer village. No source located gives a founding date, a reason or date for seasonal depopulation, or the identity of the last permanent residents. ([source](https://georgiantravelguide.com/en/zenamkhari))
+- A 1923 rural ethnic-composition table records 111 people in Zenamkhari, all classified Georgian in the table. This is an early population record, not evidence of when the village was founded. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- The 2014 settlement census table records 5 residents. A 1923 table records 111. The travel sources description of Zenamkhari as a summer village does not provide a current permanent-resident count. ([source](https://pop-stat.mashke.org/georgia-census2014.htm))
+- The 1923 rural table records 111 residents. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
 
 ## Crafts And Traditions
-- nothing found yet
+- An ethnographic study reports that families in the Iori valley who venerated the Khmala sacred stones at Zenamkhari traced themselves to the Sisauri who migrated from Likoki. It describes a devotional route involving a visit to Jijeti and sharing a sacred kadha bread. This supports a local religious tradition, but the study does not provide a dated village feast day or a craft/trade record. ([source](https://dspace.nplg.gov.ge/bitstream/1234/345737/1/KulturnoIstoricheskieVoprosiMigraciiGopskogo....pdf))
 
 ## Churches, Towers, Monuments
 - nothing found yet
 
 ## Photos And Videos
-- nothing found yet
+- Zenamkhari village profile with map imagery. ([source](https://georgiantravelguide.com/en/zenamkhari))
+- Tianeti municipality hiking-route page mentions summer shepherd huts and alpine pastures on Mount Zenamkhari; this is a landscape reference rather than a documented village photograph. ([source](https://www.tianeti.gov.ge/t_page.php?id=2))
 
 ## Articles
-- nothing found yet
+- Zenamkhari profile; former name, location, and summer-village description (English). ([source](https://georgiantravelguide.com/en/zenamkhari))
+- Zenamkhari entry (Georgian). ([source](https://georgiantravelguide.com/ka/zenamkhari))
+- Tianeti municipality hiking routes (Georgian); Mount Zenamkhari summer pastures and shepherd huts. ([source](https://www.tianeti.gov.ge/t_page.php?id=2))
+- Georgian Soviet-era context search found no village-specific encyclopedia entry. A 1923 settlement table is available here. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
+- Ethnographic research on migration and the Khmala sacred stones at Zenamkhari; includes devotional practice and family origin traditions (Russian). ([source](https://dspace.nplg.gov.ge/bitstream/1234/345737/1/KulturnoIstoricheskieVoprosiMigraciiGopskogo....pdf))
 
 ## Road
 

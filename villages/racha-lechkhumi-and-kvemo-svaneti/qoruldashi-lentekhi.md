@@ -33,10 +33,12 @@
 - Winter road: Mele–Lasdili (km 125–151) closed to all vehicles from 21 Nov 2026. Village access unknown.
 
 ## History
-- nothing found yet
+- Qoruldashi is a village in the Tsana administrative unit. Georgian reporting says two people were recorded there in 2002 and that it had become uninhabited by the time of the 2014 census; another report says the settlement was already abandoned for more than 15 years when reported around 2019. No founding date, earliest record, named last inhabitants, or village-specific earlier population history was found. The nearby arsenic processing plant at Tsana operated from 1938 to 1991, but the sources do not identify it as the cause of Qoruldashi’s abandonment. ([source](https://mtisambebi.ge/news/people/item/1161-rogor-zdiloben-tornike-da-amiran-qaldanebi-sazgvrispir-soplis-gadarchenas-reportaji-zesxodan))
+- A later report describes Tsana, Zeskho, and Qoruldashi as cut off for six to seven months a year by lack of winter road access; Qoruldashi is described as completely empty. ([source](https://mtisambebi.ge/news/policy/item/1356))
 
 ## Population Over Time (Other Sources)
-- 2014 census village listing reports 2 residents. ([source](https://pop-stat.mashke.org/georgia-census2014.htm))
+- 0 permanent residents at the 2014 census; 2 residents were recorded in 2002, according to Georgian reporting. ([source](https://mtisambebi.ge/news/people/item/1161-rogor-zdiloben-tornike-da-amiran-qaldanebi-sazgvrispir-soplis-gadarchenas-reportaji-zesxodan))
+- A Lentekhi municipal waste plan lists 4 households and 18 people for Qoruldashi in its planning table; this administrative planning figure is not labelled as a census and differs from the census evidence. ([source](https://matsne.gov.ge/ka/document/view/4071404))
 
 ## Crafts And Traditions
 - nothing found yet
@@ -45,10 +47,13 @@
 - nothing found yet
 
 ## Photos And Videos
-- The referenced village page includes online location imagery/photographs where available; this is a village page, not a verified independent photo archive. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/lentekhi-municipality/qoruldashi))
+- Location and map imagery for Qoruldashi. ([source](https://mapcarta.com/N478550662))
+- No village-specific YouTube video located in English, Georgian, or Russian searches for Qoruldashi/Koruldashi and Lentekhi. ([source](https://www.youtube.com/results?search_query=Qoruldashi+Koruldashi+Lentekhi))
 
 ## Articles
-- Village reference or report. ([source](https://pop-stat.mashke.org/georgia-census2014.htm))
+- Georgian report on the effort to keep Zeskho inhabited; includes Qoruldashi’s 2002 population and its later abandonment. ([source](https://mtisambebi.ge/news/people/item/1161-rogor-zdiloben-tornike-da-amiran-qaldanebi-sazgvrispir-soplis-gadarchenas-reportaji-zesxodan))
+- Report on the missing winter road to the Tsana area villages, including Qoruldashi. ([source](https://mtisambebi.ge/news/policy/item/1356))
+- Russian-language village profile gives location and notes no permanent population in the 2014 census. ([source](https://explore-georgia.ge/ru/racha-lechkhumi-i-kvemo-svaneti/lentekhskii-municipalitet/koruldashi))
 
 ## Road
 

@@ -33,23 +33,27 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Tsaleri appears in Blaramberg’s early-19th-century list of settlements in the Pari district (rendered in the Russian text as Tsaleri), documenting that the village existed by that account. The source does not give its founding date or residents. A Georgian hiking route page says there is no longer a permanent population, but does not date or explain the departure or identify last residents. ([source](https://drevlit.ru/docs/kavkaz/XIX/1820-1840/Blaramberg/text24.php))
+- A route description reports that Tsaleri no longer has permanent residents; it gives no date or cause of abandonment and names no last inhabitants. ([source](https://www.wikiloc.com/hiking-trails/place-zagari-mount-kva-tsaleri-kichkhuldashi-adg-zagari-mta-qva-caleri-kichxuldashi-75211103))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 5 residents (2014 census: 4 males, 1 female), reported by the Russian-language village entry. A route account later describes no permanent residents; no newer census count was located. ([source](https://ru.wikipedia.org/wiki/%D0%A6%D0%B0%D0%BB%D0%B5%D1%80%D0%B8))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific crafts, trades, or feast day were verified in the searches. The available hiking and historical sources do not record these details. ([source](https://www.wikiloc.com/hiking-trails/place-zagari-mount-kva-tsaleri-kichkhuldashi-adg-zagari-mta-qva-caleri-kichxuldashi-75211103))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- A map entry identifies a John the Baptist church and a church of the Divine (Fusdi) in the Tsaleri area. The listing does not establish state heritage-register status; no official protection record was verified. ([source](https://mapcarta.com/13568778))
 
 ## Photos And Videos
-- No individual image/video result was verified. Search links are supplied for follow-up; no specific photo is asserted. ([source](https://www.google.com/search?tbm=isch&q=Tsaleri%20Mestia%20Georgia%20village))
-- YouTube search results; no specific video verified as showing the village. ([source](https://www.youtube.com/results?search_query=Tsaleri%20Mestia%20Georgia%20village))
+- Hiking route page with route imagery and a description passing through Tsaleri. No YouTube drone or walk-through video was verified in English, Georgian, or Russian name searches. ([source](https://www.wikiloc.com/hiking-trails/place-zagari-mount-kva-tsaleri-kichkhuldashi-adg-zagari-mta-qva-caleri-kichxuldashi-75211103))
+- Village map and nearby church references. ([source](https://mapcarta.com/13568778))
 
 ## Articles
-- nothing found yet
+- Blaramberg’s early-19th-century Pari district settlement list includes Tsaleri. ([source](https://drevlit.ru/docs/kavkaz/XIX/1820-1840/Blaramberg/text24.php))
+- Georgian hiking route noting no permanent population in Tsaleri. ([source](https://www.wikiloc.com/hiking-trails/place-zagari-mount-kva-tsaleri-kichkhuldashi-adg-zagari-mta-qva-caleri-kichxuldashi-75211103))
+- Russian-language village entry citing 2014 census figures. ([source](https://ru.wikipedia.org/wiki/%D0%A6%D0%B0%D0%BB%D0%B5%D1%80%D0%B8))
+- Village profile and administrative affiliation. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/mestia-municipality/tsaleri))
 
 ## Road
 

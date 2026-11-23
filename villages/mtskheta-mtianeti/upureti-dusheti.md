@@ -5,7 +5,7 @@
 ## Size
 - Population: 2002: **0** · 2014: **0** · 2024: **0**
 - Peak population found: **0 (2002/2014/2024)**
-- Houses: not counted yet
+- Houses: 1 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: 0 in every census found (2002,2014,2024)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat)
 
@@ -33,22 +33,28 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Upureti is an abandoned village in Ananuri community. Sources located establish that it was uninhabited in both 2002 and 2014, but do not establish its founding or first record, former resident families, why or when it emptied, or its last inhabitants. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/upureti))
+- Dusheti Municipality administrative records list Upureti among Ananuri communitys villages. ([source](https://www.matsne.gov.ge/ka/document/view/2520940?publication=2))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 0 residents in 2002 and 0 in 2014, according to the village profile. These are the latest village-specific census counts located. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/upureti))
 
 ## Crafts And Traditions
 - nothing found yet
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- A St Georges Church and a shrine/niche are identified at Upureti in map and travel references. No date or heritage-protection status was established in the official heritage-inventory searches. ([source](https://mapcarta.com/N7940287785))
+- Russian-language reference for St Georges Church at Upureti; it locates the church in the village but does not give a construction date or heritage designation. ([source](https://madloba.info/region-mtskheta-mtianeti/churches/st-george-naeklesiari-upureti/))
 
 ## Photos And Videos
-- nothing found yet
+- Satellite map centered on Upureti; map imagery, not a dated ground photograph. ([source](https://www.google.com/maps/@42.15972,44.58778,1500m/data=!3m1!1e3))
+- No village-specific YouTube drone or walk-through video found in English, Georgian, or Russian searches; this link opens the English-name search results. ([source](https://www.youtube.com/results?search_query=Upureti+Dusheti+Georgia))
 
 ## Articles
-- nothing found yet
+- Village profile with location, abandoned status, and 2002 and 2014 census figures. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/upureti))
+- Map entry locating St Georges Church at Upureti. ([source](https://mapcarta.com/N7940287785))
+- Russian-language church reference locating St Georges Church in Upureti. ([source](https://madloba.info/region-mtskheta-mtianeti/churches/st-george-naeklesiari-upureti/))
+- Dusheti Municipality administrative-unit decision listing Upureti in Ananuri community. ([source](https://www.matsne.gov.ge/ka/document/view/2520940?publication=2))
 
 ## Road
 

@@ -5,7 +5,7 @@
 ## Size
 - Population: 2002: **12** · 2014: **2** · 2024: **0**
 - Peak population found: **12 (2002)**
-- Houses: not counted yet
+- Houses: 23 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2024 (last with residents: 2014)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 2002 Geostat village volume PDF (confirms 12)
 
@@ -33,22 +33,23 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- The Georgian Encyclopedia places Zemo Ksovrisi in the Ateni community and says it belonged to Satsitsiano from the 15th through 19th centuries. It gives no founding date or account of depopulation or last residents. ([source](https://georgianencyclopedia.ge/ka/form/10615))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 2 residents in the 2014 census (1 male, 1 female); 12 in 2002 (8 male, 4 female). ([source](https://explore-georgia.ge/en/shida-kartli/gori-municipality/zemo-ksovrisi))
 
 ## Crafts And Traditions
 - nothing found yet
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- A single-nave Church of the Mother of God, built of large stone blocks, stands above the village; a single-nave Church of Saint George stands about 1 km away in the forest. Both are broadly dated to the Middle Ages; ruins of other structures and an enclosure survive around the latter. The cited descriptions do not specify heritage-register status. ([source](https://georgianencyclopedia.ge/ka/form/10615))
 
 ## Photos And Videos
 - nothing found yet
 
 ## Articles
-- No village-specific article located in the sources reviewed. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- Georgian Encyclopedia entry (Georgian-language source; details translated above). ([source](https://georgianencyclopedia.ge/ka/form/10615))
+- Village profile and census figures. ([source](https://explore-georgia.ge/en/shida-kartli/gori-municipality/zemo-ksovrisi))
 
 ## Road
 

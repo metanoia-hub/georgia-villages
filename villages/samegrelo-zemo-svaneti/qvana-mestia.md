@@ -5,7 +5,7 @@
 ## Size
 - Population: 2002: **0** · 2014: **6** · 2024: **0**
 - Peak population found: **6 (2014)**
-- Houses: not counted yet
+- Houses: 1 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: unknown
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat)
 
@@ -33,23 +33,24 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Qvana is included in the Pari community and is identified as a village of Mestia Municipality. No source located establishes its foundation or earliest record, former households, when or why it emptied, or its last inhabitants. ([source](https://www.mestia.gov.ge/en/node/1340/))
 
 ## Population Over Time (Other Sources)
-- 6 residents (4 men, 2 women), 2014 census. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/mestia-municipality/qvana))
+- 6 residents (2014 census: 4 males, 2 females), reported by the Russian-language village entry. No later settlement-level figure was verified. ([source](https://ru.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%BD%D0%B0))
 
 ## Crafts And Traditions
-- nothing found yet
+- No Qvana-specific trade, craft, or feast day was verified in the English, Georgian, and Russian-name searches. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/mestia-municipality/qvana))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No church, tower, or heritage-register item specifically for Qvana was verified. Available sources identify the village and its administrative community, not a monument. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/mestia-municipality/qvana))
 
 ## Photos And Videos
-- No individual image/video result was verified. Search links are supplied for follow-up; no specific photo is asserted. ([source](https://www.google.com/search?tbm=isch&q=Qvana%20Mestia%20Georgia%20village))
-- YouTube search results; no specific video verified as showing the village. ([source](https://www.youtube.com/results?search_query=Qvana%20Mestia%20Georgia%20village))
+- Map/locality page. No attributable photo set or YouTube drone/walk-through video was verified in searches using English, Georgian, or Russian forms. ([source](https://mapcarta.com/13572852))
 
 ## Articles
-- nothing found yet
+- Municipal administrative listing places Qvana within the Pari community. ([source](https://www.mestia.gov.ge/en/node/1340/))
+- Russian-language village entry gives the 2014 population and location on the right bank of the Inguri. ([source](https://ru.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%BD%D0%B0))
+- Village profile and community affiliation. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/mestia-municipality/qvana))
 
 ## Road
 

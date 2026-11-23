@@ -33,22 +33,27 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- The Tsipori at the supplied Kaspi coordinates is a highland settlement in Kaspi Municipality. The 1923 rural census recorded 33 residents, all Georgian; available sources located here do not identify its founding date, earliest mention, family names, the reason it emptied, or its last residents. Do not confuse it with other Georgian settlements also named Tsipori. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
+- The national settlement gazetteer classifies this Tsipori as abandoned and places it in Kaspi Municipality. No village-specific account was found in the searched English, Georgian, or Russian sources, including Soviet-encyclopedia searches. ([source](https://explore-georgia.ge/en/shida-kartli/kaspi-municipality/tsipori))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 0 residents in the 2002, 2014, and 2024 census listings for this Kaspi village, according to the village profile and the census tables. A search result for a different Tsipori in Dusheti Municipality reports 5 in 2014; that is a namesake and is excluded. ([source](https://explore-georgia.ge/en/shida-kartli/kaspi-municipality/tsipori))
+- Historical comparison: 33 residents in the 1923 rural census. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific craft, trade, agricultural specialty, or feast day was located in English, Georgian, or Russian searches. Searches included the Georgian and Russian village names and municipality; results for other Tsipori settlements were excluded. ([source](https://explore-georgia.ge/en/shida-kartli/kaspi-municipality/tsipori))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No church, tower, other monument, or confirmed heritage-register entry specific to the Kaspi Tsipori was located. A heritage-register search result mentioning a Tsipori-area fort could not be tied to this settlement and is not attributed to it. ([source](https://heritagesites.ge/uploads/files/5d9b295f1fa11.pdf))
 
 ## Photos And Videos
-- nothing found yet
+- Map and locality page for Tsipori at the Kaspi coordinates; it does not provide a confirmed village-specific photograph. ([source](https://mapcarta.com/W722200435))
+- No village-specific YouTube walk-through or drone video surfaced in English, Georgian, or Russian searches. Search results for the name were screened for the Kaspi location. ([source](https://www.youtube.com/results?search_query=Tsipori+Kaspi+Georgia+village))
 
 ## Articles
-- No village-specific article located in the sources reviewed. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- Settlement profile: location, abandoned status, altitude, and 2002/2014 census status. ([source](https://explore-georgia.ge/en/shida-kartli/kaspi-municipality/tsipori))
+- Rural Georgia census of 1923: Tsipori population and ethnic breakdown. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
+- Official appellation document map labels Tsipori within Kaspi Municipality; used to distinguish this village from similarly named settlements. ([source](https://www.sakpatenti.gov.ge/media/publication_pdf/BL152022_eng.pdf))
 
 ## Road
 

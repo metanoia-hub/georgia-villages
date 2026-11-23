@@ -33,22 +33,29 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- The older name Kldeisi referred collectively to Didi Kldeisi and Patara Kldeisi. A travel heritage account says the settlements lie on the Khrami valley route that connected Trialeti with Samshvilde, and that the broader Kldeisi area is mentioned in Vakhushti Bagrationi’s description of Georgia, Ioane Bagrationi’s description of Kartli-Kakheti, and sixteenth- to eighteenth-century historical documents. It describes the area as archaeologically unexplored; it does not establish a founding date or identify which surviving remains fall within Patara Kldeisi specifically. ([source](https://georgiantravelguide.com/en/kldeisi))
+- A Georgian-language regional history says Ossetians settled in Patara Kldeisi among other villages in Kvemo Kartli. It does not give the date, later population history, cause of abandonment, or last inhabitants. ([source](https://www.dzeglebi.ge/statiebi/istoria/chamosaxlebebi_qvemoqartlshi.html))
 
 ## Population Over Time (Other Sources)
-- 2024: 0 residents, as listed in the project GeoJSON; the online settlement profile is the cited web reference. Earlier census counts (1989, 2002, 2014) were not independently verified in a directly accessible census table. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- 0 residents in 2002, 2014, and 2024 in the project’s Geostat-derived census series. No earlier population was verified in the sources searched. ([source](https://pop-stat.mashke.org/georgia-census2024.htm))
 
 ## Crafts And Traditions
-- nothing found yet
+- No Patara Kldeisi-specific craft, trade, or feast-day tradition was documented in the English-, Georgian-, or Russian-language sources searched. ([source](https://georgiantravelguide.com/en/kldeisi))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- The broader Kldeisi area has a ninth- to eleventh-century Church of the Virgin, an early medieval Church of Saint George, and fortress ruins. The cited source does not pin these monuments to Patara Kldeisi rather than the larger Kldeisi area, and it does not state formal heritage-register status. They are therefore not asserted here as confirmed monuments within this village. ([source](https://georgiantravelguide.com/en/kldeisi))
+- A map reference names Kldeisi Church of Saint George and Kldeisi Church of the Mother of God among nearby notable places, but does not establish their formal protected status or exact village attribution. ([source](https://mapcarta.com/13570612))
 
 ## Photos And Videos
-- No village-specific photo or video URLs were confirmed in the reviewed results. Search YouTube by Latin, Georgian-script, and Russian names plus Tetritskaro Municipality. ([source](https://www.youtube.com/results?search_query=patara+kldeisi+Tetritskaro))
+- Map page with locality coordinates and nearby Kldeisi features; no confirmed photo of the settlement itself was identified. ([source](https://mapcarta.com/13570612))
+- YouTube search results for the English name plus Tetritskaro; no specific video was confirmed. ([source](https://www.youtube.com/results?search_query=Patara+Kldeisi+Tetritskaro))
+- YouTube search results for the Georgian name; no specific video was confirmed. ([source](https://www.youtube.com/results?search_query=%E1%83%9E%E1%83%90%E1%83%A2%E1%83%90%E1%83%A0%E1%83%90+%E1%83%99%E1%83%9A%E1%83%93%E1%83%94%E1%83%98%E1%83%A1%E1%83%98))
+- YouTube search results for the Russian name; no specific video was confirmed. ([source](https://www.youtube.com/results?search_query=%D0%9F%D0%B0%D1%82%D0%B0%D1%80%D0%B0-%D0%9A%D0%BB%D0%B4%D0%B5%D0%B8%D1%81%D0%B8+%D0%A2%D0%B5%D1%82%D1%80%D0%B8%D1%86%D0%BA%D0%B0%D1%80%D0%BE))
 
 ## Articles
-- No village-specific article URLs were confirmed in the reviewed results. ([source](https://explore-georgia.ge/en/kvemo-kartli/tetritskaro-municipality/patara-kldeisi))
+- Georgian Travel Guide overview of the historical Kldeisi settlement area and its medieval monuments. ([source](https://georgiantravelguide.com/en/kldeisi))
+- Regional history article discussing resettlement in Kvemo Kartli, including Ossetian settlement in Patara Kldeisi. ([source](https://www.dzeglebi.ge/statiebi/istoria/chamosaxlebebi_qvemoqartlshi.html))
+- Current settlement profile: the village is listed but has no published places attached to its profile. ([source](https://explore-georgia.ge/en/kvemo-kartli/tetritskaro-municipality/patara-kldeisi))
 
 ## Road
 

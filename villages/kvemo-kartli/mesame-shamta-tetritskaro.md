@@ -5,7 +5,7 @@
 ## Size
 - Population: 2002: **0** · 2014: **0** · 2024: **0**
 - Peak population found: **0 (2002/2014/2024)**
-- Houses: not counted yet
+- Houses: 0 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: 0 in every census found (2002,2014,2024)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat)
 
@@ -33,25 +33,29 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Mesame Shamta is recorded as a village in Tetritskaro Municipality. The sources found identify the village and its location but provide no founding or first-recorded date, account of former inhabitants, reason or date it emptied, or last residents. No reliable village-specific history was found in English, Georgian, or Russian. ([source](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%81%D0%B0%D0%BC%D0%B5-%D0%A8%D0%B0%D0%BC%D1%82%D0%B0))
 
 ## Population Over Time (Other Sources)
-- 2024: 0 residents, as listed in the project GeoJSON; the online settlement profile is the cited web reference. Earlier census counts (1989, 2002, 2014) were not independently verified in a directly accessible census table. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- 0 residents in 2002, 2014, and 2024 in the project’s Geostat-derived census series. A Russian-language settlement entry independently gives 0 for 2002 and 2014. ([source](https://pop-stat.mashke.org/georgia-census2024.htm))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific craft, trade, or feast-day information was found in the English-, Georgian-, or Russian-language searches. ([source](https://www.google.com/search?q=%22Mesame+Shamta%22+OR+%22%D0%9C%D0%B5%D1%81%D0%B0%D0%BC%D0%B5-%D0%A8%D0%B0%D0%BC%D1%82%D0%B0%22+traditions))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No monument specifically attributed to Mesame Shamta or formal heritage-register listing was confirmed in the sources searched. Nearby monuments are not attributed to this village. ([source](https://memkvidreoba.gov.ge/))
 
 ## Photos And Videos
-- No village-specific photo or video URLs were confirmed in the reviewed results. Search YouTube by Latin, Georgian-script, and Russian names plus Tetritskaro Municipality. ([source](https://www.youtube.com/results?search_query=mesame+shamta+Tetritskaro))
+- Photograph titled ‘Mesame Shamta - panoramio.jpg’ is indexed in the Wikimedia Commons Tetritskaro Municipality category; the category page links to the original file. ([source](https://commons.wikimedia.org/wiki/Category:Tetritsqaro_Municipality))
+- YouTube search results for the English name; no specific village video was confirmed. ([source](https://www.youtube.com/results?search_query=Mesame+Shamta+Tetritskaro))
+- YouTube search results for the Georgian name; no specific village video was confirmed. ([source](https://www.youtube.com/results?search_query=%E1%83%9B%E1%83%94%E1%83%A1%E1%83%90%E1%83%9B%E1%83%94+%E1%83%A8%E1%83%90%E1%83%9B%E1%83%97%E1%83%90))
+- YouTube search results for the Russian/Soviet name; no specific village video was confirmed. ([source](https://www.youtube.com/results?search_query=%D0%9C%D0%B5%D1%81%D0%B0%D0%BC%D0%B5-%D0%A8%D0%B0%D0%BC%D1%82%D0%B0+%D0%A2%D0%B5%D1%82%D1%80%D0%B8%D1%86%D0%BA%D0%B0%D1%80%D0%BE))
 - https://commons.wikimedia.org/wiki/File%3AMesame_Shamta_-_panoramio.jpg
 - https://commons.wikimedia.org/wiki/File%3AGeorgian_Cross_-_panoramio.jpg
 - https://commons.wikimedia.org/wiki/File%3AISS065-E-140722_-_View_of_Earth.jpg
 
 ## Articles
-- No village-specific article URLs were confirmed in the reviewed results. ([source](https://explore-georgia.ge/en/kvemo-kartli/tetritskaro-municipality/mesame-shamta))
+- Russian-language settlement entry with location, elevation, and 2002 and 2014 population figures; it does not give village history. ([source](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%81%D0%B0%D0%BC%D0%B5-%D0%A8%D0%B0%D0%BC%D1%82%D0%B0))
+- Geostat-derived census table used for the 2002, 2014, and 2024 zero counts. ([source](https://pop-stat.mashke.org/georgia-census2024.htm))
 
 ## Road
 

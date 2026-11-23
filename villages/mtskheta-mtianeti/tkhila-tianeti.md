@@ -33,10 +33,11 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Tkhila is recorded as a settlement in the Zhebota administrative unit. A current gazetteer describes it as abandoned and places it on the left bank of the Iori, 5.5 km from Tianeti; the available sources do not identify its founding date, former residents, cause or date of abandonment, or last inhabitants. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/tianeti-municipality/tkhila))
+- The Tianeti municipalitys administrative list includes Tkhila among Zhebota-unit villages; this confirms the official place-name, not a surviving resident population. ([source](https://matsne.gov.ge/ka/document/view/3134115))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 0 residents in the 2002 and 2014 censuses, as reported by the settlement gazetteer. No 2024 village-level figure was located in the searched public sources. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/tianeti-municipality/tkhila))
 
 ## Crafts And Traditions
 - nothing found yet
@@ -45,10 +46,12 @@
 - nothing found yet
 
 ## Photos And Videos
-- nothing found yet
+- Place page with location map and settlement imagery; no separately attributable village photograph located. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/tianeti-municipality/tkhila))
 
 ## Articles
-- nothing found yet
+- Tkhila settlement profile (English). ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/tianeti-municipality/tkhila))
+- Tkhila entry (Russian); reports no permanent residents in the 2014 census. ([source](https://ru.wikipedia.org/wiki/%D0%A2%D1%85%D0%B8%D0%BB%D0%B0))
+- Tianeti municipality administrative units (Georgian). ([source](https://tianeti.gov.ge/pages.php?id=3))
 
 ## Road
 

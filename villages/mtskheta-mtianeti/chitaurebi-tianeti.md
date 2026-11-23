@@ -5,7 +5,7 @@
 ## Size
 - Population: 1917: **46** · 2002: **0** · 2014: **0** · 2024: **0**
 - Peak population found: **46 (1917)**
-- Houses: not counted yet
+- Houses: 9 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2002 (last with residents: 1917)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 1917 Tiflis governorate villages (Mashke pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm), unit: Эрцойское
 
@@ -33,22 +33,23 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- The 2014 census recorded no permanent residents; the 2002 census also recorded zero. Sources found do not identify a founding date, former residents, the cause or date of depopulation, or the last inhabitants. ([source](https://ru.wikipedia.org/wiki/Читауреби_(Тианетский_муниципалитет)))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 0 permanent residents (2002); 0 (2014 census). ([source](https://ru.wikipedia.org/wiki/Читауреби_(Тианетский_муниципалитет)))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific crafts, trades, or feast day found in searches in English, Georgian, and Russian. ([source](https://www.tianeti.gov.ge/pages.php?id=3))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No village-specific church, tower, or listed heritage monument found in searches in English, Georgian, and Russian. ([source](https://heritagesites.ge/uploads/files/5ea9a2d3d0f95.pdf))
 
 ## Photos And Videos
-- nothing found yet
+- No village-specific photo or video found for the Tianeti village. Search results included videos for a different Chitaurebi in Dusheti Municipality and are excluded. ([source](https://www.youtube.com/watch?v=FgvQvzQQh8s))
 
 ## Articles
-- nothing found yet
+- Russian-language settlement entry, citing the Georgian Soviet Encyclopedia, volume 6, page 150; no substantive village history transcribed in the accessible entry. ([source](https://ru.wikipedia.org/wiki/Читауреби_(Тианетский_муниципалитет)))
+- Tianeti Municipality administrative-unit listing identifies Chitaurebi in the Simonian Tkhevi unit. ([source](https://www.tianeti.gov.ge/pages.php?id=3))
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%A9%E1%83%98%E1%83%A2%E1%83%90%E1%83%A3%E1%83%A0%E1%83%94%E1%83%91%E1%83%98_(%E1%83%97%E1%83%98%E1%83%90%E1%83%9C%E1%83%94%E1%83%97%E1%83%98%E1%83%A1_%E1%83%9B%E1%83%A3%E1%83%9C%E1%83%98%E1%83%AA%E1%83%98%E1%83%9E%E1%83%90%E1%83%9A%E1%83%98%E1%83%A2%E1%83%94%E1%83%A2%E1%83%98)&params=41_58_59_N_44_51_54_E_type:city(40361)_region:GE
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo

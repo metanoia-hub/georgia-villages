@@ -33,10 +33,11 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Pichviani is an abandoned village in the Kheoba community. Sources located establish its administrative setting and that it was abandoned by the 2014 census; they do not establish its founding or first record, former resident families, why or when it emptied, or its last inhabitants. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/pichviani))
+- The Dusheti municipal administrative-unit record lists Pichviani among the villages of Kheoba. A separate village named Pichviani exists in Tianeti Municipality; sources about that settlement were excluded. ([source](https://www.matsne.gov.ge/ka/document/view/3125364))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 13 residents in 2002; 0 in 2014. These are the latest village-specific census counts located. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/pichviani))
 
 ## Crafts And Traditions
 - nothing found yet
@@ -45,10 +46,13 @@
 - nothing found yet
 
 ## Photos And Videos
-- nothing found yet
+- Satellite map centered on Pichviani; map imagery, not a dated ground photograph. ([source](https://www.google.com/maps/@42.056817,44.864439,1500m/data=!3m1!1e3))
+- No village-specific YouTube drone or walk-through video found in English, Georgian, or Russian searches; this link opens the English-name search results. ([source](https://www.youtube.com/results?search_query=Pichviani+Dusheti+Georgia))
 
 ## Articles
-- nothing found yet
+- Village profile with location, abandoned status, and 2002 and 2014 census figures. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/pichviani))
+- Dusheti Municipality administrative-unit decision listing Pichviani in Kheoba community. ([source](https://www.matsne.gov.ge/ka/document/view/3125364))
+- Geostat-derived table of Georgias 2014 census results, searchable by settlement name. ([source](https://pop-stat.mashke.org/georgia-census2014.htm))
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%A4%E1%83%98%E1%83%AD%E1%83%95%E1%83%98%E1%83%90%E1%83%9C%E1%83%98_(%E1%83%93%E1%83%A3%E1%83%A8%E1%83%94%E1%83%97%E1%83%98%E1%83%A1_%E1%83%9B%E1%83%A3%E1%83%9C%E1%83%98%E1%83%AA%E1%83%98%E1%83%9E%E1%83%90%E1%83%9A%E1%83%98%E1%83%A2%E1%83%94%E1%83%A2%E1%83%98)&params=42_03_25_N_44_51_58_E_type:city(40361)_region:
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo

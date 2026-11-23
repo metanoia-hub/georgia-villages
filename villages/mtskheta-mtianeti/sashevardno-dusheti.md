@@ -33,10 +33,11 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Sashevardno is an abandoned village in the Magharoskari community. Sources located establish that two people remained in 2002 and none in 2014, but do not establish the villages founding or first record, who historically lived there, why or when it emptied, or who the last inhabitants were. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/sashevardno))
+- The Dusheti municipal administrative-unit record lists Sashevardno among the villages of Magharoskari community. ([source](https://www.matsne.gov.ge/ka/document/view/2520940?publication=2))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 2 residents in 2002 (one man and one woman); 0 in 2014. These are the latest village-specific census counts located. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/sashevardno))
 
 ## Crafts And Traditions
 - nothing found yet
@@ -45,10 +46,13 @@
 - nothing found yet
 
 ## Photos And Videos
-- nothing found yet
+- Satellite map centered on Sashevardno; map imagery, not a dated ground photograph. ([source](https://www.google.com/maps/@42.242901,44.898657,1500m/data=!3m1!1e3))
+- No village-specific YouTube drone or walk-through video found in English, Georgian, or Russian searches; this link opens the English-name search results. ([source](https://www.youtube.com/results?search_query=Sashevardno+Dusheti+Georgia))
 
 ## Articles
-- nothing found yet
+- Village profile with administrative setting, abandoned status, and 2002 and 2014 population counts. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/sashevardno))
+- Russian-language village entry with location and 2014 census result; the entry uses the Russian spelling Sashevardno. ([source](https://ru.wikipedia.org/wiki/Сашевардно))
+- Dusheti Municipality administrative-unit decision listing Sashevardno in Magharoskari community. ([source](https://www.matsne.gov.ge/ka/document/view/2520940?publication=2))
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%A1%E1%83%90%E1%83%A8%E1%83%94%E1%83%95%E1%83%90%E1%83%A0%E1%83%93%E1%83%9C%E1%83%9D&params=42_14_35_N_44_53_54_E_type:city(40361)_region:
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo
 

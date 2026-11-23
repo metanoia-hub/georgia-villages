@@ -33,22 +33,24 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- The village is documented as a contemporary settlement, but the sources located give no reliable founding date or first recorded mention. It lies near the occupation line. By 2019, resident Genadi Bosikov described the remaining households difficulties: no grid electricity for years, poor roads, water problems and no public transport. A separate 2019 report described Qobi as having two households; the 2014 census recorded no permanent residents. The sources do not establish when or why those households left, nor identify a later final resident. ([source](https://www.qartli.ge/ge/component/content/article/12935--ghmerthis-anabarad-varth-genadi-bosikovi-yobidan))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 0 permanent residents in the 2014 census. A 2019 news report described two households and profiled a resident, showing that the census figure should not be treated as proof that nobody was living there later. ([source](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B1%D0%B8_%28%D0%A5%D0%B0%D1%88%D1%83%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%BD%D0%B8%D1%86%D0%B8%D0%BF%D0%B0%D0%BB%D0%B8%D1%82%D0%B5%D1%82%29))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific craft, trade or feast-day tradition was located in the English-, Georgian- and Russian-language searches. The 2019 reporting focuses on isolation and basic services rather than documenting customary occupations or feasts. ([source](https://www.qartli.ge/ge/component/content/article/12935--ghmerthis-anabarad-varth-genadi-bosikovi-yobidan))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No village monument or heritage-registry entry could be verified from the sources located. Map listings mention a St George church in the locality, but without a reliable monument description or heritage status; this is not enough to establish protected status. ([source](https://mapcarta.com/13573212))
 
 ## Photos And Videos
-- nothing found yet
+- Photo/report about resident Genadi Bosikov and life in Qobi (2019). ([source](https://www.qartli.ge/ge/component/content/article/12935--ghmerthis-anაბარად-varth-genadi-bosikovi-yobidan))
+- Photo report about Qobi and resident Genadi Bosikov (year not stated on the page). ([source](https://www.radiotavisupleba.ge/a/%E1%83%A1%E1%83%9D%E1%83%A4%E1%83%94%E1%83%9A%E1%83%98-%E1%83%A7%E1%83%9D%E1%83%91%E1%83%98-%E1%83%92%E1%83%94%E1%83%9C%E1%83%90%E1%83%93%E1%83%98-%E1%83%91%E1%83%9D%E1%83%A1%E1%83%98%E1%83%99%E1%83%9D%E1%83%95%E1%83%98---%E1%83%96%E1%83%A6%E1%83%90%E1%83%9E%E1%83%A0%E1%83%90%E1%83%93-%E1%83%A0%E1%83%9D%E1%83%9B-%E1%83%9B%E1%83%9D%E1%83%94%E1%83%A7%E1%83%9D%E1%83%9A%E1%83%90%E1%83%97-%E1%83%95%E1%83%94%E1%83%A0-%E1%83%93%E1%83%90%E1%83%95%E1%83%98%E1%83%AF%E1%83%94%E1%83%A0%E1%83%94%E1%83%91%E1%83%93%E1%83%98-%E1%83%98%E1%83%9B-%E1%83%A2%E1%83%A7%E1%83%94%E1%83%A8%E1%83%98-%E1%83%97%E1%83%A3-%E1%83%92%E1%83%96%E1%83%90%E1%83%A1-%E1%83%92%E1%83%90%E1%83%AD%E1%83%A0%E1%83%98%E1%83%93%E1%83%9C%E1%83%94%E1%83%9C-/30232719.html))
 
 ## Articles
-- No village-specific article located in the sources reviewed. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- Qartli.ge report on Genadi Bosikov, infrastructure problems and the remaining household (2019; translated from Georgian). ([source](https://www.qartli.ge/ge/component/content/article/12935--ghmerthis-anabarad-varth-genadi-bosikovi-yobidan))
+- Radio Liberty report profiling Genadi Bosikov and Qobi (translated from Georgian). ([source](https://www.radiotavisupleba.ge/a/%E1%83%A1%E1%83%9D%E1%83%A4%E1%83%94%E1%83%9A%E1%83%98-%E1%83%A7%E1%83%9D%E1%83%91%E1%83%98-%E1%83%92%E1%83%94%E1%83%9C%E1%83%90%E1%83%93%E1%83%98-%E1%83%91%E1%83%9D%E1%83%A1%E1%83%98%E1%83%99%E1%83%9D%E1%83%95%E1%83%98---%E1%83%96%E1%83%A6%E1%83%90%E1%83%9E%E1%83%A0%E1%83%90%E1%83%93-%E1%83%A0%E1%83%9D%E1%83%9B-%E1%83%9B%E1%83%9D%E1%83%94%E1%83%A7%E1%83%9D%E1%83%9A%E1%83%90%E1%83%97-%E1%83%95%E1%83%94%E1%83%A0-%E1%83%93%E1%83%90%E1%83%95%E1%83%98%E1%83%AF%E1%83%94%E1%83%A0%E1%83%94%E1%83%91%E1%83%93%E1%83%98-%E1%83%98%E1%83%9B-%E1%83%A2%E1%83%A7%E1%83%94%E1%83%A8%E1%83%98-%E%E1%83%97%E1%83%A3-%E1%83%92%E1%83%96%E1%83%90%E1%83%A1-%E1%83%92%E1%83%90%E1%83%AD%E1%83%A0%E1%83%98%E1%83%93%E1%83%9C%E1%83%94%E1%83%9C-/30232719.html))
 
 ## Road
 

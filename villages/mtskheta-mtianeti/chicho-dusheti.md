@@ -33,22 +33,25 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Chicho is an administrative village in the Ukanapshavi community of Dusheti Municipality, in the Pshavi highlands. The sources located describe its location and status but do not establish a founding date, first written mention, population history, reason or date of depopulation, or the identity of any last residents. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/chicho))
+- The municipality’s administrative-unit decree includes Chicho among the villages of Ukanapshavi; it gives no settlement history. ([source](https://www.matsne.gov.ge/ka/document/view/2520940?publication=2))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 2 residents in the 2014 census (reported in the village entry and in the adjacent-settlement listing). No later village-level count was verified. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/chicho))
+- Geostat’s official census portal provides the 2014 census results; village-level figure located through its village-population census table transcription. ([source](https://www.geostat.ge/en/modules/categories/735/population-census))
 
 ## Crafts And Traditions
-- nothing found yet
+- No reliable village-specific source was found for a historic trade, craft, or feast day after searches using English, Georgian and Russian spellings. The municipality’s administrative record is not a cultural or ethnographic account. ([source](https://www.matsne.gov.ge/ka/document/view/2520940?publication=2))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No church, tower, or heritage-protected monument specifically attributed to Chicho was identified in the searches. The heritage GIS explains that its inventory is incomplete, so this is not proof that no heritage fabric exists. ([source](https://memkvidreoba.gov.ge/about))
 
 ## Photos And Videos
 - nothing found yet
 
 ## Articles
-- nothing found yet
+- Village profile: location, administrative community and 2014 population information. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/chicho))
+- Municipality administrative-unit decree listing Chicho under Ukanapshavi. ([source](https://www.matsne.gov.ge/ka/document/view/2520940?publication=2))
 
 ## Road
 

@@ -33,22 +33,25 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Chormeshavi is a village in the Khevsureti community, on the southern slope of the Greater Caucasus main range and the right bank of Gudanischala. Sources located provide geographic and census information but no founding date, first record, depopulation cause or date, or last-inhabitant account. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/chormeshavi))
+- The municipality administrative decree lists Chormeshavi among the villages of the Barisakho administrative unit. ([source](https://www.matsne.gov.ge/ka/document/view/2520940?publication=2))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 3 residents (2 men and 1 woman) in the 2014 census. ([source](https://ru.wikipedia.org/wiki/%D0%A7%D0%BE%D1%80%D0%BC%D0%B5%D1%88%D0%B0%D0%B2%D0%B8))
 
 ## Crafts And Traditions
-- nothing found yet
+- No reliable village-specific evidence for traditional crafts, trades, or a feast day was found after English, Georgian and Russian searches. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/chormeshavi))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No church, tower, or designated heritage monument specifically attributed to Chormeshavi was identified. The heritage GIS cautions that its inventory is incomplete. ([source](https://memkvidreoba.gov.ge/about))
 
 ## Photos And Videos
 - nothing found yet
 
 ## Articles
-- nothing found yet
+- Village profile and geographic description. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/chormeshavi))
+- 2014 census figure (Russian-language entry). ([source](https://ru.wikipedia.org/wiki/%D0%A7%D0%BE%D1%80%D0%BC%D0%B5%D1%88%D0%B0%D0%B2%D0%B8))
+- Municipal administrative decree listing the village. ([source](https://www.matsne.gov.ge/ka/document/view/2520940?publication=2))
 
 ## Road
 

@@ -33,23 +33,24 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Ughvali is a village in Mestia Municipality’s Etseri community. No sourced account of its founding, first record, population’s departure, or last inhabitants was found in the English, Georgian, or Russian searches. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/mestia-municipality/ughvali))
+- A published regional description attributes the 14th-century construction of Ughvali’s Church of St George to brothers Anton and Michael Umpriani; it gives no village founding chronology. ([source](https://dspace.nplg.gov.ge/bitstream/1234/12048/1/Georgian_Mountein_Regions.pdf))
 
 ## Population Over Time (Other Sources)
-- 2014 population figure not verified in accessible source. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/mestia-municipality/ughvali))
+- 5 residents in the 2014 census (3 men and 2 women); no verified later village-level count located. ([source](https://pop-stat.mashke.org/georgia-census2014.htm))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific trade, craft, or feast day located in the requested-language searches. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/mestia-municipality/ughvali))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- Church of St George of Ughvali; described as built in the 14th century by Anton and Michael Umpriani. No heritage-list designation verified. ([source](https://dspace.nplg.gov.ge/bitstream/1234/12048/1/Georgian_Mountein_Regions.pdf))
 
 ## Photos And Videos
-- No individual image/video result was verified. Search links are supplied for follow-up; no specific photo is asserted. ([source](https://www.google.com/search?tbm=isch&q=Ughvali%20Mestia%20Georgia%20village))
-- YouTube search results; no specific video verified as showing the village. ([source](https://www.youtube.com/results?search_query=Ughvali%20Mestia%20Georgia%20village))
+- nothing found yet
 
 ## Articles
-- nothing found yet
+- Village profile with location and 2002/2014 population figures. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/mestia-municipality/ughvali))
+- Regional account of churches and mountain communities, including Ughvali’s St George church. ([source](https://dspace.nplg.gov.ge/bitstream/1234/12048/1/Georgian_Mountein_Regions.pdf))
 
 ## Road
 

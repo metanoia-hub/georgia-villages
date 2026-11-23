@@ -5,7 +5,7 @@
 ## Size
 - Population: 1917: **238** · 1923: **217** · 2002: **5** · 2014: **1**
 - Peak population found: **238 (1917)**
-- Houses: not counted yet
+- Houses: 0 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: unknown
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 2002 Geostat village volume PDF (confirms 5) ; 1923 Georgia rural census by settlement (Mashke pop-stat.mashke.org/georgia-ethnic-loc1923.htm), unit: Goris/Zghudris ; 1917 Tiflis governorate villages (Mashke pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm), unit: Згудерское
 
@@ -33,22 +33,24 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Batiuri is a Kareli village on the right bank of the Orbodzalis Tskali. In a 2018 local report, its sole resident was named Durmishkhan Pilishvili; he said he was born and had always lived there. The reporting documents isolation and wolves affecting livestock, but does not give the village’s founding date or a complete account of when other residents left. ([source](https://www.qartli.ge/ge/akhali-ambebi/article/9273-batiuridanshinaurickhovelimglisshishithimerkhevshigarbis))
+- A later Georgian-language feature calls Batiuri the Bestava family’s village and reports one person living there at publication. It does not establish an original settlement date or name a last inhabitant beyond the reported one-person status. ([source](https://www.qartli.ge/ge/akhali-ambebi/article/18272-batiuri-bestavashvilebis-sofeli))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 1 resident in the 2014 census, identified as Ossetian in the Russian-language census summary. A 2018 local report also describes one resident; this is reporting, not a new census count. ([source](https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%82%D0%B8%D1%83%D1%80%D0%B8))
 
 ## Crafts And Traditions
-- nothing found yet
+- No traditional craft, trade, or feast day was documented in the village profiles or the local reporting located in English, Georgian, and Russian. The 2018 report mentions livestock, not a distinctive craft tradition. ([source](https://www.qartli.ge/ge/akhali-ambebi/article/9273-batiuridanshinaurickhovelimglisshishithimerkhevshigarbis))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No monument in Batiuri or heritage-register status specific to the village was located. Batiuri appears in the official list of villages in Zghuderi administrative unit, which does not identify a monument there. ([source](https://matsne.gov.ge/ka/document/view/3854427))
 
 ## Photos And Videos
-- nothing found yet
+- No village-specific photograph URL or relevant YouTube walk-through/drone video located in English, Georgian, or Russian searches. ([source](https://www.youtube.com/results?search_query=Batiuri+Kareli+Georgia+village))
 
 ## Articles
-- No village-specific article located in the sources reviewed. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- Local report on the one-resident village and livestock fleeing wolves (2018; Georgian, translated for this record). ([source](https://www.qartli.ge/ge/akhali-ambebi/article/9273-batiuridanshinaurickhovelimglisshishithimerkhevshigarbis))
+- Local feature on Batiuri and the Bestava family, reporting one resident (Georgian, translated for this record). ([source](https://www.qartli.ge/ge/akhali-ambebi/article/18272-batiuri-bestavashvilebis-sofeli))
 - http://pop-stat.mashke.org/georgia-ethnic-loc2014.htm
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%91%E1%83%90%E1%83%A2%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98&params=41_56_05_N_43_50_46_E_type:city(40361)_region:GE
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls

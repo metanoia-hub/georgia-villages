@@ -5,7 +5,7 @@
 ## Size
 - Population: 1917: **105** · 2002: **0** · 2014: **0** · 2024: **0**
 - Peak population found: **105 (1917)**
-- Houses: not counted yet
+- Houses: 6 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2002 (last with residents: 1917)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 1917 Tiflis governorate villages (Mashke pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm), unit: Земо-Хевское
 
@@ -33,22 +33,22 @@
 - Winter road: Village road unknown. Gudauri–Kobi main road reopened 22 Nov 2026 and is subject to winter closures.
 
 ## History
-- nothing found yet
+- Listed by the Georgian National Encyclopedia as a village in Kazbegi Municipality, in the Kobi community. A current settlement directory classifies it as abandoned village. No reliable source located for founding/first record, former residents, when or why it emptied, or last inhabitants. ([source](https://explore-georgia.ge/en/municipalities/kazbegi-municipality))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 1917: 105; 2002/2014/2024: 0 ([source](https://explore-georgia.ge/en/settlements))
 
 ## Crafts And Traditions
 - nothing found yet
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No village-specific monument or heritage-register entry verified. ([source](https://memkvidreoba.gov.ge/))
 
 ## Photos And Videos
-- nothing found yet
+- Village-specific YouTube search (Burmasigi; Georgian and Russian names also searched); no video title/year verified. ([source](https://www.youtube.com/results?search_query=Burmasigi+Kazbegi+%E1%83%91%E1%83%A3%E1%83%A0%E1%83%9B%E1%83%90%E1%83%A1%E1%83%98%E1%83%92%E1%83%98))
 
 ## Articles
-- nothing found yet
+- Burmasigi settlement listing and status/location. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/kazbegi-municipality/burmasigi))
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%91%E1%83%A3%E1%83%A0%E1%83%9B%E1%83%90%E1%83%A1%E1%83%98%E1%83%92%E1%83%98&params=42_37_46_N_44_20_20_E_type:city(40361)_region:
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo
 - http://www.geostat.ge/index.php?action=page&p_id=2153&lang=eng

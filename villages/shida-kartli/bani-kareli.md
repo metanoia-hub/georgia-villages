@@ -33,10 +33,12 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Bani is listed among Kareli Municipality villages in the Zghuderi administrative unit. A 2002 census summary notes that ethnic Ossetians formed a majority in Bani; no founding or depopulation history, or last-resident account found. ([source](https://www.matsne.gov.ge/ka/document/view/2531364))
+- The Russian-language Kareli Municipality overview reports Ossetians as a majority in Bani in the 2002 census. ([source](https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%BD%D0%B8%D1%86%D0%B8%D0%BF%D0%B0%D0%BB%D0%B8%D1%82%D0%B5%D1%82))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 2 residents shown on Explore Georgias village page; the accessible search result did not state the observation year. A 1923 settlement table records 131 residents, all in the category shown as Ossetian in that table. ([source](https://explore-georgia.ge/en/shida-kartli/kareli-municipality/bani))
+- 2002 census summary: Bani is one of Kareli Municipalitys villages with an Ossetian majority; exact count not reported on the cited summary page. ([source](https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%BD%D0%B8%D1%86%D0%B8%D0%BF%D0%B0%D0%BB%D0%B8%D1%82%D0%B5%D1%82))
 
 ## Crafts And Traditions
 - nothing found yet
@@ -48,7 +50,8 @@
 - nothing found yet
 
 ## Articles
-- No village-specific article located in the sources reviewed. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- Kareli municipal administrative list (Georgian-language source). ([source](https://www.matsne.gov.ge/ka/document/view/2531364))
+- Kareli Municipality overview and 2002 ethnic-composition note (Russian-language source). ([source](https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%BD%D0%B8%D1%86%D0%B8%D0%BF%D0%B0%D0%BB%D0%B8%D1%82%D0%B5%D1%82))
 
 ## Road
 

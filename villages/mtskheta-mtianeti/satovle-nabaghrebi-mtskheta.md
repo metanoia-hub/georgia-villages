@@ -33,22 +33,26 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Satovle (Nabaghrebi) is associated with the archaeological locality of Nabaghrebi, east of Satovle. Excavations documented a Late Bronze–Early Iron Age hill settlement and cemetery (8th–7th centuries BCE), Early Medieval settlements, churches and burials (4th–7th centuries CE), and medieval churches dated to the 10th–11th centuries. These findings concern the Nabaghrebi archaeological site and do not establish when the present village was founded or emptied, its former residents, or its last inhabitants. ([source](https://minerva-access.unimelb.edu.au/server/api/core/bitstreams/f33a69d8-9de1-4e7a-a736-b2c0ef6bf304/content))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 2014 census: 1 resident; the 2002 census table records no residents. The census lists the settlement as Satovle; the municipality uses the expanded name Satovle (Nabaghrebi). ([source](https://pop-stat.mashke.org/georgia-census2014.htm))
+- The 1923 rural settlement table records 41 residents in Satovle. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific craft, trade or feast-day tradition was found in English, Georgian or Russian searches. ([source](https://mtskheta.gov.ge/ka/mtskheta/geographical-location))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- The Nabaghrebi archaeological locality east of Satovle includes a prehistoric hill settlement and cemetery, Early Medieval settlements, churches and burials, and 10th–11th-century medieval churches. The source describes archaeological finds; a specific current national heritage-register designation was not confirmed. ([source](https://minerva-access.unimelb.edu.au/server/api/core/bitstreams/f33a69d8-9de1-4e7a-a736-b2c0ef6bf304/content))
 
 ## Photos And Videos
-- nothing found yet
+- Satovle locality map page with map imagery. ([source](https://mapcarta.com/13569828))
+- No village-specific YouTube video was located in English, Georgian or Russian searches, including the Russian spelling and Mtskheta Municipality. ([source](https://www.youtube.com/results?search_query=Satovle+Nabaghrebi+Mtskheta+%D0%A1%D0%B0%D1%82%D0%BE%D0%B2%D0%BB%D0%B5+%D0%9D%D0%B0%D0%B1%D0%B0%D0%B3%D1%80%D0%B5%D0%B1%D0%B8+%E1%83%A1%E1%83%90%E1%83%97%E1%83%9D%E1%83%95%E1%83%9A%E1%83%94+%E1%83%9C%E1%83%90%E1%83%91%E1%83%90%E1%83%A6%E1%83%A0%E1%83%94%E1%83%91%E1%83%98))
 
 ## Articles
-- nothing found yet
+- Archaeological study summarizing excavations at Nabaghrebi and the site’s prehistoric, Early Medieval and medieval periods. ([source](https://minerva-access.unimelb.edu.au/server/api/core/bitstreams/f33a69d8-9de1-4e7a-a736-b2c0ef6bf304/content))
+- Mtskheta Municipality geographic overview, listing Satovle (Nabaghrebi). ([source](https://mtskheta.gov.ge/ka/mtskheta/geographical-location))
+- Georgian National Library research volume discussing the Satovle–Nabaghrebi archaeological work. ([source](https://dspace.nplg.gov.ge/bitstream/1234/465898/1/McxetaArqeologiuriKvlevaDziebisShedegebi_1981_Tomi_V.pdf))
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - https://web.archive.org/web/20190302090626/http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - https://web.archive.org/web/20240602230206/https://www.citypopulation.de/en/georgia/mtskhetamtianeti/mtskheta/32297133__satovle/

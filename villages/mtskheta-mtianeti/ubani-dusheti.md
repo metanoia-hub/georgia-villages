@@ -33,23 +33,24 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- The village is listed in Zhinvali administrative community. Do not confuse it with Zemo Ubani or Ubani in the Barisakho area. Founding, former residents, and depopulation history not located. ([source](https://new.matsne.gov.ge/ka/document/view/2520940?publication=0))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- No dated population count verified for this specific Ubani. ([source](https://www.about.ge/en/poi/953))
 
 ## Crafts And Traditions
 - nothing found yet
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No village-specific monument or heritage listing located. ([source](https://memkvidreoba.gov.ge/))
 
 ## Photos And Videos
-- nothing found yet
+- No village-specific photo or YouTube video located. ([source](https://www.youtube.com/results?search_query=Ubani+Dusheti+Georgia))
 - https://commons.wikimedia.org/wiki/File%3AISS054-E-36343_-_View_of_Earth.jpg
 
 ## Articles
-- nothing found yet
+- About.ge village listing. ([source](https://www.about.ge/en/poi/953))
+- Dusheti Municipality administrative village list includes Ubani under Zhinvali. ([source](https://new.matsne.gov.ge/ka/document/view/2520940?publication=0))
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%A3%E1%83%91%E1%83%90%E1%83%9C%E1%83%98_(%E1%83%AE%E1%83%94%E1%83%95%E1%83%A1%E1%83%A3%E1%83%A0%E1%83%94%E1%83%97%E1%83%98%E1%83%A1_%E1%83%97%E1%83%94%E1%83%9B%E1%83%98)&params=42_29_29_N_44_53_49_E_type:city(40361)_region:
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo

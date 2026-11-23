@@ -33,10 +33,10 @@
 - Winter road: Village road unknown. The main road into Oni was reported closed for works on 23 Nov 2026. The Shkmeri detour had a winter trailer ban.
 
 ## History
-- nothing found yet
+- Korta is in Komandeli community, Oni Municipality. No reliable village-specific source located in the searched English, Georgian, and Russian material established its founding date, first record, former inhabitants, abandonment, or last residents. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/oni-municipality/korta))
 
 ## Population Over Time (Other Sources)
-- No village-by-village series for 1989, 2002, 2014 and 2024 was verified in consulted sources. ([source](https://www.geostat.ge/en/modules/categories/12/2024-population-census-of-georgia-results))
+- 9 residents at the 2014 census (6 men and 3 women). The 2014 village census is the latest village-level census figure located; it does not establish the current count. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/oni-municipality/korta))
 
 ## Crafts And Traditions
 - nothing found yet
@@ -45,11 +45,12 @@
 - nothing found yet
 
 ## Photos And Videos
-- The referenced village page includes online location imagery/photographs where available; this is a village page, not a verified independent photo archive. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/oni-municipality/korta))
-- YouTube result titled “RACHA - GEORGIA” lists this village among places in the Racha sequence; published circa 2007 (search-index age). ([source](https://www.youtube.com/watch?v=WRfUEWoWkhg))
+- Village profile with location/map images. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/oni-municipality/korta))
+- No village-specific YouTube video located in English, Georgian, or Russian searches for Korta and Oni. ([source](https://www.youtube.com/results?search_query=Korta+Oni+Racha))
 
 ## Articles
-- Village reference or report. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/oni-municipality/korta))
+- Oni municipal record includes Korta among Komandeli administrative unit villages. ([source](https://matsne.gov.ge/ka/document/view/2923349))
+- Georgian-language travel profile describes Korta and mentions small-scale potato growing and livestock grazing; it does not document historic crafts or traditions. ([source](https://travelguide.ge/ka/regions/korta))
 
 ## Road
 

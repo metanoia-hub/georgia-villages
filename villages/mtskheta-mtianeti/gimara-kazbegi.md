@@ -33,22 +33,27 @@
 - Winter road: Village road unknown. Gudauri–Kobi main road reopened 22 Nov 2026 and is subject to winter closures.
 
 ## History
-- nothing found yet
+- Gimara (also called Jimara) is a historic settlement in the Truso Gorge, on the left bank of the Tergi. An ethnographic account traces families there to the eighteenth century: the Botoev and Berezov families, traditionally said to have migrated from Jimara in the Dargavs Gorge. The village had 45 households before the 1944 Soviet deportation/resettlement of the local Ossetian population; the exact date it became empty is not stated in the source. ([source](https://monoreel.ru/%D0%93%D0%B8%D0%BC%D0%B0%D1%80%D0%B0))
+- A Truso study reports that 45 households lived in Gimara before resettlement in 1944; it does not identify the last residents individually. ([source](https://dspace.nplg.gov.ge/bitstream/1234/327708/1/TrusoIstoriuliDaEtnokulturuliProblemebi.pdf))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 2014 census: 0 residents (the census table uses a dash for zero). ([source](https://pop-stat.mashke.org/georgia-census2014.htm))
+- Before 1944: 45 households; this is a household count, not a population count. ([source](https://dspace.nplg.gov.ge/bitstream/1234/327708/1/TrusoIstoriuliDaEtnokulturuliProblemebi.pdf))
 
 ## Crafts And Traditions
 - nothing found yet
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- The settlement has a late-medieval defensive tower and a church dedicated to Saint George. The consulted sources do not establish a formal national heritage designation for these specific structures. ([source](https://dspace.nplg.gov.ge/bitstream/1234/333342/1/TrusoHistoricalAndEthnoculturalIssues.pdf))
+- A scholarly catalogue documents a tower at Gimara. ([source](https://dspace.nplg.gov.ge/bitstream/1234/17380/1/SakartvelosPetroglifebisDidiKatalogi.pdf))
 
 ## Photos And Videos
-- nothing found yet
+- Photographs and location information for Gimara (place page). ([source](https://mapcarta.com/13574734))
+- Truso Valley hike video (2023; regional footage, not confirmed as a Gimara-specific walk-through). ([source](https://www.youtube.com/watch?v=Avsir7EoQAk))
 
 ## Articles
-- nothing found yet
+- Truso: Historical and Ethnocultural Issues (English-language scholarly study). ([source](https://dspace.nplg.gov.ge/bitstream/1234/333342/1/TrusoHistoricalAndEthnoculturalIssues.pdf))
+- The 2024 ethnographic study of Khevi and its communities (Georgian-language source). ([source](https://iverieli.nplg.gov.ge/bitstream/1234/521470/1/Xevi_Da_Moxeveebi_2024.pdf))
 
 ## Road
 

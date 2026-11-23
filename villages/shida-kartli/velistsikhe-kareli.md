@@ -5,7 +5,7 @@
 ## Size
 - Population: 1917: **4536** · 1923: **97** · 2014: **0** · 2024: **0**
 - Peak population found: **4536 (1917)**
-- Houses: not counted yet
+- Houses: 0 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2014 (last with residents: 1923)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 1923 Georgia rural census by settlement (Mashke pop-stat.mashke.org/georgia-ethnic-loc1923.htm), unit: Goris/Zghudris ; 1917 Tiflis governorate villages (Mashke pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm), unit: 
 
@@ -33,22 +33,23 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- This is the Velistsikhe in Kareli Municipality, in the Zghuderi administrative unit, on the northern slope of the Satskhenisi Range. Do not confuse it with the much larger Velistsikhe in Gurjaani Municipality, Kakheti. No founding date, first recorded inhabitants, or village-specific account of depopulation and last residents was located. ([source](https://explore-georgia.ge/ka/shida-qartli/qarelis-municipaliteti/velistsikhe))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 0 permanent residents in the 2014 census; the village was not separately listed in the 2002 census, according to the village profile. ([source](https://explore-georgia.ge/ka/shida-qartli/qarelis-municipaliteti/velistsikhe))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific craft, trade tradition, or feast day was located in English, Georgian, or Russian searches. Search results about wine-growing Velistsikhe refer to the different village in Gurjaani Municipality and are excluded. ([source](https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D1%81%D1%86%D0%B8%D1%85%D0%B5_%28%D0%93%D1%83%D1%80%D0%B4%D0%B6%D0%B0%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%BD%D0%B8%D1%86%D0%B8%D0%BF%D0%B0%D0%BB%D0%B8%D1%82%D0%B5%D1%82%29))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No village-specific monument or heritage-register status was found. Results for the Velistsikhe in Gurjaani Municipality were excluded. ([source](https://explore-georgia.ge/ka/shida-qartli/qarelis-municipaliteti/velistsikhe))
 
 ## Photos And Videos
-- nothing found yet
+- No village-specific photograph or relevant YouTube walk-through/drone video located in English, Georgian, or Russian searches; results for the Kakheti village were excluded. ([source](https://www.youtube.com/results?search_query=Velistsikhe+Kareli+Shida+Kartli+Georgia))
 
 ## Articles
-- No village-specific article located in the sources reviewed. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- Georgian village profile distinguishing Kareli Velistsikhe and reporting zero permanent residents in 2014. ([source](https://explore-georgia.ge/ka/shida-qartli/qarelis-municipaliteti/velistsikhe))
+- Russian-language Kareli Municipality article: settlement identity and 2014 census reports no permanent population. ([source](https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D1%81%D1%86%D0%B8%D1%85%D0%B5_%28%D0%9A%D0%B0%D1%80%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%BD%D0%B8%D1%86%D0%B8%D0%BF%D0%B0%D0%BB%D0%B8%D1%82%D0%B5%D1%82%29))
 
 ## Road
 

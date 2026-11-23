@@ -5,7 +5,7 @@
 ## Size
 - Population: 1917: **252** · 1923: **160** · 2002: **0** · 2014: **0** · 2024: **0**
 - Peak population found: **252 (1917)**
-- Houses: not counted yet
+- Houses: 0 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2002 (last with residents: 1923)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 1923 Georgia rural census by settlement (Mashke pop-stat.mashke.org/georgia-ethnic-loc1923.htm), unit: Dushetis/Kobis ; 1917 Tiflis governorate villages (Mashke pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm), unit: Земо-Хевское
 
@@ -33,10 +33,10 @@
 - Winter road: Village road unknown. Gudauri–Kobi main road reopened 22 Nov 2026 and is subject to winter closures.
 
 ## History
-- nothing found yet
+- Tepi is a deserted settlement in the Truso Gorge on the left bank of the Tergi. The sources located identify its location but do not establish its founding, historical inhabitants, cause or date of abandonment, or last inhabitants. ([source](https://explore-georgia.ge/ka/mtskheta-mtianeti/yazbegis-municipaliteti/tefi))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- The 2014 census recorded no residents. A 1926 population figure was not confirmed in the opened sources. ([source](https://en.wikipedia.org/wiki/Tepi,_Georgia))
 
 ## Crafts And Traditions
 - nothing found yet
@@ -45,10 +45,13 @@
 - nothing found yet
 
 ## Photos And Videos
-- nothing found yet
+- Map and location for Tepi. ([source](https://say.ge/place/tepi))
+- Kazbegi National Park: lesser-known places (video; published 2025; description names Tepi). ([source](https://www.youtube.com/watch?v=tJhVMWClnnE))
 
 ## Articles
-- nothing found yet
+- Georgian settlement page describing Tepi as a deserted village in the Kobi community, on the Tergi’s left bank. ([source](https://explore-georgia.ge/ka/mtskheta-mtianeti/yazbegis-municipaliteti/tefi))
+- Russian-language entry on Tepi. ([source](https://ru.ruwiki.ru/wiki/%D0%A2%D0%B5%D0%BF%D0%B8))
+- Mountaineering route account mentioning Tepi and the surrounding gorge. ([source](https://skitalets.ru/information/books/tepli-dzhimaray-kazbek-2410_4604/))
 
 ## Road
 

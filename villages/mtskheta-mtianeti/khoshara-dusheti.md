@@ -33,22 +33,26 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Khoshara is a Pshavi village in the Ukanapshavi community. A nineteenth-century Russian account lists Khoshara among the Pshavi settlements. A scholarly study of Pshav migration reports that members of the Gabidauri community who had lived in Khoshara moved to the lowlands, mainly Kakheti, by the 1940s; it does not identify Khoshara’s last inhabitants or establish the village’s exact founding date. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1820-1840/Zubarev_D/text.htm))
+- The migration study names Khoshara as the former home of Gabidauri Pshavs who resettled in lowland villages; it does not establish that all inhabitants left at that time. ([source](https://dspace.nplg.gov.ge/bitstream/1234/345737/1/KulturnoIstoricheskieVoprosiMigraciiGopskogo....pdf))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 34 residents in 1917; 22 in 1923; 6 in 2002; 4 in 2014; and 0 in 2024. Explore Georgia independently reports 6 in 2002 and 4 in 2014. ([source](https://pop-stat.mashke.org/georgia-census2024.htm))
 
 ## Crafts And Traditions
 - nothing found yet
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- A Soviet-era scholarly survey of traditional Pshav-Khevsur religious sites includes a section indexed under Khoshara and discusses a bell tower and ritual facilities. The accessible search record did not establish a heritage registration status or enough detail to securely describe a surviving monument at the village. ([source](https://dspace.nplg.gov.ge/bitstream/1234/402346/1/Aghmosavlet_Saqartvelos_Mtiani_Tradiciuli_Sazogadoebrivi_Sakulto_Dzeglebi_1974_Tomi_I.pdf))
 
 ## Photos And Videos
-- nothing found yet
+- Satellite view centered on Khoshara; map imagery, not a dated ground photograph. ([source](https://www.google.com/maps/@42.4135226,45.0652722,1500m/data=!3m1!1e3))
+- No village-specific YouTube drone or walk-through video found after searches in English, Georgian, and Russian. ([source](https://www.youtube.com/results?search_query=Khoshara+Dusheti+Georgia))
 
 ## Articles
-- nothing found yet
+- Village profile and 2002/2014 census data. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/khoshara))
+- Nineteenth-century Russian account listing Khoshara among Pshavi settlements. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1820-1840/Zubarev_D/text.htm))
+- Academic study of highland Pshav migration; documents migration from Khoshara by the Gabidauri community. ([source](https://dspace.nplg.gov.ge/bitstream/1234/345737/1/KulturnoIstoricheskieVoprosiMigraciiGopskogo....pdf))
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%AE%E1%83%9D%E1%83%A8%E1%83%90%E1%83%A0%E1%83%90&params=42_24_50_N_45_03_53_E_type:city(40361)_region:
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo
 - https://web.archive.org/web/20190327101437/http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo

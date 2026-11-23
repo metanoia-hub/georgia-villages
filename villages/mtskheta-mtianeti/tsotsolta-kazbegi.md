@@ -33,22 +33,29 @@
 - Winter road: Village road unknown. Gudauri–Kobi main road reopened 22 Nov 2026 and is subject to winter closures.
 
 ## History
-- nothing found yet
+- Tsotsolta is a historic settlement in the Truso Gorge on the right bank of the Tergi. The Truso study traces its families to Qhaqhiduri in the 18th century. A 1802 record counted 10 households and 62 people; later counts were 13 households/84 people in 1831–32, 14/104 in 1860, 29/160 in 1873, and 17/117 in 1886. By 1944, 40 households lived there; the village was emptied in the Soviet-era deportation/resettlement of the local Ossetian population. The sources reviewed do not identify the last inhabitants individually. ([source](https://www.academia.edu/48990593/Truso_Historical_and_Ethnocultural_Issues))
+- An Ossetian oral-history account names Dzantiev families from Dargavs and Takaev and Magkaev families from Zakha. It also recounts the origin story of the local Bulatsa family. The village was known for blacksmiths; the source uses the name Tsotsoltikau for this account. ([source](https://ru.wikipedia.org/wiki/%D0%A6%D0%BE%D1%86%D0%BE%D0%BB%D1%82%D0%B0))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 2014 census: 0 residents. Earlier figures: 83 in 1926; 81 in the 1923 rural settlement table; the Truso study records the household and population counts from 1802 through 1886 listed in the history section. ([source](https://pop-stat.mashke.org/georgia-census2014.htm))
+- Detailed historic counts for 1802, 1831–32, 1860, 1873 and 1886, and 40 households before 1944. ([source](https://www.academia.edu/48990593/Truso_Historical_and_Ethnocultural_Issues))
 
 ## Crafts And Traditions
-- nothing found yet
+- Blacksmithing is specifically associated with Tsotsolta/Tsotsoltikau in the recorded oral-history account. No named annual feast day was found. A regional ethnographic study reports a local shrine called Zhami (associated with plague protection) in Tsotsolta; it does not give a feast date. ([source](https://ru.wikipedia.org/wiki/%D0%A6%D0%BE%D1%86%D0%BE%D0%BB%D1%82%D0%B0))
+- The regional account identifies the Zhami shrine in Tsotsolta as a place connected with mountain epidemic customs; it does not specify a feast day. ([source](https://dspace.nplg.gov.ge/bitstream/1234/335301/1/KavkasiisKari_SaqartvelosChrdiloetiKaribche.pdf))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- The Truso architectural study records one rectangular defensive tower in Tsotsolta and identifies a Church of St George. The sources reviewed do not establish a formal national heritage designation for either structure. ([source](https://www.academia.edu/48990593/Truso_Historical_and_Ethnocultural_Issues))
 
 ## Photos And Videos
-- nothing found yet
+- Tsotsolta location page with map and imagery. ([source](https://mapcarta.com/13568394))
+- Photographer portfolio page referencing Truso Valley and Tsotsolta village. ([source](https://weekofart.com/photographer/ana-gelashvili/))
+- No village-specific YouTube video was located in English, Georgian or Russian searches, including the Russian spelling and municipality name. ([source](https://www.youtube.com/results?search_query=Tsotsolta+Kazbegi+%D0%A6%D0%BE%D1%86%D0%BE%D0%BB%D1%82%D0%B0+%E1%83%AA%E1%83%ოცოლთა))
 
 ## Articles
-- nothing found yet
+- Truso: Historical and Ethnocultural Issues, with historical population, family and monument information. ([source](https://www.academia.edu/48990593/Truso_Historical_and_Ethnocultural_Issues))
+- Georgian settlement profile and census summary. ([source](https://explore-georgia.ge/ka/mtskheta-mtianeti/yazbegis-municipaliteti/tsotsolta))
+- Russian-language oral-history entry with family traditions and blacksmithing reference. ([source](https://ru.wikipedia.org/wiki/%D0%A6%D0%BE%D1%86%D0%BE%D0%BB%D1%82%D0%B0))
 
 ## Road
 

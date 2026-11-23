@@ -33,10 +33,11 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Lampalashi is part of Zhakhunderi administrative unit, Lentekhi Municipality. The searched sources did not establish a founding date, first recorded mention, former inhabitants, or when or why permanent residence ceased. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/lentekhi-municipality/lampalashi))
 
 ## Population Over Time (Other Sources)
-- 2014 census: 0 permanent residents; 2024 census: 1 resident. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/lentekhi-municipality/lampalashi))
+- 0 permanent residents at the 2014 census. A separate 2018 municipal planning document lists 2 people; the records describe different dates and should not be treated as a current count. ([source](https://www.scribd.com/document/650197312/2014-%25E1%2583%25AC%25E1%2583%259A%25E1%2583%2598%25E1%2583%25A1-%25E1%2583%2590%25E1%2583%25A6%25E1%2583%25AC%25E1%2583%2594%25E1%2583%25A0%25E1%2583%2598%25E1%2583%25A1-%25E1%2583%25A8%25E1%2583%2594%25E1%2583%2593%25E1%2583%2592%25E1%2583%2594%25E1%2583%2591%25E1%2583%2598))
+- The municipality’s 2018–2022 waste plan reports 2 residents for Lampalashi in its settlement table. ([source](https://matsne.gov.ge/ka/document/view/4071404))
 
 ## Crafts And Traditions
 - nothing found yet
@@ -45,10 +46,12 @@
 - nothing found yet
 
 ## Photos And Videos
-- The referenced village page includes online location imagery/photographs where available; this is a village page, not a verified independent photo archive. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/lentekhi-municipality/lampalashi))
+- Photographs and map on the village profile. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/lentekhi-municipality/lampalashi))
+- No village-specific YouTube video located in English, Georgian, or Russian searches for Lampalashi/Lampalashi and Lentekhi. ([source](https://www.youtube.com/results?search_query=Lampalashi+Lentekhi))
 
 ## Articles
-- nothing found yet
+- Lentekhi Municipality identifies Lampalashi in the Zhakhunderi administrative unit. ([source](https://lentekhi.gov.ge/%E1%83%A1%E1%83%AE%E1%83%93%E1%83%9D%E1%83%9B%E1%83%90%E1%83%97%E1%83%90-%E1%83%9D%E1%83%A5%E1%83%9B%E1%83%94%E1%83%91%E1%83%98/))
+- Russian-language profile reports that the 2014 census found no permanent residents. ([source](https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BC%D0%BF%D0%B0%D0%BB%D0%B0%D1%88%D0%B8))
 
 ## Road
 

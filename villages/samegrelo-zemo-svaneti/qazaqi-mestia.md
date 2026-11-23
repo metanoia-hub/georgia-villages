@@ -5,7 +5,7 @@
 ## Size
 - Population: 2002: **7** · 2014: **0** · 2024: **0**
 - Peak population found: **7 (2002)**
-- Houses: not counted yet
+- Houses: 9 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2014 (last with residents: 2002)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 2002 Geostat village volume PDF (confirms 7)
 
@@ -33,25 +33,25 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Qazaqi is listed as a village in the Lakhamula administrative unit. No reliable source located establishes a founding or first-recorded date, former households, the timing or cause of depopulation, or last inhabitants. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/mestia-municipality/qazaqi))
 
 ## Population Over Time (Other Sources)
-- 7 residents in 2002; no permanent residents in 2014 or 2024. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/mestia-municipality/qazaqi))
+- 0 residents in the 2014 census, according to the village entry citing census data. No later settlement-level count was verified. ([source](https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D0%BA%D0%B8_%28%D0%93%D1%80%D1%83%D0%B7%D0%B8%D1%8F%29))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific craft, trade, or feast day was verified in the English, Georgian-name, and Russian-name searches. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/mestia-municipality/qazaqi))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No church, tower, or official heritage-register listing specifically for Qazaqi was verified. The available village profile establishes location and administrative affiliation only. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/mestia-municipality/qazaqi))
 
 ## Photos And Videos
-- No individual image/video result was verified. Search links are supplied for follow-up; no specific photo is asserted. ([source](https://www.google.com/search?tbm=isch&q=Qazaqi%20Mestia%20Georgia%20village))
-- YouTube search results; no specific video verified as showing the village. ([source](https://www.youtube.com/results?search_query=Qazaqi%20Mestia%20Georgia%20village))
+- Village profile/map. No attributable photo collection or YouTube video was verified in searches for the English name, Georgian name, and Russian/Soviet-era forms. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/mestia-municipality/qazaqi))
 - https://commons.wikimedia.org/wiki/File%3AISS053-E-19340_-_View_of_Earth.jpg
 - https://commons.wikimedia.org/wiki/File%3AISS011-E-6681_-_View_of_the_nation_of_Georgia.jpg
 
 ## Articles
-- nothing found yet
+- Village profile: Qazaqi is in Mestia Municipality’s Lakhamula unit, about 55 km by road from Mestia. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/mestia-municipality/qazaqi))
+- Russian-language village entry reports no permanent residents in the 2014 census. ([source](https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D0%BA%D0%B8_%28%D0%93%D1%80%D1%83%D0%B7%D0%B8%D1%8F%29))
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo
 - https://web.archive.org/web/20190302090626/http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls

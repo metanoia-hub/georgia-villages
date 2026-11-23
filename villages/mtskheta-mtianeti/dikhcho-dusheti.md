@@ -33,22 +33,27 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Dikhcho is in Gudamaqari on the western slope of the Gudamaqari Ridge. The village profile reports 180 residents in 1926 and 3 in 2014. For 2002, sources conflict: the village profile gives 17, while the Georgian National Academy of Sciences encyclopedia gives 21. The located sources do not establish the villages founding, when or why its population fell, or the names of any last inhabitants. The profile says all residents counted in 2014 were Georgian. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/dikhcho))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- The latest village-level census figure located is 3 residents in 2014, not 0 or 1. The village profile reports 17 in 2002 and 180 in 1926, while the National Academy encyclopedia gives 21 for 2002. No named-village 2024 census figure was located. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/dikhcho))
+- A November 2025 regional report lists one household in Dikhcho among off-grid solar recipients; it warns that the list is inaccurate and may include seasonal households, so this is not a resident headcount. ([source](https://mtisambebi.ge/news/item/1823-mtavroba-xevsuretshi-ushuqod-darchenil-ojaxebs-mzis-energiis-sistemebs-mouxybobs))
+- Georgian National Academy of Sciences encyclopedia entry: 21 residents in 2002 and a description of the village church ruins. ([source](https://georgianencyclopedia.ge/ka/pdf-export/2371))
+- The National Statistics Offices 2014 census volume includes settlement-level Dusheti tables and is the primary source for the 2014 count. ([source](https://www.geostat.ge/media/20680/2014-wlis-aRweris-ZiriTadi-Sedegebi.pdf))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific craft, trade, or annual feast-day information was located in the English, Georgian, and Russian searches. Regional Gudamaqari material does not establish a particular trade or feast for Dikhcho. ([source](https://www.peopleinneed.net/media/publications/1875/file/3-regioni.pdf))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- The Georgian National Academy of Sciences encyclopedia and village profile describe the ruined hall church east of Dikhcho as dating to the developed Middle Ages, with a nearby niche of Saint George. I found no entry for Dikhcho in the official heritage inventory searched, so a formal heritage designation is unverified. ([source](https://georgianencyclopedia.ge/ka/pdf-export/2371))
 
 ## Photos And Videos
-- nothing found yet
+- Photograph titled “Gudamakari Gorge, Dikhcho-Bakhani,” taken 17 March 2019 and uploaded 18 March 2019. It documents the gorge area and is not confirmed as a close view of the village itself. ([source](https://www.flickr.com/photos/126237565%40N08/33535248758/))
+- No additional qualifying YouTube video naming or showing Dikhcho was located in English, Georgian, or Russian searches. ([source](https://www.youtube.com/results?search_query=Dikhcho+Gudamaqari+Georgia))
 
 ## Articles
-- nothing found yet
+- Georgian National Academy of Sciences encyclopedia entry on Dikhcho, including the 2002 population figure and ruined church. ([source](https://georgianencyclopedia.ge/ka/pdf-export/2371))
+- November 2025 regional report on off-grid electricity provision includes one household in Dikhcho and warns that the list is inaccurate; this is not a person count. ([source](https://mtisambebi.ge/news/item/1823-mtavroba-xevsuretshi-ushuqod-darchenil-ojaxebs-mzis-energiis-sistemebs-mouxybobs))
 
 ## Road
 

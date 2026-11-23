@@ -5,7 +5,7 @@
 ## Size
 - Population: 1923: **63** · 2002: **0** · 2014: **0** · 2024: **0**
 - Peak population found: **63 (1923)**
-- Houses: not counted yet
+- Houses: 0 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: after the 1980s residents died (Laoshvili 2020)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 1923 Georgia rural census by settlement (Mashke pop-stat.mashke.org/georgia-ethnic-loc1923.htm), unit: Gomboris ; Laoshvili et al. 2020 doi 10.35595/2414-9179-2020-4-26-393-399
 

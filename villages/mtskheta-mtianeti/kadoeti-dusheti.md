@@ -33,22 +33,25 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Kadoeti is described as a former village in the Ananuri community, on the eastern slope of the Alevis Ridge beside the Big Jakhis River. Its population fell from 3 in 2002 to zero in 2014. No source located establishes its founding or first record, why or when it emptied, or who the last inhabitants were. ([source](https://explore-georgia.ge/ka/mtskheta-mtianeti/dushetis-municipaliteti/kadoeti))
+- The Georgian National Encyclopedia independently records that Kadoeti had no permanent residents in the 2014 census. ([source](https://georgianencyclopedia.ge/ka/form/16243))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 0 permanent residents in the 2014 census; 3 residents in 2002. ([source](https://explore-georgia.ge/ka/mtskheta-mtianeti/dushetis-municipaliteti/kadoeti))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific source for traditional crafts, trades, or a feast day was found after English, Georgian and Russian searches. ([source](https://georgianencyclopedia.ge/ka/form/16243))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No church, tower or heritage-listed monument specifically attributed to Kadoeti was identified in the searches. The national heritage GIS says its inventory is incomplete. ([source](https://memkvidreoba.gov.ge/about))
 
 ## Photos And Videos
-- nothing found yet
+- YouTube video: “Deserted Kadoeti and emptied Avenisi” (English translation of title), published 2024. The creator’s description says it covers two Dusheti-area villages with no residents. ([source](https://www.youtube.com/watch?v=i9Xp8_qExv8))
 
 ## Articles
-- nothing found yet
+- Georgian National Encyclopedia entry; identifies the community, setting and zero permanent residents in 2014. ([source](https://georgianencyclopedia.ge/ka/form/16243))
+- Village profile reporting 3 residents in 2002 and none in 2014. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/kadoeti))
+- Municipality administrative decree lists Kadoeti under Ananuri. ([source](https://matsne.gov.ge/ka/document/view/2404615/1))
 
 ## Road
 

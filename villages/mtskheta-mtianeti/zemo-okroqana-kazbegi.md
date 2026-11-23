@@ -33,24 +33,30 @@
 - Winter road: Village road unknown. Gudauri–Kobi main road reopened 22 Nov 2026 and is subject to winter closures.
 
 ## History
-- nothing found yet
+- The historic source records an Okrokana settlement in 1802 with 15 households and 89 people, and in 1831–32 with 18 households and 117 people; it does not clearly separate upper and lower Okrokana for those early counts. An ethnographic study says Ossetians settled in Zemo Okrokana during the 19th and 20th centuries. No reliable date or cause for its emptying, nor names of its last residents, was located. ([source](https://www.academia.edu/48990593/Truso_Historical_and_Ethnocultural_Issues))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 2014 census: 0 residents. ([source](https://pop-stat.mashke.org/georgia-census2014.htm))
+- 1802 and 1831–32 figures refer to historic Okrokana without a clear upper/lower distinction: 89 people in 15 households, then 117 in 18 households. ([source](https://www.academia.edu/48990593/Truso_Historical_and_Ethnocultural_Issues))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific craft, trade or feast-day tradition was found in English, Georgian or Russian searches. ([source](https://explore-georgia.ge/ka/mtskheta-mtianeti/yazbegis-municipaliteti/zemo-oqroyana))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- A complex of four defensive towers stands on the left bank of the Tergi; three are almost destroyed and the southern tower is partly preserved and dated to the 17th century. The study also lists a church at Zemo Okrokana. The consulted source does not confirm formal heritage-register status. ([source](https://dspace.nplg.gov.ge/bitstream/1234/333342/1/TrusoHistoricalAndEthnoculturalIssues.pdf))
 
 ## Photos And Videos
-- nothing found yet
+- Zemo Okrokana map page with photo-map imagery. ([source](https://mapcarta.com/W542572000))
+- Wikimedia Commons category for Zemo Okrokana images. ([source](https://commons.wikimedia.org/wiki/Category:Zemo_Okrokana))
+- No village-specific YouTube video was located in English, Georgian or Russian searches, including the Russian spelling and municipality name. ([source](https://www.youtube.com/results?search_query=Zemo+Okrokana+Kazbegi+%D0%97%D0%B5%D0%BC%D0%BE-%D0%9E%D0%BA%D1%80%D0%BE%D0%BA%D0%B0%D0%BD%D0%B0+%E1%83%96%E1%83%94%E1%83%9B%E1%83%9D+%E1%83%9D%E1%83%A5%E1%83%A0%E1%83%9D%E1%83%A7%E1%83%90%E1%83%9C%E1%83%90))
 
 - Main picture: http://commons.wikimedia.org/wiki/Special:FilePath/Zemo%20Okrokana.jpg
 
 ## Articles
-- nothing found yet
+- Georgian Encyclopedia entry for Zemo Okrokana. ([source](https://georgianencyclopedia.ge/ka/pdf-export/10481))
+- Truso architectural study documenting the tower complex and church. ([source](https://dspace.nplg.gov.ge/bitstream/1234/333342/1/TrusoHistoricalAndEthnoculturalIssues.pdf))
+- Georgian settlement profile, geographic description and historical notes. ([source](https://explore-georgia.ge/ka/mtskheta-mtianeti/yazbegis-municipaliteti/zemo-oqroyana))
+- Russian-language place entry. ([source](https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D0%BC%D0%BE-%D0%9E%D0%BA%D1%80%D0%BE%D0%BA%D0%B0%D0%BD%D0%B0))
 
 ## Road
 

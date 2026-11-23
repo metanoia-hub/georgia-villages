@@ -33,22 +33,25 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Chilaantkari is identified as an abandoned village in Galavani administrative community, on the western foothills of the Sabaduri Range in the Tezami River valley. The sources reviewed do not establish when it was founded, who lived there historically, why or when it emptied, or who its last inhabitants were. ([source](https://explore-georgia.ge/ka/mtskheta-mtianeti/mtskhetis-municipaliteti/chilaantkari))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- The 2014 census table records 0 residents (dash); the 2002 census records 1 resident. ([source](https://pop-stat.mashke.org/georgia-census2014.htm))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific craft, trade or feast-day tradition was found in English, Georgian or Russian searches. ([source](https://mtskheta.gov.ge/en/mtskheta/population))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No church, tower or heritage-register entry specifically attributed to Chilaantkari was confirmed in the sources searched. Searches also surfaced a nearby Galavani tower, but did not establish it as a Chilaantkari monument. ([source](https://memkvidreoba.gov.ge/))
 
 ## Photos And Videos
-- nothing found yet
+- Chilaantkari map page with map imagery. ([source](https://mapcarta.com/13576060))
+- No village-specific YouTube video was located in English, Georgian or Russian searches, including the Russian spelling and Mtskheta Municipality. ([source](https://www.youtube.com/results?search_query=Chilaantkari+Mtskheta+%D0%A7%D0%B8%D0%BB%D0%B0%D0%B0%D0%BD%D1%82%D0%BA%D0%B0%D1%80%D0%B8+%E1%83%AD%E1%83%98%E1%83%9A%E1%83%90%E1%83%90%E1%83%9C%E1%83%97%E1%83%99%E1%83%90%E1%83%A0%E1%83%98))
 
 ## Articles
-- nothing found yet
+- Georgian-language village profile identifying Chilaantkari as an abandoned settlement and locating it in the Tezami valley. ([source](https://explore-georgia.ge/ka/mtskheta-mtianeti/mtskhetis-municipaliteti/chilaantkari))
+- Mtskheta Municipality’s official English page listing Chilaantkari among municipal villages. ([source](https://mtskheta.gov.ge/en/mtskheta/population))
+- Russian-language village entry. ([source](https://ru.wikipedia.org/wiki/%D0%A7%D0%B8%D0%BB%D0%B0%D0%B0%D0%BD%D1%82%D0%BA%D0%B0%D1%80%D0%B8))
 
 ## Road
 

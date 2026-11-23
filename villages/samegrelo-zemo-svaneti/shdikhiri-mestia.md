@@ -33,23 +33,25 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Shdikhiri is listed within the Lakhamula administrative unit. The sources located do not give a founding or earliest-recorded date, former residents or families, when or why it emptied, or the last inhabitants. ([source](https://www.mestia.gov.ge/en/node/1340/))
+- A village gazetteer records the alternate English transliteration Shdighiri and Georgian spelling variants, confirming name variants rather than a history of settlement. ([source](https://www.geonames.org/advanced-search.html?country=GE&featureClass=P&q=Shdikhiri))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 6 residents (2014 census: 2 males, 4 females), as reported by the Russian-language village entry citing the official census. No newer settlement-level count was verified. ([source](https://ru.wikipedia.org/wiki/%D0%A8%D0%B4%D0%B8%D1%85%D0%B8%D1%80%D0%B8))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific trades, crafts, or feast day were verified in English, Georgian, and Russian-name searches. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/mestia-municipality/shdikhiri))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No church, tower, or official heritage-register entry specifically for Shdikhiri was verified. Available sources confirm the settlement and its administrative unit only. ([source](https://www.mestia.gov.ge/en/node/1340/))
 
 ## Photos And Videos
-- No individual image/video result was verified. Search links are supplied for follow-up; no specific photo is asserted. ([source](https://www.google.com/search?tbm=isch&q=Shdikhiri%20Mestia%20Georgia%20village))
-- YouTube search results; no specific video verified as showing the village. ([source](https://www.youtube.com/results?search_query=Shdikhiri%20Mestia%20Georgia%20village))
+- Village profile/map reference. No attributable photo collection or YouTube video was verified in searches for the English, Georgian, and Russian name variants. ([source](https://about.ge/ka/poi/2993))
 
 ## Articles
-- nothing found yet
+- Municipal listing places Shdikhiri in the Lakhamula administrative unit. ([source](https://www.mestia.gov.ge/en/node/1340/))
+- Russian-language village entry with 2014 population and geography. ([source](https://ru.wikipedia.org/wiki/%D0%A8%D0%B4%D0%B8%D1%85%D0%B8%D1%80%D0%B8))
+- Georgian-language place entry identifying Shdikhiri as a village in Mestia district. ([source](https://about.ge/ka/poi/2993))
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%A8%E1%83%93%E1%83%98%E1%83%AE%E1%83%98%E1%83%A0%E1%83%98&params=43_02_42_N_42_22_30_E_type:city(40361)_region:GE
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo

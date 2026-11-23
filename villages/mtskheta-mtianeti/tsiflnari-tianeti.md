@@ -33,10 +33,11 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- The supplied page spelling could not be matched confidently to an independently documented village history. Tianeti municipality lists a place spelled Tsiplnari in the Ghulelebi administrative unit, and a local property listing describes doctors cottages there; neither source documents a founding date, former residents, depopulation, or last inhabitants. This may be a transliteration variant, but the match is not established by the sources. ([source](https://tianeti.gov.ge/pages.php?id=3))
+- A property listing places a location called Tsiplnari near doctors cottages in Ghulelebi village; it does not establish that this is the same settlement as the supplied page. ([source](https://gancxadebebi.ge/en/classified-ads/Land-for-sale-in-Tianeti-GEO1426731))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- No village-level population figure or census year for the supplied name (or the likely spelling variant Tsiplnari) was located in the searched sources. The municipalitys administrative list is not a population source. ([source](https://tianeti.gov.ge/pages.php?id=3))
 
 ## Crafts And Traditions
 - nothing found yet
@@ -48,7 +49,8 @@
 - nothing found yet
 
 ## Articles
-- nothing found yet
+- Tianeti municipality administrative units; includes Tsiplnari under Ghulelebi (Georgian). ([source](https://tianeti.gov.ge/pages.php?id=3))
+- Local property listing mentioning Tsiplnari and doctors cottages near Ghulelebi (English). ([source](https://gancxadebebi.ge/en/classified-ads/Land-for-sale-in-Tianeti-GEO1426731))
 
 ## Road
 

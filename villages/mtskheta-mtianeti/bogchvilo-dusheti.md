@@ -33,22 +33,23 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Bogchvilo (also indexed as Bokchvilo or Bochkvilo) is an abandoned village in Dusheti Municipality’s Khevsureti community. Census counts were 65 in 1926, 1 in 2002, and 0 in 2014. No founding date, cause or timing of depopulation, or last resident was identified in the searched English, Georgian, and Russian sources. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/bokchvilo))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 0 residents in 2014; 1 in 2002; 65 in 1926. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/bokchvilo))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific craft, trade, or feast day was found in the searched English, Georgian, and Russian sources. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/bokchvilo))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No named church, tower, monument, or village-specific heritage listing was found in targeted English, Georgian, and Russian searches. ([source](https://www.heritagesites.ge/))
 
 ## Photos And Videos
-- nothing found yet
+- No village-specific photo collection or video found in English, Georgian, or Russian searches. Spelling variants searched included Bogchvilo, Bokchvilo, Bochkvilo and Georgian and Russian forms. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/bokchvilo))
 
 ## Articles
-- nothing found yet
+- Village entry under the spelling Bokchvilo; includes 1926, 2002, and 2014 counts and its abandoned status. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/bokchvilo))
+- Georgian municipal regulation listing Bogchvilo among Barisakho administrative unit villages. ([source](https://new.matsne.gov.ge/ka/document/view/2520940))
 
 ## Road
 

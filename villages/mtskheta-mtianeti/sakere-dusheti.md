@@ -5,7 +5,7 @@
 ## Size
 - Population: 2002: **0** · 2014: **0**
 - Peak population found: **0 (2002/2014)**
-- Houses: not counted yet
+- Houses: 4 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: 0 in every census found (2002,2014)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat)
 
@@ -33,22 +33,22 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Described as an abandoned village in Chartali community, on the western slope of the Gudamaqari ridge near the Jughisis-khevi. Founding, first record, cause/date of abandonment, former residents and last inhabitants not established. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/sakere))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- Abandoned; no dated population figure located. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/sakere))
 
 ## Crafts And Traditions
 - nothing found yet
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No village-specific monument or heritage register record located. ([source](https://memkvidreoba.gov.ge/))
 
 ## Photos And Videos
-- nothing found yet
+- No village-specific photo or video located. ([source](https://www.youtube.com/results?search_query=Sakere+Dusheti+Georgia))
 
 ## Articles
-- nothing found yet
+- Explore Georgia village entry; identifies Sakere as abandoned and gives its location. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/sakere))
 
 ## Road
 

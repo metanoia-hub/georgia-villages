@@ -5,7 +5,7 @@
 ## Size
 - Population: 2002: **12** · 2014: **4**
 - Peak population found: **12 (2002)**
-- Houses: not counted yet
+- Houses: 8 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: unknown
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 2002 Geostat village volume PDF (confirms 12)
 
@@ -33,23 +33,23 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Gvalderi is a village in the Etseri administrative community of Mestia Municipality. Search results in English, Georgian, and Russian (including the Soviet-era spelling Гвалдери) yielded no sourced account of its foundation, first record, former households, depopulation, or last residents. ([source](https://www.mestia.gov.ge/ge/node/1340/))
 
 ## Population Over Time (Other Sources)
-- 2014 population figure not verified in accessible source. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/mestia-municipality/gvalderi))
+- 4 residents in the 2014 census; no verified later village-level count located in the sources checked. ([source](https://pop-stat.mashke.org/georgia-census2014.htm))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific trade, craft, or feast-day account located in English, Georgian, and Russian searches. ([source](https://www.mestia.gov.ge/ge/node/1340/))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No monument specifically attributed to Gvalderi was verified in the heritage and regional searches. The municipality places it in the Etseri community; this does not establish a monument within the village. ([source](https://whc.unesco.org/document/194942))
 
 ## Photos And Videos
-- No individual image/video result was verified. Search links are supplied for follow-up; no specific photo is asserted. ([source](https://www.google.com/search?tbm=isch&q=Gvalderi%20Mestia%20Georgia%20village))
-- YouTube search results; no specific video verified as showing the village. ([source](https://www.youtube.com/results?search_query=Gvalderi%20Mestia%20Georgia%20village))
+- nothing found yet
 
 ## Articles
-- nothing found yet
+- Mestia Municipality administrative communities listing Gvalderi in Etseri. ([source](https://www.mestia.gov.ge/ge/node/1340/))
+- 2014 settlement census table (Gvalderi: 12 in 2002; 4 in 2014). ([source](https://pop-stat.mashke.org/georgia-census2014.htm))
 
 ## Road
 

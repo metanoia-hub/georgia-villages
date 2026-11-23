@@ -33,13 +33,13 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Patara Chvarebi is listed as an abandoned village in Gori Municipality. It belonged to the former Mghebriani administrative unit. No source reviewed establishes its founding, first record, former population, why or when it emptied, or last inhabitants. ([source](https://explore-georgia.ge/en/shida-kartli/gori-municipality/patara-chvarebi))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 0 residents in each of the 2002, 2014, and 2024 census tables; no earlier village-level figure was located in the reviewed sources. ([source](https://pop-stat.mashke.org/georgia-census2024.htm))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific evidence located for historical trades, crafts, or a feast day after searches using the English, Georgian, and Russian names. ([source](https://explore-georgia.ge/en/shida-kartli/gori-municipality/patara-chvarebi))
 
 ## Churches, Towers, Monuments
 - nothing found yet
@@ -48,7 +48,8 @@
 - nothing found yet
 
 ## Articles
-- No village-specific article located in the sources reviewed. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- Patara Chvarebi village entry (English). ([source](https://explore-georgia.ge/en/shida-kartli/gori-municipality/patara-chvarebi))
+- Gori Municipality administrative-unit record listing Patara Chvarebi among Mghebriani settlements (Georgian official legal gazette). ([source](https://matsne.gov.ge/ka/document/view/3851094))
 
 ## Road
 

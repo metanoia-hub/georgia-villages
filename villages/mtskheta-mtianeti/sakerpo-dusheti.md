@@ -33,22 +33,22 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- A village in Gudamaqari community on the banks of the Bakurkhevi. Historical settlement and depopulation details not located. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/sakerpo))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 2 residents (current figure reported by Explore Georgia; its page does not specify a census year). ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/sakerpo))
 
 ## Crafts And Traditions
 - nothing found yet
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No village-specific monument or heritage register record located. ([source](https://memkvidreoba.gov.ge/))
 
 ## Photos And Videos
-- nothing found yet
+- No village-specific photo or YouTube video located. ([source](https://www.youtube.com/results?search_query=Sakerpo+Dusheti+Georgia))
 
 ## Articles
-- nothing found yet
+- Explore Georgia village entry; location and community. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/sakerpo))
 
 ## Road
 

@@ -33,22 +33,30 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Varjaani is described as an abandoned highland village south of Gudaleti. Archaeological evidence documented at the site spans four periods: pottery from antiquity and the early feudal period, an Archangel church and burial ground from the high feudal period, and a late-feudal stone cist containing a human skeleton. Sources located do not give a village founding date or name its earliest inhabitants. ([source](https://explore-georgia.ge/en/shida-kartli/kaspi-municipality/varjaani))
+- The 1923 census counted 123 residents. A 2018 local feature describes the village as having been evacuated about half a century earlier and follows descendants working to restore the ancestral settlement; a 2018 public-broadcaster report says residents planned to rebuild homesteads, though the settlement lacked a road and electricity. These sources do not securely establish a single last resident or a precise evacuation date. ([source](https://kvirispalitra.ge/article/47040-qvarjaanidan-tirilith-tsavedith-ukan-ki-sikharulith-davbrundebithq/))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 0 residents in the 2024 census listing for Varjaani. The 1923 census recorded 123; the 2018 stories about descendants returning and rebuilding are not census counts. ([source](https://pop-stat.mashke.org/georgia-census2024.htm))
 
 ## Crafts And Traditions
-- nothing found yet
+- A local feature reports that an Easter feast day was held at the Archangel shrine in Varjaani. It describes residents cultivating greens, vegetables, and fruit trees during a return effort, but does not identify these as a distinctive inherited craft or trade. ([source](https://kvirispalitra.ge/article/47040-qvarjaanidan-tirilith-tsavedith-ukan-ki-sikharulith-davbrundebithq/))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- The Archangel Church in abandoned Varjaani was restored by local descendants in the 2010s; a 2018 public-broadcaster report says restoration was complete. Heritage-register status was not confirmed in the official register searches conducted. ([source](https://1tv.ge/video/mitovebuli-sofeli/))
+- The archaeological profile also records an Archangel church and burial ground from the high feudal period, and a late-feudal stone cist with human remains. ([source](https://explore-georgia.ge/en/shida-kartli/kaspi-municipality/varjaani))
 
 ## Photos And Videos
-- nothing found yet
+- Photograph and map page for Varjaani; the page credits a community photograph to Valeri Zanguri under CC BY-SA 4.0. ([source](https://mapcarta.com/N14121713450))
+- Archangels Basilica page with photographs and site details. ([source](https://madloba.info/en/region-shida-kartli/churches/varjaani-archangels-basilica/))
+- Video report: “Abandoned Village” (English translation of the Georgian title), about the planned return to Varjaani and restoration of the Archangel Church; published circa 2018. ([source](https://1tv.ge/video/mitovebuli-sofeli/))
+- No separate village-specific YouTube drone or walk-through video surfaced in English, Georgian, or Russian searches; the 1TV report is a video article, not a YouTube upload. ([source](https://www.youtube.com/results?search_query=Varjaani+Kaspi+Georgia+village))
 
 ## Articles
-- No village-specific article located in the sources reviewed. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- Local feature on descendants return, the villages evacuation, restoration of the Archangel Church, and Easter feast day (Georgian, translated for this record; 2018). ([source](https://kvirispalitra.ge/article/47040-qvarjaanidan-tirilith-tsavedith-ukan-ki-sikharulith-davbrundebithq/))
+- Public-broadcaster video report on plans to repopulate Varjaani, lack of infrastructure, and restored Archangel Church (Georgian, translated for this record; circa 2018). ([source](https://1tv.ge/video/mitovebuli-sofeli/))
+- Archaeological and abandoned-settlement profile. ([source](https://explore-georgia.ge/en/shida-kartli/kaspi-municipality/varjaani))
+- The 1923 rural census lists 123 residents. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
 
 ## Road
 

@@ -5,7 +5,7 @@
 ## Size
 - Population: 2002: **5** · 2014: **0**
 - Peak population found: **5 (2002)**
-- Houses: not counted yet
+- Houses: 13 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2014 (last with residents: 2002)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat)
 
@@ -33,23 +33,25 @@
 - Winter road: Village road unknown. The main road into Oni was reported closed for works on 23 Nov 2026. The Shkmeri detour had a winter trailer ban.
 
 ## History
-- nothing found yet
+- Church-art sources also call Jois Ubani Shromisubani or Jvarisubani. Scholarly descriptions date its Church of St George to the 10th century (some give 9th–10th centuries). Targeted searches in English, Georgian, and Russian found no reliable settlement founding date, first written mention, depopulation cause/date, or last residents. ([source](https://pravenc.ru/text/168199.html))
 
 ## Population Over Time (Other Sources)
-- 2014 census: 0 permanent residents; 2024 census: 1 resident. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/oni-municipality/jois-ubani))
+- 2014 census: 5 residents under the combined name Jois Ubani / Shromisubani. Oni Municipality’s register reports 4 registered persons on 1 January 2023. ([source](https://oni.gov.ge/mosaxleobis-raodenoba-da-urbanuli-gadanawileba/amp/))
 
 ## Crafts And Traditions
 - nothing found yet
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- The Church of St George, also called Mtskhetis Jvari, has surviving carved façade reliefs depicting the meeting and Annunciation of Mary and Elizabeth and haloed figures. Art-historical sources date the church and reliefs to the 10th century; no authoritative formal national-list status was confirmed. ([source](https://georgiantravelguide.com/ru/joisubnis-mtskhetis-jvris-tsminda-giorgis-eklesia))
+- Orthodox Encyclopedia discussion of the church’s 10th-century relief program. ([source](https://pravenc.ru/text/168199.html))
 
 ## Photos And Videos
-- The referenced village page includes online location imagery/photographs where available; this is a village page, not a verified independent photo archive. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/oni-municipality/jois-ubani))
-- YouTube result titled “RACHA - GEORGIA” lists this village among places in the Racha sequence; published circa 2007 (search-index age). ([source](https://www.youtube.com/watch?v=WRfUEWoWkhg))
+- Illustrated church page with photographs of the building and carvings. ([source](https://georgiantravelguide.com/ru/joisubnis-mtskhetis-jvris-tsminda-giorgis-eklesia))
+- No relevant YouTube video surfaced in targeted English, Georgian, and Russian searches; YouTube search. ([source](https://www.youtube.com/results?search_query=Jois+Ubani+Shromisubani+ჯოისუბანი+Джойсубани))
 
 ## Articles
-- nothing found yet
+- Chubinashvili Centre documentation of Joisubani Church of St George and its stone reliefs. ([source](https://www.gch-centre.ge/2018/05/06/%E1%83%A5%E1%83%95%E1%83%98%E1%83%A1-%E1%83%A0%E1%83%94%E1%83%9A%E1%83%98%E1%83%94%E1%83%A4%E1%83%94%E1%83%91%E1%83%98-2/))
+- Art-historical study of Joisubani’s relief program. ([source](https://kartvelologist.journals.humanities.tsu.ge/index.php/kartvelologist/article/download/9598/9417/16334))
 
 ## Road
 

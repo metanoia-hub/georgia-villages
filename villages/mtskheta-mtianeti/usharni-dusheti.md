@@ -5,7 +5,7 @@
 ## Size
 - Population: 2002: **2** · 2014: **0** · 2024: **0**
 - Peak population found: **2 (2002)**
-- Houses: not counted yet
+- Houses: 1 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2014 (last with residents: 2002)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 2002 Geostat village volume PDF (confirms 2)
 
@@ -33,22 +33,25 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- No founding date, first historical mention, named former families, or reason and date of abandonment could be verified in the sources reviewed. The settlement is described as abandoned and is located in Kvesheti community on the right bank of the Sonchoskhevi River, 1,450 metres above sea level. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/usharni))
+- Searches in English, Georgian and Russian found no village-specific account in the Georgian Soviet Encyclopedia, local news, municipal publications, travel writing, Facebook results or YouTube results beyond settlement listings and census data. The 2002 census count of two is the last named count before the 2014 census recorded no permanent residents; it does not identify the last residents. ([source](https://www.geostat.ge/media/20680/2014-wlis-aRweris-ZiriTadi-Sedegebi.pdf))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 2002: 2 residents (1 male, 1 female). 2014: 0. These are the latest named-village census figures I could substantiate; the released 2024 census workbook located for this research is organized by urban/rural settlement type and does not provide a verifiable village-level count here. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/usharni))
+- The official 2014 census table records zero permanent residents. ([source](https://www.geostat.ge/media/20680/2014-wlis-aRweris-ZiriTadi-Sedegebi.pdf))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific trade, craft, or feast day was documented in the sources reviewed. The settlement profile and regional-language searches contain no such details. ([source](https://explore-georgia.ge/ka/mtskheta-mtianeti/dushetis-municipaliteti/usharni))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No church, tower, or other monument specifically attributed to Usharni was identified in the heritage-register searches or village profiles. This is a limit of the located records, not proof that no remains exist. ([source](https://memkvidreoba.gov.ge/))
 
 ## Photos And Videos
-- nothing found yet
+- No attributable village-specific photograph or YouTube video was verified after English, Georgian and Russian searches. This YouTube query documents the name variants checked. ([source](https://www.youtube.com/results?search_query=Usharni+Dusheti+%E1%83%A3%E1%83%A8%E1%83%90%E1%83%A0%E1%83%9C%E1%83%98+%D0%A3%D1%88%D0%B0%D1%80%D0%BD%D0%B8))
 
 ## Articles
-- nothing found yet
+- The municipal settlement profile supplies location and census information but no village history. No additional village-specific article was located in the named local-news, municipal, travel-blog or social-media searches in English, Georgian and Russian. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/usharni))
+- A Georgian-language legal notice lists Usharni among the villages of Kvesheti administrative unit; it does not provide a local history. ([source](https://www.matsne.gov.ge/ka/document/view/2520940?publication=2))
 
 ## Road
 

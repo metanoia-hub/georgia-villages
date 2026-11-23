@@ -33,22 +33,24 @@
 - Winter road: Village road unknown. Gudauri–Kobi main road reopened 22 Nov 2026 and is subject to winter closures.
 
 ## History
-- nothing found yet
+- Mna is a historic village in the Mna River valley. A scholarly survey identifies a church, cemetery dated to the tenth–eleventh centuries, and a coin hoard found near the church in 1924. A regional study describes Mna as one of the depopulated settlements of Truso; the sources found here do not identify its last residents or give a precise abandonment date. ([source](https://www.academia.edu/48990593/Truso_Historical_And_Ethnocultural_Issues))
+- Mnas Virgin Mary shrine is described as the Kobiashvili familys shrine in an ethnographic study of the Kazbegi region. ([source](https://www.academia.edu/36534379/%E1%83%9D%E1%83%A1%E1%83%97%E1%83%90_%E1%83%A1%E1%83%90%E1%83%99%E1%83%98%E1%83%97%E1%83%AE%E1%83%98_%E1%83%A7%E1%83%90%E1%83%96%E1%83%91%E1%83%94%E1%83%92%E1%83%98%E1%83%A1_%E1%83%A0%E1%83%94%E1%83%92%E1%83%98%E1%83%9D%E1%83%9C%E1%83%A8%E1%83%98_pdf))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 2014 census: 0 residents (dash in the settlement table). ([source](https://pop-stat.mashke.org/georgia-census2014.htm))
 
 ## Crafts And Traditions
 - nothing found yet
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- The village has a Virgin Mary church; a cemetery immediately north of the church is dated to the tenth–eleventh centuries. A 926-coin hoard was found near the church in 1924. Formal heritage-register status for these particular remains was not confirmed in the sources consulted. ([source](https://www.academia.edu/48990593/Truso_Historical_And_Ethnocultural_Issues))
 
 ## Photos And Videos
-- nothing found yet
+- Mna Valley tour page with an image captioned as the abandoned Mna village. ([source](https://www.bisna.legitima.ge/en/tours/550))
 
 ## Articles
-- nothing found yet
+- Truso: Historical and Ethnocultural Issues (Mna church, cemetery and archaeological find). ([source](https://www.academia.edu/48990593/Truso_Historical_And_Ethnocultural_Issues))
+- Mna Valley and Mna Fang route description. ([source](https://www.bisna.legitima.ge/en/tours/550))
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%9B%E1%83%9C%E1%83%90&params=42_36_39_N_44_27_51_E_type:city(40361)_region:
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo

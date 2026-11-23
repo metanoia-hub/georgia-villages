@@ -33,10 +33,12 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Matura is a highland village on the Maturakhevi stream in the Ukanapshavi community. A nineteenth-century Russian account lists it among Pshavi settlements. The Georgian National Encyclopedia gives the location but the sources found do not establish its founding or first record, a reason for population decline, or the identity of any last inhabitants. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1820-1840/Zubarev_D/text.htm))
+- The national encyclopedia describes Matura’s setting on the southern slope of the Tusheti-Khevsureti Caucasus and by the Maturakhevi, a right tributary of the Pshavi Aragvi. ([source](https://www.georgianencyclopedia.ge/ka/form/29570))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 125 residents in 1917; 93 in 1923; 3 in 2002; 1 in 2014; and 0 in 2024. ([source](https://pop-stat.mashke.org/georgia-census2024.htm))
+- The 2024 list of Georgian settlements reports Matura with 1 resident, while the local project census table records 0 in the 2024 source series. This is a source discrepancy; the latest directly shown Explore Georgia settlement listing also gives 1, without naming a census year. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
 
 ## Crafts And Traditions
 - nothing found yet
@@ -45,10 +47,13 @@
 - nothing found yet
 
 ## Photos And Videos
-- nothing found yet
+- Satellite view centered on Matura; map imagery, not a dated ground photograph. ([source](https://www.google.com/maps/@42.4432853,45.0727394,1500m/data=!3m1!1e3))
+- No village-specific YouTube drone or walk-through video found after searches in English, Georgian, and Russian. ([source](https://www.youtube.com/results?search_query=Matura+Dusheti+Georgia))
 
 ## Articles
-- nothing found yet
+- Georgian National Encyclopedia entry describing Matura’s geographic location. ([source](https://www.georgianencyclopedia.ge/ka/form/29570))
+- Nineteenth-century Russian account listing Matura among Pshavi settlements. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1820-1840/Zubarev_D/text.htm))
+- Village profile and current settlement listing. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/matura))
 
 ## Road
 

@@ -5,7 +5,7 @@
 ## Size
 - Population: 2002: **10** · 2014: **6**
 - Peak population found: **10 (2002)**
-- Houses: not counted yet
+- Houses: 0 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: unknown
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat)
 
@@ -33,22 +33,25 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- A 2014 village profile describes Ipnara as a settlement in the Boshuri community on the northern Trialeti slope, south of the Tana River. No founding date, cause or date of depopulation, or last residents were found in the sources located. ([source](https://explore-georgia.ge/en/shida-kartli/gori-municipality/ipnara))
+- An OSCE report says residents from Ipnara, Tkhinala and Gagiuantubani were expelled during the 2008 conflict: 38 families, 119 people in total across the three villages. It does not give village-by-village counts. ([source](https://cdn.osce.org/sites/default/files/f/documents/8/e/83387.pdf))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 6 residents in the 2014 census (2 male, 4 female); 10 in 2002 (6 male, 4 female). These census-era figures conflict with the users present-day 0-or-1 framing and are reported as published. ([source](https://explore-georgia.ge/en/shida-kartli/gori-municipality/ipnara))
+- The 1923 rural settlement ethnicity table lists 96 residents, all recorded in one ethnic category in the table. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
 
 ## Crafts And Traditions
 - nothing found yet
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- Ruins of a feudal-period church survive in the village. No heritage-register status was established from the sources found. ([source](https://explore-georgia.ge/en/shida-kartli/gori-municipality/ipnara))
 
 ## Photos And Videos
 - nothing found yet
 
 ## Articles
-- No village-specific article located in the sources reviewed. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- OSCE report on expulsions from the Boshuri area. ([source](https://cdn.osce.org/sites/default/files/f/documents/8/e/83387.pdf))
+- Village profile, church and census information. ([source](https://explore-georgia.ge/en/shida-kartli/gori-municipality/ipnara))
 
 ## Road
 

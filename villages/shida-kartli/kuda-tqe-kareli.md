@@ -5,7 +5,7 @@
 ## Size
 - Population: 1917: **101** · 1923: **66** · 2002: **6** · 2014: **1**
 - Peak population found: **101 (1917)**
-- Houses: not counted yet
+- Houses: 9 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: unknown
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 2002 Geostat village volume PDF (confirms 6) ; 1923 Georgia rural census by settlement (Mashke pop-stat.mashke.org/georgia-ethnic-loc1923.htm), unit: Goris/Tsromis ; 1917 Tiflis governorate villages (Mashke pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm), unit: Хцисское
 
@@ -33,22 +33,23 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Kuda Tqe is a village in Kareli Municipality, in the Akhalsopeli administrative unit. The name is also rendered Kudatke in Russian and Kudatqe in alternate transliteration. The consulted sources do not establish its founding date, first recorded residents, or when and why its population fell to one. ([source](https://www.matsne.gov.ge/ka/document/view/3854427))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 1 resident in the 2014 census, identified as Georgian in the Russian-language village entry. No later settlement-level census count was located. ([source](https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B4%D0%B0%D1%82%D0%BA%D0%B5))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific craft, trade tradition, or feast day was located in English, Georgian, or Russian searches. ([source](https://matsne.gov.ge/ka/document/view/3854427))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No village-specific church, tower, other monument, or confirmed heritage-register status was located. The official municipal document identifies Kuda Tqe as a village in Akhalsopeli administrative unit but does not list monuments. ([source](https://www.matsne.gov.ge/ka/document/view/3854427))
 
 ## Photos And Videos
-- nothing found yet
+- No village-specific photograph or relevant YouTube walk-through/drone video located in English, Georgian, or Russian searches. ([source](https://www.youtube.com/results?search_query=Kuda+Tqe+Kareli+Georgia+village))
 
 ## Articles
-- No village-specific article located in the sources reviewed. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- Russian-language entry for Kudatke (Kuda Tqe) reports the 2014 census figure of one resident and gives its location. ([source](https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B4%D0%B0%D1%82%D0%BA%D0%B5))
+- Georgian government document listing Kuda Tqe among villages of the Akhalsopeli administrative unit. ([source](https://www.matsne.gov.ge/ka/document/view/3854427))
 
 ## Road
 

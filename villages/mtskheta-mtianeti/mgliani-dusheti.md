@@ -33,22 +33,22 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Listed as a village in Chonkadze community, in the upper Potiskhevi valley; Explore Georgia describes it as abandoned. No reliable source found for its founding, first record, former residents, cause/date of depopulation, or last inhabitants. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/mgliani))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 0 residents (2014 census, as reported by Explore Georgia). ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/mgliani))
 
 ## Crafts And Traditions
 - nothing found yet
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No village monument or heritage listing located in the searched sources. ([source](https://memkvidreoba.gov.ge/))
 
 ## Photos And Videos
-- nothing found yet
+- No village-specific photo or YouTube video located in the searched sources. ([source](https://www.youtube.com/results?search_query=Mgliani+Dusheti))
 
 ## Articles
-- nothing found yet
+- Georgian National Library dictionary entry: Mgliani village and name interpretation. ([source](https://www.nplg.gov.ge/wikidict/index.php/%E1%83%9B%E1%83%92%E1%83%9A%E1%83%98%E1%83%90%E1%83%9C%E1%83%98))
 
 ## Road
 

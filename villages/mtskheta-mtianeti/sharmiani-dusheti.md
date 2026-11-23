@@ -5,7 +5,7 @@
 ## Size
 - Population: 2002: **3** · 2014: **0** · 2024: **0**
 - Peak population found: **3 (2002)**
-- Houses: not counted yet
+- Houses: 8 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2014 (last with residents: 2002)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 2002 Geostat village volume PDF (confirms 3)
 
@@ -33,22 +33,28 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Sharmiani is an abandoned village on the right side of the Khadistsqali River, in Kvesheti community. The sources located do not establish its founding or first record, historic resident families, why or when it emptied, or the last inhabitants; the 2002 census still counted three residents and the 2014 census none. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/sharmiani))
+- The Khadi Valley cultural-landscape plan describes Sharmiani as an abandoned settlement and documents its architectural remains, but does not explain the villages depopulation. ([source](https://kveshetikobiroad.ge/wp-content/uploads/2023/12/istoriul-kulturuli-saqhrdeni-gegma_saboloo-angarishi.pdf))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 53 residents in 1926 (25 men and 28 women); 3 in 2002 (two men and one woman); 0 in 2014. These are the latest village-specific census counts located. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/sharmiani))
 
 ## Crafts And Traditions
 - nothing found yet
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- The Khadi Valley cultural-landscape plan describes a tenth-century hall church/sanctuary at the edge of the abandoned settlement, incorporated into a fortified complex, and tower ruins above the village. A 2020 government document also records a medieval tower ruin and late-medieval crypts near the Sharmiani shrine. The sources document the remains; the inventory records do not show a national-category designation for these entries. ([source](https://kveshetikobiroad.ge/wp-content/uploads/2023/12/istoriul-kulturuli-saqhrdeni-gegma_saboloo-angarishi.pdf))
+- Government document listing a medieval tower ruin above Sharmiani and crypts near the village shrine, dated broadly to the sixteenth through eighteenth centuries. ([source](https://www.mes.gov.ge/old/upload/editor/file/Brdzanebebi/2020/dekemberi/02-80.pdf))
 
 ## Photos And Videos
-- nothing found yet
+- Satellite map centered on Sharmiani; map imagery, not a dated ground photograph. ([source](https://www.google.com/maps/@42.452778,44.521411,1500m/data=!3m1!1e3))
+- No village-specific YouTube drone or walk-through video found in English, Georgian, or Russian searches; this link opens the English-name search results. ([source](https://www.youtube.com/results?search_query=Sharmiani+Dusheti+Georgia))
 
 ## Articles
-- nothing found yet
+- Village profile with location, abandoned status, and 1926, 2002, and 2014 population counts. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/sharmiani))
+- Khadi Valley cultural-landscape plan with descriptions of the abandoned settlement, church/sanctuary, and architectural remains. ([source](https://kveshetikobiroad.ge/wp-content/uploads/2023/12/istoriul-kulturuli-saqhrdeni-gegma_saboloo-angarishi.pdf))
+- Georgian governments 2020 document describing Sharmianis tower ruin and crypts. ([source](https://www.mes.gov.ge/old/upload/editor/file/Brdzanebebi/2020/dekemberi/02-80.pdf))
+- Geostat-derived table of Georgias 2014 census results, searchable by settlement name. ([source](https://pop-stat.mashke.org/georgia-census2014.htm))
 
 ## Road
 

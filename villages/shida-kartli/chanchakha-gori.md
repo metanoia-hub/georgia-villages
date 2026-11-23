@@ -5,7 +5,7 @@
 ## Size
 - Population: 1923: **45** · 2002: **0** · 2014: **0** · 2024: **0**
 - Peak population found: **45 (1923)**
-- Houses: not counted yet
+- Houses: 1 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2002 (last with residents: 1923)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 1923 Georgia rural census by settlement (Mashke pop-stat.mashke.org/georgia-ethnic-loc1923.htm), unit: Goris/Akhalsopelis
 
@@ -33,22 +33,24 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Chanchakha is a highland settlement on the left side of the Tedzmi River, on the northern slope of the Trialeti range. Searches in English, Georgian, and Russian did not establish a founding date, first record, former village population, or the date and reason it emptied. A Georgian legislative proposal lists Chanchakha among Gori Municipality villages that became abandoned settlements during 2015–2021. An OSCE report gives a combined total of 63 families (194 people) expelled from ten village councils in the Mghebriani area, including Chanchakha; it does not break the figure down by village or name Chanchakha’s last residents. ([source](https://cdn.osce.org/sites/default/files/f/documents/8/e/83387.pdf))
+- A Georgian legislative proposal lists Chanchakha among Gori Municipality villages that became abandoned settlements during 2015–2021; it does not identify the last residents or explain this village’s departure. ([source](https://www.legali.ge/project/25874/))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 0 residents in the 2002, 2014, and 2024 censuses, according to the settlement profile. ([source](https://explore-georgia.ge/en/shida-kartli/gori-municipality/chanchakha))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific trade, craft, or feast day was found in English, Georgian, or Russian searches. ([source](https://explore-georgia.ge/en/shida-kartli/gori-municipality/chanchakha))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No church, tower, or protected monument specifically attributed to Chanchakha was verified in the settlement profile, heritage registry searches, or multilingual searches. No heritage status was confirmed. ([source](https://explore-georgia.ge/en/shida-kartli/gori-municipality/chanchakha))
 
 ## Photos And Videos
 - nothing found yet
 
 ## Articles
-- No village-specific article located in the sources reviewed. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- Settlement profile with location and census counts for 2002, 2014, and 2024. ([source](https://explore-georgia.ge/en/shida-kartli/gori-municipality/chanchakha))
+- OSCE report documenting a combined total of 63 families expelled from ten village councils in Mghebriani, including Chanchakha. ([source](https://cdn.osce.org/sites/default/files/f/documents/8/e/83387.pdf))
 
 ## Road
 

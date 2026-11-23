@@ -33,10 +33,10 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Skhartali is listed as a village in Khotevi community, Ambrolauri Municipality. No reliable source located in the searched English, Georgian, and Russian material established its founding date, first recorded mention, earlier inhabitants, depopulation history, or last residents. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/ambrolauri-municipality/skhartali))
 
 ## Population Over Time (Other Sources)
-- 2014 census: 3 residents (2 men, 1 woman), all Georgian. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/ambrolauri-municipality/skhartali))
+- 3 residents at the 2014 census (2 men and 1 woman). This is the latest village-level census figure located in this research; it does not establish the current count. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/ambrolauri-municipality/skhartali))
 
 ## Crafts And Traditions
 - nothing found yet
@@ -45,11 +45,12 @@
 - nothing found yet
 
 ## Photos And Videos
-- The referenced village page includes online location imagery/photographs where available; this is a village page, not a verified independent photo archive. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/ambrolauri-municipality/skhartali))
-- YouTube result titled “RACHA - GEORGIA” lists this village among places in the Racha sequence; published circa 2007 (search-index age). ([source](https://www.youtube.com/watch?v=WRfUEWoWkhg))
+- Photographs and map on the village profile. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/ambrolauri-municipality/skhartali))
+- No village-specific YouTube video located in English, Georgian, or Russian searches for Skhartali and Ambrolauri. ([source](https://www.youtube.com/results?search_query=Skhartali+Ambrolauri))
 
 ## Articles
-- Village reference or report. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/ambrolauri-municipality/skhartali))
+- Ambrolauri Municipality’s 2023–2026 planning document lists Skhartali in Khotevi community. ([source](https://ambrolauri.gov.ge/wp-content/uploads/2022/12/2023-2026-%E1%83%9E%E1%83%A0%E1%83%98%E1%83%9D%E1%83%A0%E1%83%98%E1%83%A2.-%E1%83%93%E1%83%9D%E1%83%99%E1%83%A3%E1%83%9B%E1%83%94%E1%83%9C%E1%83%A2%E1%83%98-%E1%83%9B%E1%83%94%E1%83%9D%E1%83%A0%E1%83%94-%E1%83%95%E1%83%94%E1%83%A0%E1%83%A1%E1%83%98%E1%83%90-1-1.pdf))
+- Ambrolauri to Khotevi walking trail route, which names Skhartali; not a village history. ([source](https://ambrolauri.gov.ge/wp-content/uploads/2025/04/N28-%E1%83%92%E1%83%90%E1%83%9C%E1%83%99%E1%83%90%E1%83%A0%E1%83%92%E1%83%A3%E1%83%9A%E1%83%94%E1%83%91%E1%83%98%E1%83%A1-%E1%83%93%E1%83%90%E1%83%9C%E1%83%90%E1%83%A0%E1%83%97%E1%83%982024-%E1%83%AC%E1%83%9A%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98-%E1%83%91%E1%83%98%E1%83%A3%E1%83%AF%E1%83%94%E1%83%A2%E1%83%98%E1%83%A1-%E1%83%90%E1%83%9C%E1%83%92%E1%83%90-1.pdf))
 
 ## Road
 

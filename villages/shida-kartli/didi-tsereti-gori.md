@@ -5,7 +5,7 @@
 ## Size
 - Population: 2002: **0** · 2014: **0** · 2024: **0**
 - Peak population found: **0 (2002/2014/2024)**
-- Houses: not counted yet
+- Houses: 6 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: 0 in every census found (2002,2014,2024)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat)
 
@@ -33,22 +33,26 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Didi Tsereti lies at the head of the Tkhinali River on the northern slope of the Trialeti range. No source located gives a foundation date or earliest record. A Georgian historical account reports that in 1946 members of the Didi Tsereti collective farm were among people who moved with their property from Gori District to North Ossetia for permanent residence; the account does not give a Didi Tsereti-only number or prove that the village emptied then. Separately, an OSCE report records 63 families (194 people) expelled from a group of ten village councils in the Mghebriani area, including Didi Tsereti; this is a combined total. A Georgian legislative proposal later lists Didi Tsereti among Gori villages that became abandoned during 2015–2021. Sources found do not identify its last inhabitants or establish one sole reason for depopulation. ([source](https://umurgulia82.blogspot.com/2019/07/2014.html))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 0 residents in the 2002, 2014, and 2024 censuses, according to the settlement profile. ([source](https://explore-georgia.ge/en/shida-kartli/gori-municipality/didi-tsereti))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific trade, craft, or feast day was found in English, Georgian, or Russian searches. ([source](https://georgianencyclopedia.ge/ka/form/4282))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- A damaged single-nave Church of the Mother of God in the village centre dates to the 14th–15th centuries. Nearby, on an abandoned settlement site, are ruins of a church and two towers of the same period; the Georgian Encyclopedia describes one as a five-storey cylindrical tower and the other as a three-storey square-plan pyramidal tower. No official heritage-list designation was verified for these structures. ([source](https://georgianencyclopedia.ge/ka/form/4282))
 
 ## Photos And Videos
-- nothing found yet
+- “Villages Turned into Abandoned Settlements” (English translation), Georgian Public Broadcaster report, 2024. The video description specifically names Didi Tsereti among Gori Municipality’s abandoned villages and says it lies in the Tana–Tedzami protected area. ([source](https://www.youtube.com/watch?v=cQznxtz-Qw0))
 
 ## Articles
-- No village-specific article located in the sources reviewed. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- Georgian Encyclopedia entry on Didi Tsereti’s location and medieval church and tower ruins. ([source](https://georgianencyclopedia.ge/ka/form/4282))
+- Settlement profile with location and census counts for 2002, 2014, and 2024. ([source](https://explore-georgia.ge/en/shida-kartli/gori-municipality/didi-tsereti))
+- Georgian historical article quoting the 1946 decision concerning Didi Tsereti collective-farm members moving to North Ossetia. ([source](https://umurgulia82.blogspot.com/2019/07/2014.html))
+- OSCE report documenting a combined total of 63 families expelled from ten village councils in Mghebriani, including Didi Tsereti. ([source](https://cdn.osce.org/sites/default/files/f/documents/8/e/83387.pdf))
+- Georgian legislative proposal listing Didi Tsereti among villages in Gori Municipality said to have become abandoned during 2015–2021. ([source](https://www.legali.ge/project/25874/))
 
 ## Road
 

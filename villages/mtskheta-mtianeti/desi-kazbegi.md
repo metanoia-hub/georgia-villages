@@ -5,7 +5,7 @@
 ## Size
 - Population: 2002: **0** · 2014: **0** · 2024: **0**
 - Peak population found: **0 (2002/2014/2024)**
-- Houses: not counted yet
+- Houses: 0 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: 0 in every census found (2002,2014,2024)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat)
 
@@ -33,22 +33,22 @@
 - Winter road: Village road unknown. Gudauri–Kobi main road reopened 22 Nov 2026 and is subject to winter closures.
 
 ## History
-- nothing found yet
+- Listed by the Georgian National Encyclopedia as a village in Kazbegi Municipality, in the Kobi community. A current settlement directory classifies it as settlement. No reliable source located for founding/first record, former residents, when or why it emptied, or last inhabitants. ([source](https://explore-georgia.ge/en/municipalities/kazbegi-municipality))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 2002/2014/2024: 0 ([source](https://explore-georgia.ge/en/settlements))
 
 ## Crafts And Traditions
 - nothing found yet
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No village-specific monument or heritage-register entry verified. ([source](https://memkvidreoba.gov.ge/))
 
 ## Photos And Videos
-- nothing found yet
+- Village-specific YouTube search (Desi; Georgian and Russian names also searched); no video title/year verified. ([source](https://www.youtube.com/results?search_query=Desi+Kazbegi+%E1%83%93%E1%83%94%E1%83%A1%E1%83%98))
 
 ## Articles
-- nothing found yet
+- Desi settlement listing and status/location. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/kazbegi-municipality/desi))
 
 ## Road
 

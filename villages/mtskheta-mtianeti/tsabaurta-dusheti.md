@@ -33,22 +33,23 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- A village in Ukanapshavi community. No reliable source located for its founding, first record, settlement history, or when/why it became nearly empty. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/tsabaurta))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- No dated census count located in the sources searched. ([source](https://geostat.ge/en/modules/categories/735/population-census))
 
 ## Crafts And Traditions
 - nothing found yet
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No village-specific monument or heritage status verified. ([source](https://memkvidreoba.gov.ge/))
 
 ## Photos And Videos
-- nothing found yet
+- Video: “Pshavi - Tsabaurta, Georgia (SAKARTVELO)” (2025, based on YouTube publication date). ([source](https://www.youtube.com/watch?v=SmtjvYUnbnA))
+- Video: “Tsabaurta, Main Archangel Community Icon” (2016, based on YouTube publication date). ([source](https://www.youtube.com/watch?v=SL2SSAV9yNs))
 
 ## Articles
-- nothing found yet
+- Explore Georgia village entry. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/tsabaurta))
 
 ## Road
 

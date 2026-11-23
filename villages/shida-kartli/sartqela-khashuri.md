@@ -5,7 +5,7 @@
 ## Size
 - Population: 1917: **117** · 1923: **99** · 2002: **21** · 2014: **1**
 - Peak population found: **117 (1917)**
-- Houses: not counted yet
+- Houses: 0 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: unknown
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 2002 Geostat village volume PDF (confirms 21) ; 1923 Georgia rural census by settlement (Mashke pop-stat.mashke.org/georgia-ethnic-loc1923.htm), unit: Goris/Ghudis ; 1917 Tiflis governorate villages (Mashke pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm), unit: Хцисское
 
@@ -33,22 +33,26 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- The village is not mentioned in the historical accounts attributed to Vakhushti and Ioane Batonishvili or in the historical/economic documents consulted; it belonged to the historic Tsitsishvili estate. The 1886 census counted seven households (72 people), described as entirely Georgian and originating from western Georgia. In 1925 it had 22 households: four Gogaladze, one Gelashvili, eight Tabatadze and nine Gobozashvili households. A 2021 report describes the village as depopulated, with locals returning seasonally to work their land; it attributes the abandonment to severe road, electricity and water problems, but does not date when residents left or identify a last permanent resident. ([source](https://explore-georgia.ge/ka/shida-qartli/khashuris-municipaliteti/sartyela))
+- Regional report on Sartqelas isolation: residents return seasonally to cultivate land; the village lacks adequate roads, electricity and water (2021; translated from Georgian). ([source](https://rustavi2.ge/ka/news/202359))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 1 resident in the 2024 census, according to the village profile; the same source gives 21 residents in 2002 and 1 in 2014. ([source](https://explore-georgia.ge/ka/shida-qartli/khashuris-municipaliteti/sartyela))
 
 ## Crafts And Traditions
-- nothing found yet
+- No specific traditional craft, trade or village feast day was located in English-, Georgian- or Russian-language sources. The 2021 report says residents return seasonally to cultivate their land; it does not identify a distinctive craft or tradition. ([source](https://rustavi2.ge/ka/news/202359))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No church, tower or other monument in Sartqela, and no heritage-protected site there, could be verified in the sources located. ([source](https://explore-georgia.ge/ka/shida-qartli/khashuris-municipaliteti/sartyela))
 
 ## Photos And Videos
-- nothing found yet
+- Rustavi 2 photo report on the depopulated village and infrastructure problems (2021). ([source](https://rustavi2.ge/ka/news/202359))
+- Village location and photo/map material in the Explore Georgia profile. ([source](https://explore-georgia.ge/en/shida-kartli/khashuri-municipality/sartyela))
 
 ## Articles
-- No village-specific article located in the sources reviewed. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- Explore Georgia history and census profile, including 1886 and 1925 household counts (English translation available through language selector). ([source](https://explore-georgia.ge/ka/shida-qartli/khashuris-municipaliteti/sartyela))
+- Rustavi 2 report on depopulation and infrastructure problems (Georgian). ([source](https://rustavi2.ge/ka/news/202359))
+- Russian-language overview of Sartqela. ([source](https://travelguide.ge/ru/regions/sartkela/))
 
 ## Road
 

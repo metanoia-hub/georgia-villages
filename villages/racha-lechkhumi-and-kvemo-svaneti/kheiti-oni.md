@@ -5,7 +5,7 @@
 ## Size
 - Population: 2002: **7** · 2014: **3** · 2024: **0**
 - Peak population found: **7 (2002)**
-- Houses: not counted yet
+- Houses: 42 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2024 (last with residents: 2014)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 2002 Geostat village volume PDF (confirms 7)
 
@@ -33,10 +33,11 @@
 - Winter road: Village road unknown. The main road into Oni was reported closed for works on 23 Nov 2026. The Shkmeri detour had a winter trailer ban.
 
 ## History
-- nothing found yet
+- This is Kheiti in Oni Municipality, in Kvashkhieti community. It is distinct from the better-known Kheiti in Kurta Municipality, Shida Kartli. No reliable source located in the searched English, Georgian, and Russian material established this Racha village’s founding, first recorded mention, former residents, depopulation, or last inhabitants. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/oni-municipality/kheiti))
 
 ## Population Over Time (Other Sources)
-- 2014 census: 3 residents (1 man, 2 women), all Georgian. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/oni-municipality/kheiti))
+- 3 residents at the 2014 census (1 man and 2 women). The latest municipality village table located reports 2 registered people, as of the date given on that page; neither figure verifies the present-day count. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/oni-municipality/kheiti))
+- Oni Municipality’s registered-person table lists 2 people in Kheiti. ([source](https://oni.gov.ge/mosaxleobis-raodenoba-da-urbanuli-gadanawileba/))
 
 ## Crafts And Traditions
 - nothing found yet
@@ -45,13 +46,14 @@
 - nothing found yet
 
 ## Photos And Videos
-- The referenced village page includes online location imagery/photographs where available; this is a village page, not a verified independent photo archive. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/oni-municipality/kheiti))
-- YouTube result titled “RACHA - GEORGIA” lists this village among places in the Racha sequence; published circa 2007 (search-index age). ([source](https://www.youtube.com/watch?v=WRfUEWoWkhg))
+- Photographs and map on the Oni Municipality village profile. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/oni-municipality/kheiti))
+- No village-specific YouTube video located in English, Georgian, or Russian searches for Kheiti and Oni. ([source](https://www.youtube.com/results?search_query=Kheiti+Oni+Racha))
 - https://commons.wikimedia.org/wiki/File%3ABokva_village_1.jpg
 - https://commons.wikimedia.org/wiki/File%3ABokva_cemetery.jpg
 
 ## Articles
-- Village reference or report. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/oni-municipality/kheiti))
+- Oni municipality administrative record places Kheiti among the villages in the Kvashkhieti unit. ([source](https://matsne.gov.ge/ka/document/view/1593005))
+- Profile of the distinct Kheiti in Kurta Municipality, Shida Kartli; excluded as a source for this village. ([source](https://explore-georgia.ge/en/shida-kartli/kurta-municipality/kheiti))
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%AE%E1%83%94%E1%83%98%E1%83%97%E1%83%98_(%E1%83%9D%E1%83%9C%E1%83%98%E1%83%A1_%E1%83%9B%E1%83%A3%E1%83%9C%E1%83%98%E1%83%AA%E1%83%98%E1%83%9E%E1%83%90%E1%83%9A%E1%83%98%E1%83%A2%E1%83%94%E1%83%A2%E1%83%98)&params=42_32_23_N_43_23_01_E_type:city(40361)_region:GE
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo

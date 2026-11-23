@@ -5,7 +5,7 @@
 ## Size
 - Population: 1923: **131** · 2002: **8** · 2014: **1** · 2024: **0**
 - Peak population found: **131 (1923)**
-- Houses: not counted yet
+- Houses: 9 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2024 (last with residents: 2014)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 2002 Geostat village volume PDF (confirms 8) ; 1923 Georgia rural census by settlement (Mashke pop-stat.mashke.org/georgia-ethnic-loc1923.htm), unit: Goris/Tsromis
 
@@ -33,10 +33,10 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Jagaraant Kari is included under Akhalsopeli administrative unit in Kareli Municipality. The 1923 rural settlement table records 131 residents, all in its Ossetian category. No founding, depopulation, or last-resident history found. ([source](https://www.matsne.gov.ge/ka/document/view/2531364))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 131 residents in the 1923 settlement table; all recorded in the tables Ossetian category. No reliable later numeric village census figure found in the searched sources. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
 
 ## Crafts And Traditions
 - nothing found yet
@@ -50,7 +50,8 @@
 - https://commons.wikimedia.org/wiki/File%3AISS021-E-36385_-_View_of_Earth.jpg
 
 ## Articles
-- No village-specific article located in the sources reviewed. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- Kareli municipal administrative list (Georgian-language source). ([source](https://www.matsne.gov.ge/ka/document/view/2531364))
+- 1923 settlement population and ethnic-composition table. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
 
 ## Road
 

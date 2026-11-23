@@ -33,22 +33,26 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- No founding date, earliest historical mention, named former families, or reason for abandonment was found. A Georgian-language settlement profile classifies Zhozhoni as abandoned and places it in Kvesheti community on the left side of the Mtiuleti Aragvi. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/zhozhoni))
+- The reported population fell from 129 in 1926 to 1 in 2002 and 0 in 2014. Sources do not name the last resident or give a departure date. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/zhozhoni))
+- A 2002-era Georgian dialect reference lists Zhozhoni with Usharni and other villages in the Mtiuleti dialect area. It does not describe the village’s individual history or identify its residents. ([source](https://armazi.fkidg1.uni-frankfurt.de/armaziII/enebi/kartuli/dialekt/mtiuluri.html))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 1926: 129 (58 men, 71 women); 2002: 1; 2014: 0. The 2014 census is the latest named-village count located. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/zhozhoni))
+- The official 2014 census village table records zero permanent residents. ([source](https://geostat.ge/media/20680/2014-wlis-aRweris-ZiriTadi-Sedegebi.pdf))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific craft, trade, or feast day was documented in the sources reviewed. No such information appears in the settlement profile or dialect reference. ([source](https://explore-georgia.ge/ka/mtskheta-mtianeti/dushetis-municipaliteti/zhozhoni))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No church, tower, or heritage-listed monument specifically attributed to Zhozhoni was located in the heritage-register searches or village profiles. This does not rule out unregistered remains. ([source](https://memkvidreoba.gov.ge/))
 
 ## Photos And Videos
-- nothing found yet
+- No attributable village-specific photo or YouTube video was verified after English, Georgian and Russian searches. This YouTube query documents the name variants checked. ([source](https://www.youtube.com/results?search_query=Zhozhoni+Dusheti+%E1%83%9F%E1%83%9D%E1%83%9F%E1%83%9D%E1%83%9C%E1%83%98+%D0%96%D0%BE%D0%B6%D0%BE%D0%BD%D0%B8))
 
 ## Articles
-- nothing found yet
+- The Georgian historical-documents archive and Explore Georgia profile identify the settlement, but no detailed village history was found. Searches of the requested regional-news, municipality, travel-blog and social sources in all three languages produced no further village-specific article. ([source](https://erekle.archive.gov.ge/places/1258/zhozhona))
+- The administrative notice lists Zhozhoni among Kvesheti community villages. ([source](https://www.matsne.gov.ge/ka/document/view/2520940?publication=2))
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%9F%E1%83%9D%E1%83%9F%E1%83%9D%E1%83%9C%E1%83%98&params=42_27_09_N_44_33_17_E_type:city(40361)_region:
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo

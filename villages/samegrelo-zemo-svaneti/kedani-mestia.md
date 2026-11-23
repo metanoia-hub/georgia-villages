@@ -5,7 +5,7 @@
 ## Size
 - Population: 2002: **0** · 2014: **4** · 2024: **0**
 - Peak population found: **4 (2014)**
-- Houses: not counted yet
+- Houses: 1 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: unknown
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat)
 
@@ -33,10 +33,10 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Mestia Municipality lists Kedani in the Khaishi community. Targeted English, Georgian, and Russian searches found no reliable village-specific account of its founding, first written record, depopulation, or last inhabitants. ([source](https://www.mestia.gov.ge/ge/node/1340/))
 
 ## Population Over Time (Other Sources)
-- 4 residents (2 men, 2 women), 2014 census. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/mestia-municipality/kedani))
+- 2014 census: 4 residents (2 men and 2 women). ([source](https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D0%B4%D0%B0%D0%BD%D0%B8))
 
 ## Crafts And Traditions
 - nothing found yet
@@ -45,11 +45,12 @@
 - nothing found yet
 
 ## Photos And Videos
-- No individual image/video result was verified. Search links are supplied for follow-up; no specific photo is asserted. ([source](https://www.google.com/search?tbm=isch&q=Kedani%20Mestia%20Georgia%20village))
-- YouTube search results; no specific video verified as showing the village. ([source](https://www.youtube.com/results?search_query=Kedani%20Mestia%20Georgia%20village))
+- Illustrated village location page; no specific monument confirmed. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/mestia-municipality/kedani))
+- No relevant YouTube video surfaced in targeted English, Georgian, and Russian searches; YouTube search. ([source](https://www.youtube.com/results?search_query=Kedani+Mestia+ქედანი+Кедани))
 
 ## Articles
-- nothing found yet
+- Official Mestia Municipality community roster. ([source](https://www.mestia.gov.ge/ge/node/1340/))
+- Travel Guide Georgia’s Georgian/Russian village listing; its general customary-life claims are not village-specific evidence for crafts or history. ([source](https://travelguide.ge/ru/regions/kedani/))
 
 ## Road
 

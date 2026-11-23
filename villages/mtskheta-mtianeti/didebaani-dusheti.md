@@ -33,16 +33,17 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Didebaani is in the Gudamaqari community, in the Gudamaqari gorge on the northeastern slope of the Mtiuleti Ridge. Census series show a marked decline: 94 residents in 1926, 50 in 2002 and 9 in 2014. The sources located do not explain the causes or timing of outmigration or name the last residents. ([source](https://explore-georgia.ge/ka/mtskheta-mtianeti/dushetis-municipaliteti/didebaani))
+- The municipality administrative decree lists Didebaani among the Gudamaqari community villages. ([source](https://www.matsne.gov.ge/ka/document/view/2520940?publication=2))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 9 residents (4 men and 5 women) in the 2014 census; the same village profile reports 50 in 2002 and 94 in 1926. ([source](https://explore-georgia.ge/ka/mtskheta-mtianeti/dushetis-municipaliteti/didebaani))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific craft, trade, or feast-day documentation was found after English, Georgian and Russian searches. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/didebaani))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No specifically attributed church, tower, or protected heritage property was located in the searches. The national heritage GIS states its inventory is incomplete. ([source](https://memkvidreoba.gov.ge/about))
 
 ## Photos And Videos
 - nothing found yet
@@ -50,7 +51,8 @@
 - Main picture: http://commons.wikimedia.org/wiki/Special:FilePath/Didebani%20Village.jpg
 
 ## Articles
-- nothing found yet
+- Village profile with 1926, 2002 and 2014 census series and geographic description. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/didebaani))
+- Municipality administrative decree listing Didebaani. ([source](https://www.matsne.gov.ge/ka/document/view/2520940?publication=2))
 
 ## Road
 

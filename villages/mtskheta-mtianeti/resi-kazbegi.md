@@ -5,7 +5,7 @@
 ## Size
 - Population: 1917: **207** · 1923: **148** · 2002: **0** · 2014: **0** · 2024: **0**
 - Peak population found: **207 (1917)**
-- Houses: not counted yet
+- Houses: 1 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2002 (last with residents: 1923)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 1923 Georgia rural census by settlement (Mashke pop-stat.mashke.org/georgia-ethnic-loc1923.htm), unit: Dushetis/Kobis ; 1917 Tiflis governorate villages (Mashke pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm), unit: Земо-Хевское ; JAMnews Land of abandoned villages
 
@@ -33,22 +33,25 @@
 - Winter road: Village road unknown. Gudauri–Kobi main road reopened 22 Nov 2026 and is subject to winter closures.
 
 ## History
-- nothing found yet
+- Resi is a historic settlement in the Truso Gorge, part of the medieval valley defense system. It belonged to the Aragvi eristavi in the late 17th and early 18th centuries and later became a royal village in the Mni administrative district. Georgians lived there from early times; Ossetian families settled from the 18th century. By the 1930s there were 27 Ossetian households. The village later emptied; sources reviewed do not establish the year or identify the last resident. ([source](https://explore-georgia.ge/ka/mtskheta-mtianeti/yazbegis-municipaliteti/resi))
+- An Ossetian oral-history account names Kussayev, Kudziyev, Kalmanov, Zakoyev, Gabulaev and Kallagov families, recording migration routes from Tsimit, Unal, the Kurtatin Gorge and Sivyraut. ([source](https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D1%81%D0%B8))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 166 residents in the 1926 census (77 men and 89 women); no residents recorded in the 2002 and 2014 censuses. ([source](https://explore-georgia.ge/ka/mtskheta-mtianeti/yazbegis-municipaliteti/resi))
 
 ## Crafts And Traditions
 - nothing found yet
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- Two Kudziyev family defensive houses (ganakh) and a Gabulaev family tower are reported as surviving architectural remains. Heritage-register status was not confirmed in the sources searched. ([source](https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D1%81%D0%B8))
 
 ## Photos And Videos
-- nothing found yet
+- Resi and Truso Gorge map/location page with photographs. ([source](https://mapcarta.com/13570320))
+- Kazbegi National Park: lesser-known places (video; published 2025; description names Resi, Tepi and Suatisi among abandoned villages). ([source](https://www.youtube.com/watch?v=tJhVMWClnnE))
 
 ## Articles
-- nothing found yet
+- Resi village page, Georgian, with historical overview and census figures. ([source](https://explore-georgia.ge/ka/mtskheta-mtianeti/yazbegis-municipaliteti/resi))
+- Russian-language village entry with oral-history details and architectural remains. ([source](https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D1%81%D0%B8))
 
 ## Road
 

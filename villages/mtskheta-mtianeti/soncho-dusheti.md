@@ -33,22 +33,26 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Soncho is an abandoned village in Kvesheti community, on the southwestern slope of the Mtiuleti ridge. Stock raising was developed there during the Soviet period. Sources located do not establish its founding or first record, which families lived there, why or when it emptied, or its last inhabitants. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/soncho))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 0 residents in 2002 and 0 in 2014, according to the village profile and census table. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/soncho))
 
 ## Crafts And Traditions
-- nothing found yet
+- Stock raising was developed in Soncho during the Soviet period. Nothing found on a village-specific craft or feast day after English, Georgian, and Russian searches. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/soncho))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- A scholarly monument-catalogue record identifies Kvirikes Church in Soncho. No date, surviving condition, or heritage-protection category was established in the accessible record. ([source](https://ghss.ug.edu.ge/get-fields/2?author_search=%E1%83%91.+%E1%83%9B%E1%83%90%E1%83%AA%E1%83%90%E1%83%91%E1%83%94%E1%83%A0%E1%83%98%E1%83%AB%E1%83%94&open_author_id=10948&parent_field_title=Art&tab=6))
 
 ## Photos And Videos
-- nothing found yet
+- Satellite map centered on Soncho; map imagery, not a dated ground photograph. ([source](https://www.google.com/maps/@42.463432,44.557813,1500m/data=!3m1!1e3))
+- No village-specific YouTube drone or walk-through video found in English, Georgian, or Russian searches; this link opens the English-name search results. ([source](https://www.youtube.com/results?search_query=Soncho+Dusheti+Georgia))
 
 ## Articles
-- nothing found yet
+- Village profile with location, Soviet-period stock raising, and 2002 and 2014 census figures. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/soncho))
+- Scholarly catalogue bibliography identifying Kvirikes Church in Soncho in the Georgian monument description series (2008 issue). ([source](https://ghss.ug.edu.ge/get-fields/2?author_search=%E1%83%91.+%E1%83%9B%E1%83%90%E1%83%AA%E1%83%90%E1%83%91%E1%83%94%E1%83%A0%E1%83%98%E1%83%AB%E1%83%94&open_author_id=10948&parent_field_title=Art&tab=6))
+- Dusheti Municipality administrative-unit decision listing Soncho in Kvesheti community. ([source](https://www.matsne.gov.ge/ka/document/view/2520940?publication=2))
+- Geostat-derived table of Georgias 2014 census results, searchable by settlement name. ([source](https://pop-stat.mashke.org/georgia-census2014.htm))
 
 ## Road
 

@@ -5,7 +5,7 @@
 ## Size
 - Population: 1917: **79** · 2002: **4** · 2014: **0** · 2024: **0**
 - Peak population found: **79 (1917)**
-- Houses: not counted yet
+- Houses: 172 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2014 (last with residents: 2002)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 2002 Geostat village volume PDF (confirms 4) ; 1917 Tiflis governorate villages (Mashke pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm), unit: Земо-Мтиулетское
 
@@ -33,10 +33,10 @@
 - Winter road: Village road unknown. Gudauri–Kobi main road reopened 22 Nov 2026 and is subject to winter closures.
 
 ## History
-- nothing found yet
+- Sakuriani, also called Sokuriani, is a deserted settlement in Gudauri community on the left bank of the Mtiuleti Aragvi. The sources located give no reliable founding date, settlement history, reason or date of abandonment, or last inhabitants. ([source](https://explore-georgia.ge/ka/mtskheta-mtianeti/yazbegis-municipaliteti/sayuriani))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 88 residents in 1926 (39 men, 49 women); 4 residents in 2002 (1 man, 3 women); none in 2014. ([source](https://explore-georgia.ge/ka/mtskheta-mtianeti/yazbegis-municipaliteti/sayuriani))
 
 ## Crafts And Traditions
 - nothing found yet
@@ -45,10 +45,11 @@
 - nothing found yet
 
 ## Photos And Videos
-- nothing found yet
+- Geographic location and map entry for Sakuriani. ([source](https://www.geonames.org/search.html?country=GE&q=Gruzija&startRow=1250))
 
 ## Articles
-- nothing found yet
+- Georgian settlement entry, using the local variant Sokuriani and reporting the 1926, 2002 and 2014 census counts. ([source](https://explore-georgia.ge/ka/mtskheta-mtianeti/yazbegis-municipaliteti/sayuriani))
+- Russian-language settlement entry; reports no permanent residents in the 2014 census. ([source](https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BA%D1%83%D1%80%D0%B8%D0%B0%D0%BD%D0%B8))
 
 ## Road
 

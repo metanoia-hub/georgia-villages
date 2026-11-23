@@ -33,22 +33,24 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- The village is in Gori Municipalitys Boshuri community, on the northern Trialeti slope beside the Tkhinala River. An OSCE report says residents from Ipnara, Tkhinala and Gagiuantubani were expelled during the 2008 conflict: 38 families, 119 people combined; it gives no breakdown by village. No founding date or last-resident account found. ([source](https://cdn.osce.org/sites/default/files/f/documents/8/e/83387.pdf))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 1 resident in the 2014 census. ([source](https://ru.wikipedia.org/wiki/%D0%A2%D1%85%D0%B8%D0%BD%D0%B0%D0%BB%D0%B0))
+- A Georgian-language directory page currently reports 2 residents, without a census year; this is not a dated census figure. ([source](https://about.ge/ka/poi/3814))
 
 ## Crafts And Traditions
 - nothing found yet
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- The Georgian-language place directory associates the Church of the Virgin Mary at Ormotsi with the nearby area; it does not establish that the church is in Tkhinala itself. A separate listing identifies Saint Georges Church at Didi Tsereti near Tkhinala. Neither source establishes heritage status. No village-specific monument description confirmed. ([source](https://about.ge/ka/poi/3814))
 
 ## Photos And Videos
 - nothing found yet
 
 ## Articles
-- No village-specific article located in the sources reviewed. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- OSCE report on expulsions in the Boshuri area. ([source](https://cdn.osce.org/sites/default/files/f/documents/8/e/83387.pdf))
+- Village directory entry (Georgian-language source). ([source](https://about.ge/ka/poi/3814))
 
 ## Road
 

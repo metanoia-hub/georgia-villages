@@ -5,7 +5,7 @@
 ## Size
 - Population: 2002: **0** · 2014: **0** · 2024: **0**
 - Peak population found: **0 (2002/2014/2024)**
-- Houses: not counted yet
+- Houses: 0 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: 0 in every census found (2002,2014,2024)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat)
 
@@ -33,22 +33,24 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Peli is described as an abandoned village in Gori Municipality, in the Saqavre community, on the northern slope of the Trialeti Range by the left bank of the Vitskhi River. The sources reviewed do not establish a founding or first-record date, former residents, or when and why it emptied. ([source](https://explore-georgia.ge/en/shida-kartli/gori-municipality/peli))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 0 residents in each of the 2002, 2014, and 2024 census tables; no earlier village-level population figure located in the reviewed sources. ([source](https://pop-stat.mashke.org/georgia-census2024.htm))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific evidence located for historical trades, crafts, or a feast day after searches using the English, Georgian, and Russian names. ([source](https://explore-georgia.ge/en/shida-kartli/gori-municipality/peli))
 
 ## Churches, Towers, Monuments
 - nothing found yet
 
 ## Photos And Videos
-- nothing found yet
+- Hiking to Luli–Peli (video; YouTube search result gave no publication year). ([source](https://www.youtube.com/watch?v=eaMyRUlBvfk))
 
 ## Articles
-- No village-specific article located in the sources reviewed. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- Peli village entry (English). ([source](https://explore-georgia.ge/en/shida-kartli/gori-municipality/peli))
+- Peli village page (English travel guide). ([source](https://gtour.ge/georgia/peli/))
+- Gori Municipality administrative-unit listing, including Peli in Saqavre (Georgian official legal gazette). ([source](https://matsne.gov.ge/ka/document/view/3851094))
 
 ## Road
 

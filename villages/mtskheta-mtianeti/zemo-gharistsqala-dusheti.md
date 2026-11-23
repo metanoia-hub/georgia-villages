@@ -33,22 +33,25 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- No founding date, first historical mention, named former families, or explanation for depopulation was found in English, Georgian or Russian sources. It is a village in Choporti community, on the left bank of the Aragvi River, at about 1,100 metres elevation. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/zemo-gharistsqala))
+- A 2014 profile reports one resident in 2002 and none in 2014. The sources do not identify that last resident or say when or why they left. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/zemo-gharistsqala))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 2002: 1 resident. 2014: 0. The latest village-specific count located is from the 2014 census; no village-level 2024 figure could be verified from the released census material reviewed. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/zemo-gharistsqala))
+- The national statistics office’s 2014 census tables are the primary census source; the village row records zero permanent population. ([source](https://geostat.ge/media/20680/2014-wlis-aRweris-ZiriTadi-Sedegebi.pdf))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific craft, trade, or feast day was found in the sources reviewed. Searches covered English, Georgian and Russian names and municipality terms. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/zemo-gharistsqala))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No church, tower, or registered monument specifically associated with Zemo Gharistsqala was found in the heritage-register searches or the village profile. The record does not establish that no ruins or unregistered sites exist. ([source](https://memkvidreoba.gov.ge/))
 
 ## Photos And Videos
-- nothing found yet
+- No attributable village-specific photo or YouTube video was verified after searches in English, Georgian and Russian. This YouTube query documents the name variants checked. ([source](https://www.youtube.com/results?search_query=Zemo+Gharistsqala+Dusheti+%E1%83%96%E1%83%94%E1%83%9B%E1%83%9D+%E1%83%A6%E1%83%90%E1%83%A0%E1%83%98%E1%83%A1%E1%83%AC%E1%83%A7%E1%83%90%E1%83%9A%E1%83%90+%D0%97%D0%B5%D0%BC%D0%BE-%D0%93%D0%B0%D1%80%D0%B8%D1%81%D1%86%D0%BA%D0%B0%D0%BB%D0%B0))
 
 ## Articles
-- nothing found yet
+- No village-specific story was located on the requested regional-news, municipal, travel-blog or Facebook searches in English, Georgian or Russian. The English settlement profile is the most detailed located page. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/zemo-gharistsqala))
+- A municipal legal notice lists Zemo Gharistsqala among Choporti community villages. It gives no settlement history. ([source](https://new.matsne.gov.ge/ka/document/view/2520940))
 
 ## Road
 

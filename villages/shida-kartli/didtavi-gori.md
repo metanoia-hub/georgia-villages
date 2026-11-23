@@ -5,7 +5,7 @@
 ## Size
 - Population: 1923: **107** · 2002: **0** · 2014: **0** · 2024: **0**
 - Peak population found: **107 (1923)**
-- Houses: not counted yet
+- Houses: 0 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2002 (last with residents: 1923)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 1923 Georgia rural census by settlement (Mashke pop-stat.mashke.org/georgia-ethnic-loc1923.htm), unit: Goris/Akhalsopelis
 
@@ -33,22 +33,24 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Didtavi is identified as an abandoned village in Gori Municipality. Searches in English, Georgian, and Russian did not locate a reliable account of its founding, first record, former population, or the last household. A Georgian legislative proposal lists Didtavi among villages in Gori Municipality that became abandoned settlements during 2015–2021; it does not explain the village-specific reason or name its last inhabitants. ([source](https://www.legali.ge/project/25874/))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 0 residents in the 2014 census; the Russian-language settlement entry reports no permanent population. No verified later village-level count was located. ([source](https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%B4%D1%82%D0%B0%D0%B2%D0%B8))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific trade, craft, or feast day was found in English, Georgian, or Russian searches. ([source](https://explore-georgia.ge/ka/shida-qartli/goris-municipaliteti/didtavi))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No church, tower, or protected monument specifically attributed to Didtavi was verified in the settlement profile, heritage registry searches, or multilingual searches. No heritage status was confirmed. ([source](https://explore-georgia.ge/ka/shida-qartli/goris-municipaliteti/didtavi))
 
 ## Photos And Videos
 - nothing found yet
 
 ## Articles
-- No village-specific article located in the sources reviewed. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- Georgian settlement profile identifying Didtavi as an abandoned village and giving its coordinates. ([source](https://explore-georgia.ge/ka/shida-qartli/goris-municipaliteti/didtavi))
+- Russian-language settlement entry reporting no permanent population in the 2014 census. ([source](https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%B4%D1%82%D0%B0%D0%B2%D0%B8))
+- Georgian legislative proposal listing Didtavi among villages in Gori Municipality said to have become abandoned during 2015–2021. ([source](https://www.legali.ge/project/25874/))
 
 ## Road
 

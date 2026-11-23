@@ -33,22 +33,25 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- A 19th-century Russian statistical table lists Lakhato in the Tianeti gorge with two households. A 1954 decree transferred Lakhato to Zaridzeebi village council. The 2002 census recorded four residents; 2014 recorded none. No source found explains the depopulation or identifies the last inhabitants. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
+- The 1954 Soviet decree includes Lakhato among villages transferred to Zaridzeebi village council; it does not say Lakhato itself was abolished. ([source](https://dspace.nplg.gov.ge/bitstream/1234/283641/2/Umaglesi_Sabchos_Uwyebebi_1954_N5_Rus.pdf))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 19th-century table: 2 households. 4 residents (2002); 0 permanent residents (2014 census). ([source](https://ru.wikipedia.org/wiki/Лахато))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific crafts, trades, or feast day found in searches in English, Georgian, and Russian. ([source](https://www.tianeti.gov.ge/pages.php?id=3))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No village-specific church, tower, or heritage listing found in searches in English, Georgian, and Russian. ([source](https://heritagesites.ge/uploads/files/5ea9a2d3d0f95.pdf))
 
 ## Photos And Videos
-- nothing found yet
+- No village-specific photo or video found in searches in English, Georgian, and Russian. ([source](https://explore-georgia.ge/en/settlements))
 
 ## Articles
-- nothing found yet
+- 19th-century statistical source, in Russian, lists Lakhato and household counts. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
+- 1954 decree concerning the transfer of villages into Zaridzeebi village council. ([source](https://dspace.nplg.gov.ge/bitstream/1234/283641/2/Umaglesi_Sabchos_Uwyebebi_1954_N5_Rus.pdf))
+- Russian-language village entry cites the Georgian Soviet Encyclopedia, volume 6, page 150. ([source](https://ru.wikipedia.org/wiki/Лахато))
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%9A%E1%83%90%E1%83%AE%E1%83%90%E1%83%A2%E1%83%9D&params=42_13_39_N_44_55_10_E_type:city(40361)_region:GE
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo

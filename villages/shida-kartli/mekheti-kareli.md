@@ -33,22 +33,27 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Mekheti is recorded here as a village in the Zemo Khvedureti administrative unit, on the northern slope of the Trialeti Range. The consulted sources do not establish a founding date or earliest documentary mention. ([source](https://explore-georgia.ge/en/shida-kartli/kareli-municipality/mekheti))
+- The 2002 census counted nine residents (five men and four women); 78% were Georgian and 22% Ossetian. A 2020 local report described one man as the village’s sole resident, who had returned from North Ossetia about 30 years earlier and remained there. It does not give a reason for his return or establish when the other residents left. ([source](https://www.qartli.ge/ru/2020-03-30-20-57-57/article/15290-2020-07-27-09-06-07))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 2 residents in the 2014 census (one man and one woman). The 2020 report subsequently described one resident; it is not a new census count. ([source](https://explore-georgia.ge/en/shida-kartli/kareli-municipality/mekheti))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific craft, trade tradition, or feast day was located in English, Georgian, or Russian searches. A 2020 visit profile discusses the sole resident but does not identify a local craft or feast. ([source](https://www.qartli.ge/ru/2020-03-30-20-57-57/article/15290-2020-07-27-09-06-07))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No monument within the village or heritage-register status for a village monument was located. The village page notes Kintsvisi Monastery about 5.3 km away; it is nearby, not a monument identified in Mekheti itself. ([source](https://explore-georgia.ge/en/shida-kartli/kareli-municipality/mekheti))
 
 ## Photos And Videos
-- nothing found yet
+- Photograph: remote wooden hut in Mekheti. ([source](https://photos.wikimapia.org/p/00/07/95/28/18_full.jpg))
+- Photograph: farmhouse and haystacks in Mekheti. ([source](https://photos.wikimapia.org/p/00/07/95/28/20_full.jpg))
+- Photograph: rural landscape in Mekheti. ([source](https://photos.wikimapia.org/p/00/07/95/28/19_full.jpg))
+- No relevant village-specific YouTube walk-through or drone video located in English, Georgian, or Russian searches. ([source](https://www.youtube.com/results?search_query=Mekheti+Kareli+Georgia+village))
 
 ## Articles
-- No village-specific article located in the sources reviewed. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- Local 2020 visit and profile of Mekheti’s sole reported resident (Russian-language article; translated for this record). ([source](https://www.qartli.ge/ru/2020-03-30-20-57-57/article/15290-2020-07-27-09-06-07))
+- Georgian National Encyclopedia entry: Mekheti; identifies it as a Kareli highland settlement and gives a broad upper bound of ten inhabitants in 2014, not an exact count. ([source](https://georgianencyclopedia.ge/pdfs/form/31276))
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%9B%E1%83%94%E1%83%AE%E1%83%94%E1%83%97%E1%83%98&params=41_56_46_N_43_53_43_E_type:city(40361)_region:GE
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo

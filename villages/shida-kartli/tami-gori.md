@@ -33,22 +33,24 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Tami is listed among the settlements of the Mghebriani administrative unit. No source reviewed establishes when it was founded or first recorded, who lived there historically, why or when it emptied, or the identity of its last inhabitants. ([source](https://matsne.gov.ge/ka/document/view/3851094))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 0 residents in 2024; 2 in 2014 and 0 in 2002. The 1923 rural census recorded 84. ([source](https://pop-stat.mashke.org/georgia-census2024.htm))
+- 1923 settlement-level population source; Tami is listed under the Gori/Akhalsopeli unit. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific evidence located for historical trades, crafts, or a feast day after searches using the English, Georgian, and Russian names. ([source](https://explore-georgia.ge/en/shida-kartli/gori-municipality/tami))
 
 ## Churches, Towers, Monuments
 - nothing found yet
 
 ## Photos And Videos
-- nothing found yet
+- Offroad Club Gori: trip from Klikijvari to Tami (video, dated 12 February 2022). ([source](https://www.youtube.com/watch?v=TAUVcrQJyk4))
 
 ## Articles
-- No village-specific article located in the sources reviewed. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- Tami location and elevation listing (Georgian source; facts translated here). ([source](https://say.ge/place/tami))
+- Gori Municipality administrative-unit listing, including Tami in Mghebriani (Georgian official legal gazette). ([source](https://matsne.gov.ge/ka/document/view/3851094))
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%A2%E1%83%90%E1%83%9B%E1%83%98&params=41_47_00_N_44_01_25_E_type:city(40361)_region:GE
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo

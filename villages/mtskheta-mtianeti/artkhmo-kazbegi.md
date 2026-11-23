@@ -33,24 +33,25 @@
 - Winter road: Village road unknown. Gudauri–Kobi main road reopened 22 Nov 2026 and is subject to winter closures.
 
 ## History
-- nothing found yet
+- Listed by the Georgian National Encyclopedia as a village in Kazbegi Municipality, in the Sno community. A current settlement directory classifies it as abandoned village. No reliable source located for founding/first record, former residents, when or why it emptied, or last inhabitants. ([source](https://georgianencyclopedia.ge/ka/form/21799))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- No dated population figure verified in sources found; current settlement directory classifies it as abandoned. ([source](https://explore-georgia.ge/en/settlements))
 
 ## Crafts And Traditions
 - nothing found yet
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No village-specific monument or heritage-register entry verified. ([source](https://memkvidreoba.gov.ge/))
 
 ## Photos And Videos
-- nothing found yet
+- Village-specific YouTube search (Artkhmo; Georgian and Russian names also searched); no video title/year verified. ([source](https://www.youtube.com/results?search_query=Artkhmo+Kazbegi+%E1%83%90%E1%83%A0%E1%83%97%E1%83%AE%E1%83%9B%E1%83%9D))
 
 - Main picture: http://commons.wikimedia.org/wiki/Special:FilePath/Artkhmostskali.jpg
 
 ## Articles
-- nothing found yet
+- Artkhmo settlement listing and status/location. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/kazbegi-municipality/artkhmo))
+- Georgian National Encyclopedia entry for Artkhmo. ([source](https://georgianencyclopedia.ge/ka/form/21799))
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%90%E1%83%A0%E1%83%97%E1%83%AE%E1%83%9B%E1%83%9D&params=42_33_45_N_44_38_31_E_type:city(40361)_region:GE
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo

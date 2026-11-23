@@ -5,7 +5,7 @@
 ## Size
 - Population: 2002: **15** · 2014: **3**
 - Peak population found: **15 (2002)**
-- Houses: not counted yet
+- Houses: 21 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: unknown
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat)
 
@@ -33,23 +33,23 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- The village appears in sources under the variant Usgviri (also Russian Усгвири), in Mestia Municipality’s Etseri community. Available village profiles give location and census history but no founding date, first record, reason for decline, or last inhabitants; English, Georgian, and Russian searches found no sourced account of these. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/mestia-municipality/usgviri))
 
 ## Population Over Time (Other Sources)
-- 2014 population figure not verified in accessible source. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/mestia-municipality/usviri))
+- 3 residents in the 2014 census (2 men and 1 woman), down from 15 in 2002. The page’s name Usviri corresponds to the Usgviri spelling used by the census/profile. ([source](https://pop-stat.mashke.org/georgia-census2014.htm))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific trades, crafts, or feast day located in searches in English, Georgian, and Russian. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/mestia-municipality/usgviri))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No monument specifically attributed to Usgviri/Usviri was verified in the heritage searches. UNESCO’s Upper Svaneti management document lists Usgviri among Etseri community villages within the broader study area; that listing is not itself a village-specific heritage designation. ([source](https://whc.unesco.org/document/194942))
 
 ## Photos And Videos
-- No individual image/video result was verified. Search links are supplied for follow-up; no specific photo is asserted. ([source](https://www.google.com/search?tbm=isch&q=Usviri%20Mestia%20Georgia%20village))
-- YouTube search results; no specific video verified as showing the village. ([source](https://www.youtube.com/results?search_query=Usviri%20Mestia%20Georgia%20village))
+- nothing found yet
 
 ## Articles
-- nothing found yet
+- Village profile under the Usgviri spelling, including 2002 and 2014 population. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/mestia-municipality/usgviri))
+- 2014 settlement census table. ([source](https://pop-stat.mashke.org/georgia-census2014.htm))
 
 ## Road
 

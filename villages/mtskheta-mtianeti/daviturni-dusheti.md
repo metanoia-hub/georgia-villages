@@ -33,22 +33,27 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Daviturni is described as abandoned. The earliest population figure located is 57 people in 1926; later counts were 2 in 2002 and 0 in 2014. The sources do not establish a founding date, why or exactly when the village emptied, or the names of its last residents. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/daviturni))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- The latest village-level census figure located is 0 residents in 2014; the profile reports 2 in 2002 and 57 in 1926. The current settlement list marks the zero figure as older than the 2024 census; no named-village 2024 count was located. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/daviturni))
+- The National Statistics Offices 2014 census volume includes settlement-level Dusheti tables and is the primary source for the 2014 count. ([source](https://www.geostat.ge/media/20680/2014-wlis-aRweris-ZiriTadi-Sedegebi.pdf))
+- A November 2025 regional report lists one household in Daviturni for an off-grid solar program, while warning that the list is inaccurate and may include seasonal households; it is not a census count. ([source](https://mtisambebi.ge/news/item/1823-mtavroba-xevsuretshi-ushuqod-darchenil-ojaxebs-mzis-energiis-sistemebs-mouxybobs))
+- The current settlement index marks this population figure as older than the 2024 census; its footnote says the year is provided on each village page. ([source](https://explore-georgia.ge/en/settlements))
+- A November 2025 regional report lists one household in Daviturni for an off-grid solar program but warns that the list is inaccurate and may include seasonal households; it is not a person count. ([source](https://mtisambebi.ge/news/item/1823-mtavroba-xevsuretshi-ushuqod-darchenil-ojaxebs-mzis-energiis-sistemebs-mouxybobs))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific craft, trade, or annual feast-day information was located in English, Georgian, and Russian searches. The village sources describe the settlement and its ruins but do not identify a local trade or feast. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/daviturni))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- The official heritage inventory lists the Chief Martyr of the Fortress complex at Daviturni as a developed and late-medieval site (inventory entry 2369, dated 3 October 2007). The entrys national-status field is blank. The complex includes a buttressed tower, prayer space, vessel-storage room, hall, two-storey tower, and ruined dwellings. A small Lomisi icon chapel stands about 0.5 km north of the village; no separate heritage status for that chapel was verified. ([source](https://www.heritagesites.ge/uploads/files/6989e0438f7c0.pdf))
 
 ## Photos And Videos
-- nothing found yet
+- No village-specific still photograph or qualifying YouTube walk-through or drone video was located in the English, Georgian, and Russian searches. ([source](https://www.youtube.com/results?search_query=Daviturni+Dusheti+Georgia))
 
 ## Articles
-- nothing found yet
+- Village profile with the fortress complex, Lomisi chapel, and census history. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/daviturni))
+- Official heritage inventory entry for the Daviturni fortress complex. ([source](https://www.heritagesites.ge/uploads/files/6989e0438f7c0.pdf))
 
 ## Road
 

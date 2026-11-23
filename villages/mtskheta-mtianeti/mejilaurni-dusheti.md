@@ -33,10 +33,12 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Mejilaurni is a village in the Pasanauri community, on the Khandos-khevi and the right side of the Mtiuleti Aragvi. The sources found do not establish a founding or first-record date, the identity of historic resident families, or a specific cause of population decline. One ethnographic source associates Mejilaurni with the Motiašvili and Gvritišvili groups; the snippet alone does not provide fuller context. ([source](https://dspace.nplg.gov.ge/bitstream/1234/323332/1/MtiuletisGudamayrisXandosDaChartlosEtnografiuliMasalebi.pdf))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 176 residents in the 1926 census; 4 in 2002; 1 in 2014. The 2024 settlement table gives 0. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/mejilaurni))
+- Geostat-derived census table reports 4 residents in 2002 and 1 in 2014. ([source](https://pop-stat.mashke.org/georgia-census2014.htm))
+- 2024 source-series entry records no residents. ([source](https://pop-stat.mashke.org/georgia-census2024.htm))
 
 ## Crafts And Traditions
 - nothing found yet
@@ -45,10 +47,13 @@
 - nothing found yet
 
 ## Photos And Videos
-- nothing found yet
+- Satellite view centered on Mejilaurni; map imagery, not a dated ground photograph. ([source](https://www.google.com/maps/@42.3160051,44.6349182,1500m/data=!3m1!1e3))
+- No village-specific YouTube drone or walk-through video found after searches in English, Georgian, and Russian. ([source](https://www.youtube.com/results?search_query=Mejilaurni+Georgia))
 
 ## Articles
-- nothing found yet
+- Village profile with location and 1926, 2002, and 2014 population counts. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/mejilaurni))
+- Geostat-derived 2014 census table, including 2002 and 2014 village counts. ([source](https://pop-stat.mashke.org/georgia-census2014.htm))
+- Ethnographic collection on Mtiuleti, Gudamaqari, Khando, and Chartali; a search extract associates Mejilaurni with Motiašvili and Gvritišvili groups. ([source](https://dspace.nplg.gov.ge/bitstream/1234/323332/1/MtiuletisGudamayrisXandosDaChartlosEtnografiuliMasalebi.pdf))
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%9B%E1%83%94%E1%83%AF%E1%83%98%E1%83%9A%E1%83%90%E1%83%A3%E1%83%A0%E1%83%9C%E1%83%98&params=42_18_55_N_44_38_06_E_type:city(40361)_region:GE
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo
 - https://georgianencyclopedia.ge/pdf/6.pdf

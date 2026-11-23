@@ -5,7 +5,7 @@
 ## Size
 - Population: 2002: **0** · 2014: **0** · 2024: **0**
 - Peak population found: **0 (2002/2014/2024)**
-- Houses: not counted yet
+- Houses: 1 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: 0 in every census found (2002,2014,2024)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat)
 
@@ -33,22 +33,23 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- The 2002 and 2014 census tables both record zero residents. No source found identifies a founding date, former residents, reason or date for depopulation, or last inhabitants. A reference entry places the village southwest of Mount Lisho, on the right bank of the Verkhveli River. ([source](https://www.nplg.gov.ge/gwdict/index.php?a=list&d=14&t=dict&w1=%E1%83%98&w2=%E1%83%95&w3=%E1%83%9A))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 0 residents (2002); 0 permanent residents (2014 census). ([source](https://ru.wikipedia.org/wiki/Ивлиантгори))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific crafts, trades, or feast day found in searches in English, Georgian, and Russian. ([source](https://www.tianeti.gov.ge/pages.php?id=3))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No village-specific church, tower, or heritage listing found in searches in English, Georgian, and Russian. ([source](https://heritagesites.ge/uploads/files/5ea9a2d3d0f95.pdf))
 
 ## Photos And Videos
-- nothing found yet
+- No village-specific photo or video found in searches in English, Georgian, and Russian. ([source](https://explore-georgia.ge/en/settlements))
 
 ## Articles
-- nothing found yet
+- Russian-language settlement entry cites the Georgian Soviet Encyclopedia, volume 5, page 94. ([source](https://ru.wikipedia.org/wiki/Ивлиантгори))
+- Tianeti Municipality administrative-unit listing places Ivliantgori in Zaridzeebi unit. ([source](https://www.tianeti.gov.ge/pages.php?id=3))
 
 ## Road
 

@@ -5,7 +5,7 @@
 ## Size
 - Population: 1917: **111** · 2002: **0** · 2014: **1** · 2024: **0**
 - Peak population found: **111 (1917)**
-- Houses: not counted yet
+- Houses: 32 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2024 (last with residents: 2014)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 1917 Tiflis governorate villages (Mashke pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm), unit: Земо-Хевское ; JAMnews Land of abandoned villages
 
@@ -33,19 +33,20 @@
 - Winter road: Village road unknown. Gudauri–Kobi main road reopened 22 Nov 2026 and is subject to winter closures.
 
 ## History
-- nothing found yet
+- Kvemo Okroqana is a settlement in the Mna Gorge of the Truso area, on the left bank of the Tergi. It is listed as a village in the 2014 census with one resident. The sources located do not give a foundation date, named historic residents, or the circumstances/date of any depopulation; the 2014 figure means it was not empty at that census. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/kazbegi-municipality/kvemo-okroqana))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 2014 census: 1 resident. ([source](https://pop-stat.mashke.org/georgia-census2014.htm))
 
 ## Crafts And Traditions
 - nothing found yet
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- A scholarly survey records one rectangular defensive tower in Kvemo Okroqana, in the Mna Gorge. The consulted sources do not verify a formal heritage designation for the tower. ([source](https://dspace.nplg.gov.ge/bitstream/1234/333342/1/TrusoHistoricalAndEthnoculturalIssues.pdf))
 
 ## Photos And Videos
-- nothing found yet
+- Kvemo Okroqana village page and location information. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/kazbegi-municipality/kvemo-okroqana))
+- Truso Valley hike video (2023; valley footage, not a confirmed village-specific walk-through). ([source](https://www.youtube.com/watch?v=Avsir7EoQAk))
 - https://commons.wikimedia.org/wiki/File%3AAbandoned_House_outside_Okrokana_-_Near_Kazbegi_-_Greater_Caucasus_-_Georgia_%2818418942228%29_%282%29.jpg
 - https://commons.wikimedia.org/wiki/File%3AShepherd_with_Flock_-_Outside_Okrokana_-_Near_Kazbegi_-_Greater_Caucasus_-_Georgia_%2817983920423%29_%282%29.jpg
 - https://commons.wikimedia.org/wiki/File%3ASheep_in_Road_-_Outside_Okrokana_-_Near_Kazbegi_-_Greater_Caucasus_-_Georgia_%2818604610695%29_%282%29.jpg
@@ -61,7 +62,8 @@
 - Main picture: http://commons.wikimedia.org/wiki/Special:FilePath/Georgia%2C%20Truso%20Valley%20-%20Villages%20Okrokana%20and%20Shevardeni.jpg
 
 ## Articles
-- nothing found yet
+- Truso: Historical and Ethnocultural Issues (description of the Mna Gorge tower). ([source](https://dspace.nplg.gov.ge/bitstream/1234/333342/1/TrusoHistoricalAndEthnoculturalIssues.pdf))
+- English settlement entry for Kvemo Okroqana. ([source](https://en.wikipedia.org/wiki/Kvemo_Okrokana))
 
 ## Road
 

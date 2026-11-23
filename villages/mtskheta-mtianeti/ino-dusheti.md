@@ -33,22 +33,25 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Ino lies in the Magharoskari community in the Pshavi Aragvi valley, on the river’s left side. The Georgian National Encyclopedia gives its elevation as 1,220 metres, distance from Dusheti as 44 km, and says the 2014 permanent population did not exceed 10; it does not provide an exact count or history of founding or decline. No source found names a last resident or explains any depopulation. ([source](https://georgianencyclopedia.ge/ka/form/17896))
+- The municipality decree lists Ino under Magharoskari administrative unit. ([source](https://www.matsne.gov.ge/ka/document/view/2520940?publication=2))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- The Georgian National Encyclopedia reports that the 2014 permanent population was no more than 10; it does not state an exact number. A more precise village-level figure could not be verified from an accessible authoritative table. ([source](https://georgianencyclopedia.ge/ka/form/17896))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific evidence for crafts, historic trades, or a feast day was found after English, Georgian and Russian searches. ([source](https://georgianencyclopedia.ge/ka/form/17896))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No church, tower or protected monument specifically attributed to Ino was identified in the searches. The heritage GIS warns that its inventory is incomplete. ([source](https://memkvidreoba.gov.ge/about))
 
 ## Photos And Videos
 - nothing found yet
 
 ## Articles
-- nothing found yet
+- Georgian National Encyclopedia entry with location and 2014 population ceiling. ([source](https://georgianencyclopedia.ge/ka/form/17896))
+- Village profile and geographic description. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/ino))
+- Municipality decree listing Ino. ([source](https://www.matsne.gov.ge/ka/document/view/2520940?publication=2))
 
 ## Road
 

@@ -33,24 +33,27 @@
 - Winter road: Village road unknown. The main road into Oni was reported closed for works on 23 Nov 2026. The Shkmeri detour had a winter trailer ban.
 
 ## History
-- nothing found yet
+- Samtisi belongs to the Bari administrative unit. A local report says the village once counted 65 households and that only two people remained as permanent residents when the report was made (published about 2018). It does not date the village’s founding or identify the last residents by name. ([source](https://www.youtube.com/watch?v=FxPTJGG0Kao))
+- Historical parish records document a Samtisi parish from 1871 through 1920, and a separate Samtisi II register beginning in 1826. These establish historical church/parish documentation, not the village’s founding date. ([source](https://archival-services.gov.ge/saeklesio/regions/location/32))
 
 ## Population Over Time (Other Sources)
-- No village-by-village series for 1989, 2002, 2014 and 2024 was verified in consulted sources. ([source](https://www.geostat.ge/en/modules/categories/12/2024-population-census-of-georgia-results))
+- 8 residents at the 2014 census (5 men and 3 women). Oni Municipality later listed 13 registered people in its village population table; that is a registration count, not a census and not necessarily the current resident population. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/oni-municipality/samtisi))
+- Oni Municipality table: 13 registered people (7 men and 6 women); the page describes municipal population data as of 1 January 2023. ([source](https://oni.gov.ge/mosaxleobis-raodenoba-da-urbanuli-gadanawileba/))
 
 ## Crafts And Traditions
 - nothing found yet
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- A 1994 publication of Giorgi Bochoridze’s Racha and Lechkhumi historical monuments describes two churches at Samtisi, named Mother of God and St George. The source does not establish either church’s current condition or formal heritage registry status. ([source](https://dspace.nplg.gov.ge/bitstream/1234/460583/1/RachaLechxumisIstoriuliDzeglebiDaSidzveleebi_1994.pdf))
 
 ## Photos And Videos
-- The referenced village page includes online location imagery/photographs where available; this is a village page, not a verified independent photo archive. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/oni-municipality/samtisi))
-- YouTube result titled “RACHA - GEORGIA” lists this village among places in the Racha sequence; published circa 2007 (search-index age). ([source](https://www.youtube.com/watch?v=WRfUEWoWkhg))
+- Video report: “Samtisi — This village once had 65 households; only two of us remain permanently.” Published approximately 2018; Georgian-language report about the village’s declining population. ([source](https://www.youtube.com/watch?v=FxPTJGG0Kao))
+- Village profile with location/map images. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/oni-municipality/samtisi))
 
 ## Articles
-- Village reference or report. ([source](https://www.cenn.org/clean-and-accessible-water-in-rural-areas/))
-- CENN report on rural water improvements in Samtisi. ([source](https://www.cenn.org/clean-and-accessible-water-in-rural-areas/))
+- Oni Municipality identifies Samtisi within the Bari administrative unit. ([source](https://oni.gov.ge/%E1%83%9B%E1%83%94%E1%83%A0%E1%83%98%E1%83%90/%E1%83%9B%E1%83%94%E1%83%A0%E1%83%98%E1%83%A1-%E1%83%AC%E1%83%90%E1%83%A0%E1%83%9B%E1%83%9D%E1%83%9B%E1%83%90%E1%83%93%E1%83%92%E1%83%94%E1%83%9C%E1%83%9A%E1%83%94%E1%83%91%E1%83%98/))
+- Video report on depopulation and the remaining permanent residents, published approximately 2018. ([source](https://www.youtube.com/watch?v=FxPTJGG0Kao))
+- Archival catalogue for the Samtisi church parish register series. ([source](https://archival-services.gov.ge/saeklesio/regions/location/32))
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%A1%E1%83%90%E1%83%9B%E1%83%97%E1%83%98%E1%83%A1%E1%83%98&params=42_32_00_N_43_15_30_E_type:city(40361)_region:GE
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo

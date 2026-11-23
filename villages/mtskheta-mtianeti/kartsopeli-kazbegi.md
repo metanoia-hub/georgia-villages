@@ -33,24 +33,28 @@
 - Winter road: Village road unknown. Gudauri–Kobi main road reopened 22 Nov 2026 and is subject to winter closures.
 
 ## History
-- nothing found yet
+- Kartsopeli, also recorded as Karatkau/Karatkavi, is a historic fortified village in the Truso Gorge. A scholarly account records it in an 1780 document and compares its family names with records from 1776. The 1910 Kavkazski Calendar counted 216 residents; in 1926 there were 91 people in 26 households. The consulted sources identify it as abandoned today but do not establish when it emptied or name its last inhabitants. ([source](https://www.academia.edu/48990593/Truso_Historical_And_Ethnocultural_Issues))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 2014 census: 0 residents (dash in the census table). ([source](https://pop-stat.mashke.org/georgia-census2014.htm))
+- 1926 census: 91 residents in 26 households; 1910 listing: 216 residents. ([source](https://www.academia.edu/48990593/Truso_Historical_And_Ethnocultural_Issues))
 
 ## Crafts And Traditions
 - nothing found yet
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- A scholarly architectural survey describes six defensive towers and a small church in Kartsopeli. It does not confirm formal heritage-register status for these specific structures. ([source](https://dspace.nplg.gov.ge/bitstream/1234/347612/1/Truso_Ustoricheckie_I_Etnokulturnie_Problemi.pdf))
+- The Truso study identifies Kartsopelis church and associated defensive architecture. ([source](https://www.academia.edu/48990593/Truso_Historical_And_Ethnocultural_Issues))
 
 ## Photos And Videos
-- nothing found yet
+- Kartsopeli settlement page with location and images. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/kazbegi-municipality/kartsopeli))
+- Truso Valley hike video (2023; regional footage, not confirmed as a Kartsopeli-specific walk-through). ([source](https://www.youtube.com/watch?v=Avsir7EoQAk))
 
 - Main picture: http://commons.wikimedia.org/wiki/Special:FilePath/%E1%83%97%E1%83%A0%E1%83%A3%E1%83%A1%E1%83%9D%E1%83%A1%20%E1%83%AE%E1%83%94%E1%83%9D%E1%83%91%E1%83%98%E1%83%A1%20%E1%83%9B%E1%83%97%E1%83%90%E1%83%95%E1%83%90%E1%83%A0%E1%83%90%E1%83%9C%E1%83%92%E1%83%94%E1%83%9A%E1%83%9D%E1%83%96%E1%83%98%E1%83%A1%20%E1%83%94%E1%83%99%E1%83%9A%E1%83%94%E1%83%A1%E1%83%98%E1%83%90.jpg
 
 ## Articles
-- nothing found yet
+- Truso: Historical and Ethnocultural Issues (settlement history and historical population figures). ([source](https://www.academia.edu/48990593/Truso_Historical_And_Ethnocultural_Issues))
+- Architectural Monuments of Truso (survey of village towers and church). ([source](https://dspace.nplg.gov.ge/bitstream/1234/347612/1/Truso_Ustoricheckie_I_Etnokulturnie_Problemi.pdf))
 
 ## Road
 

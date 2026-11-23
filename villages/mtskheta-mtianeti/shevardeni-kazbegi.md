@@ -5,7 +5,7 @@
 ## Size
 - Population: 2002: **0** · 2014: **0** · 2024: **0**
 - Peak population found: **0 (2002/2014/2024)**
-- Houses: not counted yet
+- Houses: 8 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: 0 in every census found (2002,2014,2024)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat)
 
@@ -33,10 +33,10 @@
 - Winter road: Village road unknown. Gudauri–Kobi main road reopened 22 Nov 2026 and is subject to winter closures.
 
 ## History
-- nothing found yet
+- Shevardeni is a deserted village in the Truso Gorge, on the left bank of the Tergi. A historical study says the earliest recorded inhabitants were the Babeshvili and Arjinashvili families, recorded in 1774 under the forms Babeuri and Arjinauli. The reviewed sources do not establish why or when the village emptied or who the last inhabitants were. ([source](https://dspace.nplg.gov.ge/bitstream/1234/347612/1/Truso_Ustoricheckie_I_Etnokulturnie_Problemi.pdf))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 134 residents in 1910; 52 residents (9 families) in the 1926 census. No population figure for 2014 was confirmed from the sources opened in this search. ([source](https://dspace.nplg.gov.ge/bitstream/1234/347612/1/Truso_Ustoricheckie_I_Etnokulturnie_Problemi.pdf))
 
 ## Crafts And Traditions
 - nothing found yet
@@ -45,12 +45,15 @@
 - nothing found yet
 
 ## Photos And Videos
-- nothing found yet
+- Photograph titled ‘Abandoned Village on Hillside – Outside Okrokana – Near Kazbegi – Greater Caucasus – Georgia’ in the Shevardeni Wikimedia Commons category. ([source](https://commons.wikimedia.org/wiki/Category:Shevardeni))
+- Location and map page for Shevardeni. ([source](https://mapcarta.com/13569662))
 
 - Main picture: http://commons.wikimedia.org/wiki/Special:FilePath/Shevardeni%2C%20Truso%20Valley.jpg
 
 ## Articles
-- nothing found yet
+- Historical and ethnocultural study of Truso (PDF), including Shevardeni’s recorded families and population in 1910 and 1926. ([source](https://dspace.nplg.gov.ge/bitstream/1234/347612/1/Truso_Ustoricheckie_I_Etnokulturnie_Problemi.pdf))
+- English-language settlement overview and location. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/kazbegi-municipality/shevardeni))
+- Russian-language settlement overview. ([source](https://explore-georgia.ge/ru/mckheta-mtianeti/kazbegskii-municipalitet/shevardeni))
 
 ## Road
 

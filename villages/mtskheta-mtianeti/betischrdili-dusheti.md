@@ -33,22 +33,25 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Betischrdili is an abandoned village in Ukanapshavi community, on the eastern slope of the Gudamaqari ridge and right bank of the Pshavi Aragvi, at 1,480 m. It had no residents in 2002 or 2014. No founding date, depopulation cause, or last residents were found in the searched English, Georgian, and Russian sources. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/betischrdili))
+- Georgian Encyclopedia locates the village and records no permanent residents in the 2014 census. ([source](https://georgianencyclopedia.ge/ka/form/23462))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 0 residents in 2002 and 0 in 2014. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/betischrdili))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific craft, trade, or feast day was found in the searched English, Georgian, and Russian sources. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/betischrdili))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No named church, tower, or separately verified heritage monument was found in targeted English, Georgian, and Russian searches. ([source](https://www.heritagesites.ge/))
 
 ## Photos And Videos
-- nothing found yet
+- Photo: Pshavi Aragvi near Betischrdili (Wikimedia Commons). No video specifically about the village was found in English, Georgian, or Russian searches. ([source](https://commons.wikimedia.org/wiki/File:Pshavi%27s_Aragvi_(near_Betischrdili).jpg))
 
 ## Articles
-- nothing found yet
+- Georgian Encyclopedia village entry. ([source](https://georgianencyclopedia.ge/ka/form/23462))
+- Village entry with location and census status. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/betischrdili))
+- Regional trails brochure lists Betischrdili in its trail area; it gives no village history. ([source](https://www.peopleinneed.net/media/publications/2638/file/brochure-aragvi-trails--3.pdf))
 
 ## Road
 

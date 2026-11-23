@@ -33,24 +33,26 @@
 - Winter road: Village road unknown. Gudauri–Kobi main road reopened 22 Nov 2026 and is subject to winter closures.
 
 ## History
-- nothing found yet
+- Palagqau is also known by the former name Urmiskheti and is an abandoned village in the Gudauri community, on the left bank of the Mtiuleti Aragvi. The available sources identify it as abandoned but do not provide a founding date, the cause/date of depopulation, or named last inhabitants. ([source](https://explore-georgia.ge/ka/mtskheta-mtianeti/yazbegis-municipaliteti/falagyau))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 2014 census: 0 residents (dash in the settlement table). ([source](https://pop-stat.mashke.org/georgia-census2014.htm))
+- 1923 rural census: 127 residents. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
 
 ## Crafts And Traditions
 - nothing found yet
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- A late-medieval castle-house stands in the northern part of the former Urmiskheti settlement. The national heritage portal identifies it as a castle-house and dates it broadly to the sixteenth–eighteenth centuries; the entry does not state an individual monument status designation in the retrieved description. ([source](https://memkvidreoba.gov.ge/objects/immovable/immovableObject?id=42642))
 
 ## Photos And Videos
-- nothing found yet
+- Palagqau settlement page with location and images. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/kazbegi-municipality/palagqau))
 
 - Main picture: http://commons.wikimedia.org/wiki/Special:FilePath/549%20-%20Valley%20of%20the%20Upper%20Aragvi%20-%20Gudauri.jpg
 
 ## Articles
-- nothing found yet
+- National heritage portal record for the Urmiskheti abandoned settlement castle-house. ([source](https://memkvidreoba.gov.ge/objects/immovable/immovableObject?id=42642))
+- English settlement entry for Palagqau. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/kazbegi-municipality/palagqau))
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%A4%E1%83%90%E1%83%9A%E1%83%90%E1%83%92%E1%83%A7%E1%83%90%E1%83%A3&params=42_28_47_N_44_27_51_E_type:city(40361)_region:
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo

@@ -5,7 +5,7 @@
 ## Size
 - Population: 2002: **0** · 2014: **0** · 2024: **0**
 - Peak population found: **0 (2002/2014/2024)**
-- Houses: not counted yet
+- Houses: 0 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: 0 in every census found (2002,2014,2024)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat)
 
@@ -33,23 +33,22 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Sagunio is a village in the Eki administrative unit of Senaki Municipality, on the right bank of the Tsivi River. Searches in English, Georgian, and Russian (including Сагунио) found no sourced account of its foundation, first record, former inhabitants, why it emptied, or its last residents. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/senaki-municipality/sagunio))
 
 ## Population Over Time (Other Sources)
-- Census figure not verified in accessible source. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/senaki-municipality/sagunio))
+- No permanent residents recorded in either the 2014 or 2024 census, according to the village profile. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/senaki-municipality/sagunio))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific trade, craft, or feast day located in the requested-language searches. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/senaki-municipality/sagunio))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No church, tower, or protected monument specifically attributed to Sagunio was verified. Nearby listed places are not evidence of monuments inside this village. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/senaki-municipality/sagunio))
 
 ## Photos And Videos
-- No individual image/video result was verified. Search links are supplied for follow-up; no specific photo is asserted. ([source](https://www.google.com/search?tbm=isch&q=Sagunio%20Senaki%20Georgia%20village))
-- YouTube search results; no specific video verified as showing the village. ([source](https://www.youtube.com/results?search_query=Sagunio%20Senaki%20Georgia%20village))
+- nothing found yet
 
 ## Articles
-- nothing found yet
+- Village profile: administrative unit, location, and zero permanent residents in 2014 and 2024. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/senaki-municipality/sagunio))
 
 ## Road
 

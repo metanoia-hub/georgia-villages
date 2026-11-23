@@ -5,7 +5,7 @@
 ## Size
 - Population: 2002: **0** · 2014: **0** · 2024: **0**
 - Peak population found: **0 (2002/2014/2024)**
-- Houses: not counted yet
+- Houses: 40 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: 0 in every census found (2002,2014,2024)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat)
 
@@ -33,10 +33,10 @@
 - Winter road: Village road unknown. Kala–Ushguli reopened 22 Nov 2026. Ushguli–Lasdili closed by snow.
 
 ## History
-- nothing found yet
+- Laskrali is in the Kala community. A 2021 regional report says Laskrali was completely emptied of residents by publication time. It does not give a departure date or cause, nor name the last inhabitants. The 2002 census also recorded zero residents. ([source](https://mtisambebi.ge/news/people/item/1322-tbilisidan-zemo-svanetshi-dabrunebuli-xarwianebis-eqvsshviliani-ojaxi))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 2014 census: 0 residents; the 2002 census also recorded 0. A 2021 report describes it as completely uninhabited. ([source](https://upload.wikimedia.org/wikipedia/commons/8/84/2002_Census_of_village_population_of_Georgia.pdf))
 
 ## Crafts And Traditions
 - nothing found yet
@@ -45,11 +45,13 @@
 - nothing found yet
 
 ## Photos And Videos
-- No individual image/video result was verified. Search links are supplied for follow-up; no specific photo is asserted. ([source](https://www.google.com/search?tbm=isch&q=Laskrali%20Mestia%20Georgia%20village))
-- YouTube search results; no specific video verified as showing the village. ([source](https://www.youtube.com/results?search_query=Laskrali%20Mestia%20Georgia%20village))
+- Illustrated map/location page. ([source](https://mapcarta.com/31412190))
+- No relevant YouTube video surfaced in targeted English, Georgian, and Russian searches; YouTube search. ([source](https://www.youtube.com/results?search_query=Laskrali+ლასკრალი+Ласкрали+Svaneti))
 
 ## Articles
-- nothing found yet
+- Mtisambebi report says Laskrali was fully depopulated at publication time. ([source](https://mtisambebi.ge/news/people/item/1322-tbilisidan-zemo-svanetshi-dabrunebuli-xarwianebis-eqvsshviliani-ojaxi))
+- Georgian Academy of Sciences Encyclopedia identifies Laskrali as a village in Kala community. ([source](https://www.georgianencyclopedia.ge/index.php/ka/pdf-export/29110))
+- Mestia Municipality village postal-index list. ([source](https://www.mestia.gov.ge/ge/saposto-indeksebi-soplebis-mixedvit))
 
 ## Road
 

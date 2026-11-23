@@ -5,7 +5,7 @@
 ## Size
 - Population: 2002: **1** · 2014: **0** · 2024: **0**
 - Peak population found: **1 (2002)**
-- Houses: not counted yet
+- Houses: 0 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2014 (last with residents: 2002)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 2002 Geostat village volume PDF (confirms 1)
 
@@ -33,22 +33,23 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- The 2002 census recorded one resident and the 2014 census recorded none. The sources found do not identify who lived there, why or when it emptied, or the last inhabitant. ([source](https://ru.wikipedia.org/wiki/Дзирхвниани))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 1 resident (2002); 0 permanent residents (2014 census). ([source](https://ru.wikipedia.org/wiki/Дзирхвниани))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific crafts, trades, or feast day found in searches in English, Georgian, and Russian. ([source](https://www.tianeti.gov.ge/pages.php?id=3))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No village-specific church, tower, or heritage listing found in searches in English, Georgian, and Russian. ([source](https://heritagesites.ge/uploads/files/5ea9a2d3d0f95.pdf))
 
 ## Photos And Videos
-- nothing found yet
+- No village-specific photo or video found in searches in English, Georgian, and Russian. ([source](https://explore-georgia.ge/en/settlements))
 
 ## Articles
-- nothing found yet
+- Russian-language settlement entry cites the Georgian Soviet Encyclopedia, volume 11, page 277; the accessible entry gives geography and census figures but no founding or depopulation history. ([source](https://ru.wikipedia.org/wiki/Дзирхвниани))
+- Tianeti Municipality legal listing places Dzirkhvniani in Chekuraantgori administrative unit. ([source](https://matsne.gov.ge/ka/document/view/3134115))
 
 ## Road
 

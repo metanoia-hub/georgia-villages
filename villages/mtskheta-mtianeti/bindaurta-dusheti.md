@@ -33,22 +33,23 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Bindaurta is a village in the Ukanapshavi community. The 2002 census counted 4 residents (3 men and 1 woman); 2014 counted 2. No searched source describes the founding date, depopulation, last residents, or current year-round occupancy. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/bindaurta))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 2 residents in 2014; 4 in 2002. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/bindaurta))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific craft, trade, or feast day was found in the searched English, Georgian, and Russian sources. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/bindaurta))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No named church, tower, monument, or village-specific heritage listing was found in targeted English, Georgian, and Russian searches. ([source](https://www.heritagesites.ge/))
 
 ## Photos And Videos
-- nothing found yet
+- No village-specific photo collection or video found in English, Georgian, or Russian searches. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/bindaurta))
 
 ## Articles
-- nothing found yet
+- Village entry with location, community, and 2002/2014 census counts. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/bindaurta))
+- Georgian administrative document listing Bindaurta among Ukanapshavi villages. ([source](https://www.matsne.gov.ge/ka/document/view/2520940?publication=2))
 
 ## Road
 

@@ -5,7 +5,7 @@
 ## Size
 - Population: 2002: **0** · 2014: **1** · 2024: **0**
 - Peak population found: **1 (2014)**
-- Houses: not counted yet
+- Houses: 6 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: unknown
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat)
 
@@ -33,23 +33,24 @@
 - Winter road: Village road unknown. The Bakuriani–Ghadolari section closed to all vehicles from 13 Nov 2026.
 
 ## History
-- nothing found yet
+- The village’s documented modern history is tied to the Patara Tsemi sanatorium, founded in 1904 by physician Vakhtang Gambashidze and his father to treat children with tuberculosis. The available historical sources do not establish when the settlement itself was founded, its first record, or why its resident population dwindled to one; they do not identify the last residents. ([source](https://archive.gov.ge/en/pavilioni/sakartvelos-kurortebi-2))
 
 ## Population Over Time (Other Sources)
-- The supplied GeoJSON records residents_2024=0. The consulted material did not provide a village-level historical census series. ([source](https://explore-georgia.ge/ka/samtskhe-javakheti/borjomis-municipaliteti/patara-tsemi))
+- 1 resident in the official 2014 census, identified as Georgian; no later verified village-level figure located. ([source](https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%82%D0%B0%D1%80%D0%B0-%D0%A6%D0%B5%D0%BC%D0%B8))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific traditional craft, trade, or feast day located in English, Georgian, and Russian searches. The documented local institution was a children’s tuberculosis sanatorium founded in 1904. ([source](https://archive.gov.ge/en/pavilioni/sakartvelos-kurortebi-2))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No church, tower, or heritage-listed monument specifically located within Patara Tsemi was verified in the sources searched. The National Archives page documents the former sanatorium as a historic photograph, not as a heritage designation. ([source](https://archive.gov.ge/en/pavilioni/sakartvelos-kurortebi-2))
 
 ## Photos And Videos
-- YouTube travel video titled ‘patara tsemi da mitarbi / Trip To Patara Tsemi and Mitarbi’ (published approximately 2021 per search result). ([source](https://www.youtube.com/watch?v=DQq7kla55zQ))
+- The Sanatorium “Patara Tsemi,” Borjomi Municipality, 1920 — National Archives of Georgia photo collection. ([source](https://archive.gov.ge/en/pavilioni/sakartvelos-kurortebi-2))
 
 ## Articles
-- Explore Georgia village profile. ([source](https://explore-georgia.ge/ka/samtskhe-javakheti/borjomis-municipaliteti/patara-tsemi))
-- National Archives feature mentions the Patara Tsemi sanatorium, founded in 1904 by physician/public figure Vakhtang Ghambashidze and his father; this refers to the resort facility, not the villages foundation. ([source](https://archive.gov.ge/ge/pavilioni/sakartvelos-kurortebi-2))
+- National Archives of Georgia: Patara Tsemi sanatorium founded in 1904 by Vakhtang Gambashidze and his father; treatment for children aged 8–16. ([source](https://archive.gov.ge/en/pavilioni/sakartvelos-kurortebi-2))
+- Russian-language village entry with 2014 population of one. ([source](https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%82%D0%B0%D1%80%D0%B0-%D0%A6%D0%B5%D0%BC%D0%B8))
+- Georgian legal notice confirming Patara Tsemi as a Borjomi Municipality village. ([source](https://matsne.gov.ge/ka/document/view/5842041))
 
 ## Road
 

@@ -33,22 +33,25 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- The village is absent from the historical accounts attributed to Vakhushti and Ioane Batonishvili, and from the historical/economic sources consulted. Its residents had migrated from Imereti in western Georgia. In 1925 it had 35 households: 18 Nozadze, 11 Kurtanidze, five Tsitskishvili and one Lomidze. The village was resettled in Khashuri and broke up in the 1960s. No last individual resident is named. ([source](https://explore-georgia.ge/en/shida-kartli/khashuri-municipality/koditsqaro))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 35 households in 1925. The village was deserted after the 1960s resettlement; no later village-level census population figure was located. ([source](https://explore-georgia.ge/en/shida-kartli/khashuri-municipality/koditsqaro))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific craft, trade or feast day was documented in the English-, Georgian- and Russian-language searches. The sources describe household surnames and relocation, not occupations or traditions. ([source](https://explore-georgia.ge/en/shida-kartli/khashuri-municipality/koditsqaro))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- Ruins of the Church of the Mother of God survived near the lake west of the settlement and were restored in the 1980s. Georgia Travel also identifies an old Assumption church by the lake and a newer St George church/monastery complex. No official heritage-protection status was verified for these structures. ([source](https://georgia.travel/ka/%E1%83%99%E1%83%9D%E1%83%93%E1%83%98%E1%83%A1%E1%83%AC%E1%83%A7%E1%83%90%E1%83%A0%E1%83%9D%E1%83%A1-%E%E1%83%A2%E1%83%91%E1%83%90))
 
 ## Photos And Videos
-- nothing found yet
+- Video: “Khashuri. Kodistskaro Lake, Churches” (English title translation; 2024). Shows the lake, old Assumption church, new St George church under construction and monastery. ([source](https://www.youtube.com/watch?v=3ceSfAqA5BI))
+- Video: “Khashuri, Kodistskaro” (2022). ([source](https://www.youtube.com/watch?v=eAjLns_374U))
 
 ## Articles
-- No village-specific article located in the sources reviewed. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- Explore Georgia village history and 1925 household composition (English). ([source](https://explore-georgia.ge/en/shida-kartli/khashuri-municipality/koditsqaro))
+- Georgia Travel article on the lake, churches, 35 households in the 1920s, and 1960s relocation (translated from Georgian). ([source](https://georgia.travel/ka/%E1%83%99%E1%83%9D%E1%83%93%E1%83%98%E1%83%A1%E1%83%AC%E1%83%90%E1%83%A0%E1%83%9D%E1%83%A1-%E1%83%A2%E1%83%91%E1%83%90))
+- Madloba article on Koditskaro Lake and the villages abandonment in the 1960s (Russian). ([source](https://www.madloba.info/blog/nature-of-georgia/koditskaro-lake/))
 
 ## Road
 

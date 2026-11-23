@@ -33,22 +33,24 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Chontili is in the Bazaleti community on the eastern slope of the Alevis Ridge. A Russian-language municipal overview says that the 2002 census recorded ethnic Ossetians as the absolute majority in Chontili and three other villages west of Dusheti; no source located established its founding, first mention, outmigration chronology, cause of decline, or last inhabitants. ([source](https://ru.wikipedia.org/wiki/%D0%94%D1%83%D1%88%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%BD%D0%B8%D1%86%D0%B8%D0%BF%D0%B0%D0%BB%D0%B8%D1%82%D0%B5%D1%82))
+- A municipal profile records that Soviet-era agriculture included crop farming and livestock breeding in Chontili; it does not date settlement or population decline. ([source](https://explore-georgia.ge/ka/mtskheta-mtianeti/dushetis-municipaliteti/chontili))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 4 residents in the 2014 census. ([source](https://explore-georgia.ge/ru/mckheta-mtianeti/dushetskii-municipalitet/chontili))
 
 ## Crafts And Traditions
-- nothing found yet
+- Soviet-era livelihoods reported for the village were crop farming and livestock breeding. No source located documents a distinctive craft or a village feast day despite searches in English, Georgian and Russian. ([source](https://explore-georgia.ge/ka/mtskheta-mtianeti/dushetis-municipaliteti/chontili))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No specifically identified church, tower or protected monument was found in the searches. Georgia’s heritage GIS notes that the national inventory remains incomplete. ([source](https://memkvidreoba.gov.ge/about))
 
 ## Photos And Videos
-- nothing found yet
+- YouTube video: “Dusheti, Bazaleti, the high-mountain village of Chontili” (English translation of title), published 2026. The video description identifies it as an expedition to Chontili. ([source](https://www.youtube.com/watch?v=dtXS4soTmxs))
 
 ## Articles
-- nothing found yet
+- Village profile with location and 2014 population. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/chontili))
+- Russian-language municipal overview reporting the 2002 ethnic composition of Chontili and nearby villages. ([source](https://ru.wikipedia.org/wiki/%D0%94%D1%83%D1%88%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%BD%D0%B8%D1%86%D0%B8%D0%BF%D0%B0%D0%BB%D0%B8%D1%82%D0%B5%D1%82))
 
 ## Road
 

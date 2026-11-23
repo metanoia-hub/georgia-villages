@@ -33,24 +33,25 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- The sources located give no founding date or first recorded mention. In 2002 the village had five residents and in 2014 it had two; the latest village page reports one resident in the 2024 census. The sources do not explain when or why the settlement contracted, or identify the last resident. ([source](https://explore-georgia.ge/ka/shida-qartli/khashuris-municipaliteti/patara-khalebi))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 1 resident (2024 census), according to the village profile; earlier counts were 5 (2002) and 2 (2014). ([source](https://explore-georgia.ge/ka/shida-qartli/khashuris-municipaliteti/patara-khalebi))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific craft, trade or feast-day tradition was found in the English-, Georgian- and Russian-language searches. Available village descriptions do not name occupations or local feast customs. ([source](https://explore-georgia.ge/ka/shida-qartli/khashuris-municipaliteti/patara-khalebi))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- Two churches are reported in the village vicinity: one dedicated to St George and one to the Mother of God. The heritage-registry searches did not establish a protected-status entry for either church. ([source](https://explore-georgia.ge/ka/shida-qartli/khashuris-municipaliteti/patara-khalebi))
 
 ## Photos And Videos
-- nothing found yet
+- Village location and photo/map material in the Explore Georgia village profile. ([source](https://explore-georgia.ge/en/shida-kartli/khashuri-municipality/patara-khalebi))
 
 - Main picture: http://commons.wikimedia.org/wiki/Special:FilePath/Patara%20Khalebi.jpg
 
 ## Articles
-- No village-specific article located in the sources reviewed. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- Explore Georgia village profile with census counts and nearby churches (English). ([source](https://explore-georgia.ge/en/shida-kartli/khashuri-municipality/patara-khalebi))
+- Russian-language village entry; reports two residents in 2014. ([source](https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%82%D0%B0%D1%80%D0%B0-%D0%A5%D0%B0%D0%BB%D0%B5%D0%B1%D0%B8))
 
 ## Road
 

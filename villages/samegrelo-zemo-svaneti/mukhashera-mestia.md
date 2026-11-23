@@ -5,7 +5,7 @@
 ## Size
 - Population: 2002: **0** · 2014: **5** · 2024: **0**
 - Peak population found: **5 (2014)**
-- Houses: not counted yet
+- Houses: 0 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: unknown
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat)
 
@@ -33,23 +33,24 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- The municipality’s settlement list places Mukhashera in the Khaishi administrative unit. The sources located do not establish a founding or first-recorded date, its historical households, when or why it emptied, or the identity of any last inhabitants. ([source](https://www.mestia.gov.ge/ge/node/1340/))
+- A Russian-language village entry locates it by the Mukhashura River, a left tributary of the Inguri, and reports five residents at the 2014 census. This does not identify the last inhabitants or explain later depopulation. ([source](https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%85%D0%B0%D1%88%D1%83%D1%80%D0%B0))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 5 residents (2014 census: 1 male, 4 female), as reported in the village entry citing the official census. No newer settlement-level figure was verified in the sources found. ([source](https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%85%D0%B0%D1%88%D1%83%D1%80%D0%B0))
 
 ## Crafts And Traditions
-- nothing found yet
+- The sources located do not document village-specific trades, crafts, or a feast day. Municipality and village searches used the English, Georgian, and Russian names. ([source](https://www.mestia.gov.ge/ge/node/1340/))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No church, tower, or heritage-register record specifically attributable to Mukhashera was verified in the searches. A map entry identifies the settlement only; it is not evidence of a monument or heritage status. ([source](https://mapcarta.com/13571432))
 
 ## Photos And Videos
-- No individual image/video result was verified. Search links are supplied for follow-up; no specific photo is asserted. ([source](https://www.google.com/search?tbm=isch&q=Mukhashera%20Mestia%20Georgia%20village))
-- YouTube search results; no specific video verified as showing the village. ([source](https://www.youtube.com/results?search_query=Mukhashera%20Mestia%20Georgia%20village))
+- Map/locality page with map imagery; no attributable village photo or YouTube walk-through/drone video was verified in English, Georgian, or Russian searches. ([source](https://mapcarta.com/13571432))
 
 ## Articles
-- nothing found yet
+- Municipal administrative-unit listing; identifies Mukhashera as a village in Khaishi administrative unit. ([source](https://www.mestia.gov.ge/ge/node/1340/))
+- Village profile with location and 2014 census figure (Russian). ([source](https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%85%D0%B0%D1%88%D1%83%D1%80%D0%B0))
 
 ## Road
 

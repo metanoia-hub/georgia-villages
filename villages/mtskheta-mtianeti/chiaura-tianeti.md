@@ -33,10 +33,12 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Chiaura is listed by Tianeti municipality in the Akhalsopeli administrative unit. A contemporary settlement gazetteer places it at about 1,240 m elevation, but the sources located do not establish a founding date, historical population group, why or when it emptied, or last inhabitants. ([source](https://matsne.gov.ge/ka/document/view/3134115))
+- The Georgian government’s highland-development strategy names Chiaura among Tianeti settlements with difficult winter road access. This is evidence about access, not the cause of any population decline. ([source](https://mrdi.gov.ge/files/1/HM%20Strategy%20ENG.pdf))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- A current settlement gazetteer lists 16 residents for Chiaura, but the displayed figure is not accompanied by a census year in the result. Therefore it does not verify the supplied 0-or-1 present-day figure, and no village-level 2024 census number was located. ([source](https://explore-georgia.ge/en/settlements))
+- A map profile likewise lists 16 residents but gives no census year; treat this as an undated secondary figure. ([source](https://mapcarta.com/13576098))
 
 ## Crafts And Traditions
 - nothing found yet
@@ -45,10 +47,12 @@
 - nothing found yet
 
 ## Photos And Videos
-- nothing found yet
+- Map and place imagery for Chiaura. ([source](https://mapcarta.com/13576098))
 
 ## Articles
-- nothing found yet
+- Tianeti municipality administrative units (Georgian); places Chiaura in the Akhalsopeli unit. ([source](https://matsne.gov.ge/ka/document/view/3134115))
+- Settlement profile and undated population listing (English). ([source](https://explore-georgia.ge/en/settlements))
+- Georgian government strategy; Chiaura appears in a list of settlements with difficult winter access. ([source](https://mrdi.gov.ge/files/1/HM%20Strategy%20ENG.pdf))
 
 ## Road
 

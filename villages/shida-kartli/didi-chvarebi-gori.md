@@ -33,22 +33,24 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Didi Chvarebi lies in the Tedzmi valley on the northern slope of the Trialeti range. The Georgian Encyclopedia and settlement profile identify its location but do not give a founding or first-record date. A Georgian legislative proposal lists Didi Chvarebi among Gori Municipality villages that became abandoned settlements during 2015–2021; it does not explain the village-specific cause or identify its last inhabitants. ([source](https://www.legali.ge/project/25874/))
+- The Georgian Encyclopedia gives the village’s location and notes the surviving ruins of a Saint George shrine, but no further depopulation chronology. ([source](https://georgianencyclopedia.ge/en/pdf-export/4283))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 0 residents in the 2002, 2014, and 2024 censuses, according to the settlement profile. ([source](https://explore-georgia.ge/en/shida-kartli/gori-municipality/didi-chvarebi))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific trade, craft, or feast day was found in English, Georgian, or Russian searches. ([source](https://georgianencyclopedia.ge/en/pdf-export/4283))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- Ruins of a shrine of Saint George survive in the village. No official heritage designation was verified for the shrine. ([source](https://georgianencyclopedia.ge/en/pdf-export/4283))
 
 ## Photos And Videos
 - nothing found yet
 
 ## Articles
-- No village-specific article located in the sources reviewed. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- Georgian Encyclopedia entry for Didi Chvarebi, with location and the surviving Saint George shrine ruins. ([source](https://georgianencyclopedia.ge/en/pdf-export/4283))
+- Settlement profile with location and population counts for 2002, 2014, and 2024. ([source](https://explore-georgia.ge/en/shida-kartli/gori-municipality/didi-chvarebi))
 
 ## Road
 

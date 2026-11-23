@@ -33,22 +33,27 @@
 - Winter road: Khakhmati–Shatili (km 66–106) closed to all vehicles from 22 Nov 2026. Local village-road status unknown.
 
 ## History
-- nothing found yet
+- Archilo is a Khevsur village in the Shatili community, at the confluence of the Archiloskhevi and Andaki rivers. Reporting identifies it as a Zviadauri family settlement. Its last permanent resident, Badri Zviadauri, died after falling into the Argun River; a 2021 report says no one lived there after his death and describes ruined houses. No founding date was found. Two relatives later returned seasonally, April–October, to restore homes; this was not year-round residence. ([source](https://mtisambebi.ge/en/lonely/item/1301-archilo-revitalized-the-furthermost-village-of-khevsureti))
+- A report on fortified houses says the last resident was there in 2003; later sources document another final permanent resident and seasonal revival, so these refer to different periods or different interpretations of permanent residence. ([source](https://mtisambebi.ge/news/people/item/1205))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 2 residents in the 2014 census (1 man and 1 woman); 7 in 2002 and 73 in 1926. Later reports say no permanent resident remained after Badri Zviadauri’s death, although two relatives returned seasonally. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/archilo))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific craft or annual feast day was found. Reporting documents traditional Khevsur building methods: fortified slate-and-stone houses, thick wooden doors, and wooden balconies. ([source](https://mtisambebi.ge/news/people/item/1205))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- Reports describe fortified houses and a tower in the village; the 19th-century houses are described as cultural heritage monuments. No separate official registry entry for a named church or tower was verified. ([source](https://mtisambebi.ge/news/people/item/1205))
 
 ## Photos And Videos
-- nothing found yet
+- Video, 2022: “Archilo — the last village of border Khevsureti” (English translation), showing seasonal revival and restored houses. ([source](https://www.youtube.com/watch?v=VC2enWiz3jo))
+- Video, 2025: “Georgian Work — Light Up Archilo, Part 1” (English translation), about the Zviadauri families and planned solar installation. ([source](https://www.youtube.com/watch?v=DyeHgJt1qYY))
 
 ## Articles
-- nothing found yet
+- English report on Archilo’s seasonal revival and final permanent resident. ([source](https://mtisambebi.ge/en/lonely/item/1301-archilo-revitalized-the-furthermost-village-of-khevsureti))
+- Georgian report on reoccupation, Badri Zviadauri’s death, and lack of safe access. ([source](https://mtisambebi.ge/news/people/item/1358-martokazebma-archilo-gaazozxles-mtavrobis-yburadgeba-nulia))
+- Report on fortified houses and the last resident in 2003. ([source](https://mtisambebi.ge/news/people/item/1205))
+- Report on lack of a safe road to border Khevsureti villages including Archilo. ([source](https://www.sakartvelosambebi.ge/en/news/court-accepts-lawsuit-for-establishing-safe-road-in-borderline-khevsureti))
 
 ## Road
 

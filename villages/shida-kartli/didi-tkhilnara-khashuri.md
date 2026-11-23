@@ -5,7 +5,7 @@
 ## Size
 - Population: 2002: **0** · 2014: **0** · 2024: **0**
 - Peak population found: **0 (2002/2014/2024)**
-- Houses: not counted yet
+- Houses: 0 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: 0 in every census found (2002,2014,2024)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat)
 
@@ -33,22 +33,25 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Didi Tkhilnara is a highland settlement in Khtsisi administrative unit. The sources located do not establish when it was founded or first recorded, who its earliest families were, why it lost its permanent population, or who last lived there. A 2023 highland-settlement study lists it among villages with seasonal residents. ([source](https://davidpublisher.com/Public/uploads/Contribute/65a75fd4b5f1c.pdf))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 0 permanent residents in the 2002, 2014, and 2024 settlement census listings. A published study separately classifies Didi Tkhilnara as having seasonal residents; this is not a census population count. ([source](https://pop-stat.mashke.org/georgia-census2024.htm))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific craft, trade, or feast day was located in English, Georgian, or Russian searches. The highland study discusses agriculture in the municipality generally but does not attribute a particular craft or tradition to Didi Tkhilnara. ([source](https://davidpublisher.com/Public/uploads/Contribute/65a75fd4b5f1c.pdf))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No church, tower, other monument, or confirmed official heritage-register listing specifically within Didi Tkhilnara was located. Nearby churches associated with other localities are not attributed to this village. ([source](https://heritagesites.ge/uploads/files/680a4ff29f797.pdf))
 
 ## Photos And Videos
-- nothing found yet
+- Map and locality page for Didi Tkhilnara; the map identifies the settlement but does not establish a particular monument there. ([source](https://mapcarta.com/13575522))
+- No village-specific YouTube walk-through or drone video surfaced in English, Georgian, or Russian searches. ([source](https://www.youtube.com/results?search_query=Didi+Tkhilnara+Khashuri+Georgia))
 
 ## Articles
-- No village-specific article located in the sources reviewed. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- Peer-reviewed study on highland settlement status in Khashuri Municipality; identifies Didi Tkhilnara as a seasonal-resident village. ([source](https://davidpublisher.com/Public/uploads/Contribute/65a75fd4b5f1c.pdf))
+- Official Khashuri Municipality administrative-unit page lists Didi Tkhilnara under Khtsisi. ([source](https://khashuri.gov.ge/en/administraciuli-erteulebi))
+- Official 2014 census volume for village population; Didi Tkhilnara is listed with zero permanent residents. ([source](https://upload.wikimedia.org/wikipedia/commons/6/63/2014_Census_of_village_population_of_Georgia.pdf))
 
 ## Road
 

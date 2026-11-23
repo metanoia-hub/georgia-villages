@@ -33,22 +33,26 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Chkhuba is in the Khevsureti community, on the north-western slope of the Khevsureti Aragvi watershed. The village profile gives population counts of 36 in 1926, 0 in 2002, and 2 in 2014. The sources located do not give a founding date, the reason or date for the 2002 depopulation, or the identities of the two people counted in 2014. The profile says all residents counted in 2014 were Georgian. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/chkhuba))
+- A recent academic article refers to a man from Chkhuba in a discussion of Khevsurian oral tradition. It is evidence that Chkhuba residents formed part of local community life, but it does not document the villages settlement history or a named local custom. ([source](https://sciencejournals.ge/index.php/HAE/article/download/459/411/))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- The latest village-level census figure located is 2 residents in 2014, not 0 or 1. The profile reports 0 in 2002 and 36 in 1926. The current settlement list marks the 2-person figure as older than the 2024 census; no named-village 2024 count was located. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/chkhuba))
+- The National Statistics Offices 2014 census volume includes settlement-level Dusheti tables and is the primary source for the 2014 count. ([source](https://www.geostat.ge/media/20680/2014-wlis-aRweris-ZiriTadi-Sedegebi.pdf))
+- The current settlement index marks this population figure as older than the 2024 census; its footnote says the year is provided on each village page. ([source](https://explore-georgia.ge/en/settlements))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific crafts, trades, or annual feast day were found in searches in English, Georgian, and Russian. Regional Khevsureti sources discuss the wider areas traditions but do not safely attribute a specific trade or feast to Chkhuba. ([source](https://experience.khconsult.cz/?p=364))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No monument located inside Chkhuba was verified in the official heritage-inventory searches. Sources describe monuments in the wider Khevsureti and Gorsheghmi area but do not establish that the named monuments stand in Chkhuba, so they are not attributed to the village here. ([source](https://www.heritagesites.ge/uploads/files/6989e0438f7c0.pdf))
 
 ## Photos And Videos
-- nothing found yet
+- No village-specific still photograph or qualifying YouTube walk-through or drone video was located in the English, Georgian, and Russian searches. ([source](https://www.youtube.com/results?search_query=Chkhuba+Khevsureti+Georgia))
 
 ## Articles
-- nothing found yet
+- Academic article containing a historical-ethnographic reference to a man from Chkhuba and Khevsurian oral tradition. ([source](https://sciencejournals.ge/index.php/HAE/article/download/459/411/))
+- The official municipal regulation lists Chkhuba among the villages assigned to the Barisakho administrative unit; it provides administrative context, not local history. ([source](https://new.matsne.gov.ge/ka/document/view/2520940))
 
 ## Road
 

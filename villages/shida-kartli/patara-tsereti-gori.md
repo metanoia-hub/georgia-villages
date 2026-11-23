@@ -33,22 +33,27 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Patara Tsereti is described as an abandoned settlement in the Trialeti Range, within the former Mghebriani unit. No source reviewed establishes when it was founded, its earlier residents, or when and why the village emptied. ([source](https://www.youtube.com/watch?v=webRLZro1jw))
+- In 2021, around 300 people bought land in the abandoned village. A development fund founded that year by owners aimed to develop the settlement as a modern European-style resort; the video does not establish that this plan was completed or identify former last residents. ([source](https://www.youtube.com/watch?v=webRLZro1jw))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 0 residents in 2024, 2014, and 2002. A 1917 Tiflis Governorate village listing recorded 41. ([source](https://pop-stat.mashke.org/georgia-census2024.htm))
+- 1917 Tiflis Governorate village population source; Patara Tsereti is listed in the Khidistavi rural unit. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific evidence located for historical trades, crafts, or a traditional feast day after searches using the English, Georgian, and Russian names. ([source](https://www.youtube.com/watch?v=webRLZro1jw))
 
 ## Churches, Towers, Monuments
 - nothing found yet
 
 ## Photos And Videos
-- nothing found yet
+- Patara Tsereti – Video by Ilia Kakhniashvili (2022). The video description identifies the settlement as abandoned and discusses the 2021 land purchases and development fund. ([source](https://www.youtube.com/watch?v=webRLZro1jw))
+- Tour route article mentions visiting the ruins of Patara Tsereti (Georgian; facts translated here). ([source](https://www.qartli.ge/ge/akhali-ambebi/article/4818-sackhenosnoturiateniskheobashi))
 
 ## Articles
-- No village-specific article located in the sources reviewed. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- Video and accompanying description by Ilia Kakhniashvili, published 12 January 2022 (Georgian; facts translated here). ([source](https://www.youtube.com/watch?v=webRLZro1jw))
+- Equestrian tour in Ateni Gorge, including Patara Tsereti’s settlement remains (Georgian; facts translated here). ([source](https://www.qartli.ge/ge/akhali-ambebi/article/4818-sackhenosnoturiateniskheobashi))
+- Gori Municipality administrative-unit listing, including Patara Tsereti in Mghebriani (Georgian official legal gazette). ([source](https://matsne.gov.ge/ka/document/view/3851094))
 
 ## Road
 

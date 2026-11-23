@@ -5,7 +5,7 @@
 ## Size
 - Population: 1923: **28** · 2002: **0** · 2014: **0** · 2024: **0**
 - Peak population found: **28 (1923)**
-- Houses: not counted yet
+- Houses: 5 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2002 (last with residents: 1923)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 1923 Georgia rural census by settlement (Mashke pop-stat.mashke.org/georgia-ethnic-loc1923.htm), unit: Goris/Bakurianis
 
@@ -33,22 +33,27 @@
 - Winter road: Village road unknown. The Bakuriani–Ghadolari section closed to all vehicles from 13 Nov 2026.
 
 ## History
-- nothing found yet
+- Sakochavi is a settlement on the Borjomi–Bakuriani narrow-gauge railway. A 1902 railway timetable records Sakochavi as a station. A historical description reproduced in 2021 says the station stood near the Sakochavi settlement and reports local tradition that a monastery once stood by the springs; visible building remains and a church ruin were noted, the latter said locally to have been damaged by an earthquake. No source located gives a village founding date, identifies its former residents, or explains when or why the resident population left. ([source](https://dspace.nplg.gov.ge/bitstream/1234/46709/1/Kavkaz_1902_N138.pdf))
+- The railway line opened in 1902; Sakochavi station’s tufa building dates to 1906. The station is now part of the listed Borjomi–Bakuriani railway heritage complex. ([source](https://explore-georgia.ge/en/samtskhe-javakheti/borjomi-municipality/sakochavi))
 
 ## Population Over Time (Other Sources)
-- 2002: no permanent population (municipal reference summary). The supplied GeoJSON reports residents_2024=0; no independent village-level 2024 table was found. ([source](https://www.nplg.gov.ge/wikidict/index.php/%E1%83%91%E1%83%9D%E1%83%A0%E1%83%AF%E1%83%9D%E1%83%9B%E1%83%98%E1%83%A1_%E1%83%9B%E1%83%A3%E1%83%9C%E1%83%98%E1%83%AA%E1%83%98%E1%83%9E%E1%83%90%E1%83%9A%E1%83%98%E1%83%A2%E1%83%94%E1%83%A2%E1%83%98))
+- 0 permanent residents in the 2002, 2014, and 2024 censuses, according to the settlement profile. ([source](https://explore-georgia.ge/en/samtskhe-javakheti/borjomi-municipality/sakochavi))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific traditional trade, craft, or feast day was found in English, Georgian, or Russian searches. The historical description mentions the railway station and settlement, not a local craft or feast. ([source](https://iverieli.nplg.gov.ge/bitstream/1234/383297/1/Literaturuli_Mesxeti_2021_N7-.pdf))
 
 ## Churches, Towers, Monuments
-- No village monument or heritage-registration entry was confirmed. Sakochavi is listed as a Borjomi health resort/locality in the national legal register of resorts. ([source](https://www.matsne.gov.ge/ka/document/view/1260851))
+- Sakochavi railway station: a single-storey tufa station building dating to 1906, listed since 2017 as part of the Borjomi–Bakuriani railway cultural heritage complex. ([source](https://explore-georgia.ge/en/samtskhe-javakheti/borjomi-municipality/sakochavi))
+- A historical account describes a church ruin near the Sakochavi settlement and a tradition of an earlier monastery by the springs. No official heritage status or church dedication was verified for these remains. ([source](https://iverieli.nplg.gov.ge/bitstream/1234/383297/1/Literaturuli_Mesxeti_2021_N7-.pdf))
 
 ## Photos And Videos
 - nothing found yet
 
 ## Articles
-- Municipal reference summary records Sakochavi among uninhabited villages in 2002. ([source](https://www.nplg.gov.ge/wikidict/index.php/%E1%83%91%E1%83%9D%E1%83%A0%E1%83%AF%E1%83%9D%E1%83%9B%E1%83%98%E1%83%A1_%E1%83%9B%E1%83%A3%E1%83%9C%E1%83%98%E1%83%AA%E1%83%98%E1%83%9E%E1%83%90%E1%83%9A%E1%83%98%E1%83%A2%E1%83%94%E1%83%A2%E1%83%98))
+- Sakochavi settlement profile, census history, and description of the listed station building. ([source](https://explore-georgia.ge/en/samtskhe-javakheti/borjomi-municipality/sakochavi))
+- Historical railway route description, including Sakochavi settlement and church remains; reproduced in a 2021 issue of Literary Meskheti. ([source](https://iverieli.nplg.gov.ge/bitstream/1234/383297/1/Literaturuli_Mesxeti_2021_N7-.pdf))
+- 1902 Russian-language newspaper timetable listing Sakochavi station. ([source](https://dspace.nplg.gov.ge/bitstream/1234/46709/1/Kavkaz_1902_N138.pdf))
+- Heritage registry PDF listing the Borjomi–Bakuriani railway complex and Sakochavi. ([source](https://www.heritagesites.ge/uploads/files/5a421dd24854a.pdf))
 
 ## Road
 

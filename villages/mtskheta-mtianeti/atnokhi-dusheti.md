@@ -5,7 +5,7 @@
 ## Size
 - Population: 1917: **73** · 1923: **79** · 2002: **4** · 2014: **0** · 2024: **0**
 - Peak population found: **79 (1923)**
-- Houses: not counted yet
+- Houses: 32 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2014 (last with residents: 2002)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 2002 Geostat village volume PDF (confirms 4) ; 1923 Georgia rural census by settlement (Mashke pop-stat.mashke.org/georgia-ethnic-loc1923.htm), unit: Dushetis/Pasanauris ; 1917 Tiflis governorate villages (Mashke pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm), unit: Квемо-Мтиулетское
 
@@ -33,22 +33,23 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Atnokhi is a highland village in the Gudamaqari community on the right bank of the Gudamaqari Aragvi. Population fell from 75 in 1926 to 4 in 2002 and zero in 2014. No searched source identifies the founding date, cause of depopulation, or last residents. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/atnokhi))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 0 residents in 2014; 4 in 2002 and 75 in 1926. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/atnokhi))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific craft, trade, or feast day was found in the searched English, Georgian, and Russian sources. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/atnokhi))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No named church, tower, monument, or village-specific heritage listing was found in targeted English, Georgian, and Russian searches. ([source](https://www.heritagesites.ge/))
 
 ## Photos And Videos
-- nothing found yet
+- No village-specific video located in English, Georgian, or Russian searches. A Georgian-language video about the Goderdzi Chokheli museum mentions Atnokhi among local villages but does not establish that Atnokhi is depicted. Title translated: “Part II — Goderdzi Chokheli Museum.” ([source](https://www.youtube.com/watch?v=6zBBiN-LxJg))
 
 ## Articles
-- nothing found yet
+- Village entry with census counts and location. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/atnokhi))
+- Georgian Encyclopedia entry listing Atnokhi among Gudamaqari villages. ([source](https://www.georgianencyclopedia.ge/ka/pdf-export/27671))
 
 ## Road
 

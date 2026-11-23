@@ -5,7 +5,7 @@
 ## Size
 - Population: 2014: **2** · 2024: **0**
 - Peak population found: **2 (2014)**
-- Houses: not counted yet
+- Houses: 8 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2024 (last with residents: 2014)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat)
 

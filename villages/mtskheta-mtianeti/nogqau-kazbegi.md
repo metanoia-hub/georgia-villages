@@ -5,7 +5,7 @@
 ## Size
 - Population: 1923: **62** · 2002: **0** · 2014: **0** · 2024: **0**
 - Peak population found: **62 (1923)**
-- Houses: not counted yet
+- Houses: 13 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2002 (last with residents: 1923)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 1923 Georgia rural census by settlement (Mashke pop-stat.mashke.org/georgia-ethnic-loc1923.htm), unit: Javis
 
@@ -33,19 +33,20 @@
 - Winter road: Village road unknown. Gudauri–Kobi main road reopened 22 Nov 2026 and is subject to winter closures.
 
 ## History
-- nothing found yet
+- Nogqau is a historic settlement on the right bank of the Tergi in the Truso area. A regional account lists it among the settlements emptied over time; the source does not give its founding date, a village-specific departure date, or names of last residents. ([source](https://explore-georgia.ge/ka/mtskheta-mtianeti/yazbegis-municipaliteti/nogyau))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 2014 census: 0 residents (dash in the settlement table). ([source](https://pop-stat.mashke.org/georgia-census2014.htm))
 
 ## Crafts And Traditions
 - nothing found yet
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- A scholarly study lists the Giorgitsminda church complex at Nogqau and Kobi. The consulted sources do not establish the exact surviving condition or formal heritage status of the Nogqau structures. ([source](https://dspace.nplg.gov.ge/bitstream/1234/333342/1/TrusoHistoricalAndEthnoculturalIssues.pdf))
 
 ## Photos And Videos
-- nothing found yet
+- Nogqau locality page with map imagery. ([source](https://mapcarta.com/13571012))
+- Truso Valley hike video (2023; valley footage, not a confirmed Nogqau-specific walk-through). ([source](https://www.youtube.com/watch?v=Avsir7EoQAk))
 - https://commons.wikimedia.org/wiki/File%3AAbandoned_village_in_Georgia.jpg
 - https://commons.wikimedia.org/wiki/File%3ACameraGirlHelena.jpg
 - https://commons.wikimedia.org/wiki/File%3AScenery_outside_Okrokana_-_Near_Kazbegi_-_Greater_Caucasus_-_Georgia_-_23_%2817982037134%29_%282%29.jpg
@@ -61,7 +62,8 @@
 - Main picture: http://commons.wikimedia.org/wiki/Special:FilePath/Nogkau.jpg
 
 ## Articles
-- nothing found yet
+- Truso: Historical and Ethnocultural Issues (church and regional history). ([source](https://dspace.nplg.gov.ge/bitstream/1234/333342/1/TrusoHistoricalAndEthnoculturalIssues.pdf))
+- Georgian-language Nogqau settlement entry. ([source](https://explore-georgia.ge/ka/mtskheta-mtianeti/yazbegis-municipaliteti/nogyau))
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%9C%E1%83%9D%E1%83%92%E1%83%A7%E1%83%90%E1%83%A3_(%E1%83%A7%E1%83%90%E1%83%96%E1%83%91%E1%83%94%E1%83%92%E1%83%98%E1%83%A1_%E1%83%9B%E1%83%A3%E1%83%9C%E1%83%98%E1%83%AA%E1%83%98%E1%83%9E%E1%83%90%E1%83%9A%E1%83%98%E1%83%A2%E1%83%94%E1%83%A2%E1%83%98)&params=42_34_32_N_44_28_27_E_type:city(40361)_region:
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo

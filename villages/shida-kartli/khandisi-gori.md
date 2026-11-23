@@ -5,7 +5,7 @@
 ## Size
 - Population: 1917: **97** · 1923: **115** · 2002: **0** · 2014: **0** · 2024: **0**
 - Peak population found: **115 (1923)**
-- Houses: not counted yet
+- Houses: 2 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2002 (last with residents: 1923)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 1923 Georgia rural census by settlement (Mashke pop-stat.mashke.org/georgia-ethnic-loc1923.htm), unit: Goris/Atenis ; 1917 Tiflis governorate villages (Mashke pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm), unit: Хидиставское
 
@@ -33,22 +33,28 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Khandisi is now described as an abandoned village in the Ateni community on the northern slope of the Trialeti Range. The sources reviewed do not establish when it was founded or emptied, who lived there, or who the last residents were. ([source](https://explore-georgia.ge/en/shida-kartli/gori-municipality/khandisi))
+- A church in the village was discovered in 1961 by researchers Tornike Tatishvili and Devi Berdzenishvili; a decorated early-medieval stone-stela fragment was found there and removed to Tbilisi in 1963. ([source](https://imedinews.ge/ge/kultura/85502/khandisis-eklesias-kulturuli-memkvidreobis-dzeglis-statusi-mienicha))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 0 residents in 2024; 0 in 2014 and 2002. The 1923 rural census recorded 115, and the 1917 Tiflis Governorate village listing recorded 97. ([source](https://pop-stat.mashke.org/georgia-census2024.htm))
+- 1923 settlement-level population source; Khandisi is listed under the Gori/Ateni unit. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
+- 1917 Tiflis Governorate village population source; Khandisi is listed in the Khidistavi rural unit. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific evidence located for historical trades, crafts, or a feast day after searches using the English, Georgian, and Russian names. ([source](https://explore-georgia.ge/en/shida-kartli/gori-municipality/khandisi))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- Khandisi Church, dated to the ninth–tenth century, has protected immovable cultural-monument status (registered 23 October 2018). ([source](https://www.heritagesites.ge/uploads/files/5ea9a2d3d0f95.pdf))
+- A second entry, Kveri Church, is listed as an early medieval monument at abandoned Khandisi; the heritage database record dates to 23 October 2018. ([source](https://heritagesites.ge/uploads/files/5c24cc02d81ec.pdf))
 
 ## Photos And Videos
 - nothing found yet
 
 ## Articles
-- No village-specific article located in the sources reviewed. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- Khandisi village entry (English). ([source](https://explore-georgia.ge/en/shida-kartli/gori-municipality/khandisi))
+- Report on cultural-monument status and the church’s 1961 discovery (Georgian; facts translated here). ([source](https://imedinews.ge/ge/kultura/85502/khandisis-eklesias-kulturuli-memkvidreobis-dzeglis-statusi-mienicha))
+- Official cultural-heritage register extract listing Khandisi Church. ([source](https://www.heritagesites.ge/uploads/files/5ea9a2d3d0f95.pdf))
 
 ## Road
 

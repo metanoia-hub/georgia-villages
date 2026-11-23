@@ -5,7 +5,7 @@
 ## Size
 - Population: 1917: **148** · 1923: **121** · 2002: **0** · 2014: **0** · 2024: **0**
 - Peak population found: **148 (1917)**
-- Houses: not counted yet
+- Houses: 0 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2002 (last with residents: 1923)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 1923 Georgia rural census by settlement (Mashke pop-stat.mashke.org/georgia-ethnic-loc1923.htm), unit: Goris/Zghudris ; 1917 Tiflis governorate villages (Mashke pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm), unit: Згудерское
 
@@ -33,10 +33,10 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Explore Georgia classifies this Artsevi as an abandoned village in Kareli Municipality, at about 1,240 m elevation. This is distinct from Artsevi in Eredvi Municipality. No founding, depopulation, or last-resident history found. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- Listed as an abandoned village; no numeric census figure was found in sources returned by searches in English, Georgian and Russian. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
 
 ## Crafts And Traditions
 - nothing found yet
@@ -48,7 +48,7 @@
 - nothing found yet
 
 ## Articles
-- No village-specific article located in the sources reviewed. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- Explore Georgia alphabetical settlement index, which distinguishes abandoned Kareli Artsevi from the separate Eredvi Artsevi. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
 
 ## Road
 

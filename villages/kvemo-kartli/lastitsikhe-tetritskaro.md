@@ -33,22 +33,28 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Lastitsikhe is listed as a village in Tetritskaro Municipality’s Orbeti administrative unit. Municipal boundary and administrative lists confirm the name but do not provide its founding date, first record, former residents, cause or date of abandonment, or last inhabitants. Those details were not found in the English-, Georgian-, or Russian-language searches. ([source](https://new.matsne.gov.ge/ka/document/view/6990204))
+- The 2018–2022 local development strategy includes Lastitsikhe in the Orbeti unit. It supplies no village history or evidence about why it emptied. ([source](https://eu4georgia.eu/wp-content/uploads/LDS-ENG-Final-Tetritskaro.pdf))
 
 ## Population Over Time (Other Sources)
-- 2024: 0 residents, as listed in the project GeoJSON; the online settlement profile is the cited web reference. Earlier census counts (1989, 2002, 2014) were not independently verified in a directly accessible census table. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- 0 permanent residents in both the 2014 and 2024 censuses, according to the settlement profile. The project page also records 0 in 2024; no earlier village count was verified here. ([source](https://explore-georgia.ge/en/kvemo-kartli/tetritskaro-municipality/lastitsikhe))
+- The current municipal administrative list continues to identify Lastitsikhe as a village in the Orbeti unit. ([source](https://new.matsne.gov.ge/ka/document/view/6990204))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific crafts, trades, or feast day were found in the English-, Georgian-, or Russian-language sources searched. ([source](https://www.google.com/search?q=%22Lastitsikhe%22+Tetritskaro+traditions))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No church, tower, or other monument specifically attributed to Lastitsikhe, and no heritage-register entry, was confirmed in the sources searched in English, Georgian, and Russian. ([source](https://memkvidreoba.gov.ge/))
 
 ## Photos And Videos
-- No village-specific photo or video URLs were confirmed in the reviewed results. Search YouTube by Latin, Georgian-script, and Russian names plus Tetritskaro Municipality. ([source](https://www.youtube.com/results?search_query=lastitsikhe+Tetritskaro))
+- YouTube search results for Lastitsikhe and Tetritskaro in English; no specific video was confirmed. ([source](https://www.youtube.com/results?search_query=Lastitsikhe+Tetritskaro))
+- YouTube search results for the Georgian village name; no specific video was confirmed. ([source](https://www.youtube.com/results?search_query=%E1%83%9A%E1%83%90%E1%83%A1%E1%83%A2%E1%83%98%E1%83%AA%E1%83%98%E1%83%AE%E1%83%94+%E1%83%97%E1%83%94%E1%83%97%E1%83%A0%E1%83%98%E1%83%AC%E1%83%A7%E1%83%90%E1%83%A0%E1%83%9D))
+- YouTube search results for the Russian spelling; no specific video was confirmed. ([source](https://www.youtube.com/results?search_query=%D0%9B%D0%B0%D1%81%D1%82%D0%B8%D1%86%D0%B8%D1%85%D0%B5+%D0%A2%D0%B5%D1%82%D1%80%D0%B8%D1%86%D0%BA%D0%B0%D1%80%D0%BE))
 
 ## Articles
-- No village-specific article URLs were confirmed in the reviewed results. ([source](https://explore-georgia.ge/en/kvemo-kartli/tetritskaro-municipality/lastitsikhe))
+- Settlement profile confirming its administrative location and zero permanent residents in the 2014 and 2024 censuses. ([source](https://explore-georgia.ge/en/kvemo-kartli/tetritskaro-municipality/lastitsikhe))
+- Municipal development strategy listing Lastitsikhe in the Orbeti unit. ([source](https://eu4georgia.eu/wp-content/uploads/LDS-ENG-Final-Tetritskaro.pdf))
+- Official administrative-unit list naming Lastitsikhe among Orbeti’s villages. ([source](https://new.matsne.gov.ge/ka/document/view/6990204))
 
 ## Road
 

@@ -33,23 +33,25 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Vake belongs to the Chkhikvta community in the Algeti valley. Georgian Encyclopedia records it as a village of the Sabaratiano domain in documents of the 15th–18th centuries and on the 18th-century map of Vakhushti Bagrationi. Its medieval existence is evidenced by two 13th-century churches, one inscription naming Queen Tamar. It says highlanders were resettled there in the 19th–20th centuries. No searched source gives a founding date, when it emptied, or its last residents. ([source](https://georgianencyclopedia.ge/ka/form/8498))
 
 ## Population Over Time (Other Sources)
-- 2002: 12 residents. ([source](https://d-nb.info/1191054691/34))
-- The project GeoJSON lists 1 resident in 2024; the referenced settlement directory is the online census-era listing. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- 3 residents in 2014 (2 men, 1 woman); 12 in 2002. ([source](https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%BA%D0%B5_%28%D0%A2%D0%B5%D1%82%D1%80%D0%B8%D1%86%D0%BA%D0%B0%D1%80%D0%BE%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%BD%D0%B8%D1%86%D0%B8%D0%BF%D0%B0%D0%BB%D0%B8%D1%82%D0%B5%D1%82%29))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific traditional trade, craft, or feast day was found in the searched English, Georgian, and Russian sources. ([source](https://georgianencyclopedia.ge/ka/form/8498))
 
 ## Churches, Towers, Monuments
-- The Church of the Virgin Mary is described by the Georgian Encyclopedia as a small single-nave church northwest of Vake; this source does not state its formal heritage-registry status. ([source](https://www.georgianencyclopedia.ge/en/form_eng/763))
+- The Church of the Virgin Mary, a small single-nave church northwest of the village, was built in 1341 during the reign of George V, according to its carved inscription. Georgian Encyclopedia calls it an architectural monument. It also reports two 13th-century churches, one with an inscription naming Queen Tamar. No separately verifiable registry status was found. ([source](https://georgianencyclopedia.ge/en/form_eng/763))
 
 ## Photos And Videos
-- No village-specific photo or video URLs were confirmed in the reviewed results. Search YouTube by Latin, Georgian-script, and Russian names plus Tetritskaro Municipality. ([source](https://www.youtube.com/results?search_query=vake+Tetritskaro))
+- Photo collection: Church in village Vake, built in 1341 (Wikimedia Commons). ([source](https://commons.wikimedia.org/wiki/Category:Churches_in_Kvemo_Kartli))
+- Video, 2025: “Ksovreti, Vake, Gudarekhi — Tetritskaro” (English translation; includes Vake). ([source](https://www.youtube.com/watch?v=bM4OU8iFSuM))
+- Video, 2020: “The village of Vake — a village of people brought down from the mountains” (English translation). ([source](https://www.youtube.com/watch?v=f06Y_lJni50))
 
 ## Articles
-- No village-specific article URLs were confirmed in the reviewed results. ([source](https://explore-georgia.ge/en/kvemo-kartli/tetritskaro-municipality/vake))
+- Georgian Encyclopedia entry on Vake’s documentary history, population, resettled highlanders, and churches. ([source](https://georgianencyclopedia.ge/ka/form/8498))
+- Georgian report about a different Vake in Kvemo Chala/Kaspi; excluded for population claims about Tetritskaro Vake. ([source](https://www.qartli.ge/ge/akhali-ambebi/article/15260-sofeli-vake-mthidan-barshi))
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%95%E1%83%90%E1%83%99%E1%83%94_(%E1%83%97%E1%83%94%E1%83%97%E1%83%A0%E1%83%98%E1%83%AC%E1%83%A7%E1%83%90%E1%83%A0%E1%83%9D%E1%83%A1_%E1%83%9B%E1%83%A3%E1%83%9C%E1%83%98%E1%83%AA%E1%83%98%E1%83%9E%E1%83%90%E1%83%9A%E1%83%98%E1%83%A2%E1%83%94%E1%83%A2%E1%83%98)&params=41_36_20_N_44_28_05_E_type:city(40361)_region:GE
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo
 - https://memkvidreoba.gov.ge/objects/immovable/immovableObject?id=15294

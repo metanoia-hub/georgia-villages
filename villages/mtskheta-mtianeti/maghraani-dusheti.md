@@ -33,10 +33,11 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Maghraani is an abandoned village in the Khevsureti community. Sources reviewed establish its location and depopulation by 2002, but do not establish its founding or first record, former resident families, the reason or date of abandonment, or its last inhabitants. Do not confuse it with the separate, still-inhabited Maghrani in Dusheti Municipality. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/maghraani))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 19 residents in 1917; 103 in 1923; and 0 in 2002, 2014, and 2024. ([source](https://pop-stat.mashke.org/georgia-census2024.htm))
+- The 2002 and 2014 census entries show no inhabitants; the similarly named Maghrani is a different village and had 75 residents in 2014. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/maghraani))
 
 ## Crafts And Traditions
 - nothing found yet
@@ -45,10 +46,13 @@
 - nothing found yet
 
 ## Photos And Videos
-- nothing found yet
+- Satellite view centered on the abandoned Maghraani; map imagery, not a dated ground photograph. ([source](https://www.google.com/maps/@42.4684526,44.9390993,1500m/data=!3m1!1e3))
+- No village-specific YouTube drone or walk-through video found after searches in English, Georgian, and Russian. ([source](https://www.youtube.com/results?search_query=Maghraani+Dusheti+Georgia))
 
 ## Articles
-- nothing found yet
+- Village profile confirming abandoned status and no inhabitants in the 2002 and 2014 censuses. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/maghraani))
+- Dusheti municipal administrative-unit record lists Maghraani among the Barisakho settlements. ([source](https://www.matsne.gov.ge/ka/document/view/2520940))
+- Russian-language entry for the abandoned Maghraani in Dusheti Municipality; separate from Maghrani. ([source](https://ru.wikipedia.org/wiki/Маграани_(Душетский_муниципалитет)))
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%9B%E1%83%90%E1%83%A6%E1%83%A0%E1%83%90%E1%83%90%E1%83%9C%E1%83%98_(%E1%83%93%E1%83%A3%E1%83%A8%E1%83%94%E1%83%97%E1%83%98%E1%83%A1_%E1%83%9B%E1%83%A3%E1%83%9C%E1%83%98%E1%83%AA%E1%83%98%E1%83%9E%E1%83%90%E1%83%9A%E1%83%98%E1%83%A2%E1%83%94%E1%83%A2%E1%83%98)&params=42_28_07_N_44_56_20_E_type:city(40361)_region:
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo

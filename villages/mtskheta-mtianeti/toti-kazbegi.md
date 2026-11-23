@@ -33,22 +33,25 @@
 - Winter road: Village road unknown. Gudauri–Kobi main road reopened 22 Nov 2026 and is subject to winter closures.
 
 ## History
-- nothing found yet
+- Toti lies on the left bank of the Tergi at 2,120 m, about 8 km from Stepantsminda. In the first quarter of the 17th century, Shiola Gudushauri, steward of the Aragvi eristavi, settled Ossetians there. After the Gudushauri family lost influence, the village passed to the Kazbegi family. In 1865 it had six households. Its difficult-to-access location contributed to depopulation in the second half of the 19th century and especially during the 20th century. Sources reviewed do not identify the last inhabitants. ([source](https://georgianencyclopedia.ge/ka/form/28599))
+- The settlement’s Ossetian shrine was called Vachilai; clay was extracted nearby and residents practiced livestock herding. ([source](https://explore-georgia.ge/ka/mtskheta-mtianeti/yazbegis-municipaliteti/toti))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- Six households in 1865; no permanent residents in the 2014 census. The 2002 and 2014 censuses also recorded no residents according to the settlement account. ([source](https://georgianencyclopedia.ge/ka/form/28599))
 
 ## Crafts And Traditions
-- nothing found yet
+- Livestock herding is documented; clay was available near the village. The local Ossetian shrine was called Vachilai. No specific annual feast day or craft tradition was found. ([source](https://explore-georgia.ge/ka/mtskheta-mtianeti/yazbegis-municipaliteti/toti))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- Large rectangular boulders are noted around the village. No church, tower, or heritage-register listing for Toti itself was confirmed in the sources searched. ([source](https://explore-georgia.ge/ka/mtskheta-mtianeti/yazbegis-municipaliteti/toti))
 
 ## Photos And Videos
-- nothing found yet
+- Location and map page for Toti. ([source](https://mapcarta.com/13568854))
 
 ## Articles
-- nothing found yet
+- Georgian Encyclopedia entry with historical settlement and 2014 census information. ([source](https://georgianencyclopedia.ge/ka/form/28599))
+- Georgian settlement entry with traditions and abandonment information. ([source](https://explore-georgia.ge/ka/mtskheta-mtianeti/yazbegis-municipaliteti/toti))
+- Russian-language settlement entry with additional family-history details. ([source](https://ru.ruwiki.ru/wiki/%D0%A2%D0%BE%D1%82%D0%B8_%28%D0%9A%D0%B0%D0%B7%D0%B1%D0%B5%D0%B3%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%BD%D0%B8%D1%86%D0%B8%D0%BF%D0%B0%D0%BB%D0%B8%D1%82%D0%B5%D1%82))
 
 ## Road
 

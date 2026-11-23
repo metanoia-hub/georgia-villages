@@ -33,22 +33,24 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- The 2002 census recorded two residents; 2014 recorded none. A scholarly article reports that Tsiklauri settlers brought sacred stones of the Mtavrangeozis Jvari and White George shrines from Roshka in Khevsureti to Sachure. No source found for the founding date, cause or date of depopulation, or last inhabitants. ([source](https://ru.wikipedia.org/wiki/Сачуре))
+- Research on migration from Pshavi and Khevsureti records the transfer of two shrine stones from Roshka by Tsiklauri settlers to Sachure; this documents a religious tradition and migration link, not the villages founding or emptying. ([source](https://dspace.nplg.gov.ge/bitstream/1234/345737/1/KulturnoIstoricheskieVoprosiMigraciiGopskogo....pdf))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 2 residents (2002); 0 permanent residents (2014 census). ([source](https://ru.wikipedia.org/wiki/Сачуре))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific secular craft or trade found. A scholarly source identifies local sacred stones associated with two shrines, brought by Tsiklauri settlers from Roshka; no feast date is specified. ([source](https://dspace.nplg.gov.ge/bitstream/1234/345737/1/KulturnoIstoricheskieVoprosiMigraciiGopskogo....pdf))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- Sacred stones belonging to the shrines of Mtavrangeozis Jvari and White George are reported in Sachure; the article says they were transferred from Roshka. Heritage-register status and a church or tower in the village were not confirmed. ([source](https://dspace.nplg.gov.ge/bitstream/1234/345737/1/KulturnoIstoricheskieVoprosiMigraciiGopskogo....pdf))
 
 ## Photos And Videos
-- nothing found yet
+- No village-specific photo or video found in searches in English, Georgian, and Russian. ([source](https://explore-georgia.ge/en/settlements))
 
 ## Articles
-- nothing found yet
+- Scholarly article on migration from Pshavi and Khevsureti documents the shrine stones in Sachure. ([source](https://dspace.nplg.gov.ge/bitstream/1234/345737/1/KulturnoIstoricheskieVoprosiMigraciiGopskogo....pdf))
+- Russian-language village entry cites 2014 and 2002 population figures. ([source](https://ru.wikipedia.org/wiki/Сачуре))
 
 ## Road
 

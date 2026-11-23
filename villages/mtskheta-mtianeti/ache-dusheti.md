@@ -5,7 +5,7 @@
 ## Size
 - Population: 1917: **45** · 1923: **47** · 2002: **6** · 2014: **0**
 - Peak population found: **47 (1923)**
-- Houses: not counted yet
+- Houses: 1 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2014 (last with residents: 2002)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 2002 Geostat village volume PDF (confirms 6) ; 1923 Georgia rural census by settlement (Mashke pop-stat.mashke.org/georgia-ethnic-loc1923.htm), unit: Dushetis/Barisakhos ; 1917 Tiflis governorate villages (Mashke pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm), unit: Хевсурское
 
@@ -33,22 +33,25 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- The Georgian National Encyclopedia describes Ache as a Khevsureti-community village on the right side of the Liqokiskhevi, a tributary of the Khevsureti Aragvi, at about 2,000 metres. No founding date, first mention, named last inhabitants, or reason and date of abandonment were found. ([source](https://georgianencyclopedia.ge/ka/pdf-export/22339))
+- The 2002 census counted 6 residents; the 2014 census recorded none. The sources reviewed do not establish when the last person left. ([source](https://www.geostat.ge/media/44560/II-tomi-.pdf))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 2002: 6 residents (2 men, 4 women); 2014: 0. The 2014 census is the latest village-specific figure located. ([source](https://www.geostat.ge/media/20680/2014-wlis-aRweris-ZiriTadi-Sedegebi.pdf))
+- The 2002 census table records 6 residents and identifies the village population as Georgian; no later ethnic breakdown was used here. ([source](https://www.geostat.ge/media/44560/II-tomi-.pdf))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific craft, trade, or dated feast day was located. The regional source identifies a local Mother of God shrine, but does not supply an annual festival date or a particular trade for Ache. ([source](https://www.legali.ge/law/6789484/))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- A protected-area management plan lists the late-medieval Mother of God Cross shrine complex beside the Liqokistsqali: a shrine hall, two belfry towers, a tower, and a cooking house. It also lists Badakvilo, a late-medieval fortress-house. I found these in the management plan but did not verify a separate national heritage-register status for either site. ([source](https://www.legali.ge/law/6789484/))
 
 ## Photos And Videos
-- nothing found yet
+- No attributable photograph or YouTube video specifically showing Ache was verified after English, Georgian and Russian searches. This YouTube query documents the name variants checked. ([source](https://www.youtube.com/results?search_query=Ache+Dusheti+Khevsureti+%E1%83%90%E1%83%AD%E1%83%94+%D0%90%D1%87%D0%B5))
 
 ## Articles
-- nothing found yet
+- The national encyclopedia entry provides location information; the protected-area plan provides the local shrine and fortress-house inventory. No village-specific abandonment story or last-resident interview was located in the requested media searches. ([source](https://georgianencyclopedia.ge/ka/pdf-export/22339))
+- The Georgian administrative notice lists Ache among Barisakho-community villages. ([source](https://www.matsne.gov.ge/ka/document/view/2520940?publication=2))
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%90%E1%83%AD%E1%83%94&params=42_30_42_N_44_58_35_E_type:city(40361)_region:GE
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo

@@ -5,7 +5,7 @@
 ## Size
 - Population: 1917: **73** · 2002: **18** · 2014: **5** · 2024: **0**
 - Peak population found: **73 (1917)**
-- Houses: not counted yet
+- Houses: 0 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2024 (last with residents: 2014)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 1917 Tiflis governorate villages (Mashke pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm), unit: Эрцойское
 
@@ -33,22 +33,23 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- 2014 census recorded five residents (two men and three women; all recorded as Georgian); 2002 recorded 18. No source found on founding, depopulation, or last residents. ([source](https://ru.wikipedia.org/wiki/Пичвиани_(Тианетский_муниципалитет)))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 18 residents (2002); 5 permanent residents (2014 census). ([source](https://ru.wikipedia.org/wiki/Пичвиани_(Тианетский_муниципалитет)))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific crafts, trades, or feast day found in searches in English, Georgian, and Russian. ([source](https://www.tianeti.gov.ge/pages.php?id=3))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No village-specific monument or heritage status confirmed. A heritage register search result mentioning a church between other places did not establish that it is in this Tianeti village. ([source](https://heritagesites.ge/uploads/files/5ea9a2d3d0f95.pdf))
 
 ## Photos And Videos
-- nothing found yet
+- No village-specific photo or video found in searches in English, Georgian, and Russian. ([source](https://explore-georgia.ge/en/settlements))
 
 ## Articles
-- nothing found yet
+- Russian-language entry specifically for Pichviani, Tianeti Municipality; a separate homonymous village in Dusheti Municipality was excluded. ([source](https://ru.wikipedia.org/wiki/Пичвиани_(Тианетский_муниципалитет)))
+- Official administrative-unit resolution lists Pichviani in Sioni unit. ([source](https://matsne.gov.ge/ka/document/view/3134115))
 
 ## Road
 

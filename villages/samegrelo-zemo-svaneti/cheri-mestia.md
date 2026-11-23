@@ -33,10 +33,10 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Mestia Municipality includes Cheri in the Khaishi community. Targeted English, Georgian, and Russian searches found no reliable village-specific founding, first-record, depopulation, last-inhabitant, or monument history. ([source](https://www.mestia.gov.ge/ge/node/1340/))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 2014 census: 5 residents. This is the latest village-level census figure located; the current municipal roster confirms the village but gives no newer village count. ([source](https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%B8_(%D0%9C%D0%B5%D1%81%D1%82%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%BD%D0%B8%D1%86%D0%B8%D0%BF%D0%B0%D0%BB%D0%B8%D1%82%D0%B5%D1%82)))
 
 ## Crafts And Traditions
 - nothing found yet
@@ -45,11 +45,11 @@
 - nothing found yet
 
 ## Photos And Videos
-- No individual image/video result was verified. Search links are supplied for follow-up; no specific photo is asserted. ([source](https://www.google.com/search?tbm=isch&q=Cheri%20Mestia%20Georgia%20village))
-- YouTube search results; no specific video verified as showing the village. ([source](https://www.youtube.com/results?search_query=Cheri%20Mestia%20Georgia%20village))
+- No village-specific photo gallery or relevant YouTube walk-through/drone video located in English, Georgian, or Russian searches; YouTube search. ([source](https://www.youtube.com/results?search_query=Cheri+Mestia+ჭერი+Чери+Сванетия))
 
 ## Articles
-- nothing found yet
+- Official Mestia Municipality administrative list places Cheri in the Khaishi community. ([source](https://www.mestia.gov.ge/ge/node/1340/))
+- Russian-language entry reporting the 2014 census figure and pointing to the census source. ([source](https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%B8_(%D0%9C%D0%B5%D1%81%D1%82%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%BD%D0%B8%D1%86%D0%B8%D0%BF%D0%B0%D0%BB%D0%B8%D1%82%D0%B5%D1%82)))
 
 ## Road
 

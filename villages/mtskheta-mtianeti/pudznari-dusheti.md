@@ -33,22 +33,24 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- A village in Zhinvali community, on the western slope of the Kartli ridge in the upper Bodaviskhevi valley. No reliable source found for founding, first record, residents, or depopulation history. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/pudznari))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 11 residents (2002 census); no village-level 2014 figure verified in the sources located. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/pudznari))
 
 ## Crafts And Traditions
 - nothing found yet
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- The Mother of God Church of Pudznari (also called Bodavi) is described as a 13th-century church. Heritage status was not verified. ([source](https://novators.ge/dzeglebi.php?id=16104))
 
 ## Photos And Videos
-- nothing found yet
+- Photographs of the 13th-century Mother of God Church at Pudznari (Bodavi). ([source](https://commons.wikimedia.org/wiki/Category:Mother_of_God_Church_of_Pudznari))
+- No village-specific YouTube video located. ([source](https://www.youtube.com/results?search_query=Pudznari+Dusheti))
 
 ## Articles
-- nothing found yet
+- Georgian universal encyclopedic dictionary entry for Pudznari. ([source](https://www.nplg.gov.ge/gwdict/index.php?a=term&d=14&t=197501))
+- Church description and architectural detail. ([source](https://novators.ge/dzeglebi.php?id=16104))
 
 ## Road
 

@@ -33,10 +33,11 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Kartsaulta is an abandoned highland settlement in the Liqokiskhevi gorge, in the Khevsureti community. Available sources reviewed do not establish when it was founded or first recorded, identify the families who lived there, explain when or why it emptied, or name its last residents. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/kartsaulta))
 
 ## Population Over Time (Other Sources)
-- nothing found yet
+- 2 residents in 2002; 0 in 2014 and 2024. The 2002 count was one man and one woman. ([source](https://pop-stat.mashke.org/georgia-census2024.htm))
+- The 2014 census recorded no permanent population. ([source](https://pop-stat.mashke.org/georgia-census2014.htm))
 
 ## Crafts And Traditions
 - nothing found yet
@@ -45,12 +46,15 @@
 - nothing found yet
 
 ## Photos And Videos
-- nothing found yet
+- Satellite view centered on the abandoned village; image coverage is map imagery, not a dated ground photograph. ([source](https://www.google.com/maps/@42.487944,44.9491311,1500m/data=!3m1!1e3))
+- No village-specific YouTube drone or walk-through video found after searches in English, Georgian, and Russian. ([source](https://www.youtube.com/results?search_query=Kartsaulta+Georgia))
 - https://commons.wikimedia.org/wiki/File%3ARoad_to_Shatili_near_Ghelisvake_%28km58%29_direction_sign.jpg
 - https://commons.wikimedia.org/wiki/File%3ARoad_to_Shatili_near_Ghelisvake_%28km58%29.jpg
 
 ## Articles
-- nothing found yet
+- Village profile: location, abandoned status, 2002 and 2014 population, and setting in the Liqokiskhevi gorge. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/kartsaulta))
+- Russian-language village entry and map reference; describes location and absence of permanent residents in the 2014 census. ([source](https://ru.wikipedia.org/wiki/Карцаулта))
+- Dusheti municipal administrative-unit list, including Kartsaulta in Barisakho unit. ([source](https://www.matsne.gov.ge/ka/document/view/2520940))
 
 ## Road
 
