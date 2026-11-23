@@ -33,21 +33,43 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- Mematiane’s clergy compilation lists Grigol Meburishvili as a priest of the Archangel Church in Bagineti (bagineti / Багинети) in 1810–1845 and records other Meburishvili clergy there in the mid-19th century. ([source](https://mematiane.ge/church.php?id=298))
+- The 1923 agricultural census lists Bagineti in the Gora community and records all 221 residents as Georgian, according to the settlement-level transcription of the 1926 publication. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
+- In 1952 archaeologist Nino Khoshtaria surveyed Bagineti and its vicinity and located a partly buried carved stone pillar in the village. ([source](https://www.dzeglebi.ge/statiebi/arqeologia/qvis_svetebi.html))
+- The Georgian Soviet Encyclopedia’s Bagineti entry places it in the Kirovi village soviet in 1977 (vol. 2, printed p. 126). ([source](https://georgianencyclopedia.ge/pdf/2.pdf#page=133))
+- Salominao, the administrative centre of the community that includes Bagineti, was called Kirovi until 1991, according to the Universal Encyclopedic Dictionary. ([source](https://www.nplg.gov.ge/gwdict/index.php?a=term&d=14&t=163192))
+- In her 1979 archaeological article, Sara Barnaveli describes Bagineti and nearby Chvaneti as former settlements and says forest covered the pillar findspots. ([source](https://www.dzeglebi.ge/statiebi/arqeologia/qvis_svetebi.html))
+- Geostat’s 2014 table supports a count of eight permanent residents from the Salominao community and village totals. ([source](https://www.geostat.ge/media/20680/2014-wlis-aRweris-ZiriTadi-Sedegebi.pdf#page=80))
+- Geostat counted zero residents in Bagineti in 2024. ([source](https://geostat.ge/media/81091/1.Population-of-Georgia-by-administrative-territorial-units-and-sex.xlsx))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 1923 — 221 residents, all recorded as Georgian. All-Georgian Agricultural Census, settlement results published in 1926, as transcribed in Population Statistics of Eastern Europe. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
+- Circa 1930 — 211 residents in 38 households, all recorded as Georgian. Kapanadze and Mzhavanadze publish the Gora village soviet table in their account of Vani district’s formation in 1930. ([source](https://dspace.nplg.gov.ge/bitstream/1234/345570/1/Matiane_2020_N19.pdf))
+- 2002 — 18 permanent residents, 12 men and 6 women. The census lists Georgian as the predominant nationality. Georgia’s State Department of Statistics, census results, vol. II, p. 68. ([source](https://www.geostat.ge/media/44560/II-tomi-.pdf#page=68))
+- 2014 — 8 permanent residents, calculated from Geostat’s published counts. Salominao community had 790 residents across its two villages, of whom 782 lived in Salominao village. Geostat suppresses the standalone Bagineti figure in the same table. ([source](https://www.geostat.ge/media/20680/2014-wlis-aRweris-ZiriTadi-Sedegebi.pdf#page=80))
+- 2024 — 0 residents. Geostat census, as of 14 November 2024, workbook row 789. ([source](https://geostat.ge/media/81091/1.Population-of-Georgia-by-administrative-territorial-units-and-sex.xlsx))
 
 ## Crafts And Traditions
-- being researched
+- The Georgian Soviet Encyclopedia’s 1977 entry associates Bagineti with the Kirov collective farm, whose listed activities were viticulture, maize growing and fruit growing (vol. 2, printed p. 126). ([source](https://georgianencyclopedia.ge/pdf/2.pdf#page=133))
+- A carved stone pillar found in the village preserves extensive stone carving, including a central cross, twisted borders and a square socket at the top. The archaeological account does not identify the carvers. ([source](https://www.dzeglebi.ge/statiebi/arqeologia/qvis_svetebi.html))
 
 ## Churches, Towers, Monuments
-- being researched
+- The medieval ruins of the Archangel Church at Bagineti are a registered architectural monument, number 670. The agency records designation on 30 March 2006 under order 3/133. ([source](https://memkvidreoba.gov.ge/api/Immovable/GetImmovableObject?id=10257))
+- The agency’s published register records entry on 3 October 2007 and places the church ruins in the vicinity of the village. ([source](https://www.heritagesites.ge/uploads/files/6068808f2b2f2.pdf#page=22))
+- The Bagineti carved stone pillar was found in 1952, located again by the Vani archaeological expedition in 1976 and moved to its site in Vani in 1977. The same account describes a second carved pillar discovered in 1978 in nearby Chvaneti. ([source](https://www.dzeglebi.ge/statiebi/arqeologia/qvis_svetebi.html))
 
 ## Photos And Videos
+- Heritage Agency photo attached to the register entry for the Archangel Church ruins at Bagineti. ([source](https://memkvidreoba.gov.ge:8443/Files?id=79443_196F6910-8D82-43E1-8967-604FECAC653B))
+- Published image 1 of the carved stone pillar found at Bagineti. ([source](https://www.dzeglebi.ge/statiebi/arqeologia/qvis%20svetebi/baginetis_sveti.jpg))
+- Published image 2 of the carved stone pillar found at Bagineti. ([source](https://www.dzeglebi.ge/statiebi/arqeologia/qvis%20svetebi/baginetis_sveti1.jpg))
+- Published image 3 of the carved stone pillar found at Bagineti. ([source](https://www.dzeglebi.ge/statiebi/arqeologia/qvis%20svetebi/baginetis_sveti2.jpg))
 
 ## Articles
-- being researched
+- Sara Barnaveli’s illustrated article Stone Pillars from Abandoned Settlements of Vani District, originally published in Dzeglis Megobari, no. 51 (1979). ([source](https://www.dzeglebi.ge/statiebi/arqeologia/qvis_svetebi.html))
+- The Georgian Encyclopedia’s Bagineti entry for Vani municipality. ([source](https://georgianencyclopedia.ge/ka/form/23129))
+- Kapanadze and Mzhavanadze’s article on Vani’s demography, including settlement figures for Bagineti and Boboti published in Matiane. ([source](https://dspace.nplg.gov.ge/bitstream/1234/345570/1/Matiane_2020_N19.pdf))
+- Matiane’s historical tables for the Kutaisi district include Bagineti and Baboti in the former Gora community. ([source](https://dspace.nplg.gov.ge/bitstream/1234/345565/1/Matiane_2019_N15.pdf))
+- Digitized 1926 edition of the settlement results from the 1923 All-Georgian Agricultural Census. ([source](https://viewer.rsl.ru/ru/rsl01008964149))
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%91%E1%83%90%E1%83%92%E1%83%98%E1%83%9C%E1%83%94%E1%83%97%E1%83%98_(%E1%83%95%E1%83%90%E1%83%9C%E1%83%98%E1%83%A1_%E1%83%9B%E1%83%A3%E1%83%9C%E1%83%98%E1%83%AA%E1%83%98%E1%83%9E%E1%83%90%E1%83%9A%E1%83%98%E1%83%A2%E1%83%94%E1%83%A2%E1%83%98)&params=42_03_39_N_42_44_03_E_type:city(40361)_region:GE
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo

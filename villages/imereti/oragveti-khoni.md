@@ -33,21 +33,34 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- Mematiane’s clergy compilation lists Iese Chinchaladze as a priest of the Church of the Saviour in Oragveti (oragveti / Орагвети) with dates of 1805–1849. ([source](https://mematiane.ge/subproduct-details.php?id=18398))
+- Petre Vachridze’s history of Khoni lists Oragveti in the Gvashtibi rural society of the Khoni police district, describing the administrative arrangement from the 1870s onward. ([source](https://www.scribd.com/document/968419913/Xonis-Istoriidan-1998))
+- The 1984 Georgian Soviet Encyclopedia places Oragveti in the Dzedzileti village soviet of Tsulukidze district. ([source](https://georgianencyclopedia.ge/pdf/7.pdf#page=610))
+- The National Agency for Cultural Heritage Preservation records an oral account that the settlement emptied in the 1940s–1950s. Its site survey also reports a gravestone dated 1937 beside St George’s Church. ([source](https://memkvidreoba.gov.ge/api/Immovable/GetImmovableObject?id=24605))
+- Geostat counted two permanent residents in 2002, both men, and listed Georgian as the predominant nationality. This puts residents on record decades after the reported period of abandonment. ([source](https://www.geostat.ge/media/44560/II-tomi-.pdf#page=88))
+- By the 2014 census the recorded permanent population was zero. ([source](https://www.geostat.ge/media/20680/2014-wlis-aRweris-ZiriTadi-Sedegebi.pdf#page=127))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 2002 — 2 permanent residents, both men. Georgia’s State Department of Statistics, census results, vol. II, p. 88. ([source](https://www.geostat.ge/media/44560/II-tomi-.pdf#page=88))
+- 2014 — 0 permanent residents. Geostat census, Khoni municipality village table. ([source](https://www.geostat.ge/media/20680/2014-wlis-aRweris-ZiriTadi-Sedegebi.pdf#page=127))
+- 2024 — 0 residents. Geostat census, as of 14 November 2024, workbook row 1451. ([source](https://geostat.ge/media/81091/1.Population-of-Georgia-by-administrative-territorial-units-and-sex.xlsx))
 
 ## Crafts And Traditions
-- being researched
+- The Georgian Soviet Encyclopedia’s 1984 entry identifies the Gordi livestock-breeding state farm in its account of Oragveti (vol. 7, printed p. 551). ([source](https://georgianencyclopedia.ge/pdf/7.pdf#page=610))
 
 ## Churches, Towers, Monuments
-- being researched
+- St George’s Church at the abandoned settlement is an architectural monument dated by the Heritage Agency to the 16th–18th centuries. It received cultural heritage status on 19 April 2019 under order 02/30. The agency’s online card gives registry number 7656. ([source](https://memkvidreoba.gov.ge/api/Immovable/GetImmovableObject?id=24605))
+- The agency’s published register lists St George’s Church at Oragveti in entry 7654 with a register-entry date of 23 April 2019. ([source](https://www.heritagesites.ge/uploads/files/6068808f2b2f2.pdf#page=273))
+- The agency survey describes an 8-by-6-metre stone hall church with a carved cross and sheep relief on the western doorway and two qvevri set into the sanctuary vault for acoustics. ([source](https://memkvidreoba.gov.ge/api/Immovable/GetImmovableObject?id=24605))
+- The Church of the Saviour is documented in Mematiane’s clergy records, which list Iovane Tsivtsivadze as priest in 1853–1854. ([source](https://mematiane.ge/subproduct-details.php?id=18950))
 
 ## Photos And Videos
+- Heritage Agency photograph of St George’s Church at Oragveti, dated 23 April 2019. ([source](https://memkvidreoba.gov.ge:8443/Files?id=275138_255576F1-E70F-4BC2-B770-0861C6135E0B))
 
 ## Articles
-- being researched
+- Heritage Agency site record for St George’s Church in Oragveti, including a description of the building and the abandoned settlement. ([source](https://memkvidreoba.gov.ge/objects/immovable/immovableObject?id=24605))
+- Madloba’s article on St George’s Church and the abandoned settlement. ([source](https://madloba.info/en/region-imereti/churches/oragveti-nasoplari-st-george-church/))
+- Petre Vachridze’s 1998 history of Khoni, including Oragveti in its account of the Gvashtibi rural society. ([source](https://www.scribd.com/document/968419913/Xonis-Istoriidan-1998))
 
 ## Road
 

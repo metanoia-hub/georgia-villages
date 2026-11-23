@@ -33,21 +33,27 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- Kudoti ( / Кудоти) is named alongside Mechkheri in a report from Zarati in the Georgian newspaper Eri, 1913, issue 28. ([source](https://dspace.nplg.gov.ge/bitstream/1234/553875/1/Eri_1913_N28.pdf))
+- The 1983 Georgian Soviet Encyclopedia records Kudoti under the Rioni village soviet and describes a primary school in Kudoti. It places the secondary school in Rioni (vol. 6, printed p. 55). ([source](https://georgianencyclopedia.ge/pdf/6.pdf#page=56))
+- The 2002 census recorded no permanent residents. ([source](https://www.geostat.ge/media/44560/II-tomi-.pdf#page=60))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 2002 — 0 permanent residents. Georgia’s State Department of Statistics, census results, vol. II, p. 60. ([source](https://www.geostat.ge/media/44560/II-tomi-.pdf#page=60))
+- 2014 — 0 permanent residents. Geostat census, Tskaltubo municipality village table. ([source](https://www.geostat.ge/media/20680/2014-wlis-aRweris-ZiriTadi-Sedegebi.pdf#page=111))
+- 2024 — 0 residents. Geostat census, as of 14 November 2024, workbook row 1199. ([source](https://geostat.ge/media/81091/1.Population-of-Georgia-by-administrative-territorial-units-and-sex.xlsx))
 
 ## Crafts And Traditions
-- being researched
+- The Georgian Soviet Encyclopedia’s 1983 entry associates Kudoti with the Zarati collective farm, whose listed activities were tea growing and fruit growing (vol. 6, printed p. 55). ([source](https://georgianencyclopedia.ge/pdf/6.pdf#page=56))
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- nothing found yet
 
 ## Articles
-- being researched
+- Eri, issue 28 (1913), a contemporary local report from Zarati that names Kudoti. ([source](https://dspace.nplg.gov.ge/bitstream/1234/553875/1/Eri_1913_N28.pdf))
+- Georgian Soviet Encyclopedia, vol. 6 (1983), printed p. 55, the Kudoti entry. ([source](https://georgianencyclopedia.ge/pdf/6.pdf#page=56))
 
 ## Road
 

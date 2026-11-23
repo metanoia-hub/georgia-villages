@@ -2,6 +2,7 @@
 
 Every Georgian village with no one or one person living there in the 2024 census: one page each, to fill in as we learn more.
 
+- **Which villages first: [RANKING.md](RANKING.md)** (all 240 scored on altitude, size, hospital, buildings, clusters)
 - Map of all villages: [villages.geojson](villages.geojson)
 - Map with hospitals, clinics and ambulances: https://founders.windsofchange.world/georgia-empty-villages/
 - Where the population figures come from: Geostat census tables (2002, 2014, 2024) and the 1917 and 1923 village tables, via pop-stat.mashke.org; 2002 Geostat village volume.
