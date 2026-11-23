@@ -5,7 +5,7 @@
 ## Size
 - Population: 1917: **312** · 1923: **233** · 2002: **0** · 2014: **0** · 2024: **0**
 - Peak population found: **312 (1917)**
-- Houses: not counted yet
+- Houses: 27 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2002 (last with residents: 1923)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 1923 Georgia rural census by settlement (Mashke pop-stat.mashke.org/georgia-ethnic-loc1923.htm), unit: Dushetis/Kobis ; 1917 Tiflis governorate villages (Mashke pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm), unit: Земо-Хевское ; JAMnews Land of abandoned villages
 
@@ -33,23 +33,25 @@
 - Winter road: Village road unknown. Gudauri–Kobi main road reopened 22 Nov 2026 and is subject to winter closures.
 
 ## History
-- being researched
+- Ketrisi (Georgian keterisi; also rendered Keterisi) is an Ossetian-settled village in Truso Gorge. Historical population figures cited in a scholarly article: 96 people/10 households (1802), 110/24 (1831–32), 134/20 (1860), 153/25 (1873), 200/23 (1886), 216/34 (1926), and 263 (1910 calendar). Truso Valley depopulation is associated with outmigration in the 1980s, the 1991 and 2008 conflicts, and post-2008 border restrictions/resettlement; these are valley-level sources, not proof of the last household’s exact departure date. Seasonal summer households are reported by a travel guide. ([source](https://www.academia.edu/48990593/Truso_Historical_And_Ethnocultural_Issues))
 
 ## Population Over Time (Other Sources)
-- being researched
+- Village figures in the cited historical study: 1802: 96; 1831–32: 110; 1860: 134; 1873: 153; 1886: 200; 1910: 263; 1926: 216. 2014: no resident population recorded in the census transcription. Recent guide reports one or two households in summer, so this is not directly comparable to census counts. ([source](https://www.academia.edu/48990593/Truso_Historical_And_Ethnocultural_Issues))
 
 ## Crafts And Traditions
-- being researched
+- Truso valley residents were engaged in cattle raising, especially sheep, with some crop farming and handicrafts; the archival study treats the valley settlements collectively and does not isolate Ketrisi trades. ([source](https://historyoftruso.sangu.edu.ge/wp-content/uploads/2022/03/aghmosavleth-saqarthvelos-mthianethis-shestsavlis-problemebi.-4.03.2022.-mokle-shinaarsebi-2.pdf))
 
 ## Churches, Towers, Monuments
-- being researched
+- Travel accounts describe stone house ruins and towers in/around Ketrisi. No village-specific official monument registry entry was verified in this search. ([source](https://thegeorgianguide.com/hiking/truso-valley-hike/))
 
 ## Photos And Videos
+- Photo travel account documenting Ketrisi and Truso Valley. ([source](https://thegeorgianguide.com/hiking/truso-valley-hike/))
 
 - Main picture: http://commons.wikimedia.org/wiki/Special:FilePath/Ketrisi.%20Truso.jpg
 
 ## Articles
-- being researched
+- Historical and ethnocultural study of Truso, including Ketrisi population series and settlement history. ([source](https://www.academia.edu/48990593/Truso_Historical_And_Ethnocultural_Issues))
+- Truso Valley hike account describing seasonal households and recent departures from the valley. ([source](https://thegeorgianguide.com/hiking/truso-valley-hike/))
 
 ## Road
 

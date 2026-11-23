@@ -5,7 +5,7 @@
 ## Size
 - Population: 1923: **416** · 2002: **4** · 2014: **0** · 2024: **0**
 - Peak population found: **416 (1923)**
-- Houses: not counted yet
+- Houses: 20 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2014 (last with residents: 2002)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 1923 Georgia rural census by settlement (Mashke pop-stat.mashke.org/georgia-ethnic-loc1923.htm), unit: Shkmeris
 
@@ -33,23 +33,25 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- No village-by-village series for 1989, 2002, 2014 and 2024 was verified in consulted sources. ([source](https://www.geostat.ge/en/modules/categories/12/2024-population-census-of-georgia-results))
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- No monument for the Oni village could be verified; search results for similarly named Kharistvala concern a different settlement. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/oni-municipality/kharistvali))
 
 ## Photos And Videos
+- The referenced village page includes online location imagery/photographs where available; this is a village page, not a verified independent photo archive. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/oni-municipality/kharistvali))
+- YouTube result titled “RACHA - GEORGIA” lists this village among places in the Racha sequence; published circa 2007 (search-index age). ([source](https://www.youtube.com/watch?v=WRfUEWoWkhg))
 
 - Main picture: http://commons.wikimedia.org/wiki/Special:FilePath/View%20to%20Shaori%20-%20panoramio.jpg
 
 ## Articles
-- being researched
+- Village reference or report. ([source](https://www.about.ge/en/poi/2721))
 
 ## Road
 

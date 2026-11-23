@@ -5,7 +5,7 @@
 ## Size
 - Population: 1917: **47** · 1923: **43** · 2002: **3** · 2014: **3**
 - Peak population found: **47 (1917)**
-- Houses: not counted yet
+- Houses: 2 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: unknown
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 2002 Geostat village volume PDF (confirms 3) ; 1923 Georgia rural census by settlement (Mashke pop-stat.mashke.org/georgia-ethnic-loc1923.htm), unit: Dushetis/Batsaligos ; 1917 Tiflis governorate villages (Mashke pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm), unit: Хевсурское
 
@@ -33,21 +33,22 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- nothing found yet
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- nothing found yet
 
 ## Articles
-- being researched
+- nothing found yet
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%90%E1%83%A2%E1%83%90%E1%83%91%E1%83%94&params=42_33_56_N_44_58_19_E_type:city(40361)_region:
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo
 - http://www.nplg.gov.ge/gsdl/cgi-bin/library.exe?e=q-00000-00---off-0civil2-civil2-01-1--0-10-0---0---0prompt-10-TX--4----Sec---0-1l--11-ka-50---20-about-%E1%83%97%E1%83%94%E1%83%99%E1%83%90%E1%83%9A%E1%83%98--00-3-1-00-0-0-11-1-0utfZz-8-00&a=d&c=civil2&srp=0&srn=0&cl=search&d=HASH01889d217d31c1f4e7f8ebb0.2

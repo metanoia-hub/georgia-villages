@@ -33,21 +33,23 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- A 2010 report says a native of Siriachkoni, Akaki Topuria, wrote a book about the village, “There Was a Village”; the report notes residents had petitioned the district administration. It does not establish founding date or last-family departure. ([source](https://www.humanrights.ge/index.php?a=text&lang=eng&pid=12601))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 67 residents (35 men, 32 women) in 2002; 13 (8 men, 5 women) in 2014. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/senaki-municipality/siriachkoni))
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- No individual image/video result was verified. Search links are supplied for follow-up; no specific photo is asserted. ([source](https://www.google.com/search?tbm=isch&q=Siriachkoni%20Senaki%20Georgia%20village))
+- YouTube search results; no specific video verified as showing the village. ([source](https://www.youtube.com/results?search_query=Siriachkoni%20Senaki%20Georgia%20village))
 
 ## Articles
-- being researched
+- “There Was a Village” — report concerning Akaki Topuria and the village residents’ petition. ([source](https://www.humanrights.ge/index.php?a=text&lang=eng&pid=12601))
 
 ## Road
 

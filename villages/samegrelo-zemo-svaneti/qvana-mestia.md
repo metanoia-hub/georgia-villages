@@ -33,21 +33,23 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- 6 residents (4 men, 2 women), 2014 census. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/mestia-municipality/qvana))
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- No individual image/video result was verified. Search links are supplied for follow-up; no specific photo is asserted. ([source](https://www.google.com/search?tbm=isch&q=Qvana%20Mestia%20Georgia%20village))
+- YouTube search results; no specific video verified as showing the village. ([source](https://www.youtube.com/results?search_query=Qvana%20Mestia%20Georgia%20village))
 
 ## Articles
-- being researched
+- nothing found yet
 
 ## Road
 

@@ -5,7 +5,7 @@
 ## Size
 - Population: 2002: **2** · 2014: **0** · 2024: **0**
 - Peak population found: **2 (2002)**
-- Houses: not counted yet
+- Houses: 4 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2014 (last with residents: 2002)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 2002 Geostat village volume PDF (confirms 2)
 
@@ -33,21 +33,22 @@
 - Winter road: Mele–Lasdili (km 125–151) closed to all vehicles from 21 Nov 2026. Village access unknown.
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- 2014 census village listing reports 2 residents. ([source](https://pop-stat.mashke.org/georgia-census2014.htm))
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- The referenced village page includes online location imagery/photographs where available; this is a village page, not a verified independent photo archive. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/lentekhi-municipality/qoruldashi))
 
 ## Articles
-- being researched
+- Village reference or report. ([source](https://pop-stat.mashke.org/georgia-census2014.htm))
 
 ## Road
 

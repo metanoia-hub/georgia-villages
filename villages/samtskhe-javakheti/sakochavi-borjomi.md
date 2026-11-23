@@ -33,21 +33,22 @@
 - Winter road: Village road unknown. The Bakuriani–Ghadolari section closed to all vehicles from 13 Nov 2026.
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- 2002: no permanent population (municipal reference summary). The supplied GeoJSON reports residents_2024=0; no independent village-level 2024 table was found. ([source](https://www.nplg.gov.ge/wikidict/index.php/%E1%83%91%E1%83%9D%E1%83%A0%E1%83%AF%E1%83%9D%E1%83%9B%E1%83%98%E1%83%A1_%E1%83%9B%E1%83%A3%E1%83%9C%E1%83%98%E1%83%AA%E1%83%98%E1%83%9E%E1%83%90%E1%83%9A%E1%83%98%E1%83%A2%E1%83%94%E1%83%A2%E1%83%98))
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- No village monument or heritage-registration entry was confirmed. Sakochavi is listed as a Borjomi health resort/locality in the national legal register of resorts. ([source](https://www.matsne.gov.ge/ka/document/view/1260851))
 
 ## Photos And Videos
+- nothing found yet
 
 ## Articles
-- being researched
+- Municipal reference summary records Sakochavi among uninhabited villages in 2002. ([source](https://www.nplg.gov.ge/wikidict/index.php/%E1%83%91%E1%83%9D%E1%83%A0%E1%83%AF%E1%83%9D%E1%83%9B%E1%83%98%E1%83%A1_%E1%83%9B%E1%83%A3%E1%83%9C%E1%83%98%E1%83%AA%E1%83%98%E1%83%9E%E1%83%90%E1%83%9A%E1%83%98%E1%83%A2%E1%83%94%E1%83%A2%E1%83%98))
 
 ## Road
 

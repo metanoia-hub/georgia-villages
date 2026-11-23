@@ -33,21 +33,23 @@
 - Winter road: Village road unknown. The Bakuriani–Ghadolari section closed to all vehicles from 13 Nov 2026.
 
 ## History
-- being researched
+- Borjomi municipal reference material identifies Ghinturi among villages reported without permanent population in the 2002 census; it does not provide the villages departure chronology. ([source](https://www.nplg.gov.ge/wikidict/index.php/%E1%83%91%E1%83%9D%E1%83%A0%E1%83%AF%E1%83%9D%E1%83%9B%E1%83%98%E1%83%A1_%E1%83%9B%E1%83%A3%E1%83%9C%E1%83%98%E1%83%AA%E1%83%98%E1%83%9E%E1%83%90%E1%83%9A%E1%83%98%E1%83%A2%E1%83%94%E1%83%A2%E1%83%98))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 2002: no permanent population, as reported in the Borjomi municipality reference summary. The supplied GeoJSON records residents_2024=0; this is the repositorys value, not an independently located census table. ([source](https://www.nplg.gov.ge/wikidict/index.php/%E1%83%91%E1%83%9D%E1%83%A0%E1%83%AF%E1%83%9D%E1%83%9B%E1%83%98%E1%83%A1_%E1%83%9B%E1%83%A3%E1%83%9C%E1%83%98%E1%83%AA%E1%83%98%E1%83%9E%E1%83%90%E1%83%9A%E1%83%98%E1%83%A2%E1%83%94%E1%83%A2%E1%83%98))
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- The nearby abandoned settlement Didi Toneti contains church ruins, including the church called Sakhdelis Jvari; the page describes the sites but does not establish a heritage-register status for Ghinturi itself. ([source](https://explore-georgia.ge/en/samtskhe-javakheti/borjomi-municipality/ghinturi))
+- A 2019 report names Ghinturis Church of the Mother of God and nearby Didi Toneti among endangered/inaccessible historical monuments; it quotes local museum monitoring staff and describes difficult access. ([source](https://droa.ge/?p=55156))
 
 ## Photos And Videos
+- nothing found yet
 
 ## Articles
-- being researched
+- Report on endangered historical monuments around Borjomi, including Ghinturis Mother of God church. ([source](https://droa.ge/?p=55156))
 
 ## Road
 

@@ -33,25 +33,30 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- The 1917 Tiflis Governorate table records the settlement as Бодко and lists all 20 residents as Georgian. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
+- The 1923 rural settlement table records botko and lists all 63 residents as Georgian. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 1917 — 20 residents. Tiflis Governorate village table, transcribed as Бодко. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
+- 1923 — 63 residents. Ethnic composition of rural Georgia by settlement, transcribed as botko (Botko). ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
+- 2002 — 0 residents. Geostat census, vol. II, p. 106. ([source](https://www.geostat.ge/media/44560/II-tomi-.pdf#page=106))
+- 2014 — 0 residents. Geostat census workbook, row 1803. ([source](https://geostat.ge/media/51076/1_Number-of-population-by-administrative-territorial-units-and-sex.xls))
+- 2024 — 0 residents. Geostat census on 14 November 2024, workbook row 1843. ([source](https://geostat.ge/media/81091/1.Population-of-Georgia-by-administrative-territorial-units-and-sex.xlsx))
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
-
+- nothing found yet
 - https://commons.wikimedia.org/wiki/File%3AISS031-E-98145_-_View_of_Earth.jpg
 - https://commons.wikimedia.org/wiki/File%3AISS031-E-97106_-_View_of_Earth.jpg
 - https://commons.wikimedia.org/wiki/File%3ABochorma_%28Tianeti_Municipality%29.jpg
 
 ## Articles
-- being researched
+- The Georgian Soviet Encyclopedia, volume 2, includes an entry on Botko. ([source](https://georgianencyclopedia.ge/pdf/2.pdf))
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%91%E1%83%9D%E1%83%A2%E1%83%99%E1%83%9D&params=41_53_47_N_45_6_28_E_
 - http://web.archive.org/web/20160919174004/http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo

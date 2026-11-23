@@ -33,21 +33,32 @@
 - Winter road: Abano Pass closed to all vehicles on km 22–72 since 24 Oct 2026. Local village-road status unknown.
 
 ## History
-- being researched
+- The 1917 Tiflis Governorate table records the settlement as Дакиурта and lists all 55 residents as Georgian. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
+- The 1923 rural settlement table records dakiurta and lists all 20 residents as Georgian. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
+- The village survey dates the beginning of abandonment to after 1917. It names Mozaidze, Khelidze and Khutidze households and says they moved to Girevi and the Kakheti lowlands. ([source](https://www.dzeglebi.ge/mxareebi_qalaqebi/tusheti/tusheti_daqiurta.html))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 1855 — 63 residents. R. Eristov’s village table, published in 1855, lists Дакиурта with 13 houses, 35 men and 28 women. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
+- 1917 — 55 residents. Tiflis Governorate village table, transcribed as Дакиурта. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
+- 1923 — 20 residents. Ethnic composition of rural Georgia by settlement, transcribed as dakiurta (Dakiurta). ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
+- 2014 — 0 residents. Geostat census workbook, row 1458. ([source](https://geostat.ge/media/51076/1_Number-of-population-by-administrative-territorial-units-and-sex.xls))
+- 2024 — 0 residents. Geostat census on 14 November 2024, workbook row 1486. ([source](https://geostat.ge/media/81091/1.Population-of-Georgia-by-administrative-territorial-units-and-sex.xlsx))
 
 ## Crafts And Traditions
-- being researched
+- The Khelidze fortified house preserves dry-laid slate masonry, holes for timber floor beams and slate projections for tethering horses. ([source](https://www.dzeglebi.ge/mxareebi_qalaqebi/tusheti/tusheti_daqiurta.html))
 
 ## Churches, Towers, Monuments
-- being researched
+- The historic site of Dakiurta is dated to the late medieval period and listed as a monument of national significance, register entry 7513. ([source](https://www.heritagesites.ge/uploads/files/6068808f2b2f2.pdf#page=266))
+- The survey records the Khelidze family’s five-storey fortified house, a ruined dwelling and a Michael–Gabriel shrine. The tower’s two upper floors were defensive. ([source](https://www.dzeglebi.ge/mxareebi_qalaqebi/tusheti/tusheti_daqiurta.html))
 
 ## Photos And Videos
+- nothing found yet
 
 ## Articles
-- being researched
+- Government decree No. 389 of 13 August 2018, assigning national significance to this site. ([source](https://matsne.gov.ge/ka/document/view/4256468?publication=0))
+- Official site profile for Dakiurta. ([source](https://www.heritagesites.ge/public/ka/news_item/255))
+- Dzeglebi’s village entry and architectural survey, citing the published Georgian monument inventory. ([source](https://www.dzeglebi.ge/mxareebi_qalaqebi/tusheti/tusheti_daqiurta.html))
+- R. Eristov’s 1855 description and village table for the Tushino-Pshavo-Khevsur district, in Russian. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - https://matsne.gov.ge/ka/document/view/4256468
 - https://matsne.gov.ge/ka/document/view/4256468?publication=0

@@ -33,21 +33,29 @@
 - Winter road: Abano Pass closed to all vehicles on km 22–72 since 24 Oct 2026. Local village-road status unknown.
 
 ## History
-- being researched
+- The 1917 Tiflis Governorate table records the settlement as Ведзисхеви and lists all 55 residents as Georgian. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
+- Makalatia’s 1933 survey records the following local surnames in 1930–31. Gabidaidze. ([source](https://www.batsav.com/pages/tusheti-population-census-makalatia.html))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 1855 — 47 residents. R. Eristov’s village table, published in 1855, lists Ведзис-Хеви with 5 houses, 20 men and 27 women. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
+- 1917 — 55 residents. Tiflis Governorate village table, transcribed as Ведзисхеви. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
+- 1923 — 29 residents. Ethnic composition of rural Georgia by settlement, transcribed as vedzis-khevi (Vedzis-Khevi). ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
+- 1930–31 — 3 residents. Sergi Makalatia’s 1933 ethnographic survey, printed pp. 86–89, lists 1 households. ([source](https://www.batsav.com/pages/tusheti-population-census-makalatia.html))
+- 2014 — 0 residents. Geostat census workbook, row 1466. ([source](https://geostat.ge/media/51076/1_Number-of-population-by-administrative-territorial-units-and-sex.xls))
+- 2024 — 0 residents. Geostat census on 14 November 2024, workbook row 1494. ([source](https://geostat.ge/media/81091/1.Population-of-Georgia-by-administrative-territorial-units-and-sex.xlsx))
 
 ## Crafts And Traditions
-- being researched
+- Makalatia’s 1930–31 survey records livestock keeping here, with 50 sheep and goats and 16 cattle. ([source](https://www.batsav.com/pages/tusheti-population-census-makalatia.html))
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- nothing found yet
 
 ## Articles
-- being researched
+- Georgian Travel Guide’s village profile for Vedziskhevi. ([source](https://georgiantravelguide.com/ka/vedziskhevi))
+- R. Eristov’s 1855 description and village table for the Tushino-Pshavo-Khevsur district, in Russian. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
 
 ## Road
 

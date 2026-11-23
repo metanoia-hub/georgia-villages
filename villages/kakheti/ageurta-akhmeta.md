@@ -33,21 +33,33 @@
 - Winter road: Abano Pass closed to all vehicles on km 22–72 since 24 Oct 2026. Local village-road status unknown.
 
 ## History
-- being researched
+- The 1917 Tiflis Governorate table records the settlement as Агеурта and lists all 41 residents as Georgian. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
+- The 1923 rural settlement table records agiurta and lists all 10 residents as Georgian. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
+- The National Parks profile dates the historic site to the 17th–18th centuries. ([source](https://nationalparks.ge/en/site/tushetinp/toSeeInner/40))
+- The 2014 protected-areas management plan dates forced Soviet resettlement from Tusheti to the lowlands to the late 1950s. This describes the regional policy. ([source](https://matsne.gov.ge/ka/document/view/2190286))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 1917 — 41 residents. Tiflis Governorate village table, transcribed as Агеурта. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
+- 1923 — 10 residents. Ethnic composition of rural Georgia by settlement, transcribed as agiurta (Agiurta). ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
+- 2014 — 0 residents. Geostat census workbook, row 1445. ([source](https://geostat.ge/media/51076/1_Number-of-population-by-administrative-territorial-units-and-sex.xls))
+- 2024 — 0 residents. Geostat census on 14 November 2024, workbook row 1473. ([source](https://geostat.ge/media/81091/1.Population-of-Georgia-by-administrative-territorial-units-and-sex.xlsx))
 
 ## Crafts And Traditions
-- being researched
+- The towers preserve dry-stone slate masonry. The survey also identifies surviving patches of plaster inside some towers. ([source](https://www.heritagesites.ge/ka/news_item/242))
 
 ## Churches, Towers, Monuments
-- being researched
+- The historic site of Ageurta is dated to the late medieval period and listed as a monument of national significance, register entry 7511. ([source](https://www.heritagesites.ge/uploads/files/6068808f2b2f2.pdf#page=266))
+- Late medieval tower. The Heritage Agency register records it under entry 929, dated 3 October 2007. ([source](https://www.heritagesites.ge/uploads/files/6068808f2b2f2.pdf#page=30))
+- The Heritage Agency describes roughly twenty residential towers, built in dry-laid slate and largely ruined. ([source](https://www.heritagesites.ge/ka/news_item/242))
 
 ## Photos And Videos
+- Heritage Agency photograph on its Ageurta site profile. ([source](https://www.heritagesites.ge/public/uploads/images/5b72998eb2676.jpg))
+- Photograph on National Parks of Georgia’s Ageurta site profile. ([source](https://nationalparks.ge/files/1542699739100აგეურთა.jpg))
 
 ## Articles
-- being researched
+- Government decree No. 389 of 13 August 2018, assigning national significance to this site. ([source](https://matsne.gov.ge/ka/document/view/4256468?publication=0))
+- Official site profile for Ageurta. ([source](https://nationalparks.ge/en/site/tushetinp/toSeeInner/40))
+- Heritage Agency’s description of the slate residential towers and site designation. ([source](https://www.heritagesites.ge/ka/news_item/242))
 - http://agenda.ge/en/news/2018/944
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - http://www.memkvidreoba-gis.gov.ge/Home/Immovable/23068

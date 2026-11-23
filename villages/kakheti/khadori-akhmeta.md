@@ -33,23 +33,25 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- The 1923 rural settlement table records khadori and lists all 56 residents as Georgian. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 1923 — 56 residents. Ethnic composition of rural Georgia by settlement, transcribed as khadori (Khadori). ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
+- 2024 — 0 residents. Geostat census on 14 November 2024, workbook row 1547. ([source](https://geostat.ge/media/81091/1.Population-of-Georgia-by-administrative-territorial-units-and-sex.xlsx))
 
 ## Crafts And Traditions
-- being researched
+- Radio Free Europe/Radio Liberty reported in 2004 that construction of the Khadori hydroelectric plant in the adjacent gorge began in 2001 with financing from a Sichuan electricity company. ([source](https://www.radiotavisupleba.ge/content/article/1537257.html))
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- nothing found yet
 
 - Main picture: http://commons.wikimedia.org/wiki/Special:FilePath/Khadori%20hydroelectric%20station.jpg
 
 ## Articles
-- being researched
+- Radio Free Europe/Radio Liberty’s 2004 reporting on construction of the Khadori hydroelectric plant. ([source](https://www.radiotavisupleba.ge/content/article/1537257.html))
 - http://www.radiotavisupleba.ge/content/article/1537257.html
 - https://dspace.nplg.gov.ge/handle/1234/322343
 

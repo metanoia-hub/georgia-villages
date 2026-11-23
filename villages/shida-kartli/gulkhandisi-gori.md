@@ -33,23 +33,23 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- nothing found yet
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
-
+- nothing found yet
 - https://commons.wikimedia.org/wiki/File%3AISS010-E-30516_-_View_of_Turkey.jpg
 
 ## Articles
-- being researched
+- No village-specific article located in the sources reviewed. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
 
 ## Road
 

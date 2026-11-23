@@ -33,21 +33,23 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- A 2017 social impact assessment says remote outlying villages in the Naki area were forcibly consolidated into Naki for administrative reasons about 50 years earlier; it names this settlement among the affected villages. It does not give a village-specific departure date or last family. ([source](https://www.ebrd.com/content/dam/ebrd_dxp/documents/owcs-archive/Environment/esia-46778-sia.pdf))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 2014 population figure not verified in accessible source. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/mestia-municipality/tavrali))
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- No individual image/video result was verified. Search links are supplied for follow-up; no specific photo is asserted. ([source](https://www.google.com/search?tbm=isch&q=Tavrali%20Mestia%20Georgia%20village))
+- YouTube search results; no specific video verified as showing the village. ([source](https://www.youtube.com/results?search_query=Tavrali%20Mestia%20Georgia%20village))
 
 ## Articles
-- being researched
+- nothing found yet
 
 ## Road
 

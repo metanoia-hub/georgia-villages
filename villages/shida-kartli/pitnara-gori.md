@@ -33,21 +33,22 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- Village-specific listing identifies this as abandoned; the page does not establish the date of abandonment, former population, families, or cause. ([source](https://explore-georgia.ge/en/shida-kartli/gori-municipality/pitnara))
 
 ## Population Over Time (Other Sources)
-- being researched
+- nothing found yet
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- nothing found yet
 
 ## Articles
-- being researched
+- Village profile. ([source](https://explore-georgia.ge/en/shida-kartli/gori-municipality/pitnara))
 
 ## Road
 

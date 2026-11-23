@@ -33,21 +33,23 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- 2002: 12 residents. ([source](https://d-nb.info/1191054691/34))
+- The project GeoJSON lists 1 resident in 2024; the referenced settlement directory is the online census-era listing. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- The Church of the Virgin Mary is described by the Georgian Encyclopedia as a small single-nave church northwest of Vake; this source does not state its formal heritage-registry status. ([source](https://www.georgianencyclopedia.ge/en/form_eng/763))
 
 ## Photos And Videos
+- No village-specific photo or video URLs were confirmed in the reviewed results. Search YouTube by Latin, Georgian-script, and Russian names plus Tetritskaro Municipality. ([source](https://www.youtube.com/results?search_query=vake+Tetritskaro))
 
 ## Articles
-- being researched
+- No village-specific article URLs were confirmed in the reviewed results. ([source](https://explore-georgia.ge/en/kvemo-kartli/tetritskaro-municipality/vake))
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%95%E1%83%90%E1%83%99%E1%83%94_(%E1%83%97%E1%83%94%E1%83%97%E1%83%A0%E1%83%98%E1%83%AC%E1%83%A7%E1%83%90%E1%83%A0%E1%83%9D%E1%83%A1_%E1%83%9B%E1%83%A3%E1%83%9C%E1%83%98%E1%83%AA%E1%83%98%E1%83%9E%E1%83%90%E1%83%9A%E1%83%98%E1%83%A2%E1%83%94%E1%83%A2%E1%83%98)&params=41_36_20_N_44_28_05_E_type:city(40361)_region:GE
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo
 - https://memkvidreoba.gov.ge/objects/immovable/immovableObject?id=15294

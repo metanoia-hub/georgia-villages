@@ -33,21 +33,30 @@
 - Winter road: Abano Pass closed to all vehicles on km 22–72 since 24 Oct 2026. Local village-road status unknown.
 
 ## History
-- being researched
+- The 1917 Tiflis Governorate table records the settlement as Дадикурта and lists all 64 residents as Georgian. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
+- Makalatia’s 1933 survey records the following local surnames in 1930–31. Khetsoidze, Kokilauri. ([source](https://www.batsav.com/pages/tusheti-population-census-makalatia.html))
+- Shavkhelishvili records former resident Saba Babulaidze’s account of seven households, including the Kheloidze, Babulaidze and Vepkhiaidze families. ([source](https://mematiane.ge/product-details.php?id=9581))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 1855 — 48 residents. R. Eristov’s village table, published in 1855, lists Дадикурто with 7 houses, 23 men and 25 women. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
+- 1917 — 64 residents. Tiflis Governorate village table, transcribed as Дадикурта. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
+- 1923 — 31 residents. Ethnic composition of rural Georgia by settlement, transcribed as dadigurta (Dadigurta). ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
+- 1930–31 — 19 residents. Sergi Makalatia’s 1933 ethnographic survey, printed pp. 86–89, lists 8 households. ([source](https://www.batsav.com/pages/tusheti-population-census-makalatia.html))
+- 2014 — 0 residents. Geostat census workbook, row 1455. ([source](https://geostat.ge/media/51076/1_Number-of-population-by-administrative-territorial-units-and-sex.xls))
+- 2024 — 0 residents. Geostat census on 14 November 2024, workbook row 1483. ([source](https://geostat.ge/media/81091/1.Population-of-Georgia-by-administrative-territorial-units-and-sex.xlsx))
 
 ## Crafts And Traditions
-- being researched
+- Makalatia’s 1930–31 survey records livestock keeping here, with 342 sheep and goats and 28 cattle. ([source](https://www.batsav.com/pages/tusheti-population-census-makalatia.html))
 
 ## Churches, Towers, Monuments
-- being researched
+- The ethnographic shrine inventory records Jvartana and Angeloztavi. Individual heritage designation nothing found. ([source](https://www.batsav.com/pages/a-list-of-all-the-shrines-of-pshavi-khevsureti-tusheti.html))
 
 ## Photos And Videos
+- nothing found yet
 
 ## Articles
-- being researched
+- Abram Shavkhelishvili’s Articles and Archival Materials on Tusheti and the Tush, Volume II, reproducing archival material and field testimony. ([source](https://mematiane.ge/product-details.php?id=9581))
+- R. Eristov’s 1855 description and village table for the Tushino-Pshavo-Khevsur district, in Russian. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - https://moi.gov.ge/pdf/5d8c75b809471.pdf/%E1%83%90%E1%83%AE%E1%83%9B%E1%83%94%E1%83%A2%E1%83%90%20-%20%E1%83%A2%E1%83%94%E1%83%A5%E1%83%A1%E1%83%A2%E1%83%98%20%E1%83%93%E1%83%90%20%E1%83%97%E1%83%94%E1%83%9B%E1%83%90%E1%83%A2%E1%83%A3%E1%83%A0%E1%83%98%20%E1%83%A0%E1%83%A3%E1%83%99%E1%83%94%E1%83%91%E1%83%98.pdf
 - https://web.archive.org/web/20190302090626/http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls

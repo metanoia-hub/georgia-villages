@@ -33,21 +33,22 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- nothing found yet
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- nothing found yet
 
 ## Articles
-- being researched
+- nothing found yet
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%AE%E1%83%9D%E1%83%A8%E1%83%90%E1%83%A0%E1%83%90&params=42_24_50_N_45_03_53_E_type:city(40361)_region:
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo
 - https://web.archive.org/web/20190327101437/http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo

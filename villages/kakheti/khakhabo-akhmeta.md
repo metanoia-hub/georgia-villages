@@ -33,19 +33,28 @@
 - Winter road: Abano Pass closed to all vehicles on km 22–72 since 24 Oct 2026. Local village-road status unknown.
 
 ## History
-- being researched
+- The 1917 Tiflis Governorate table records the settlement as Хахабо-Тушинское and lists all 111 residents as Georgian. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
+- Makalatia’s 1933 survey records the following local surnames in 1930–31. Kitidze, Bakuridze. ([source](https://www.batsav.com/pages/tusheti-population-census-makalatia.html))
+- The 2014 protected-areas management plan dates forced Soviet resettlement from Tusheti to the lowlands to the late 1950s. This describes the regional policy. ([source](https://matsne.gov.ge/ka/document/view/2190286))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 1855 — 96 residents. R. Eristov’s village table, published in 1855, lists Хахабо with 23 houses, 52 men and 44 women. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
+- 1917 — 111 residents. Tiflis Governorate village table, transcribed as Хахабо-Тушинское. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
+- 1923 — 66 residents. Ethnic composition of rural Georgia by settlement, transcribed as khakhabo (Khakhabo). ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
+- 1930–31 — 63 residents. Sergi Makalatia’s 1933 ethnographic survey, printed pp. 86–89, lists 16 households. ([source](https://www.batsav.com/pages/tusheti-population-census-makalatia.html))
+- 2002 — 2 residents. Geostat census, vol. II, p. 93. ([source](https://www.geostat.ge/media/44560/II-tomi-.pdf#page=93))
+- 2014 — 0 residents. Geostat census workbook, row 1492. ([source](https://geostat.ge/media/51076/1_Number-of-population-by-administrative-territorial-units-and-sex.xls))
+- 2024 — 0 residents. Geostat census on 14 November 2024, workbook row 1519. ([source](https://geostat.ge/media/81091/1.Population-of-Georgia-by-administrative-territorial-units-and-sex.xlsx))
 
 ## Crafts And Traditions
-- being researched
+- Makalatia’s 1930–31 survey records livestock keeping here, with 304 sheep and goats and 83 cattle. ([source](https://www.batsav.com/pages/tusheti-population-census-makalatia.html))
 
 ## Churches, Towers, Monuments
-- being researched
+- The ethnographic shrine inventory records Kerelovani, Sameba of Kekhi, Michael Khogori and Sameba. Individual heritage designation nothing found. ([source](https://www.batsav.com/pages/a-list-of-all-the-shrines-of-pshavi-khevsureti-tusheti.html))
+- Late medieval tower. The Heritage Agency lists it under register entry 1016, dated 3 October 2007. ([source](https://www.heritagesites.ge/uploads/files/6068808f2b2f2.pdf#page=33))
 
 ## Photos And Videos
-
+- Wikimedia Commons photograph of Khakhabo in Tusheti. ([source](https://commons.wikimedia.org/wiki/File:Khakhabo,_Tusheti.jpg))
 - https://commons.wikimedia.org/wiki/File%3AMountain_peak_under_clouds_%28Unsplash%29.jpg
 - https://commons.wikimedia.org/wiki/File%3ADJI_0036tusheti.jpg
 - https://commons.wikimedia.org/wiki/File%3ADJI_0059tusheti.jpg
@@ -56,7 +65,9 @@
 - Main picture: http://commons.wikimedia.org/wiki/Special:FilePath/Khakhabo%2C%20Tusheti.jpg
 
 ## Articles
-- being researched
+- The Georgian Soviet Encyclopedia, volume 11, includes an entry on the Akhmeta village of Khakhabo. ([source](https://georgianencyclopedia.ge/pdf/11.pdf))
+- Georgian Travel Guide’s village profile for Khakhabo. ([source](https://georgiantravelguide.com/en/khakhabo))
+- R. Eristov’s 1855 description and village table for the Tushino-Pshavo-Khevsur district, in Russian. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
 - http://apa.gov.ge/ru/eco-tourism/Trails/tushetis-turistuli-bilikebi-satesto/8-dochu
 - http://cheloveknauka.com/osnovnye-problemy-istorii-pozdnego-srednevekovya-gornoy-chasti-vostochnoy-gruzii-tushetii
 - http://meskhi.net/demidov/

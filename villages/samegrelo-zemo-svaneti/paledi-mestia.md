@@ -33,26 +33,27 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- 2014 population figure not verified in accessible source. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/mestia-municipality/paledi))
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
-
+- No individual image/video result was verified. Search links are supplied for follow-up; no specific photo is asserted. ([source](https://www.google.com/search?tbm=isch&q=Paledi%20Mestia%20Georgia%20village))
+- YouTube search results; no specific video verified as showing the village. ([source](https://www.youtube.com/results?search_query=Paledi%20Mestia%20Georgia%20village))
 - https://commons.wikimedia.org/wiki/File%3ASvaneti_Mountain_River-Kaln%C5%B3_up%C4%97_%283872421606%29.jpg
 - https://commons.wikimedia.org/wiki/File%3ASvaneti_Clouds-Debesys_%283872422564%29.jpg
 - https://commons.wikimedia.org/wiki/File%3ASvaneti_Clouds_Above_the_Tree-Debesys_vir%C5%A1_med%C5%BEio_%283872423140%29.jpg
 - https://commons.wikimedia.org/wiki/File%3AKelias_%C4%AF_Mestij%C4%85_%28Photo_by_deguonis_2009%29_%287%29.jpg
 
 ## Articles
-- being researched
+- nothing found yet
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%A4%E1%83%90%E1%83%9A%E1%83%94%E1%83%93%E1%83%98&params=43_04_11_N_42_27_46_E_type:city(40361)_region:GE
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo

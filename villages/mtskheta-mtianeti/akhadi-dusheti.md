@@ -33,24 +33,24 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- nothing found yet
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
-
+- nothing found yet
 - https://commons.wikimedia.org/wiki/File%3AISS030-E-109309_-_View_of_Earth.jpg
 - https://commons.wikimedia.org/wiki/File%3AISS030-E-109308_-_View_of_Earth.jpg
 
 ## Articles
-- being researched
+- nothing found yet
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%90%E1%83%AE%E1%83%90%E1%83%93%E1%83%98&params=42_24_15_N_45_05_17_E_type:city(40361)_region:GE
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo

@@ -33,21 +33,26 @@
 - Winter road: Village road unknown. The main road into Oni was reported closed for works on 23 Nov 2026. The Shkmeri detour had a winter trailer ban.
 
 ## History
-- being researched
+- The consulted travel report describes Gona as a remote high-mountain village; it does not establish a founding date or the date/cause of any depopulation. ([source](https://www.dmo.ge/en/news/Gona-village-in-Racha-Unknown-Switzerland-in-Georgia/))
+- A 2025 technical study describes the village as practically empty, with one family in 2025. ([source](https://gnedenko.net/Journal/2025/SI_092025/RTA_SI092025_RISK2025-060.pdf))
 
 ## Population Over Time (Other Sources)
-- being researched
+- A 2025 technical study reports one family in the village. No numeric historic census series was verified. ([source](https://gnedenko.net/Journal/2025/SI_092025/RTA_SI092025_RISK2025-060.pdf))
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- A travel guide identifies the medieval Gona Archangel Church, built as a hall-type structure from hewn limestone; official heritage designation was not verified. ([source](https://travelguide.ge/en/regions/gona))
 
 ## Photos And Videos
+- The referenced village page includes online location imagery/photographs where available; this is a village page, not a verified independent photo archive. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/oni-municipality/gona))
+- YouTube result titled “RACHA - GEORGIA” lists this village among places in the Racha sequence; published circa 2007 (search-index age). ([source](https://www.youtube.com/watch?v=WRfUEWoWkhg))
 
 ## Articles
-- being researched
+- Village reference or report. ([source](https://www.dmo.ge/en/news/Gona-village-in-Racha-Unknown-Switzerland-in-Georgia/))
+- Travel feature on Gona, described as “Little Switzerland”. ([source](https://www.dmo.ge/en/news/Gona-village-in-Racha-Unknown-Switzerland-in-Georgia/))
+- Racha demogeographic study discussing Gona and depopulation. ([source](https://bioone.org/journals/Mountain-Research-and-Development/volume-37/issue-4/MRD-JOURNAL-D-17-00064.1/The-Demogeographic-Crisis-in-Racha-Georgia--Depopulation-in-the/10.1659/MRD-JOURNAL-D-17-00064.1.pdf))
 
 ## Road
 

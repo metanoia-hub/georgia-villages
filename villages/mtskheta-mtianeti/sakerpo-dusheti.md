@@ -5,7 +5,7 @@
 ## Size
 - Population: 2002: **0** · 2014: **2**
 - Peak population found: **2 (2014)**
-- Houses: not counted yet
+- Houses: 18 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: unknown
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat)
 
@@ -33,21 +33,22 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- nothing found yet
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- nothing found yet
 
 ## Articles
-- being researched
+- nothing found yet
 
 ## Road
 

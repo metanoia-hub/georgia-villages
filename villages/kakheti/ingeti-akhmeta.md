@@ -33,21 +33,25 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- The 1923 rural settlement table records ingeti and lists all 74 residents as Georgian. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 1923 — 74 residents. Ethnic composition of rural Georgia by settlement, transcribed as ingeti (Ingeti). ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
+- 2002 — 12 residents. Geostat census, vol. II, p. 94. ([source](https://www.geostat.ge/media/44560/II-tomi-.pdf#page=94))
+- 2014 — 0 residents. Geostat census workbook, row 1525. ([source](https://geostat.ge/media/51076/1_Number-of-population-by-administrative-territorial-units-and-sex.xls))
+- 2024 — 0 residents. Geostat census on 14 November 2024, workbook row 1557. ([source](https://geostat.ge/media/81091/1.Population-of-Georgia-by-administrative-territorial-units-and-sex.xlsx))
 
 ## Crafts And Traditions
-- being researched
+- The official Akhmetis Mtsvane PDO specification includes the village in the wine micro-zone. Evidence of village-level wine production nothing found. ([source](https://assets.publishing.service.gov.uk/media/6437e51cdb4ba9000c448e41/2_Akhmetis_Mtsvane_%E1%83%90%E1%83%AE%E1%83%9B%E1%83%94%E1%83%A2%E1%83%98%E1%83%A1_%E1%83%9B%E1%83%AC%E1%83%95%E1%83%90%E1%83%9C%E1%83%94_Wine__PDO_.pdf))
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- nothing found yet
 
 ## Articles
-- being researched
+- nothing found yet
 
 ## Road
 

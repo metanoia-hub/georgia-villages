@@ -33,21 +33,24 @@
 - Winter road: Abano Pass closed to all vehicles on km 22–72 since 24 Oct 2026. Local village-road status unknown.
 
 ## History
-- being researched
+- Spekali identifies this as a historic settlement of the Tsova-Tush (Batsbi). It describes a long migration from Tsovata into the lowlands following natural disasters, including settlement in present-day Zemo Alvani. ([source](https://www.spekali.tsu.ge/index.php/en/article/viewArticle/4/35/))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 2024 — 0 residents. Geostat census on 14 November 2024, workbook row 1523. ([source](https://geostat.ge/media/81091/1.Population-of-Georgia-by-administrative-territorial-units-and-sex.xlsx))
 
 ## Crafts And Traditions
-- being researched
+- Spekali identifies sheep breeding and movement between mountain and lowland pastures as leading livelihoods of the Tsova-Tush community to which the village belonged. ([source](https://www.spekali.tsu.ge/index.php/en/article/viewArticle/4/35/))
+- Shavkhelishvili’s field account identifies former hay meadows and cultivated land around the abandoned site. ([source](https://mematiane.ge/product-details.php?id=9581))
 
 ## Churches, Towers, Monuments
-- being researched
+- Shavkhelishvili records surviving foundations of dwellings. Separate heritage designation nothing found. ([source](https://mematiane.ge/product-details.php?id=9581))
 
 ## Photos And Videos
+- nothing found yet
 
 ## Articles
-- being researched
+- Spekali’s study of the Tsova-Tush settlements, economy and migration. ([source](https://www.spekali.tsu.ge/index.php/en/article/viewArticle/4/35/))
+- Abram Shavkhelishvili’s Articles and Archival Materials on Tusheti and the Tush, Volume II, reproducing archival material and field testimony. ([source](https://mematiane.ge/product-details.php?id=9581))
 
 ## Road
 

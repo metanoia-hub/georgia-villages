@@ -33,21 +33,30 @@
 - Winter road: Abano Pass closed to all vehicles on km 22–72 since 24 Oct 2026. Local village-road status unknown.
 
 ## History
-- being researched
+- The 1917 Tiflis Governorate table records the settlement as Верховани and lists all 105 residents as Georgian. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
+- Makalatia’s 1933 survey records the following local surnames in 1930–31. Telauridze. ([source](https://www.batsav.com/pages/tusheti-population-census-makalatia.html))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 1855 — 84 residents. R. Eristov’s village table, published in 1855, lists Верховани with 19 houses, 43 men and 41 women. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
+- 1917 — 105 residents. Tiflis Governorate village table, transcribed as Верховани. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
+- 1923 — 35 residents. Ethnic composition of rural Georgia by settlement, transcribed as verkhovani (Verkhovani). ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
+- 1930–31 — 12 residents. Sergi Makalatia’s 1933 ethnographic survey, printed pp. 86–89, lists 3 households. ([source](https://www.batsav.com/pages/tusheti-population-census-makalatia.html))
+- 2014 — 0 residents. Geostat census workbook, row 1463. ([source](https://geostat.ge/media/51076/1_Number-of-population-by-administrative-territorial-units-and-sex.xls))
+- 2024 — 0 residents. Geostat census on 14 November 2024, workbook row 1491. ([source](https://geostat.ge/media/81091/1.Population-of-Georgia-by-administrative-territorial-units-and-sex.xlsx))
 
 ## Crafts And Traditions
-- being researched
+- Makalatia’s 1930–31 survey records livestock keeping here, with 96 sheep and goats and 21 cattle. ([source](https://www.batsav.com/pages/tusheti-population-census-makalatia.html))
 
 ## Churches, Towers, Monuments
-- being researched
+- The ethnographic shrine inventory records Karate and St George of Khakhmati. Individual heritage designation nothing found. ([source](https://www.batsav.com/pages/a-list-of-all-the-shrines-of-pshavi-khevsureti-tusheti.html))
 
 ## Photos And Videos
+- Georgian Travel Guide photo captioned as Verkhovani. ([source](https://cdn.georgiantravelguide.com/storage/files/verkhovani-gometsari-gorge-tusheti.jpg))
+- Georgian Travel Guide photo captioned as Verkhovani. ([source](https://cdn.georgiantravelguide.com/storage/files/verkhovani-gometsris-kheoba-tusheti-2.jpg))
 
 ## Articles
-- being researched
+- Georgian Travel Guide’s village profile for Verkhovani. ([source](https://georgiantravelguide.com/en/verkhovani))
+- R. Eristov’s 1855 description and village table for the Tushino-Pshavo-Khevsur district, in Russian. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
 
 ## Road
 

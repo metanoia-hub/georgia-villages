@@ -5,7 +5,7 @@
 ## Size
 - Population: 1923: **127** · 2002: **0** · 2014: **0** · 2024: **0**
 - Peak population found: **127 (1923)**
-- Houses: not counted yet
+- Houses: 0 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2002 (last with residents: 1923)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 1923 Georgia rural census by settlement (Mashke pop-stat.mashke.org/georgia-ethnic-loc1923.htm), unit: Dushetis/Kobis
 
@@ -33,23 +33,24 @@
 - Winter road: Village road unknown. Gudauri–Kobi main road reopened 22 Nov 2026 and is subject to winter closures.
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- nothing found yet
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- nothing found yet
 
 - Main picture: http://commons.wikimedia.org/wiki/Special:FilePath/549%20-%20Valley%20of%20the%20Upper%20Aragvi%20-%20Gudauri.jpg
 
 ## Articles
-- being researched
+- nothing found yet
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%A4%E1%83%90%E1%83%9A%E1%83%90%E1%83%92%E1%83%A7%E1%83%90%E1%83%A3&params=42_28_47_N_44_27_51_E_type:city(40361)_region:
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo

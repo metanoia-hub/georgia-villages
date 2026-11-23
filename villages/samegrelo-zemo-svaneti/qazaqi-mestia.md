@@ -33,24 +33,25 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- 7 residents in 2002; no permanent residents in 2014 or 2024. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/mestia-municipality/qazaqi))
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
-
+- No individual image/video result was verified. Search links are supplied for follow-up; no specific photo is asserted. ([source](https://www.google.com/search?tbm=isch&q=Qazaqi%20Mestia%20Georgia%20village))
+- YouTube search results; no specific video verified as showing the village. ([source](https://www.youtube.com/results?search_query=Qazaqi%20Mestia%20Georgia%20village))
 - https://commons.wikimedia.org/wiki/File%3AISS053-E-19340_-_View_of_Earth.jpg
 - https://commons.wikimedia.org/wiki/File%3AISS011-E-6681_-_View_of_the_nation_of_Georgia.jpg
 
 ## Articles
-- being researched
+- nothing found yet
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo
 - https://web.archive.org/web/20190302090626/http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls

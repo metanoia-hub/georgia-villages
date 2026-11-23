@@ -33,23 +33,50 @@
 - Winter road: Abano Pass closed to all vehicles on km 22–72 since 24 Oct 2026. Local village-road status unknown.
 
 ## History
-- being researched
+- The 1917 Tiflis Governorate table records the settlement as Дартло and lists all 220 residents as Georgian. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
+- Makalatia’s 1933 survey records the following local surnames in 1930–31. Idoidze, Chabukaidze, Baskhajauri. ([source](https://www.batsav.com/pages/tusheti-population-census-makalatia.html))
+- A tower inscription recorded by Giorgi Bochoridze identifies Trit, son of Khutur, as builder and dates the inscription to the 18th century. ([source](https://www.dzeglebi.ge/mxareebi_qalaqebi/tusheti/tusheti_dartlo.html))
+- The Protected Landscape administration describes the restoration of houses and towers as a three-year project co-financed by the Georgian government and the World Bank. ([source](https://www.tushetipl.ge/en/article/3))
+- The 2014 protected-areas management plan dates forced Soviet resettlement from Tusheti to the lowlands to the late 1950s. This describes the regional policy. ([source](https://matsne.gov.ge/ka/document/view/2190286))
+- Gustav Radde visited in July 1876. He describes the collapsed vault of the Orthodox church, a temporary slate building put up by the community, and the stone seats of the village court. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1860-1880/Radde_G_I/text9.htm))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 1855 — 131 residents. R. Eristov’s village table, published in 1855, lists Дартло with 29 houses, 69 men and 62 women. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
+- 1876 — 43 houses or hearths. Gustav Radde’s firsthand account of his summer visit. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1860-1880/Radde_G_I/text9.htm))
+- 1917 — 220 residents. Tiflis Governorate village table, transcribed as Дартло. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
+- 1923 — 177 residents. Ethnic composition of rural Georgia by settlement, transcribed as dartlo (Dartlo). ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
+- 1930–31 — 66 residents. Sergi Makalatia’s 1933 ethnographic survey, printed pp. 86–89, lists 40 households. ([source](https://www.batsav.com/pages/tusheti-population-census-makalatia.html))
+- 2002 — 9 residents. Geostat census, vol. II, p. 93. ([source](https://www.geostat.ge/media/44560/II-tomi-.pdf#page=93))
+- 2014 — 0 residents. Geostat census workbook, row 1457. ([source](https://geostat.ge/media/51076/1_Number-of-population-by-administrative-territorial-units-and-sex.xls))
+- 2024 — 0 residents. Geostat census on 14 November 2024, workbook row 1485. ([source](https://geostat.ge/media/81091/1.Population-of-Georgia-by-administrative-territorial-units-and-sex.xlsx))
 
 ## Crafts And Traditions
-- being researched
+- Makalatia’s 1930–31 survey records livestock keeping here, with 2,082 sheep and goats and 295 cattle. ([source](https://www.batsav.com/pages/tusheti-population-census-makalatia.html))
+- Dartlo’s open-air court heard cases in summer. Two elders from each of six communities sat on stone seats. The ethnographic account records a woman from Tsovata presiding over criminal cases. ([source](https://www.tushetipl.ge/en/article/3))
+- The municipal spatial plan describes reconstruction in Dartlo involving traditional stone masonry and roofing. ([source](https://mrdi.gov.ge/pdf/5d8c75b809471.pdf#page=146))
+- Makalatia’s ethnographic account records devotions at the Malaoeli, Holy Mary and Iakhsar shrines in Dartlo. ([source](https://mdevari.ge/articles/4225/))
+- Gustav Radde observed several working mills on the Tsiskulis stream in 1876 and noted window and door frames made by a carpenter. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1860-1880/Radde_G_I/text9.htm))
 
 ## Churches, Towers, Monuments
-- being researched
+- Late medieval architectural complex of national significance. The Heritage Agency register records it under entry 941, dated 3 October 2007. ([source](https://www.heritagesites.ge/uploads/files/6068808f2b2f2.pdf#page=30))
+- The Protected Landscape administration identifies the 19th-century Dartlo church as a monument of national significance and describes the Iakhsar shrine and the village’s principal fortress-tower. ([source](https://www.tushetipl.ge/en/article/3))
+- Gustav Radde records mills by the Tsiskulis stream in 1876. Separate heritage designation nothing found. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1860-1880/Radde_G_I/text9.htm))
 
 ## Photos And Videos
+- Wikimedia Commons photograph of Dartlo. ([source](https://commons.wikimedia.org/wiki/File:Dartlo.jpg))
+- Wikimedia Commons photograph of Dartlo in Tusheti. ([source](https://commons.wikimedia.org/wiki/File:Tusheti,_Dartlo.jpg))
+- YouTube visit to the village of Dartlo. ([source](https://www.youtube.com/watch?v=LZfZLRxqKwk))
+- Photograph on National Parks of Georgia’s Dartlo site profile. ([source](https://nationalparks.ge/files/15381201744328619248_1692483784151552_2872425787279922206_o.jpg))
 
 - Main picture: http://commons.wikimedia.org/wiki/Special:FilePath/Dartlo%2C%202024%20%2838%29.jpg
 
 ## Articles
-- being researched
+- Official site profile for Dartlo. ([source](https://nationalparks.ge/en/site/tushetinp/toSeeInner/42))
+- Dzeglebi’s village entry and architectural survey, citing the published Georgian monument inventory. ([source](https://www.dzeglebi.ge/mxareebi_qalaqebi/tusheti/tusheti_dartlo.html))
+- Tusheti Protected Landscape’s profile of Dartlo, its restored buildings and customary court. ([source](https://www.tushetipl.ge/en/article/3))
+- Sergi Makalatia’s ethnographic account of Tusheti shrines and rituals, republished by Mdevari. ([source](https://mdevari.ge/articles/4225/))
+- R. Eristov’s 1855 description and village table for the Tushino-Pshavo-Khevsur district, in Russian. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
+- Gustav Radde’s firsthand description of his journey in the summer of 1876, in Russian. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1860-1880/Radde_G_I/text9.htm))
 
 ## Road
 

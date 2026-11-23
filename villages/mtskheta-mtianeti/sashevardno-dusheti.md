@@ -5,7 +5,7 @@
 ## Size
 - Population: 2002: **2** · 2014: **0** · 2024: **0**
 - Peak population found: **2 (2002)**
-- Houses: not counted yet
+- Houses: 0 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2014 (last with residents: 2002)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 2002 Geostat village volume PDF (confirms 2)
 
@@ -33,21 +33,22 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- nothing found yet
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- nothing found yet
 
 ## Articles
-- being researched
+- nothing found yet
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%A1%E1%83%90%E1%83%A8%E1%83%94%E1%83%95%E1%83%90%E1%83%A0%E1%83%93%E1%83%9C%E1%83%9D&params=42_14_35_N_44_53_54_E_type:city(40361)_region:
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo
 

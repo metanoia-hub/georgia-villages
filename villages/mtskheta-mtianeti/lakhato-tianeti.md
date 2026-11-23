@@ -5,7 +5,7 @@
 ## Size
 - Population: 1917: **46** · 2002: **4** · 2014: **0** · 2024: **0**
 - Peak population found: **46 (1917)**
-- Houses: not counted yet
+- Houses: 1 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2014 (last with residents: 2002)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 2002 Geostat village volume PDF (confirms 4) ; 1917 Tiflis governorate villages (Mashke pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm), unit: Тионетское
 
@@ -33,21 +33,22 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- nothing found yet
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- nothing found yet
 
 ## Articles
-- being researched
+- nothing found yet
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%9A%E1%83%90%E1%83%AE%E1%83%90%E1%83%A2%E1%83%9D&params=42_13_39_N_44_55_10_E_type:city(40361)_region:GE
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo

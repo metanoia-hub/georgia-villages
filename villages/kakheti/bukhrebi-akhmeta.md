@@ -33,21 +33,27 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- The 1917 Tiflis Governorate table records the settlement as Бухреби and lists all 19 residents as Georgian. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
+- The 1923 rural settlement table records bukhrebi and lists all 6 residents as Georgian. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
+- An interview with former local representative Leila Udzilauri for Mtis Ambebi reports two or three households in Bukhrebi in the Ilto Gorge at the time of reporting. ([source](https://mtisambebi.ge/news/people/item/207-%E2%80%9Emxolod-archevnebze-modian-xolme%2C-xma-mogvezito%E2%80%9C-%E2%80%93-reportaji-iltos-xeobidan))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 1917 — 19 residents. Tiflis Governorate village table, transcribed as Бухреби. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
+- 1923 — 6 residents. Ethnic composition of rural Georgia by settlement, transcribed as bukhrebi (Bukhrebi). ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
+- 2014 — 0 residents. Geostat census workbook, row 1531. ([source](https://geostat.ge/media/51076/1_Number-of-population-by-administrative-territorial-units-and-sex.xls))
+- 2024 — 0 residents. Geostat census on 14 November 2024, workbook row 1563. ([source](https://geostat.ge/media/81091/1.Population-of-Georgia-by-administrative-territorial-units-and-sex.xlsx))
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- nothing found yet
 
 ## Articles
-- being researched
+- Mtis Ambebi’s Ilto Gorge report, with local testimony on Bukhrebi households. ([source](https://mtisambebi.ge/news/people/item/207-%E2%80%9Emxolod-archevnebze-modian-xolme%2C-xma-mogvezito%E2%80%9C-%E2%80%93-reportaji-iltos-xeobidan))
 
 ## Road
 

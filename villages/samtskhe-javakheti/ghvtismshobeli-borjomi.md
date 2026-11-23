@@ -33,21 +33,22 @@
 - Winter road: Village road unknown. The Bakuriani–Ghadolari section closed to all vehicles from 13 Nov 2026.
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- The supplied GeoJSON records residents_2024=0. A specific village-level historical census series was not located. ([source](https://explore-georgia.ge/en/samtskhe-javakheti/borjomi-municipality/ghvtismshobeli))
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- The village has a Church of the Mother of God, a developed-medieval hall church with southern and western annexes, built from dressed tufa of different colours. Heritage-register designation was not confirmed. ([source](https://explore-georgia.ge/en/samtskhe-javakheti/borjomi-municipality/ghvtismshobeli))
 
 ## Photos And Videos
+- nothing found yet
 
 ## Articles
-- being researched
+- Village profile and church description. ([source](https://explore-georgia.ge/en/samtskhe-javakheti/borjomi-municipality/ghvtismshobeli))
 
 ## Road
 

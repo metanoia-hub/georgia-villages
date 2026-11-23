@@ -33,21 +33,22 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- The village profile says the village is abandoned and was granted high-mountain-settlement status in 2015; it gives no last-inhabitant date. ([source](https://explore-georgia.ge/en/shida-kartli/gori-municipality/zemo-akhalsopeli))
 
 ## Population Over Time (Other Sources)
-- being researched
+- nothing found yet
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- nothing found yet
 
 ## Articles
-- being researched
+- Village profile. ([source](https://explore-georgia.ge/en/shida-kartli/gori-municipality/zemo-akhalsopeli))
 
 ## Road
 

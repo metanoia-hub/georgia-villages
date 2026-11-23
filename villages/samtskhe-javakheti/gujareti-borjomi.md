@@ -33,21 +33,27 @@
 - Winter road: Village road unknown. The Bakuriani–Ghadolari section closed to all vehicles from 13 Nov 2026.
 
 ## History
-- being researched
+- Gujareti is in the historic Tori area. The Georgian Encyclopedia explains its development through rich surrounding pastures and converging routes through the Dzama, Tana, Trialeti and Tabatskuri-Nariani valleys. It notes the abandoned settlement of Didi Gujareti around St Nicholas church. A precise foundation date, household/clan list, and last-family departure date were not found. ([source](https://georgianencyclopedia.ge/ka/form/2956))
+- An 18th-century historical-geographical dictionary lists Gujareti as a village in Kartli, in the Borjomi gorge; this is evidence of the names historical attestation, not a founding date. ([source](https://www.vostlit.info/Texts/rus6/Wachushti/glossar.phtml?id=253))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 2002: no permanent population, according to the NPLG village entry. The provided GeoJSON reports residents_2024=0; no independent village-level 2024 census figure was found. ([source](https://www.nplg.gov.ge/wikidict/index.php/%E1%83%92%E1%83%A3%E1%83%AF%E1%83%90%E1%83%A0%E1%83%94%E1%83%97%E1%83%98_%28%E1%83%A1%E1%83%9D%E1%83%A4%E1%83%94%E1%83%9A%E1%83%98%29))
 
 ## Crafts And Traditions
-- being researched
+- The historical Gujareti valley economy included small-scale farming, advanced livestock raising and hunting; flax oil is also specifically recorded historically. Forestry supplied construction material, fuel, tools and household goods. These are valley-level historical activities, not proven present-day village crafts. ([source](https://georgianencyclopedia.ge/ka/form/11289))
 
 ## Churches, Towers, Monuments
-- being researched
+- St Nicholas church stands west of the present village across the ravine; remains include a ruined enclosure and an abandoned settlement nearby. ([source](https://georgianencyclopedia.ge/ka/form/2956))
+- The same regional encyclopedia lists churches/chapels, fortresses and refuge caves across Gujareti valley, including Dabi, Maghaljvari, Timotesubani, Totkhami, Momtsvari, Sarbiela and Uznariani; it does not assign all of these to the village proper. ([source](https://www.nplg.gov.ge/wikidict/index.php/%E1%83%92%E1%83%A3%E1%83%AF%E1%83%90%E1%83%A0%E1%83%94%E1%83%97%E1%83%98_%28%E1%83%9B%E1%83%AE%E1%83%90%E1%83%A0%E1%83%94%29))
 
 ## Photos And Videos
+- YouTube: ‘Gujareti Rd, Borjomi, Georgia’ (road footage; search result does not establish that it shows the settlement itself). ([source](https://www.youtube.com/watch?v=rEYHPNSF85E))
+- YouTube: ‘Shuano gujareti Timotesubani borjomi’ (title names Gujareti; village coverage and upload year need direct verification). ([source](https://www.youtube.com/watch?v=zPFE0gFHJEY))
 
 ## Articles
-- being researched
+- Georgian Encyclopedia village entry. ([source](https://georgianencyclopedia.ge/ka/form/2956))
+- National Archives place record for Gujareti. ([source](https://erekle.archive.gov.ge/places/913/gujareti))
+- Russian-language report of a visit through the Gujareti valley to Tsitelsopeli, discussing 1990s property changes; it does not establish a complete village-by-village departure history. ([source](https://www.qartli.ge/ru/component/content/article/5-news/18188-stumrad-gujarethshi))
 
 ## Road
 

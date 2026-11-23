@@ -33,21 +33,22 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- An environmental assessment reports Tskhumaldi as completely depopulated at the time of the assessment; it does not give a date or cause. ([source](https://www.ebrd.com/content/dam/ebrd_dxp/documents/owcs-archive/Environment/esia-49642-esia.pdf))
 
 ## Population Over Time (Other Sources)
-- being researched
+- No village-by-village series for 1989, 2002, 2014 and 2024 was verified in consulted sources. ([source](https://www.geostat.ge/en/modules/categories/12/2024-population-census-of-georgia-results))
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- The referenced village page includes online location imagery/photographs where available; this is a village page, not a verified independent photo archive. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/lentekhi-municipality/tskhumaldi))
 
 ## Articles
-- being researched
+- Village reference or report. ([source](https://www.eryniawtrasie.eu/wp-content/uploads/pdf/TechnicalReport2RioniAlazaniIori.pdf))
 
 ## Road
 

@@ -33,21 +33,24 @@
 - Winter road: Village road unknown. The main road into Oni was reported closed for works on 23 Nov 2026. The Shkmeri detour had a winter trailer ban.
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- No village-by-village series for 1989, 2002, 2014 and 2024 was verified in consulted sources. ([source](https://www.geostat.ge/en/modules/categories/12/2024-population-census-of-georgia-results))
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- The referenced village page includes online location imagery/photographs where available; this is a village page, not a verified independent photo archive. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/oni-municipality/samtisi))
+- YouTube result titled “RACHA - GEORGIA” lists this village among places in the Racha sequence; published circa 2007 (search-index age). ([source](https://www.youtube.com/watch?v=WRfUEWoWkhg))
 
 ## Articles
-- being researched
+- Village reference or report. ([source](https://www.cenn.org/clean-and-accessible-water-in-rural-areas/))
+- CENN report on rural water improvements in Samtisi. ([source](https://www.cenn.org/clean-and-accessible-water-in-rural-areas/))
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%A1%E1%83%90%E1%83%9B%E1%83%97%E1%83%98%E1%83%A1%E1%83%98&params=42_32_00_N_43_15_30_E_type:city(40361)_region:GE
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo

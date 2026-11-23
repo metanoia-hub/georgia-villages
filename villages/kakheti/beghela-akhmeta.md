@@ -33,23 +33,38 @@
 - Winter road: Abano Pass closed to all vehicles on km 22–72 since 24 Oct 2026. Local village-road status unknown.
 
 ## History
-- being researched
+- The 1917 Tiflis Governorate table records the settlement as Бегела and lists all 101 residents as Georgian. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
+- Makalatia’s 1933 survey records the following local surnames in 1930–31. Gagoidze, Gigoidze. ([source](https://www.batsav.com/pages/tusheti-population-census-makalatia.html))
+- Shavkhelishvili cites the 1831 cameral census and 1878 parish records. His 1967 fieldwork names Gigoidze, Gagoidze, Kakhoidze, Shabalaidze and Shvelaidze families and records the Kakhoidze family as a comparatively recent arrival. ([source](https://mematiane.ge/product-details.php?id=9581))
+- Gustav Radde’s 1876 account describes passing Beghela and sending his baggage across the high bridge while the party forded the stream. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1860-1880/Radde_G_I/text9.htm))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 1831 — 14 households. Cameral census, Georgian Central Archive, fond 254, inventory 1, as cited by Abram Shavkhelishvili. ([source](https://mematiane.ge/product-details.php?id=9581))
+- 1855 — 93 residents. R. Eristov’s village table, published in 1855, lists Бегела with 16 houses, 46 men and 47 women. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
+- 1878 — 22 households. Iliurta church records, as cited by Abram Shavkhelishvili. ([source](https://mematiane.ge/product-details.php?id=9581))
+- 1917 — 101 residents. Tiflis Governorate village table, transcribed as Бегела. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
+- 1923 — 73 residents. Ethnic composition of rural Georgia by settlement, transcribed as beghela (Beghela). ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
+- 1930–31 — 26 residents. Sergi Makalatia’s 1933 ethnographic survey, printed pp. 86–89, lists 6 households. ([source](https://www.batsav.com/pages/tusheti-population-census-makalatia.html))
+- 2014 — 0 residents. Geostat census workbook, row 1448. ([source](https://geostat.ge/media/51076/1_Number-of-population-by-administrative-territorial-units-and-sex.xls))
+- 2024 — 0 residents. Geostat census on 14 November 2024, workbook row 1476. ([source](https://geostat.ge/media/81091/1.Population-of-Georgia-by-administrative-territorial-units-and-sex.xlsx))
 
 ## Crafts And Traditions
-- being researched
+- Makalatia’s 1930–31 survey records livestock keeping here, with 137 sheep and goats and 32 cattle. ([source](https://www.batsav.com/pages/tusheti-population-census-makalatia.html))
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- Georgian Travel Guide photo captioned as Beghela. ([source](https://cdn.georgiantravelguide.com/storage/files/beghela-tusheti-beghela-tusheti-1.jpg))
+- Georgian Travel Guide photo captioned as Beghela. ([source](https://cdn.georgiantravelguide.com/storage/files/beghela-tusheti-beghela-tusheti.jpg))
 
 - Main picture: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D0%BD%D1%8F%20%D0%91%D0%B5%D0%B3%D0%B5%D0%BB%D1%8F.jpg
 
 ## Articles
-- being researched
+- Georgian Travel Guide’s village profile for Beghela. ([source](https://georgiantravelguide.com/en/beghela))
+- Abram Shavkhelishvili’s Articles and Archival Materials on Tusheti and the Tush, Volume II, reproducing archival material and field testimony. ([source](https://mematiane.ge/product-details.php?id=9581))
+- R. Eristov’s 1855 description and village table for the Tushino-Pshavo-Khevsur district, in Russian. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
+- Gustav Radde’s firsthand description of his journey in the summer of 1876, in Russian. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1860-1880/Radde_G_I/text9.htm))
 
 ## Road
 

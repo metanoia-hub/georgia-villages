@@ -33,21 +33,23 @@
 - Winter road: Abano Pass closed to all vehicles on km 22–72 since 24 Oct 2026. Local village-road status unknown.
 
 ## History
-- being researched
+- Ethnographer Nugzar Idoidze told Mtis Ambebi that Tush residents moved to Diklo in the second half of the 19th century under pressure from Dagestani incursions. Avar families from neighbouring Khusheti subsequently settled here. The 2018 report quotes Diklo residents describing two or three mostly summer households in each village. ([source](https://www.mtisambebi.ge/news/people/item/792-rodis-da-rogor-moeqza-tushetshi-chero-da-inxuxi-rusetiskontrolqvesh))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 2014 — 0 residents. Geostat census workbook, row 1489. ([source](https://geostat.ge/media/51076/1_Number-of-population-by-administrative-territorial-units-and-sex.xls))
+- 2024 — 0 residents. Geostat census on 14 November 2024, workbook row 1516. ([source](https://geostat.ge/media/81091/1.Population-of-Georgia-by-administrative-territorial-units-and-sex.xlsx))
 
 ## Crafts And Traditions
-- being researched
+- A former director of the Tusheti Soviet farm recalled sending shepherds and livestock here for the summer of 1983. They returned at the end of the season. The same report describes haymaking and cultivation in the area. ([source](https://www.mtisambebi.ge/news/people/item/792-rodis-da-rogor-moeqza-tushetshi-chero-da-inxuxi-rusetiskontrolqvesh))
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- Mtis Ambebi’s image illustrating its report on Chero and Intsukhi. ([source](https://www.mtisambebi.ge/media/k2/items/cache/0f9f2c4ac314569afbfb8ab4ee9198bf_XL.jpg))
 
 ## Articles
-- being researched
+- Mtis Ambebi’s reporting and interviews on Chero and Intsukhi, their residents, and the disputed border sector. ([source](https://www.mtisambebi.ge/news/people/item/792-rodis-da-rogor-moeqza-tushetshi-chero-da-inxuxi-rusetiskontrolqvesh))
 
 ## Road
 

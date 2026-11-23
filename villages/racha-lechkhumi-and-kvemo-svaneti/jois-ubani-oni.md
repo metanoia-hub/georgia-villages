@@ -33,21 +33,23 @@
 - Winter road: Village road unknown. The main road into Oni was reported closed for works on 23 Nov 2026. The Shkmeri detour had a winter trailer ban.
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- 2014 census: 0 permanent residents; 2024 census: 1 resident. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/oni-municipality/jois-ubani))
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- The referenced village page includes online location imagery/photographs where available; this is a village page, not a verified independent photo archive. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/oni-municipality/jois-ubani))
+- YouTube result titled “RACHA - GEORGIA” lists this village among places in the Racha sequence; published circa 2007 (search-index age). ([source](https://www.youtube.com/watch?v=WRfUEWoWkhg))
 
 ## Articles
-- being researched
+- nothing found yet
 
 ## Road
 

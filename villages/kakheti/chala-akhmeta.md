@@ -33,21 +33,23 @@
 - Winter road: Abano Pass closed to all vehicles on km 22–72 since 24 Oct 2026. Local village-road status unknown.
 
 ## History
-- being researched
+- The Akhmeta municipal spatial plan lists this Chala in the Tusheti administrative unit. ([source](https://mrdi.gov.ge/pdf/5d8c75b809471.pdf#page=28))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 2014 — 0 residents. Geostat census workbook, row 1488. ([source](https://geostat.ge/media/51076/1_Number-of-population-by-administrative-territorial-units-and-sex.xls))
+- 2024 — 0 residents. Geostat census on 14 November 2024, workbook row 1515. ([source](https://geostat.ge/media/81091/1.Population-of-Georgia-by-administrative-territorial-units-and-sex.xlsx))
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- nothing found yet
 
 ## Articles
-- being researched
+- nothing found yet
 
 ## Road
 

@@ -33,21 +33,22 @@
 - Winter road: Village road unknown. Gudauri–Kobi main road reopened 22 Nov 2026 and is subject to winter closures.
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- nothing found yet
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- nothing found yet
 
 ## Articles
-- being researched
+- nothing found yet
 
 ## Road
 

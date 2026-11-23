@@ -33,21 +33,23 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- The municipal spatial plan uses the spelling kvemo chopchauri and lists the village in the Akhmeta city administrative unit. ([source](https://mrdi.gov.ge/pdf/5d8c75b809471.pdf#page=28))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 2014 — 0 residents. Geostat census workbook, row 1428. ([source](https://geostat.ge/media/51076/1_Number-of-population-by-administrative-territorial-units-and-sex.xls))
+- 2024 — 0 residents. Geostat census on 14 November 2024, workbook row 1570. ([source](https://geostat.ge/media/81091/1.Population-of-Georgia-by-administrative-territorial-units-and-sex.xlsx))
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- nothing found yet
 
 ## Articles
-- being researched
+- nothing found yet
 
 ## Road
 

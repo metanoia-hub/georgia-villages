@@ -33,21 +33,23 @@
 - Winter road: Village road unknown. The Bakuriani–Ghadolari section closed to all vehicles from 13 Nov 2026.
 
 ## History
-- being researched
+- A Russian-language visit report calls Tsitelsopeli the last village in the Gujareti valley and gives its former name as Berdzentsofeli (Ossetian: Berdzenqau). It notes that property distribution in the valley became a subject of stories from the 1990s but does not give this villages departure date or population composition. ([source](https://www.qartli.ge/ru/component/content/article/5-news/18188-stumrad-gujarethshi))
 
 ## Population Over Time (Other Sources)
-- being researched
+- The supplied GeoJSON records residents_2024=0. No village-level historical census series was located in consulted sources. ([source](https://www.qartli.ge/ru/component/content/article/5-news/18188-stumrad-gujarethshi))
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- The Qartli report is an on-location travel feature with photographs; use its article page for the images. No matching YouTube video verified. ([source](https://www.qartli.ge/ru/component/content/article/5-news/18188-stumrad-gujarethshi))
 
 ## Articles
-- being researched
+- On-location report through Gujareti valley to Tsitelsopeli (also called Berdzentsofeli/Berdzenqau). ([source](https://www.qartli.ge/ru/component/content/article/5-news/18188-stumrad-gujarethshi))
+- Borjomi administrative decision lists Tsitelsopeli among villages in the Tsaghveri administrative unit. ([source](https://matsne.gov.ge/ka/document/view/5022285))
 
 ## Road
 

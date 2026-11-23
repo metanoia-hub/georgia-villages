@@ -33,19 +33,19 @@
 - Winter road: Village road unknown. Gudauri–Kobi main road reopened 22 Nov 2026 and is subject to winter closures.
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- nothing found yet
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
-
+- nothing found yet
 - https://commons.wikimedia.org/wiki/File%3AAbandoned_village_in_Georgia.jpg
 - https://commons.wikimedia.org/wiki/File%3ACameraGirlHelena.jpg
 - https://commons.wikimedia.org/wiki/File%3AScenery_outside_Okrokana_-_Near_Kazbegi_-_Greater_Caucasus_-_Georgia_-_23_%2817982037134%29_%282%29.jpg
@@ -61,7 +61,7 @@
 - Main picture: http://commons.wikimedia.org/wiki/Special:FilePath/Nogkau.jpg
 
 ## Articles
-- being researched
+- nothing found yet
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%9C%E1%83%9D%E1%83%92%E1%83%A7%E1%83%90%E1%83%A3_(%E1%83%A7%E1%83%90%E1%83%96%E1%83%91%E1%83%94%E1%83%92%E1%83%98%E1%83%A1_%E1%83%9B%E1%83%A3%E1%83%9C%E1%83%98%E1%83%AA%E1%83%98%E1%83%9E%E1%83%90%E1%83%9A%E1%83%98%E1%83%A2%E1%83%94%E1%83%A2%E1%83%98)&params=42_34_32_N_44_28_27_E_type:city(40361)_region:
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo

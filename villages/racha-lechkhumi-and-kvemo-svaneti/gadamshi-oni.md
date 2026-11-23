@@ -5,7 +5,7 @@
 ## Size
 - Population: 1923: **226** · 2002: **34** · 2014: **2** · 2024: **0**
 - Peak population found: **226 (1923)**
-- Houses: not counted yet
+- Houses: 22 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2024 (last with residents: 2014)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 2002 Geostat village volume PDF (confirms 34) ; 1923 Georgia rural census by settlement (Mashke pop-stat.mashke.org/georgia-ethnic-loc1923.htm), unit: Soris
 
@@ -33,21 +33,27 @@
 - Winter road: Village road unknown. The main road into Oni was reported closed for works on 23 Nov 2026. The Shkmeri detour had a winter trailer ban.
 
 ## History
-- being researched
+- A 2002 demographic study reports 34 residents, 79% Ossetian, and describes the Ossetian community as originating in Java in the 19th century; Chai Khana reports married Ossetian residents Bichiko and Tsiala left in the post-Soviet migration wave. ([source](https://chaikhana.media/en/stories/1392/out-of-sight-out-of-mind))
+- The study records 34 people in the 2002 census and estimates 25–30 at the time of its survey; it gives Java as the 19th-century origin. ([source](https://www.files.ethz.ch/isn/106675/working_paper_45_en.pdf))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 2002 census: 34 residents; 79% Ossetian. The 2014 census listing reports 2 residents. ([source](https://www.files.ethz.ch/isn/106675/working_paper_45_en.pdf))
+- 2014 census village listing: 2 residents. ([source](https://pop-stat.mashke.org/georgia-census2014.htm))
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- The referenced village page includes online location imagery/photographs where available; this is a village page, not a verified independent photo archive. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/oni-municipality/gadamshi))
+- YouTube result titled “RACHA - GEORGIA” lists this village among places in the Racha sequence; published circa 2007 (search-index age). ([source](https://www.youtube.com/watch?v=WRfUEWoWkhg))
 
 ## Articles
-- being researched
+- Village reference or report. ([source](https://chaikhana.media/en/stories/1392/out-of-sight-out-of-mind))
+- Out of sight, out of mind: reporting on Gadamshi residents, migration and community change. ([source](https://chaikhana.media/en/stories/1392/out-of-sight-out-of-mind))
+- Ossetians in Georgia: demographic table including Gadamshi. ([source](https://www.files.ethz.ch/isn/106675/working_paper_45_en.pdf))
 
 ## Road
 

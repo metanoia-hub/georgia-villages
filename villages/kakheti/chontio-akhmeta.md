@@ -33,21 +33,36 @@
 - Winter road: Abano Pass closed to all vehicles on km 22–72 since 24 Oct 2026. Local village-road status unknown.
 
 ## History
-- being researched
+- The 1917 Tiflis Governorate table records the settlement as Чонтио and lists all 135 residents as Georgian. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
+- The 1923 rural settlement table records chontio and lists all 8 residents as Georgian. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
+- The village survey records 25 households before abandonment, chiefly Iukuridze and Itiuridze families. Residents went first to Girevi and many later settled in lowland Kakheti. ([source](https://www.dzeglebi.ge/mxareebi_qalaqebi/tusheti/tusheti_chontio.html))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 1855 — 138 residents. R. Eristov’s village table, published in 1855, lists Чонтио with 40 houses, 68 men and 70 women. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
+- 1917 — 135 residents. Tiflis Governorate village table, transcribed as Чонтио. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
+- 1923 — 8 residents. Ethnic composition of rural Georgia by settlement, transcribed as chontio (Chontio). ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
+- 2014 — 0 residents. Geostat census workbook, row 1491. ([source](https://geostat.ge/media/51076/1_Number-of-population-by-administrative-territorial-units-and-sex.xls))
+- 2024 — 0 residents. Geostat census on 14 November 2024, workbook row 1518. ([source](https://geostat.ge/media/81091/1.Population-of-Georgia-by-administrative-territorial-units-and-sex.xlsx))
 
 ## Crafts And Traditions
-- being researched
+- The village survey records Madoloba, a feast for St John the Baptist held around the end of the harvest month, and Tursiekhoba, held two months after Easter. ([source](https://www.dzeglebi.ge/mxareebi_qalaqebi/tusheti/tusheti_chontio.html))
 
 ## Churches, Towers, Monuments
-- being researched
+- The historic site of Chontio is dated to the late medieval period and listed as a monument of national significance, register entry 7519. ([source](https://www.heritagesites.ge/uploads/files/6068808f2b2f2.pdf#page=266))
+- The village survey records defensive towers and fortified houses among the ruins. The National Parks profile dates the surviving tower and fortified house to the 17th–18th centuries. ([source](https://nationalparks.ge/en/site/tushetinp/toSeeInner/43))
+- Late medieval fortified houses. The Heritage Agency lists it under register entry 1015, dated 3 October 2007. ([source](https://www.heritagesites.ge/uploads/files/6068808f2b2f2.pdf#page=33))
 
 ## Photos And Videos
+- Heritage Agency photograph on its Chontio site profile. ([source](https://www.heritagesites.ge/uploads/images/5b752a89d19d7.jpg))
+- Photograph on National Parks of Georgia’s Chontio site profile. ([source](https://nationalparks.ge/files/154269999796ჭონთიო.jpg))
 
 ## Articles
-- being researched
+- Government decree No. 389 of 13 August 2018, assigning national significance to this site. ([source](https://matsne.gov.ge/ka/document/view/4256468?publication=0))
+- Official site profile for Chontio. ([source](https://nationalparks.ge/en/site/tushetinp/toSeeInner/43))
+- Dzeglebi’s village entry and architectural survey, citing the published Georgian monument inventory. ([source](https://www.dzeglebi.ge/mxareebi_qalaqebi/tusheti/tusheti_chontio.html))
+- Georgian Travel Guide’s village profile for Chontio. ([source](https://georgiantravelguide.com/en/chontio))
+- Heritage Agency profile of the historic settlement, families and buildings. ([source](https://www.heritagesites.ge/ka/news_item/246))
+- R. Eristov’s 1855 description and village table for the Tushino-Pshavo-Khevsur district, in Russian. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%AD%E1%83%9D%E1%83%9C%E1%83%97%E1%83%98%E1%83%9D&params=42_30_52_N_45_27_14_E_
 - http://www.dzeglebi.ge/dzeglebi/wh/tusheti_chontio.html
 - http://www.dzeglebi.ge/mxareebi_qalaqebi/tusheti/tusheti_chontio.html

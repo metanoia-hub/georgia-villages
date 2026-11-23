@@ -33,21 +33,30 @@
 - Winter road: Abano Pass closed to all vehicles on km 22–72 since 24 Oct 2026. Local village-road status unknown.
 
 ## History
-- being researched
+- The 1917 Tiflis Governorate table records the settlement as Бикурта and lists all 67 residents as Georgian. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
+- Makalatia’s 1933 survey records the following local surnames in 1930–31. Ghulelauri, Ghaziaidze. ([source](https://www.batsav.com/pages/tusheti-population-census-makalatia.html))
+- Shavkhelishvili cites the 1860 cameral census and records Uturgaidze, Ghaziaidze and Ghulelauri families in his 1967 survey. ([source](https://mematiane.ge/product-details.php?id=9581))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 1860 — 10 households. Cameral census, Georgian Central Archive, fond 255, no. 234, as cited by Shavkhelishvili. ([source](https://mematiane.ge/product-details.php?id=9581))
+- 1917 — 67 residents. Tiflis Governorate village table, transcribed as Бикурта. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
+- 1923 — 26 residents. Ethnic composition of rural Georgia by settlement, transcribed as bikiurta (Bikiurta). ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
+- 1930–31 — 26 residents. Sergi Makalatia’s 1933 ethnographic survey, printed pp. 86–89, lists 5 households. ([source](https://www.batsav.com/pages/tusheti-population-census-makalatia.html))
+- 2014 — 0 residents. Geostat census workbook, row 1449. ([source](https://geostat.ge/media/51076/1_Number-of-population-by-administrative-territorial-units-and-sex.xls))
+- 2024 — 0 residents. Geostat census on 14 November 2024, workbook row 1477. ([source](https://geostat.ge/media/81091/1.Population-of-Georgia-by-administrative-territorial-units-and-sex.xlsx))
 
 ## Crafts And Traditions
-- being researched
+- Makalatia’s 1930–31 survey records livestock keeping here, with 118 sheep and goats and 30 cattle. ([source](https://www.batsav.com/pages/tusheti-population-census-makalatia.html))
+- The ethnographic survey records each household having a threshing floor and a common meeting place where residents discussed village affairs. ([source](https://mematiane.ge/product-details.php?id=9581))
 
 ## Churches, Towers, Monuments
-- being researched
+- The ethnographic shrine inventory records the Archer, shared with Vakisdziri. Individual heritage designation nothing found. ([source](https://www.batsav.com/pages/a-list-of-all-the-shrines-of-pshavi-khevsureti-tusheti.html))
 
 ## Photos And Videos
+- nothing found yet
 
 ## Articles
-- being researched
+- Abram Shavkhelishvili’s Articles and Archival Materials on Tusheti and the Tush, Volume II, reproducing archival material and field testimony. ([source](https://mematiane.ge/product-details.php?id=9581))
 
 ## Road
 

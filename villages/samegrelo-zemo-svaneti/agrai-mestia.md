@@ -33,21 +33,23 @@
 - Winter road: Village road unknown. Kala–Ushguli reopened 22 Nov 2026. Ushguli–Lasdili closed by snow.
 
 ## History
-- being researched
+- Deserted for decades; neither the 2014 nor 2024 census counted permanent residents. The source does not identify the cause or the last household. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/mestia-municipality/agrai))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 0 permanent residents in 2014 and 2024; Explore Georgia describes the village as empty for decades. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/mestia-municipality/agrai))
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- The medieval settlement pattern and Sergo Khardziani residential complex are listed heritage monuments. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/mestia-municipality/agrai))
 
 ## Photos And Videos
+- No individual image/video result was verified. Search links are supplied for follow-up; no specific photo is asserted. ([source](https://www.google.com/search?tbm=isch&q=Agrai%20Mestia%20Georgia%20village))
+- YouTube search results; no specific video verified as showing the village. ([source](https://www.youtube.com/results?search_query=Agrai%20Mestia%20Georgia%20village))
 
 ## Articles
-- being researched
+- nothing found yet
 
 ## Road
 

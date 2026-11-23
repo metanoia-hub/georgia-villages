@@ -33,21 +33,22 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- 2024: 0 residents, as listed in the project GeoJSON; the online settlement profile is the cited web reference. Earlier census counts (1989, 2002, 2014) were not independently verified in a directly accessible census table. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- No village-specific photo or video URLs were confirmed in the reviewed results. Search YouTube by Latin, Georgian-script, and Russian names plus Tetritskaro Municipality. ([source](https://www.youtube.com/results?search_query=zemo+akhkalapa+Tetritskaro))
 
 ## Articles
-- being researched
+- No village-specific article URLs were confirmed in the reviewed results. ([source](https://explore-georgia.ge/en/kvemo-kartli/tetritskaro-municipality/zemo-akhkalapa))
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%96%E1%83%94%E1%83%9B%E1%83%9D_%E1%83%90%E1%83%AE%E1%83%99%E1%83%90%E1%83%9A%E1%83%90%E1%83%A4%E1%83%90&params=41_29_56_N_44_16_24_E_type:city(40361)_region:GE
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo

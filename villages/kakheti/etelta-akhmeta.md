@@ -33,21 +33,28 @@
 - Winter road: Abano Pass closed to all vehicles on km 22–72 since 24 Oct 2026. Local village-road status unknown.
 
 ## History
-- being researched
+- Spekali identifies this as a historic settlement of the Tsova-Tush (Batsbi). It describes a long migration from Tsovata into the lowlands following natural disasters, including settlement in present-day Zemo Alvani. ([source](https://www.spekali.tsu.ge/index.php/en/article/viewArticle/4/35/))
+- The 1831 archive records include Charkhoshvili, Bukurauli, Shankishvili, Badzoshvili and other families. Shavkhelishvili identifies Charkhoshvili and Bukurauli as the most numerous. ([source](https://mematiane.ge/product-details.php?id=9581))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 1831 — 37 households. Cameral census, Georgian Central Archive, fond 254, inventory 1, as cited by Shavkhelishvili. ([source](https://mematiane.ge/product-details.php?id=9581))
+- 1855 — 259 residents. R. Eristov’s village table, published in 1855, lists Этельто with 42 houses, 132 men and 127 women. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
+- 2014 — 0 residents. Geostat census workbook, row 1461. ([source](https://geostat.ge/media/51076/1_Number-of-population-by-administrative-territorial-units-and-sex.xls))
+- 2024 — 0 residents. Geostat census on 14 November 2024, workbook row 1489. ([source](https://geostat.ge/media/81091/1.Population-of-Georgia-by-administrative-territorial-units-and-sex.xlsx))
 
 ## Crafts And Traditions
-- being researched
+- Spekali identifies sheep breeding and movement between mountain and lowland pastures as leading livelihoods of the Tsova-Tush community to which the village belonged. ([source](https://www.spekali.tsu.ge/index.php/en/article/viewArticle/4/35/))
 
 ## Churches, Towers, Monuments
-- being researched
+- Shavkhelishvili records the two Badzo defensive towers on the eastern edge of the settlement, associated with the Badzoshvili family. Separate heritage designation nothing found. ([source](https://mematiane.ge/product-details.php?id=9581))
 
 ## Photos And Videos
+- nothing found yet
 
 ## Articles
-- being researched
+- Spekali’s study of the Tsova-Tush settlements, economy and migration. ([source](https://www.spekali.tsu.ge/index.php/en/article/viewArticle/4/35/))
+- Abram Shavkhelishvili’s Articles and Archival Materials on Tusheti and the Tush, Volume II, reproducing archival material and field testimony. ([source](https://mematiane.ge/product-details.php?id=9581))
+- R. Eristov’s 1855 description and village table for the Tushino-Pshavo-Khevsur district, in Russian. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
 
 ## Road
 

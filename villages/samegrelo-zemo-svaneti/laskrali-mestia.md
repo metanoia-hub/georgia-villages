@@ -33,21 +33,23 @@
 - Winter road: Village road unknown. Kala–Ushguli reopened 22 Nov 2026. Ushguli–Lasdili closed by snow.
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- nothing found yet
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- No individual image/video result was verified. Search links are supplied for follow-up; no specific photo is asserted. ([source](https://www.google.com/search?tbm=isch&q=Laskrali%20Mestia%20Georgia%20village))
+- YouTube search results; no specific video verified as showing the village. ([source](https://www.youtube.com/results?search_query=Laskrali%20Mestia%20Georgia%20village))
 
 ## Articles
-- being researched
+- nothing found yet
 
 ## Road
 

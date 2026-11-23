@@ -33,21 +33,33 @@
 - Winter road: Abano Pass closed to all vehicles on km 22–72 since 24 Oct 2026. Local village-road status unknown.
 
 ## History
-- being researched
+- The 1917 Tiflis Governorate table records the settlement as Жвелурта and lists all 47 residents as Georgian. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
+- Makalatia’s 1933 survey records the following local surnames in 1930–31. Cholikidze, Mozaidze. ([source](https://www.batsav.com/pages/tusheti-population-census-makalatia.html))
+- Efeno Cholikidze told Shavkhelishvili that the Choliani came from Imereti and that one branch of the Mozaidze family were Dido. ([source](https://mematiane.ge/product-details.php?id=9581))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 1855 — 37 residents. R. Eristov’s village table, published in 1855, lists Жвелурта with 8 houses, 19 men and 18 women. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
+- 1917 — 47 residents. Tiflis Governorate village table, transcribed as Жвелурта. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
+- 1923 — 50 residents. Ethnic composition of rural Georgia by settlement, transcribed as zhvelurta (Zhvelurta). ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
+- 1930–31 — 60 residents. Sergi Makalatia’s 1933 ethnographic survey, printed pp. 86–89, lists 13 households. ([source](https://www.batsav.com/pages/tusheti-population-census-makalatia.html))
+- 2014 — 0 residents. Geostat census workbook, row 1476. ([source](https://geostat.ge/media/51076/1_Number-of-population-by-administrative-territorial-units-and-sex.xls))
+- 2024 — 0 residents. Geostat census on 14 November 2024, workbook row 1503. ([source](https://geostat.ge/media/81091/1.Population-of-Georgia-by-administrative-territorial-units-and-sex.xlsx))
 
 ## Crafts And Traditions
-- being researched
+- Makalatia’s 1930–31 survey records livestock keeping here, with 695 sheep and goats and 100 cattle. ([source](https://www.batsav.com/pages/tusheti-population-census-makalatia.html))
 
 ## Churches, Towers, Monuments
-- being researched
+- The ethnographic shrine inventory records Khakhmati, Karate and the Lord Between the Mountains. Individual heritage designation nothing found. ([source](https://www.batsav.com/pages/a-list-of-all-the-shrines-of-pshavi-khevsureti-tusheti.html))
 
 ## Photos And Videos
+- YouTube video titled Zhvelurta, Tusheti. ([source](https://www.youtube.com/watch?v=PztvZ8ywihU))
+- Caucasus Trekking photo of the village, captioned Jvelurta. ([source](https://www.caucasus-trekking.com/Images/Treks/KhisoGogrulta/Fullscreen/01_Jverulta.webp))
 
 ## Articles
-- being researched
+- Caucasus Trekking’s first-hand route account through southern Tusheti. ([source](https://www.caucasus-trekking.com/treks/hike-from-khiso-to-gogrulta))
+- Georgian Travel Guide’s village profile for Zhvelurta. ([source](https://georgiantravelguide.com/ka/zhvelurta))
+- Abram Shavkhelishvili’s Articles and Archival Materials on Tusheti and the Tush, Volume II, reproducing archival material and field testimony. ([source](https://mematiane.ge/product-details.php?id=9581))
+- R. Eristov’s 1855 description and village table for the Tushino-Pshavo-Khevsur district, in Russian. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
 
 ## Road
 

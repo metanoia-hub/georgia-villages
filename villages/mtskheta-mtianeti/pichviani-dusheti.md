@@ -5,7 +5,7 @@
 ## Size
 - Population: 1917: **73** · 1923: **44** · 2002: **13** · 2014: **0** · 2024: **0**
 - Peak population found: **73 (1917)**
-- Houses: not counted yet
+- Houses: 0 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2014 (last with residents: 2002)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 1923 Georgia rural census by settlement (Mashke pop-stat.mashke.org/georgia-ethnic-loc1923.htm), unit: Dushetis/Choportis ; 1917 Tiflis governorate villages (Mashke pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm), unit: Эрцойское
 
@@ -33,21 +33,22 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- nothing found yet
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- nothing found yet
 
 ## Articles
-- being researched
+- nothing found yet
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%A4%E1%83%98%E1%83%AD%E1%83%95%E1%83%98%E1%83%90%E1%83%9C%E1%83%98_(%E1%83%93%E1%83%A3%E1%83%A8%E1%83%94%E1%83%97%E1%83%98%E1%83%A1_%E1%83%9B%E1%83%A3%E1%83%9C%E1%83%98%E1%83%AA%E1%83%98%E1%83%9E%E1%83%90%E1%83%9A%E1%83%98%E1%83%A2%E1%83%94%E1%83%A2%E1%83%98)&params=42_03_25_N_44_51_58_E_type:city(40361)_region:
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo

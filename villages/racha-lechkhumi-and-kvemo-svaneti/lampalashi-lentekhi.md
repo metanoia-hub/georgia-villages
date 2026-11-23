@@ -5,7 +5,7 @@
 ## Size
 - Population: 2002: **29** · 2014: **0**
 - Peak population found: **29 (2002)**
-- Houses: not counted yet
+- Houses: 61 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2014 (last with residents: 2002)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat)
 
@@ -33,21 +33,22 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- 2014 census: 0 permanent residents; 2024 census: 1 resident. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/lentekhi-municipality/lampalashi))
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- The referenced village page includes online location imagery/photographs where available; this is a village page, not a verified independent photo archive. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/lentekhi-municipality/lampalashi))
 
 ## Articles
-- being researched
+- nothing found yet
 
 ## Road
 

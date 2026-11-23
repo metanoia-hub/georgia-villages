@@ -5,7 +5,7 @@
 ## Size
 - Population: 1917: **71** · 1923: **71** · 2002: **5** · 2014: **1**
 - Peak population found: **71 (1917/1923)**
-- Houses: not counted yet
+- Houses: 3 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: unknown
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 2002 Geostat village volume PDF (confirms 5) ; 1923 Georgia rural census by settlement (Mashke pop-stat.mashke.org/georgia-ethnic-loc1923.htm), unit: Dushetis/Arkhotis ; 1917 Tiflis governorate villages (Mashke pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm), unit: Ахиельское
 
@@ -33,21 +33,22 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- nothing found yet
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- nothing found yet
 
 ## Articles
-- being researched
+- nothing found yet
 
 ## Road
 

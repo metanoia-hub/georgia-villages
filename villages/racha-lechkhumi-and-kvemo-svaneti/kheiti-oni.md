@@ -33,24 +33,25 @@
 - Winter road: Village road unknown. The main road into Oni was reported closed for works on 23 Nov 2026. The Shkmeri detour had a winter trailer ban.
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- 2014 census: 3 residents (1 man, 2 women), all Georgian. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/oni-municipality/kheiti))
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
-
+- The referenced village page includes online location imagery/photographs where available; this is a village page, not a verified independent photo archive. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/oni-municipality/kheiti))
+- YouTube result titled “RACHA - GEORGIA” lists this village among places in the Racha sequence; published circa 2007 (search-index age). ([source](https://www.youtube.com/watch?v=WRfUEWoWkhg))
 - https://commons.wikimedia.org/wiki/File%3ABokva_village_1.jpg
 - https://commons.wikimedia.org/wiki/File%3ABokva_cemetery.jpg
 
 ## Articles
-- being researched
+- Village reference or report. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/oni-municipality/kheiti))
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%AE%E1%83%94%E1%83%98%E1%83%97%E1%83%98_(%E1%83%9D%E1%83%9C%E1%83%98%E1%83%A1_%E1%83%9B%E1%83%A3%E1%83%9C%E1%83%98%E1%83%AA%E1%83%98%E1%83%9E%E1%83%90%E1%83%9A%E1%83%98%E1%83%A2%E1%83%94%E1%83%A2%E1%83%98)&params=42_32_23_N_43_23_01_E_type:city(40361)_region:GE
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo

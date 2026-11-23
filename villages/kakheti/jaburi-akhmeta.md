@@ -33,21 +33,23 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- The Akhmeta municipal spatial plan lists Jaburi in the Shakhvetila administrative unit. ([source](https://mrdi.gov.ge/pdf/5d8c75b809471.pdf#page=29))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 2014 — 0 residents. Geostat census workbook, row 1537. ([source](https://geostat.ge/media/51076/1_Number-of-population-by-administrative-territorial-units-and-sex.xls))
+- 2024 — 0 residents. Geostat census on 14 November 2024, workbook row 1569. ([source](https://geostat.ge/media/81091/1.Population-of-Georgia-by-administrative-territorial-units-and-sex.xlsx))
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- nothing found yet
 
 ## Articles
-- being researched
+- nothing found yet
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - https://moi.gov.ge/pdf/5d8c75b809471.pdf/%E1%83%90%E1%83%AE%E1%83%9B%E1%83%94%E1%83%A2%E1%83%90%20-%20%E1%83%A2%E1%83%94%E1%83%A5%E1%83%A1%E1%83%A2%E1%83%98%20%E1%83%93%E1%83%90%20%E1%83%97%E1%83%94%E1%83%9B%E1%83%90%E1%83%A2%E1%83%A3%E1%83%A0%E1%83%98%20%E1%83%A0%E1%83%A3%E1%83%99%E1%83%94%E1%83%91%E1%83%98.pdf
 - https://web.archive.org/web/20190302090626/http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls

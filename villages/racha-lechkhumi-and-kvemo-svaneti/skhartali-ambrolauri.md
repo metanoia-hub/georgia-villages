@@ -5,7 +5,7 @@
 ## Size
 - Population: 1923: **102** · 2002: **28** · 2014: **3**
 - Peak population found: **102 (1923)**
-- Houses: not counted yet
+- Houses: 51 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: unknown
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 2002 Geostat village volume PDF (confirms 28) ; 1923 Georgia rural census by settlement (Mashke pop-stat.mashke.org/georgia-ethnic-loc1923.htm), unit: Khotevis
 
@@ -33,21 +33,23 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- 2014 census: 3 residents (2 men, 1 woman), all Georgian. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/ambrolauri-municipality/skhartali))
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- The referenced village page includes online location imagery/photographs where available; this is a village page, not a verified independent photo archive. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/ambrolauri-municipality/skhartali))
+- YouTube result titled “RACHA - GEORGIA” lists this village among places in the Racha sequence; published circa 2007 (search-index age). ([source](https://www.youtube.com/watch?v=WRfUEWoWkhg))
 
 ## Articles
-- being researched
+- Village reference or report. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/ambrolauri-municipality/skhartali))
 
 ## Road
 

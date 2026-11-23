@@ -33,19 +33,20 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- Abandoned village in Kvesheti community, on the southern slope of the Mtiuleti ridge. Reported population: 46 in 1926 and 6 (4 men, 2 women) in 2002. A local heritage account says it was empty of permanent residents by the 2014 census; a 2021 regional report says the last resident had left. The sources do not establish when the village was founded or the last resident’s departure year. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/korogho))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 1926: 46 (19 men, 27 women); 2002: 6 (4 men, 2 women); 2014: no permanent residents. Sources: Explore Georgia; Khadaskheoba. ([source](https://explore-georgia.ge/en/mtskheta-mtianeti/dusheti-municipality/korogho))
+- 2014 census status (permanent population absent) reported by Khadaskheoba; page also describes the church and tower complex. ([source](https://www.khadaskheoba.ge/%E1%83%9B%E1%83%90%E1%83%A2%E1%83%94%E1%83%A0%E1%83%98%E1%83%90%E1%83%9A%E1%83%A3%E1%83%A0%E1%83%98-%E1%83%99%E1%83%A3%E1%83%9A%E1%83%A2%E1%83%A3%E1%83%A0%E1%83%98%E1%83%A1-%E1%83%AB%E1%83%94%E1%83%92%E1%83%9A%E1%83%94%E1%83%91%E1%83%98))
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- Korogho complex south of the village: Church of the Virgin, a tower, small chapel, crypt and damaged structures. A 2023 report documents demolition/reconstruction controversy around the tower; that report says the complex is heritage listed. ([source](https://sakartvelosambebi.ge/en/news/chubinashvili-centers-alarming-report-on-demolition-of-korogho-tower-proven-crime))
 
 ## Photos And Videos
-
+- Photographs and site description on the Khadaskheoba heritage page. ([source](https://www.khadaskheoba.ge/%E1%83%9B%E1%83%90%E1%83%A2%E1%83%94%E1%83%A0%E1%83%98%E1%83%90%E1%83%9A%E1%83%A3%E1%83%A0%E1%83%98-%E1%83%99%E1%83%A3%E1%83%9A%E1%83%A2%E1%83%A3%E1%83%A0%E1%83%98%E1%83%A1-%E1%83%AB%E1%83%94%E1%83%92%E1%83%9A%E1%83%94%E1%83%91%E1%83%98))
 - https://commons.wikimedia.org/wiki/File%3AQorogho_Inscription_%282%29.jpg
 - https://commons.wikimedia.org/wiki/File%3AQorogho_Inscription_%281%29.jpg
 - https://commons.wikimedia.org/wiki/File%3AKhada_Rd%2C_Tskere%2C_Georgia_-_panoramio.jpg
@@ -61,7 +62,7 @@
 - Main picture: http://commons.wikimedia.org/wiki/Special:FilePath/Qorogho%20church%20and%20Tower.jpg
 
 ## Articles
-- being researched
+- 2021 report on the Khada highway project mentions Korogho and reports that its last resident left (article wording: “Lately, only one man was living there, and finally, he left too”). ([source](https://mtisambebi.ge/en/news/item/1309-why-we-are-building-the-georgian-russian-highway-across-the-khada-gorge))
 - http://dspace.nplg.gov.ge/bitstream/1234/27535/1/Dzeglis%20Megobari_1965_N5.pdf
 - http://dzeglebi.ge/dzeglebi/q/qorogos_gvtismshobeli.html
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%A5%E1%83%9D%E1%83%A0%E1%83%9D%E1%83%A6%E1%83%9D%E1%83%A1_%E1%83%A6%E1%83%95%E1%83%97%E1%83%98%E1%83%A1%E1%83%9B%E1%83%A8%E1%83%9D%E1%83%91%E1%83%9A%E1%83%98%E1%83%A1_%E1%83%94%E1%83%99%E1%83%9A%E1%83%94%E1%83%A1%E1%83%98%E1%83%90&params=42_27_45_N_44_31_22_E_

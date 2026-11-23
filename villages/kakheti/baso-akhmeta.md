@@ -33,21 +33,27 @@
 - Winter road: Abano Pass closed to all vehicles on km 22–72 since 24 Oct 2026. Local village-road status unknown.
 
 ## History
-- being researched
+- The published architectural survey places the abandoned site in the historical Pirikiti community, just northwest of Parsma. ([source](https://www.dzeglebi.ge/mxareebi_qalaqebi/tusheti/tusheti_baso.html))
+- The 2014 protected-areas management plan dates forced Soviet resettlement from Tusheti to the lowlands to the late 1950s. This describes the regional policy. ([source](https://matsne.gov.ge/ka/document/view/2190286))
+- Gustav Radde’s 1876 route account locates a Tush settlement on the Bazo stream in the Pirikiti valley near Parsma. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1860-1880/Radde_G_I/text9.htm))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 2014 — 0 residents. Geostat census workbook, row 1447. ([source](https://geostat.ge/media/51076/1_Number-of-population-by-administrative-territorial-units-and-sex.xls))
+- 2024 — 0 residents. Geostat census on 14 November 2024, workbook row 1475. ([source](https://geostat.ge/media/81091/1.Population-of-Georgia-by-administrative-territorial-units-and-sex.xlsx))
 
 ## Crafts And Traditions
-- being researched
+- The fortified tower preserves dry-laid slate masonry and evidence of timber ladders connecting the floors. ([source](https://www.dzeglebi.ge/mxareebi_qalaqebi/tusheti/tusheti_baso.html))
 
 ## Churches, Towers, Monuments
-- being researched
+- A six-storey, dry-laid slate tower at the southern edge of the village ruins is dated to the 17th–18th centuries. A separate register entry for this Tusheti tower was not located. ([source](https://www.dzeglebi.ge/mxareebi_qalaqebi/tusheti/tusheti_baso.html))
 
 ## Photos And Videos
+- nothing found yet
 
 ## Articles
-- being researched
+- Dzeglebi’s village entry and architectural survey, citing the published Georgian monument inventory. ([source](https://www.dzeglebi.ge/mxareebi_qalaqebi/tusheti/tusheti_baso.html))
+- Georgian Encyclopedia entry for Baso in the Tusheti community. ([source](https://georgianencyclopedia.ge/ka/form/23485))
+- Gustav Radde’s firsthand description of his journey in the summer of 1876, in Russian. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1860-1880/Radde_G_I/text9.htm))
 
 ## Road
 

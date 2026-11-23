@@ -33,21 +33,22 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- nothing found yet
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- nothing found yet
 
 ## Articles
-- being researched
+- No village-specific article located in the sources reviewed. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
 - http://pop-stat.mashke.org/georgia-ethnic-loc2014.htm
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%91%E1%83%90%E1%83%A2%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98&params=41_56_05_N_43_50_46_E_type:city(40361)_region:GE
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls

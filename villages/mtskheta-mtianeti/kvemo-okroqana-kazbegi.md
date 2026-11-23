@@ -33,19 +33,19 @@
 - Winter road: Village road unknown. Gudauri–Kobi main road reopened 22 Nov 2026 and is subject to winter closures.
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- nothing found yet
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
-
+- nothing found yet
 - https://commons.wikimedia.org/wiki/File%3AAbandoned_House_outside_Okrokana_-_Near_Kazbegi_-_Greater_Caucasus_-_Georgia_%2818418942228%29_%282%29.jpg
 - https://commons.wikimedia.org/wiki/File%3AShepherd_with_Flock_-_Outside_Okrokana_-_Near_Kazbegi_-_Greater_Caucasus_-_Georgia_%2817983920423%29_%282%29.jpg
 - https://commons.wikimedia.org/wiki/File%3ASheep_in_Road_-_Outside_Okrokana_-_Near_Kazbegi_-_Greater_Caucasus_-_Georgia_%2818604610695%29_%282%29.jpg
@@ -61,7 +61,7 @@
 - Main picture: http://commons.wikimedia.org/wiki/Special:FilePath/Georgia%2C%20Truso%20Valley%20-%20Villages%20Okrokana%20and%20Shevardeni.jpg
 
 ## Articles
-- being researched
+- nothing found yet
 
 ## Road
 

@@ -33,21 +33,22 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- The profile records the former name Patara Tkhinala and describes the settlement as deserted; it gives no abandonment date or cause. ([source](https://explore-georgia.ge/en/shida-kartli/khashuri-municipality/patara-tkhilnara))
 
 ## Population Over Time (Other Sources)
-- being researched
+- nothing found yet
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- nothing found yet
 
 ## Articles
-- being researched
+- Village profile. ([source](https://explore-georgia.ge/en/shida-kartli/khashuri-municipality/patara-tkhilnara))
 
 ## Road
 

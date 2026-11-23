@@ -33,24 +33,25 @@
 - Winter road: Village road unknown. The main road into Oni was reported closed for works on 23 Nov 2026. The Shkmeri detour had a winter trailer ban.
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- No village-by-village series for 1989, 2002, 2014 and 2024 was verified in consulted sources. ([source](https://www.geostat.ge/en/modules/categories/12/2024-population-census-of-georgia-results))
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- Explore Georgia describes Skhieri as deserted; Georgia Travel names the Skhieri Monastery Complex among Oni’s historical monuments. Official designation was not verified. ([source](https://georgia.travel/cities-towns/oni))
 
 ## Photos And Videos
-
+- The referenced village page includes online location imagery/photographs where available; this is a village page, not a verified independent photo archive. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/oni-municipality/skhieri))
+- YouTube result titled “RACHA - GEORGIA” lists this village among places in the Racha sequence; published circa 2007 (search-index age). ([source](https://www.youtube.com/watch?v=WRfUEWoWkhg))
 - https://commons.wikimedia.org/wiki/File%3AOni_town.jpg
 - https://commons.wikimedia.org/wiki/File%3AOni_sign.jpg
 
 ## Articles
-- being researched
+- Village reference or report. ([source](https://explore-georgia.ge/en/racha-lechkhumi-and-kvemo-svaneti/oni-municipality/skhieri))
 
 ## Road
 

@@ -33,23 +33,30 @@
 - Winter road: Heavy snow can temporarily block the gravel access roads. Current village-road status unknown.
 
 ## History
-- being researched
+- Aspara is on Lake Paravanis western shore. A cited village overview says it was founded in the 1840s by Doukhobors; in 1924 Armenians from Khulgumo joined them. A 2020 report describes the last resident family as the Ispiryan household (then three people); a later 2022 report says the village had been empty for two years and former residents moved to Armenia or nearby settlements. The sources do not establish an exact last-family departure day. ([source](https://akhalkalaki.org/en/javakheti-villages/))
+- The Georgian toponymy study records the older name Aspana and notes the deserted houses and an old Georgian church ruin near the lake. ([source](https://sjuni.edu.ge/onomastic/post.php?id=57))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 2002: 107 residents (57 men, 50 women), reported by regional news citing Georgias Statistics Department. 2014: 0 permanent residents, as reported in the cited village overview. 2024: the supplied GeoJSON gives residents_2024=0; no independent 2024 village table located. ([source](https://jnews.ge/47452/))
+- A 2022 report states the settlement had no residents for two years; electoral-roll entries persisted despite actual migration, according to local election commission members. ([source](https://jnews.ge/133769/))
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- A Georgian top onomastics study identifies an old Georgian church ruin on a raised point by the lake. Heritage-register status was not verified. ([source](https://sjuni.edu.ge/onomastic/post.php?id=57))
+- Radio NOR reports research into a medieval daran (underground structure) in Aspara; the report concerns investigation and does not itself confirm protected status. ([source](https://nor.ge/165037/))
 
 ## Photos And Videos
+- Photo report from Aspara documenting the last resident family and village houses (published about 2020). ([source](https://jnews.ge/47452/))
 
 - Main picture: http://commons.wikimedia.org/wiki/Special:FilePath/%D4%B1%D5%BD%D6%83%D5%A1%D6%80%D5%A1%D5%B5%D5%AB%20%D5%B4%D5%AB%D5%BB%D5%B6%D5%A1%D5%A4%D5%A1%D6%80%D5%B5%D5%A1%D5%B6%20%D5%A5%D5%AF%D5%A5%D5%B2%D5%A5%D6%81%D5%AB.%20%D5%A1%D6%80%D6%87%D5%A5%D5%AC%D5%B5%D5%A1%D5%B6%20%D5%B3%D5%A1%D5%AF%D5%A1%D5%BF.png
 
 ## Articles
-- being researched
+- JNEWS report on the last three residents of the village. ([source](https://jnews.ge/47452/))
+- JNEWS report on the ghost village and former residents migration. ([source](https://jnews.ge/133769/))
+- Radio NOR feature on Aspara as a ghost village, with the 2002 population figure. ([source](https://nor.ge/128745/))
+- Research and documentation of Asparas medieval daran. ([source](https://nor.ge/165037/))
 
 ## Road
 

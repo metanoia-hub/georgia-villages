@@ -33,24 +33,27 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- The 1917 Tiflis Governorate table records the settlement as Хинчеби and lists all 41 residents as Georgian. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 1917 — 41 residents. Tiflis Governorate village table, transcribed as Хинчеби. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
+- 2002 — 0 residents. Geostat census, vol. II, p. 106. ([source](https://www.geostat.ge/media/44560/II-tomi-.pdf#page=106))
+- 2014 — 0 residents. Geostat census workbook, row 1808. ([source](https://geostat.ge/media/51076/1_Number-of-population-by-administrative-territorial-units-and-sex.xls))
+- 2024 — 0 residents. Geostat census on 14 November 2024, workbook row 1848. ([source](https://geostat.ge/media/81091/1.Population-of-Georgia-by-administrative-territorial-units-and-sex.xlsx))
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
-
+- nothing found yet
 - https://commons.wikimedia.org/wiki/File%3AISS031-E-98145_-_View_of_Earth.jpg
 - https://commons.wikimedia.org/wiki/File%3AISS031-E-97106_-_View_of_Earth.jpg
 
 ## Articles
-- being researched
+- The Sagarejo village blog entry records the village in the Kochbaani community and its empty 2002 count. ([source](https://sagarejoblog.wordpress.com/category/%E1%83%9B%E1%83%A3%E1%83%9C%E1%83%98%E1%83%AA%E1%83%98%E1%83%9E%E1%83%90%E1%83%9A%E1%83%98%E1%83%A2%E1%83%94%E1%83%A2%E1%83%98%E1%83%A1-%E1%83%A1%E1%83%9D%E1%83%A4%E1%83%9A%E1%83%94%E1%83%91%E1%83%98/))
 
 ## Road
 

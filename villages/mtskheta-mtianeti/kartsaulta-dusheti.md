@@ -33,24 +33,24 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- nothing found yet
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
-
+- nothing found yet
 - https://commons.wikimedia.org/wiki/File%3ARoad_to_Shatili_near_Ghelisvake_%28km58%29_direction_sign.jpg
 - https://commons.wikimedia.org/wiki/File%3ARoad_to_Shatili_near_Ghelisvake_%28km58%29.jpg
 
 ## Articles
-- being researched
+- nothing found yet
 
 ## Road
 

@@ -33,21 +33,36 @@
 - Winter road: Abano Pass closed to all vehicles on km 22–72 since 24 Oct 2026. Local village-road status unknown.
 
 ## History
-- being researched
+- Spekali identifies this as a historic settlement of the Tsova-Tush (Batsbi). It describes a long migration from Tsovata into the lowlands following natural disasters, including settlement in present-day Zemo Alvani. ([source](https://www.spekali.tsu.ge/index.php/en/article/viewArticle/4/35/))
+- Shavkhelishvili’s account of the 1860 census describes both Tush residents and Khevsur households who sought refuge in the village. He places it at the Gometsari–Tsovata boundary. ([source](https://mematiane.ge/product-details.php?id=9581))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 1855 — 119 residents. R. Eristov’s village table, published in 1855, lists Царо with 27 houses, 66 men and 53 women. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
+- 1860 — 21 households. Cameral census, as cited by Shavkhelishvili. ([source](https://mematiane.ge/product-details.php?id=9581))
+- 2014 — 2 residents. Geostat census as transcribed in the settlement table. Geostat’s current downloadable workbook masks the small count. ([source](https://pop-stat.mashke.org/georgia-census2014.htm))
+- 2024 — 0 residents. Geostat census on 14 November 2024, workbook row 1514. ([source](https://geostat.ge/media/81091/1.Population-of-Georgia-by-administrative-territorial-units-and-sex.xlsx))
 
 ## Crafts And Traditions
-- being researched
+- Spekali identifies sheep breeding and movement between mountain and lowland pastures as leading livelihoods of the Tsova-Tush community to which the village belonged. ([source](https://www.spekali.tsu.ge/index.php/en/article/viewArticle/4/35/))
+- Shavkhelishvili describes passages used to fetch water and carry grain to the mill. ([source](https://mematiane.ge/product-details.php?id=9581))
 
 ## Churches, Towers, Monuments
-- being researched
+- The historic site of Tsaro is dated to the late medieval period and listed as a monument of national significance, register entry 7518. ([source](https://www.heritagesites.ge/uploads/files/6068808f2b2f2.pdf#page=266))
+- The National Parks profile identifies medieval crypts within the Tsaro architectural complex. ([source](https://nationalparks.ge/en/site/tushetinp/toSeeInner/41))
+- The ethnographic shrine inventory records the Old Sameba niche. Individual heritage designation nothing found. ([source](https://www.batsav.com/pages/a-list-of-all-the-shrines-of-pshavi-khevsureti-tusheti.html))
+- Medieval architectural complex. The Heritage Agency lists it under register entry 1013, dated 3 October 2007. ([source](https://www.heritagesites.ge/uploads/files/6068808f2b2f2.pdf#page=33))
 
 ## Photos And Videos
+- Heritage Agency photograph on its Tsaro site profile. ([source](https://www.heritagesites.ge/uploads/images/5b6d6abb8aef3.jpg))
+- Photograph on National Parks of Georgia’s Tsaro site profile. ([source](https://nationalparks.ge/files/154269990399წარო.jpg))
 
 ## Articles
-- being researched
+- Government decree No. 389 of 13 August 2018, assigning national significance to this site. ([source](https://matsne.gov.ge/ka/document/view/4256468?publication=0))
+- Official site profile for Tsaro. ([source](https://nationalparks.ge/en/site/tushetinp/toSeeInner/41))
+- Spekali’s study of the Tsova-Tush settlements, economy and migration. ([source](https://www.spekali.tsu.ge/index.php/en/article/viewArticle/4/35/))
+- Heritage Agency profile of the abandoned settlement and its structures. ([source](https://www.heritagesites.ge/ka/news_item/237))
+- Abram Shavkhelishvili’s Articles and Archival Materials on Tusheti and the Tush, Volume II, reproducing archival material and field testimony. ([source](https://mematiane.ge/product-details.php?id=9581))
+- R. Eristov’s 1855 description and village table for the Tushino-Pshavo-Khevsur district, in Russian. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
 
 ## Road
 

@@ -33,21 +33,35 @@
 - Winter road: Abano Pass closed to all vehicles on km 22–72 since 24 Oct 2026. Local village-road status unknown.
 
 ## History
-- being researched
+- The 1917 Tiflis Governorate table records the settlement as Хисо and lists all 182 residents as Georgian. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
+- Makalatia’s 1933 survey records the following local surnames in 1930–31. Jamrulidze, Chiglaidze, Tsetsiadze, Ichukaidze. ([source](https://www.batsav.com/pages/tusheti-population-census-makalatia.html))
+- Shavkhelishvili records names including Chiglaani, Ichukaidze, Tsetsiaidze, Jamrulidze and Omaidze. He also records a local account of the Kist Murtazashvili family settling first in Parsma and then in Khiso. ([source](https://mematiane.ge/product-details.php?id=9581))
+- The 2014 protected-areas management plan dates forced Soviet resettlement from Tusheti to the lowlands to the late 1950s. This describes the regional policy. ([source](https://matsne.gov.ge/ka/document/view/2190286))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 1855 — 122 residents. R. Eristov’s village table, published in 1855, lists Хисо with 27 houses, 64 men and 58 women. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
+- 1917 — 182 residents. Tiflis Governorate village table, transcribed as Хисо. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
+- 1923 — 96 residents. Ethnic composition of rural Georgia by settlement, transcribed as khiso (Khiso). ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
+- 1930–31 — 107 residents. Sergi Makalatia’s 1933 ethnographic survey, printed pp. 86–89, lists 32 households. ([source](https://www.batsav.com/pages/tusheti-population-census-makalatia.html))
+- 2002 — 0 residents. Geostat census, vol. II, p. 93. ([source](https://www.geostat.ge/media/44560/II-tomi-.pdf#page=93))
+- 2014 — 0 residents. Geostat census workbook, row 1493. ([source](https://geostat.ge/media/51076/1_Number-of-population-by-administrative-territorial-units-and-sex.xls))
+- 2024 — 0 residents. Geostat census on 14 November 2024, workbook row 1520. ([source](https://geostat.ge/media/81091/1.Population-of-Georgia-by-administrative-territorial-units-and-sex.xlsx))
 
 ## Crafts And Traditions
-- being researched
+- Makalatia’s 1930–31 survey records livestock keeping here, with 832 sheep and goats and 141 cattle. ([source](https://www.batsav.com/pages/tusheti-population-census-makalatia.html))
 
 ## Churches, Towers, Monuments
-- being researched
+- The ethnographic shrine inventory records St George of Khakha, Karate and Khakhmati. Individual heritage designation nothing found. ([source](https://www.batsav.com/pages/a-list-of-all-the-shrines-of-pshavi-khevsureti-tusheti.html))
 
 ## Photos And Videos
+- Georgian Travel Guide photo captioned as Khiso. ([source](https://cdn.georgiantravelguide.com/storage/files/khiso.jpg))
+- Georgian Travel Guide photo captioned as Khiso. ([source](https://cdn.georgiantravelguide.com/storage/files/khiso-1.jpg))
 
 ## Articles
-- being researched
+- Caucasus Trekking’s first-hand route account through southern Tusheti. ([source](https://www.caucasus-trekking.com/treks/hike-from-khiso-to-gogrulta))
+- Georgian Travel Guide’s village profile for Khiso. ([source](https://georgiantravelguide.com/ka/khiso))
+- Abram Shavkhelishvili’s Articles and Archival Materials on Tusheti and the Tush, Volume II, reproducing archival material and field testimony. ([source](https://mematiane.ge/product-details.php?id=9581))
+- R. Eristov’s 1855 description and village table for the Tushino-Pshavo-Khevsur district, in Russian. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
 
 ## Road
 

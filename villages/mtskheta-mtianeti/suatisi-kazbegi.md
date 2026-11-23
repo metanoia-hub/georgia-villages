@@ -33,23 +33,24 @@
 - Winter road: Village road unknown. Gudauri–Kobi main road reopened 22 Nov 2026 and is subject to winter closures.
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- nothing found yet
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- nothing found yet
 
 - Main picture: http://commons.wikimedia.org/wiki/Special:FilePath/Georgia%2C%20Khevi%2C%20Suatisi%20Valley%20-%20Village%20Suatisi.jpg
 
 ## Articles
-- being researched
+- nothing found yet
 
 ## Road
 

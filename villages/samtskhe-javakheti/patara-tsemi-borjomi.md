@@ -33,21 +33,23 @@
 - Winter road: Village road unknown. The Bakuriani–Ghadolari section closed to all vehicles from 13 Nov 2026.
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- The supplied GeoJSON records residents_2024=0. The consulted material did not provide a village-level historical census series. ([source](https://explore-georgia.ge/ka/samtskhe-javakheti/borjomis-municipaliteti/patara-tsemi))
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- YouTube travel video titled ‘patara tsemi da mitarbi / Trip To Patara Tsemi and Mitarbi’ (published approximately 2021 per search result). ([source](https://www.youtube.com/watch?v=DQq7kla55zQ))
 
 ## Articles
-- being researched
+- Explore Georgia village profile. ([source](https://explore-georgia.ge/ka/samtskhe-javakheti/borjomis-municipaliteti/patara-tsemi))
+- National Archives feature mentions the Patara Tsemi sanatorium, founded in 1904 by physician/public figure Vakhtang Ghambashidze and his father; this refers to the resort facility, not the villages foundation. ([source](https://archive.gov.ge/ge/pavilioni/sakartvelos-kurortebi-2))
 
 ## Road
 

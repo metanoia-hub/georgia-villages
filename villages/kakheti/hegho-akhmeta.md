@@ -33,21 +33,30 @@
 - Winter road: Abano Pass closed to all vehicles on km 22–72 since 24 Oct 2026. Local village-road status unknown.
 
 ## History
-- being researched
+- The Protected Landscape administration records an oral legend of a siege and the destruction of the village. The legend supplies no verified date. ([source](https://www.tushetipl.ge/en/article/12))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 1855 — 23 residents. R. Eristov’s village table, published in 1855, lists Эго with 7 houses, 14 men and 9 women. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
+- 2014 — 0 residents. Geostat census workbook, row 1495. ([source](https://geostat.ge/media/51076/1_Number-of-population-by-administrative-territorial-units-and-sex.xls))
+- 2024 — 0 residents. Geostat census on 14 November 2024, workbook row 1522. ([source](https://geostat.ge/media/81091/1.Population-of-Georgia-by-administrative-territorial-units-and-sex.xlsx))
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- The historic site of Hegho is dated to the late medieval period and listed as a monument of national significance, register entry 7520. ([source](https://www.heritagesites.ge/uploads/files/6068808f2b2f2.pdf#page=266))
+- The Heritage Agency describes ruined buildings on a steep slope on the left bank of the Pirikiti Alazani, about two kilometres northwest of Girevi. ([source](https://www.heritagesites.ge/ka/news_item/224))
+- The ethnographic shrine inventory records St John the Baptist. Individual heritage designation nothing found. ([source](https://www.batsav.com/pages/a-list-of-all-the-shrines-of-pshavi-khevsureti-tusheti.html))
 
 ## Photos And Videos
+- Heritage Agency photograph on its Hegho site profile. ([source](https://www.heritagesites.ge/uploads/images/5b6165b426dbb.jpg))
 
 ## Articles
-- being researched
+- Government decree No. 389 of 13 August 2018, assigning national significance to this site. ([source](https://matsne.gov.ge/ka/document/view/4256468?publication=0))
+- Official site profile for Hegho. ([source](https://www.heritagesites.ge/ka/news_item/224))
+- Georgian Travel Guide’s village profile for Hegho. ([source](https://georgiantravelguide.com/en/hegho))
+- Tusheti Protected Landscape’s account of the siege legend and the poem associated with it. ([source](https://www.tushetipl.ge/en/article/12))
+- R. Eristov’s 1855 description and village table for the Tushino-Pshavo-Khevsur district, in Russian. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
 
 ## Road
 

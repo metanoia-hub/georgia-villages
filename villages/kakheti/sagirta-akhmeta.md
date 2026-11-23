@@ -33,21 +33,33 @@
 - Winter road: Abano Pass closed to all vehicles on km 22–72 since 24 Oct 2026. Local village-road status unknown.
 
 ## History
-- being researched
+- The journal Spekali records that a flood washed away Sagirta in 1861 and places the disaster in the history of the Tsova-Tush move into the lowlands. ([source](https://www.spekali.tsu.ge/index.php/en/article/viewArticle/4/35/))
+- Spekali identifies this as a historic settlement of the Tsova-Tush (Batsbi). It describes a long migration from Tsovata into the lowlands following natural disasters, including settlement in present-day Zemo Alvani. ([source](https://www.spekali.tsu.ge/index.php/en/article/viewArticle/4/35/))
+- R. Eristov’s 1855 description reports that an earlier snowmelt flood washed away the village at night and killed much of the population. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
+- Gustav Radde’s 1876 account associates a flood with the move to Tbatana in the reign of Alexander I. This dates an earlier flood than the 1861 disaster reported by Spekali. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1860-1880/Radde_G_I/text9.htm))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 1831 — 393 residents. Cameral census, as reported by Abram Shavkhelishvili. ([source](https://mematiane.ge/product-details.php?id=9581))
+- 1846 — 69 households. Cameral census, as reported by Shavkhelishvili. ([source](https://mematiane.ge/product-details.php?id=9579))
+- 1855 — 287 residents. R. Eristov’s village table, published in 1855, lists Сагирта with 70 houses, 103 men and 184 women. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
+- 2014 — 0 residents. Geostat census workbook, row 1477. ([source](https://geostat.ge/media/51076/1_Number-of-population-by-administrative-territorial-units-and-sex.xls))
+- 2024 — 0 residents. Geostat census on 14 November 2024, workbook row 1504. ([source](https://geostat.ge/media/81091/1.Population-of-Georgia-by-administrative-territorial-units-and-sex.xlsx))
 
 ## Crafts And Traditions
-- being researched
+- Spekali identifies sheep breeding and movement between mountain and lowland pastures as leading livelihoods of the Tsova-Tush community to which the village belonged. ([source](https://www.spekali.tsu.ge/index.php/en/article/viewArticle/4/35/))
+- Shavkhelishvili records summer grazing for cattle and small stock, fields apportioned by family, and local testimony on barley and hops grown at Sagirta. ([source](https://mematiane.ge/product-details.php?id=9581))
 
 ## Churches, Towers, Monuments
-- being researched
+- Late medieval fortified houses. The Heritage Agency lists it under register entry 991, dated 3 October 2007. ([source](https://www.heritagesites.ge/uploads/files/6068808f2b2f2.pdf#page=32))
 
 ## Photos And Videos
+- nothing found yet
 
 ## Articles
-- being researched
+- Spekali’s study of the Tsova-Tush settlements, economy and migration. ([source](https://www.spekali.tsu.ge/index.php/en/article/viewArticle/4/35/))
+- Abram Shavkhelishvili’s Articles and Archival Materials on Tusheti and the Tush, Volume II, reproducing archival material and field testimony. ([source](https://mematiane.ge/product-details.php?id=9581))
+- R. Eristov’s 1855 description and village table for the Tushino-Pshavo-Khevsur district, in Russian. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
+- Gustav Radde’s firsthand description of his journey in the summer of 1876, in Russian. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1860-1880/Radde_G_I/text9.htm))
 
 ## Road
 

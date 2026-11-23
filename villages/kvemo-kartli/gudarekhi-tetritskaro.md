@@ -33,19 +33,22 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- Excavations in 1938–1939 exposed a medieval settlement and monastery complex; finds include Georgian royal coins and pottery-production remains, indicating local ceramic manufacture. The source describes the settlement as abandoned but does not establish when the last household left. ([source](https://about.ge/en/poi/469))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 2002: 10 residents; 2014: 12 residents. ([source](https://d-nb.info/1191054691/34))
+- The project GeoJSON lists 1 resident in 2024; the referenced settlement directory is the online census-era listing. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
 
 ## Crafts And Traditions
-- being researched
+- Archaeological evidence of pottery production, including production remains and unfinished vessels, is reported at the historic settlement. ([source](https://about.ge/en/poi/469))
 
 ## Churches, Towers, Monuments
-- being researched
+- Gudarekhi Monastery complex: 12th–13th-century buildings and later 16th–17th-century additions; includes the Church of the Mother of God and a two-storey bell tower. ([source](https://georgiantravelguide.com/en/gudarekhi-monastery))
 
 ## Photos And Videos
-
+- Gudarekhi Monastery video (published circa 2024). ([source](https://www.youtube.com/watch?v=1kFiIPN_SJI))
+- Gudarekhi Monastery video (published circa 2024). ([source](https://www.youtube.com/watch?v=2xjOgHjce9c))
+- Photo/video records and further village-name searches. ([source](https://commons.wikimedia.org/wiki/Category:Gudarekhi))
 - https://commons.wikimedia.org/wiki/File%3A%E1%83%92%E1%83%A3%E1%83%93%E1%83%90%E1%83%A0%E1%83%94%E1%83%AE%E1%83%98%E1%83%A1_%E1%83%99%E1%83%9D%E1%83%A8%E1%83%99%E1%83%981.jpg
 - https://commons.wikimedia.org/wiki/File%3A%E1%83%92%E1%83%A3%E1%83%93%E1%83%90%E1%83%A0%E1%83%94%E1%83%AE%E1%83%98%E1%83%A1_%E1%83%99%E1%83%9D%E1%83%A8%E1%83%99%E1%83%983.jpg
 - https://commons.wikimedia.org/wiki/File%3A%E1%83%92%E1%83%A3%E1%83%93%E1%83%90%E1%83%A0%E1%83%94%E1%83%AE%E1%83%98%E1%83%A1_%E1%83%99%E1%83%9D%E1%83%A8%E1%83%99%E1%83%982.jpg
@@ -53,7 +56,8 @@
 - https://commons.wikimedia.org/wiki/File%3A%E1%83%92%E1%83%A3%E1%83%93%E1%83%90%E1%83%A0%E1%83%94%E1%83%AE%E1%83%98%E1%83%A1_%E1%83%99%E1%83%9D%E1%83%A8%E1%83%99%E1%83%984.jpg
 
 ## Articles
-- being researched
+- Gudarekhi monastery and archaeological settlement overview. ([source](https://about.ge/en/poi/469))
+- Gudarekhi Monastery history and architecture. ([source](https://georgiantravelguide.com/en/gudarekhi-monastery))
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%92%E1%83%A3%E1%83%93%E1%83%90%E1%83%A0%E1%83%94%E1%83%AE%E1%83%98&params=41_35_26_N_44_27_24_E_type:city(40361)_region:GE
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo

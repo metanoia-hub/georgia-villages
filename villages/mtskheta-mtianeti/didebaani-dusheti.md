@@ -33,23 +33,24 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- nothing found yet
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- nothing found yet
 
 - Main picture: http://commons.wikimedia.org/wiki/Special:FilePath/Didebani%20Village.jpg
 
 ## Articles
-- being researched
+- nothing found yet
 
 ## Road
 

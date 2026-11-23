@@ -33,21 +33,30 @@
 - Winter road: Abano Pass closed to all vehicles on km 22–72 since 24 Oct 2026. Local village-road status unknown.
 
 ## History
-- being researched
+- The 1917 Tiflis Governorate table records the settlement as Коклата and lists all 43 residents as Georgian. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
+- Makalatia’s 1933 survey records the following local surnames in 1930–31. Bashinuridze. ([source](https://www.batsav.com/pages/tusheti-population-census-makalatia.html))
+- Shavkhelishvili records two Bashinuridze households in the 1831 archive and a local account tracing the family to Pshavi. ([source](https://mematiane.ge/product-details.php?id=9581))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 1831 — 2 households. Cameral census, Georgian Central Archive, fond 254, inventory 1, as cited by Shavkhelishvili. Both Bashinuridze households totalled 18 people. ([source](https://mematiane.ge/product-details.php?id=9581))
+- 1917 — 43 residents. Tiflis Governorate village table, transcribed as Коклата. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
+- 1930–31 — 7 residents. Sergi Makalatia’s 1933 ethnographic survey, printed pp. 86–89, lists 1 households. ([source](https://www.batsav.com/pages/tusheti-population-census-makalatia.html))
+- 2014 — 0 residents. Geostat census workbook, row 1473. ([source](https://geostat.ge/media/51076/1_Number-of-population-by-administrative-territorial-units-and-sex.xls))
+- 2024 — 0 residents. Geostat census on 14 November 2024, workbook row 1500. ([source](https://geostat.ge/media/81091/1.Population-of-Georgia-by-administrative-territorial-units-and-sex.xlsx))
 
 ## Crafts And Traditions
-- being researched
+- Makalatia’s 1930–31 survey records livestock keeping here, with 50 sheep and goats and 13 cattle. ([source](https://www.batsav.com/pages/tusheti-population-census-makalatia.html))
 
 ## Churches, Towers, Monuments
-- being researched
+- The ethnographic shrine inventory records Karate, Khakhmati and the Lord Archangel. Individual heritage designation nothing found. ([source](https://www.batsav.com/pages/a-list-of-all-the-shrines-of-pshavi-khevsureti-tusheti.html))
 
 ## Photos And Videos
+- Georgian Travel Guide photo captioned as Koklata. ([source](https://cdn.georgiantravelguide.com/storage/files/koklata-gometsari-gorge-tusheti.jpg))
+- Georgian Travel Guide photo captioned as Koklata. ([source](https://cdn.georgiantravelguide.com/storage/files/koklata-gometsari-gorge-tusheti-1.jpg))
 
 ## Articles
-- being researched
+- Georgian Travel Guide’s village profile for Koklata. ([source](https://georgiantravelguide.com/ka/koklata))
+- Abram Shavkhelishvili’s Articles and Archival Materials on Tusheti and the Tush, Volume II, reproducing archival material and field testimony. ([source](https://mematiane.ge/product-details.php?id=9581))
 
 ## Road
 

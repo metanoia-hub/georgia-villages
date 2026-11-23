@@ -33,23 +33,38 @@
 - Winter road: Abano Pass closed to all vehicles on km 22–72 since 24 Oct 2026. Local village-road status unknown.
 
 ## History
-- being researched
+- The 1917 Tiflis Governorate table records the settlement as Дочо and lists all 190 residents as Georgian. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
+- Makalatia’s 1933 survey records the following local surnames in 1930–31. Abulidze, Torghvaidze, Tsomikuridze. ([source](https://www.batsav.com/pages/tusheti-population-census-makalatia.html))
+- Ekofact described Dochu as a former village in 2012 and reported its surviving houses and fortified towers. ([source](https://ekofact.com/2012/09/06/%E1%83%97%E1%83%A3%E1%83%A8%E1%83%94%E1%83%97%E1%83%98-%E1%83%93%E1%83%9D%E1%83%AD%E1%83%A3/))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 1855 — 169 residents. R. Eristov’s village table, published in 1855, lists Дочо with 33 houses, 75 men and 94 women. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
+- 1917 — 190 residents. Tiflis Governorate village table, transcribed as Дочо. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm))
+- 1923 — 131 residents. Ethnic composition of rural Georgia by settlement, transcribed as docho (Docho). ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
+- 1930–31 — 103 residents. Sergi Makalatia’s 1933 ethnographic survey, printed pp. 86–89, lists 25 households. ([source](https://www.batsav.com/pages/tusheti-population-census-makalatia.html))
+- 2002 — 1 resident. Geostat census, vol. II, p. 93. ([source](https://www.geostat.ge/media/44560/II-tomi-.pdf#page=93))
+- 2014 — 0 residents. Geostat census workbook, row 1460. ([source](https://geostat.ge/media/51076/1_Number-of-population-by-administrative-territorial-units-and-sex.xls))
+- 2024 — 0 residents. Geostat census on 14 November 2024, workbook row 1488. ([source](https://geostat.ge/media/81091/1.Population-of-Georgia-by-administrative-territorial-units-and-sex.xlsx))
 
 ## Crafts And Traditions
-- being researched
+- Makalatia’s 1930–31 survey records livestock keeping here, with 1,554 sheep and goats and 166 cattle. ([source](https://www.batsav.com/pages/tusheti-population-census-makalatia.html))
+- Ekofact records stone construction of the village’s towers and homes. ([source](https://ekofact.com/2012/09/06/%E1%83%97%E1%83%A3%E1%83%A8%E1%83%94%E1%83%97%E1%83%98-%E1%83%93%E1%83%9D%E1%83%AD%E1%83%A3/))
 
 ## Churches, Towers, Monuments
-- being researched
+- Late medieval fortified house. The Heritage Agency register records it under entry 943, dated 3 October 2007. ([source](https://www.heritagesites.ge/uploads/files/6068808f2b2f2.pdf#page=30))
+- The ethnographic shrine inventory records St George the Swarthy, also called Kopala, and the Khakhmati and Karate niches. Individual heritage designation nothing found. ([source](https://www.batsav.com/pages/a-list-of-all-the-shrines-of-pshavi-khevsureti-tusheti.html))
+- The village itself entered the Heritage Agency register in 2016 as entry 7311, with fabric dated to the late medieval period and the 19th–20th centuries. ([source](https://www.heritagesites.ge/uploads/files/6068808f2b2f2.pdf#page=256))
+- The Protected Landscape administration records a 28 October 2016 designation order for the settlement and identifies six immovable heritage monuments within it. ([source](https://www.tushetipl.ge/article/8))
 
 ## Photos And Videos
+- Illustration on the Protected Landscape administration’s Dochu profile. ([source](https://www.tushetipl.ge/images/p7IFdW5R5M5a1kCcsZ2KbrCLraPerj_small.jpg))
 
 - Main picture: http://commons.wikimedia.org/wiki/Special:FilePath/%E1%83%A1%E1%83%9D%E1%83%A4%E1%83%94%E1%83%9A%E1%83%98%20%E1%83%93%E1%83%9D%E1%83%AD%E1%83%A3.jpg
 
 ## Articles
-- being researched
+- Ekofact’s field report on Dochu’s towers and houses. ([source](https://ekofact.com/2012/09/06/%E1%83%97%E1%83%A3%E1%83%A8%E1%83%94%E1%83%97%E1%83%98-%E1%83%93%E1%83%9D%E1%83%AD%E1%83%A3/))
+- Tusheti Protected Landscape profile of Dochu. ([source](https://www.tushetipl.ge/article/8))
+- R. Eristov’s 1855 description and village table for the Tushino-Pshavo-Khevsur district, in Russian. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
 
 ## Road
 

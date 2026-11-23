@@ -33,23 +33,24 @@
 - Winter road: unknown
 
 ## History
-- being researched
+- nothing found yet
 
 ## Population Over Time (Other Sources)
-- being researched
+- nothing found yet
 
 ## Crafts And Traditions
-- being researched
+- nothing found yet
 
 ## Churches, Towers, Monuments
-- being researched
+- nothing found yet
 
 ## Photos And Videos
+- nothing found yet
 
 - Main picture: http://commons.wikimedia.org/wiki/Special:FilePath/Patara%20Khalebi.jpg
 
 ## Articles
-- being researched
+- No village-specific article located in the sources reviewed. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
 
 ## Road
 

@@ -33,21 +33,38 @@
 - Winter road: Abano Pass closed to all vehicles on km 22–72 since 24 Oct 2026. Local village-road status unknown.
 
 ## History
-- being researched
+- Spekali identifies this as a historic settlement of the Tsova-Tush (Batsbi). It describes a long migration from Tsovata into the lowlands following natural disasters, including settlement in present-day Zemo Alvani. ([source](https://www.spekali.tsu.ge/index.php/en/article/viewArticle/4/35/))
+- Shavkhelishvili cites I. Tsiskarishvili’s 1849 account in Kavkaz and archive records identifying Khitirshvili as the village elder and the Uzgharauli as a Khevsur household. ([source](https://mematiane.ge/product-details.php?id=9581))
+- Gustav Radde’s 1876 field account reports two or three families still wintering at Indurta after most Tsova households left. He describes raids, long winters and the prospects of the Alvani lowlands as reasons for departure. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1860-1880/Radde_G_I/text9.htm))
 
 ## Population Over Time (Other Sources)
-- being researched
+- 1855 — 640 residents. R. Eristov’s village table, published in 1855, lists Индурто with 113 houses, 324 men and 316 women. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
+- 1876 — 2–3 families reportedly wintered here. Gustav Radde’s account of his 1876 journey. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1860-1880/Radde_G_I/text9.htm))
+- 2014 — 0 residents. Geostat census workbook, row 1469. ([source](https://geostat.ge/media/51076/1_Number-of-population-by-administrative-territorial-units-and-sex.xls))
+- 2024 — 0 residents. Geostat census on 14 November 2024, workbook row 1497. ([source](https://geostat.ge/media/81091/1.Population-of-Georgia-by-administrative-territorial-units-and-sex.xlsx))
 
 ## Crafts And Traditions
-- being researched
+- Spekali identifies sheep breeding and movement between mountain and lowland pastures as leading livelihoods of the Tsova-Tush community to which the village belonged. ([source](https://www.spekali.tsu.ge/index.php/en/article/viewArticle/4/35/))
+- Shavkhelishvili records a tunnel linking the village to a water source and mill. ([source](https://mematiane.ge/product-details.php?id=9581))
 
 ## Churches, Towers, Monuments
-- being researched
+- The historic site of Indurta is dated to the late medieval period and listed as a monument of national significance, register entry 7515. ([source](https://www.heritagesites.ge/uploads/files/6068808f2b2f2.pdf#page=266))
+- The Georgian Encyclopedia illustrates the five-storey tower and dates it to the 17th–18th centuries. ([source](https://georgianencyclopedia.ge/ka/form/18418))
+- The Heritage Agency records more than thirty ruined buildings on the left bank of the Tusheti Alazani. ([source](https://www.heritagesites.ge/ka/news_item/228))
+- The ethnographic shrine inventory records Kopala, St John the Baptist, the Mother of God, Old Sameba and St George, inventoried jointly with Mozarta. Individual heritage designation nothing found. ([source](https://www.batsav.com/pages/a-list-of-all-the-shrines-of-pshavi-khevsureti-tusheti.html))
+- Late medieval towers of national significance. The Heritage Agency lists it under register entry 963, dated 3 October 2007. ([source](https://www.heritagesites.ge/uploads/files/6068808f2b2f2.pdf#page=31))
 
 ## Photos And Videos
+- Heritage Agency photograph on its Indurta site profile. ([source](https://www.heritagesites.ge/public/uploads/images/5b640aa002afa.jpg))
 
 ## Articles
-- being researched
+- Government decree No. 389 of 13 August 2018, assigning national significance to this site. ([source](https://matsne.gov.ge/ka/document/view/4256468?publication=0))
+- Official site profile for Indurta. ([source](https://www.heritagesites.ge/ka/news_item/228))
+- Spekali’s study of the Tsova-Tush settlements, economy and migration. ([source](https://www.spekali.tsu.ge/index.php/en/article/viewArticle/4/35/))
+- Georgian Encyclopedia entry for Indurta, including an image of its five-storey tower. ([source](https://georgianencyclopedia.ge/ka/form/18418))
+- Abram Shavkhelishvili’s Articles and Archival Materials on Tusheti and the Tush, Volume II, reproducing archival material and field testimony. ([source](https://mematiane.ge/product-details.php?id=9581))
+- R. Eristov’s 1855 description and village table for the Tushino-Pshavo-Khevsur district, in Russian. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/Eristov_R/text1.htm))
+- Gustav Radde’s firsthand description of his journey in the summer of 1876, in Russian. ([source](https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1860-1880/Radde_G_I/text9.htm))
 
 ## Road
 
