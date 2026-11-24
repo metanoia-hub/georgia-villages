@@ -54,7 +54,7 @@
 
 ## Photos And Videos
 - Heritage Agency photograph on its Ageurta site profile. ([source](https://www.heritagesites.ge/public/uploads/images/5b72998eb2676.jpg))
-- Photograph on National Parks of Georgia’s Ageurta site profile. ([source](https://nationalparks.ge/files/1542699739100აგეურთა.jpg))
+- Photograph on National Parks of Georgia’s Ageurta site profile. ([source](https://nationalparks.ge/files/1542699739100%E1%83%90%E1%83%92%E1%83%94%E1%83%A3%E1%83%A0%E1%83%97%E1%83%90.jpg))
 
 ## Articles
 - Government decree No. 389 of 13 August 2018, assigning national significance to this site. ([source](https://matsne.gov.ge/ka/document/view/4256468?publication=0))

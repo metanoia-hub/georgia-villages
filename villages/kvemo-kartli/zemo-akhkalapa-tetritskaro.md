@@ -33,22 +33,24 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- The Georgian National Academys encyclopedia entry places Zemo Akhkalapa in the Chivchavi community, on the southern end of the Bedeni ridge, on the left side of the Khrami River, at 1,260 metres. It says the 2002 census recorded no permanent residents. The 2013 abandoned-village fieldwork account discusses the neighboring Akhalsheni settlements, but no founding history, cause/date of depopulation, or last inhabitants for Zemo Akhkalapa were located. ([source](https://georgianencyclopedia.ge/ka/form/10358))
 
 ## Population Over Time (Other Sources)
-- 2024: 0 residents, as listed in the project GeoJSON; the online settlement profile is the cited web reference. Earlier census counts (1989, 2002, 2014) were not independently verified in a directly accessible census table. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- 0 permanent residents in 2002 according to the Georgian National Academy encyclopedia. A secondary settlement profile reports 0 in 2014; this later figure was not independently verified against an accessible Geostat settlement table. ([source](https://georgianencyclopedia.ge/ka/form/10358))
+- A Russian-language settlement profile reports 0 residents in 2014 and cites the Geostat population census. The official encyclopedia independently gives 0 permanent residents in 2002. ([source](https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D0%BC%D0%BE-%D0%90%D1%85%D0%BA%D0%B0%D0%BB%D0%B0%D0%BF%D0%B0))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific craft, trade, or feast-day tradition was located after searches in English, Georgian, and Russian. ([source](https://georgianencyclopedia.ge/ka/form/10358))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No church, tower, archaeological monument, or official heritage-register entry specifically at Zemo Akhkalapa was located in the searches. The official encyclopedia entry is geographical and population-focused. ([source](https://georgianencyclopedia.ge/ka/form/10358))
 
 ## Photos And Videos
-- No village-specific photo or video URLs were confirmed in the reviewed results. Search YouTube by Latin, Georgian-script, and Russian names plus Tetritskaro Municipality. ([source](https://www.youtube.com/results?search_query=zemo+akhkalapa+Tetritskaro))
+- No village-specific photograph or YouTube video was located in English, Georgian, or Russian searches. ([source](https://mapcarta.com/N414621828))
 
 ## Articles
-- No village-specific article URLs were confirmed in the reviewed results. ([source](https://explore-georgia.ge/en/kvemo-kartli/tetritskaro-municipality/zemo-akhkalapa))
+- Georgian National Academy encyclopedia entry for Zemo Akhkalapa, including location and the 2002 census result. ([source](https://georgianencyclopedia.ge/ka/form/10358))
+- The official municipal ordinance lists Zemo Akhkalapa among the Chivchavi administrative unit villages. ([source](https://manage.matsne.gov.ge/ka/document/view/6990204))
 - http://tools.wmflabs.org/geohack/geohack.php?language=ka&pagename=%E1%83%96%E1%83%94%E1%83%9B%E1%83%9D_%E1%83%90%E1%83%AE%E1%83%99%E1%83%90%E1%83%9A%E1%83%90%E1%83%A4%E1%83%90&params=41_29_56_N_44_16_24_E_type:city(40361)_region:GE
 - http://www.geostat.ge/cms/site_images/_files/georgian/census/2014/01_mosaxleobis%20ricxovnoba%20administraciul-teritoriuli%20erTeulebis%20da%20sqesis%20mixedviT.xls
 - http://www.geostat.ge/index.php?action=page&p_id=2152&lang=geo

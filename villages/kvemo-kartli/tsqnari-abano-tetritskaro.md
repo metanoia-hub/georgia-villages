@@ -33,22 +33,26 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- The place-name appears in the heritage literature as Tsqnari Abano and in an older name form, Tskhnari. No sourced founding date, named founding population, cause or date of abandonment, or last inhabitants were located. An old settlement table records 76 people in 1923 (71 Georgian and 5 Armenian); it was empty in both the 2002 and 2014 censuses. ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
+- The settlement lies north of the Khrami River. A 2013 fieldwork account says Tsqnari Abano was already empty in 2002, but does not explain why it emptied or identify the last residents. ([source](https://sociologisdgiurebi.wordpress.com/2013/09/17/%E1%83%A1%E1%83%9D%E1%83%A4%E1%83%9A%E1%83%94%E1%83%91%E1%83%98/))
 
 ## Population Over Time (Other Sources)
-- 2024: 0 residents, as listed in the project GeoJSON; the online settlement profile is the cited web reference. Earlier census counts (1989, 2002, 2014) were not independently verified in a directly accessible census table. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- 0 residents in the 2002 census and 0 in the 2014 census. The 1923 settlement table lists 76 residents. ([source](https://explore-georgia.ge/en/kvemo-kartli/tetritskaro-municipality/tsqnari-abano))
+- 1923: 76 residents, including 71 Georgians and 5 Armenians (historical settlement table). ([source](https://pop-stat.mashke.org/georgia-ethnic-loc1923.htm))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific craft, trade, or feast-day tradition was located after searches in English, Georgian, and Russian. ([source](https://explore-georgia.ge/en/kvemo-kartli/tetritskaro-municipality/tsqnari-abano))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- The state heritage-register lists the Tskhnari Church and a fortress at Tsqnari Abano; the register dates the fortress to the developed Middle Ages. The church is also described through its inscription and architectural details in the monument survey. The churchs exact construction date and the registers status category were not established from the accessible listing. ([source](https://heritagesites.ge/uploads/files/5b02a35112fd1.pdf))
+- The Tskhnari Church stands in the abandoned settlement by the left bank of the Khrami. Its inscription refers to King David and a patron named Vahram; this source interprets the building as medieval. ([source](https://www.novators.ge/dzeglebi.php?id=16101))
 
 ## Photos And Videos
-- No village-specific photo or video URLs were confirmed in the reviewed results. Search YouTube by Latin, Georgian-script, and Russian names plus Tetritskaro Municipality. ([source](https://www.youtube.com/results?search_query=tsqnari+abano+Tetritskaro))
+- Photographs of the ruins of Tsqnari Abano Church are on this page. ([source](https://madloba.info/region-kvemo-kartli/churches/tsknari-abano-church-ruins/))
 
 ## Articles
-- No village-specific article URLs were confirmed in the reviewed results. ([source](https://explore-georgia.ge/en/kvemo-kartli/tetritskaro-municipality/tsqnari-abano))
+- Monument description and discussion of the Tskhnari Church inscription (Georgian-language source; findings summarized in English above). ([source](https://www.novators.ge/dzeglebi.php?id=16101))
+- The state heritage-register list containing the church and fortress entries. ([source](https://heritagesites.ge/uploads/files/5b02a35112fd1.pdf))
 
 ## Road
 

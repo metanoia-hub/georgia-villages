@@ -33,22 +33,26 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- The source record describes Tsveri as a village on the eastern slope of the Trialeti range. A Georgian account of population movements places Tsveri among the Tetritskaro villages settled by highlanders from Pshav-Khevsureti and Gudamaqari, but gives no village-specific founding date, reason for decline, or names of the last residents. ([source](https://www.dzeglebi.ge/statiebi/istoria/chamosaxlebebi_qvemoqartlshi.html))
+- The 2002 census recorded no inhabitants and the 2014 census recorded three, all Georgian men. This conflicts with the supplied description of the current population as 0 or 1; the accessible village-level census source is 2014. ([source](https://explore-georgia.ge/en/kvemo-kartli/tetritskaro-municipality/tsveri))
 
 ## Population Over Time (Other Sources)
-- 2024: 0 residents, as listed in the project GeoJSON; the online settlement profile is the cited web reference. Earlier census counts (1989, 2002, 2014) were not independently verified in a directly accessible census table. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- 0 residents in 2002; 3 residents in 2014 (all male, all Georgian). These are the latest village-level census figures located in the researched sources. ([source](https://explore-georgia.ge/en/kvemo-kartli/tetritskaro-municipality/tsveri))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific craft, trade, or feast-day tradition was located after searches in English, Georgian, and Russian. ([source](https://explore-georgia.ge/en/kvemo-kartli/tetritskaro-municipality/tsveri))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- The official heritage register lists Tsveri Fortress (early medieval; marked national status) and a church at the northern edge of the village dated to the 5th–6th centuries (also marked national status). It lists another 5th–7th-century church 2.5 km north-west, without the national-status mark. ([source](https://www.heritagesites.ge/uploads/files/5b6bea08e7b24.pdf))
+- A separate register extract records the Church of St George, dated to the 8th–9th centuries, and a developed-medieval tower at Tsveri; its table gives registration date 26 February 2010. ([source](https://www.heritagesites.ge/uploads/files/5c24cc02d81ec.pdf))
 
 ## Photos And Videos
-- No village-specific photo or video URLs were confirmed in the reviewed results. Search YouTube by Latin, Georgian-script, and Russian names plus Tetritskaro Municipality. ([source](https://www.youtube.com/results?search_query=tsveri+Tetritskaro))
+- Photograph of Tsveri St George Church; the page describes it as an 11th-century church. The date differs from the official registers dates for churches at Tsveri, so treat the web description cautiously. ([source](https://cdn.georgiantravelguide.com/storage/thumbnails/dji-0330a-2.jpg))
+- Church photo and visitor information page for Tsveri St George Church. ([source](https://georgiantravelguide.com/ka/tsveris-tsm-giorgis-eklesia))
 
 ## Articles
-- No village-specific article URLs were confirmed in the reviewed results. ([source](https://explore-georgia.ge/en/kvemo-kartli/tetritskaro-municipality/tsveri))
+- Account of highland resettlement in Kvemo Kartli, including Tsveri among the villages receiving migrants. ([source](https://www.dzeglebi.ge/statiebi/istoria/chamosaxlebebi_qvemoqartlshi.html))
+- Official heritage-register entries for Tsveri Fortress and churches. ([source](https://www.heritagesites.ge/uploads/files/5b6bea08e7b24.pdf))
 
 ## Road
 

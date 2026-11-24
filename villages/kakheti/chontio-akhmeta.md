@@ -5,7 +5,7 @@
 ## Size
 - Population: 1917: **135** · 2014: **0** · 2024: **0**
 - Peak population found: **135 (1917)**
-- Houses: not counted yet
+- Houses: 4 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2014 (last with residents: 1917)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 1917 Tiflis governorate villages (Mashke pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm), unit: Пиркительское
 
@@ -54,7 +54,7 @@
 
 ## Photos And Videos
 - Heritage Agency photograph on its Chontio site profile. ([source](https://www.heritagesites.ge/uploads/images/5b752a89d19d7.jpg))
-- Photograph on National Parks of Georgia’s Chontio site profile. ([source](https://nationalparks.ge/files/154269999796ჭონთიო.jpg))
+- Photograph on National Parks of Georgia’s Chontio site profile. ([source](https://nationalparks.ge/files/154269999796%E1%83%AD%E1%83%9D%E1%83%9C%E1%83%97%E1%83%98%E1%83%9D.jpg))
 
 ## Articles
 - Government decree No. 389 of 13 August 2018, assigning national significance to this site. ([source](https://matsne.gov.ge/ka/document/view/4256468?publication=0))

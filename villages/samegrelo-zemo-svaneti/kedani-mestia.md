@@ -46,7 +46,7 @@
 
 ## Photos And Videos
 - Illustrated village location page; no specific monument confirmed. ([source](https://explore-georgia.ge/en/samegrelo-zemo-svaneti/mestia-municipality/kedani))
-- No relevant YouTube video surfaced in targeted English, Georgian, and Russian searches; YouTube search. ([source](https://www.youtube.com/results?search_query=Kedani+Mestia+ქედანი+Кедани))
+- No relevant YouTube video surfaced in targeted English, Georgian, and Russian searches; YouTube search. ([source](https://www.youtube.com/results?search_query=Kedani+Mestia+%E1%83%A5%E1%83%94%E1%83%93%E1%83%90%E1%83%9C%E1%83%98+Кедани))
 
 ## Articles
 - Official Mestia Municipality community roster. ([source](https://www.mestia.gov.ge/ge/node/1340/))

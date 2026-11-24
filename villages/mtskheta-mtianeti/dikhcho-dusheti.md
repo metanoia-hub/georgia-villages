@@ -5,7 +5,7 @@
 ## Size
 - Population: 1917: **183** · 1923: **166** · 2002: **17** · 2014: **3**
 - Peak population found: **183 (1917)**
-- Houses: not counted yet
+- Houses: 9 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: unknown
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 2002 Geostat village volume PDF (confirms 17) ; 1923 Georgia rural census by settlement (Mashke pop-stat.mashke.org/georgia-ethnic-loc1923.htm), unit: Dushetis/Pasanauris ; 1917 Tiflis governorate villages (Mashke pop-stat.mashke.org/georgia-ethnic-loc1917-east.htm), unit: Квемо-Мтиулетское
 

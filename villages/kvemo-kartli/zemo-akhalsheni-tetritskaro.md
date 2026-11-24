@@ -33,22 +33,24 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- A 2013 fieldwork account says Zemo Akhalsheni was already deserted in 2002. It gives no founding date, original population, reason for depopulation, or last inhabitants. A municipal tender later commissioned archaeological investigation of the villages historic settlement and tumulus no. 2; this establishes archaeological interest, not an excavation result. ([source](https://sociologisdgiurebi.wordpress.com/2013/09/17/%E1%83%A1%E1%83%9D%E1%83%A4%E1%83%9A%E1%83%94%E1%83%91%E1%83%98/))
+- A 2025 YouTube video is titled in translation “Our Own Village: Abandoned Zemo Akhalsheni, Depopulated Ukangori of Dmanisi, and the Deer of Tnusi.” The title and description do not establish the last residents or when it emptied. ([source](https://www.youtube.com/watch?v=f6E-ME3_Jig))
 
 ## Population Over Time (Other Sources)
-- 2024: 0 residents, as listed in the project GeoJSON; the online settlement profile is the cited web reference. Earlier census counts (1989, 2002, 2014) were not independently verified in a directly accessible census table. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- 0 residents in the 2002 census; the sources located also describe it as abandoned by the 2013 fieldwork. A village-level 2014 figure was not independently located in an accessible census table. ([source](https://sociologisdgiurebi.wordpress.com/2013/09/17/%E1%83%A1%E1%83%9D%E1%83%A4%E1%83%9A%E1%83%94%E1%83%91%E1%83%98/))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific craft, trade, or feast-day tradition was located after searches in English, Georgian, and Russian. ([source](https://sociologisdgiurebi.wordpress.com/2013/09/17/%E1%83%A1%E1%83%9D%E1%83%A4%E1%83%9A%E1%83%94%E1%83%91%E1%83%98/))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- A 2022 procurement notice specifies archaeological research of Zemo Akhalshenis historic settlement and tumulus no. 2. No standing church, tower, or official heritage-status record was located. ([source](https://tendermonitor.ge/ge/tender/547644))
 
 ## Photos And Videos
-- No village-specific photo or video URLs were confirmed in the reviewed results. Search YouTube by Latin, Georgian-script, and Russian names plus Tetritskaro Municipality. ([source](https://www.youtube.com/results?search_query=zemo+akhalsheni+Tetritskaro))
+- Video (English title translation): “Our Own Village: Abandoned Zemo Akhalsheni, Depopulated Ukangori of Dmanisi, and the Deer of Tnusi” (2025). ([source](https://www.youtube.com/watch?v=f6E-ME3_Jig))
 
 ## Articles
-- No village-specific article URLs were confirmed in the reviewed results. ([source](https://explore-georgia.ge/en/kvemo-kartli/tetritskaro-municipality/zemo-akhalsheni))
+- Fieldwork account on abandoned and nearly depopulated villages in Tetritskaro Municipality; it reports that Zemo and Kvemo Akhalsheni were empty in 2002. ([source](https://sociologisdgiurebi.wordpress.com/2013/09/17/%E1%83%A1%E1%83%9D%E1%83%A4%E1%83%94%E1%83%91%E1%83%98/))
+- Procurement record for archaeological research at the historic settlement and tumulus no. 2. ([source](https://tendermonitor.ge/ge/tender/547644))
 
 ## Road
 

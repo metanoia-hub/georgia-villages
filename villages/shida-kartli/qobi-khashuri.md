@@ -5,7 +5,7 @@
 ## Size
 - Population: 2002: **0** · 2014: **0** · 2024: **0**
 - Peak population found: **0 (2002/2014/2024)**
-- Houses: not counted yet
+- Houses: 14 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: 0 in every census found (2002,2014,2024)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat)
 
@@ -45,7 +45,7 @@
 - No village monument or heritage-registry entry could be verified from the sources located. Map listings mention a St George church in the locality, but without a reliable monument description or heritage status; this is not enough to establish protected status. ([source](https://mapcarta.com/13573212))
 
 ## Photos And Videos
-- Photo/report about resident Genadi Bosikov and life in Qobi (2019). ([source](https://www.qartli.ge/ge/component/content/article/12935--ghmerthis-anაბარად-varth-genadi-bosikovi-yobidan))
+- Photo/report about resident Genadi Bosikov and life in Qobi (2019). ([source](https://www.qartli.ge/ge/component/content/article/12935--ghmerthis-an%E1%83%90%E1%83%91%E1%83%90%E1%83%A0%E1%83%90%E1%83%93-varth-genadi-bosikovi-yobidan))
 - Photo report about Qobi and resident Genadi Bosikov (year not stated on the page). ([source](https://www.radiotavisupleba.ge/a/%E1%83%A1%E1%83%9D%E1%83%A4%E1%83%94%E1%83%9A%E1%83%98-%E1%83%A7%E1%83%9D%E1%83%91%E1%83%98-%E1%83%92%E1%83%94%E1%83%9C%E1%83%90%E1%83%93%E1%83%98-%E1%83%91%E1%83%9D%E1%83%A1%E1%83%98%E1%83%99%E1%83%9D%E1%83%95%E1%83%98---%E1%83%96%E1%83%A6%E1%83%90%E1%83%9E%E1%83%A0%E1%83%90%E1%83%93-%E1%83%A0%E1%83%9D%E1%83%9B-%E1%83%9B%E1%83%9D%E1%83%94%E1%83%A7%E1%83%9D%E1%83%9A%E1%83%90%E1%83%97-%E1%83%95%E1%83%94%E1%83%A0-%E1%83%93%E1%83%90%E1%83%95%E1%83%98%E1%83%AF%E1%83%94%E1%83%A0%E1%83%94%E1%83%91%E1%83%93%E1%83%98-%E1%83%98%E1%83%9B-%E1%83%A2%E1%83%A7%E1%83%94%E1%83%A8%E1%83%98-%E1%83%97%E1%83%A3-%E1%83%92%E1%83%96%E1%83%90%E1%83%A1-%E1%83%92%E1%83%90%E1%83%AD%E1%83%A0%E1%83%98%E1%83%93%E1%83%9C%E1%83%94%E1%83%9C-/30232719.html))
 
 ## Articles

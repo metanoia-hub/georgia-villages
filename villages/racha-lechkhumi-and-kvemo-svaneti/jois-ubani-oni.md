@@ -47,7 +47,7 @@
 
 ## Photos And Videos
 - Illustrated church page with photographs of the building and carvings. ([source](https://georgiantravelguide.com/ru/joisubnis-mtskhetis-jvris-tsminda-giorgis-eklesia))
-- No relevant YouTube video surfaced in targeted English, Georgian, and Russian searches; YouTube search. ([source](https://www.youtube.com/results?search_query=Jois+Ubani+Shromisubani+ჯოისუბანი+Джойсубани))
+- No relevant YouTube video surfaced in targeted English, Georgian, and Russian searches; YouTube search. ([source](https://www.youtube.com/results?search_query=Jois+Ubani+Shromisubani+%E1%83%AF%E1%83%9D%E1%83%98%E1%83%A1%E1%83%A3%E1%83%91%E1%83%90%E1%83%9C%E1%83%98+Джойсубани))
 
 ## Articles
 - Chubinashvili Centre documentation of Joisubani Church of St George and its stone reliefs. ([source](https://www.gch-centre.ge/2018/05/06/%E1%83%A5%E1%83%95%E1%83%98%E1%83%A1-%E1%83%A0%E1%83%94%E1%83%9A%E1%83%98%E1%83%94%E1%83%A4%E1%83%94%E1%83%91%E1%83%98-2/))

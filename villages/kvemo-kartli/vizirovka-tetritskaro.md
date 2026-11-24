@@ -33,22 +33,23 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Vizirovka was founded in the second half of the 19th century on land belonging to Prince Baratov by Greek settlers from the Gumushkhane district of the Trabzon region. A scholarly study describes a 1864 migration of 96 Greek families from the mountainous hinterland of Trabzon, who formed an agricultural community of five villages that included Vizirovka. No source located the last inhabitants or a specific cause/date of abandonment. ([source](https://journals.openedition.org/ceb/pdf/23299))
 
 ## Population Over Time (Other Sources)
-- 2024: 0 residents, as listed in the project GeoJSON; the online settlement profile is the cited web reference. Earlier census counts (1989, 2002, 2014) were not independently verified in a directly accessible census table. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- 0 residents in both the 2002 and 2014 censuses. ([source](https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_(%D0%93%D1%80%D1%83%D0%B7%D0%B8%D1%8F)))
 
 ## Crafts And Traditions
-- nothing found yet
+- The Greek settlers formed an agricultural community; the available study does not identify a specific craft, trade, or Vizirovka feast day. No village-specific feast tradition was located after searches in English, Georgian, and Russian. ([source](https://journals.openedition.org/ceb/pdf/23299))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- No monument in Vizirovka was identified in the heritage-register searches. The academic study documents the Greek village community and neighboring village churches, but does not identify a registered monument at Vizirovka itself. ([source](https://journals.openedition.org/ceb/pdf/23299))
 
 ## Photos And Videos
-- No village-specific photo or video URLs were confirmed in the reviewed results. Search YouTube by Latin, Georgian-script, and Russian names plus Tetritskaro Municipality. ([source](https://www.youtube.com/results?search_query=vizirovka+Tetritskaro))
+- No village-specific photograph or YouTube video was located in English, Georgian, or Russian searches. ([source](https://explore-georgia.ge/ka/kvemo-qartli/tetritskaros-municipaliteti/vizirovka))
 
 ## Articles
-- No village-specific article URLs were confirmed in the reviewed results. ([source](https://explore-georgia.ge/en/kvemo-kartli/tetritskaro-municipality/vizirovka))
+- Michel Bruneaus study of Pontic and Caucasian Greek identities describes the 1864 migration and the five-village Greek agricultural community that included Vizirovka. ([source](https://journals.openedition.org/ceb/pdf/23299))
+- The Georgian National Parliamentary Librarys dictionary confirms Vizirovka as a Tetritskaro Municipality village; the Soviet Encyclopedia is also cited for it as volume 4, page 407, though the entry itself was not located online. ([source](https://www.nplg.gov.ge/greenstone3/library/collection/dictiona/document/HASH011f41e50dc1877fe5c97d68%3Bjsessionid=281865F63B1BE716DAB43184A423C7E2?ed=1))
 
 ## Road
 

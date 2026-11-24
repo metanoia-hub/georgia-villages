@@ -5,7 +5,7 @@
 ## Size
 - Population: 2014: **2** · 2024: **0**
 - Peak population found: **2 (2014)**
-- Houses: not counted yet
+- Houses: 29 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2024 (last with residents: 2014)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat)
 
@@ -54,7 +54,7 @@
 
 ## Photos And Videos
 - Heritage Agency photograph on its Tsaro site profile. ([source](https://www.heritagesites.ge/uploads/images/5b6d6abb8aef3.jpg))
-- Photograph on National Parks of Georgia’s Tsaro site profile. ([source](https://nationalparks.ge/files/154269990399წარო.jpg))
+- Photograph on National Parks of Georgia’s Tsaro site profile. ([source](https://nationalparks.ge/files/154269990399%E1%83%AC%E1%83%90%E1%83%A0%E1%83%9D.jpg))
 
 ## Articles
 - Government decree No. 389 of 13 August 2018, assigning national significance to this site. ([source](https://matsne.gov.ge/ka/document/view/4256468?publication=0))

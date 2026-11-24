@@ -33,22 +33,23 @@
 - Winter road: unknown
 
 ## History
-- nothing found yet
+- Ugudeti, also known historically as Didi Sanadiro, is described as a historical village that is now deserted. Its first appearance in written sources is dated to the 17th century; the five-verst map of the Caucasus marks it as Didi Sanadiro. No cause/date of abandonment or last inhabitants were located. ([source](https://explore-georgia.ge/en/kvemo-kartli/tetritskaro-municipality/ugudeti))
+- A Soviet-era encyclopedia citation is given for Ugudeti (Georgian Soviet Encyclopedia, volume 10, page 100), but a digitized entry was not located. The catalogue record for the encyclopedia is linked here. ([source](https://search.rsl.ru/ru/record/01008090183))
 
 ## Population Over Time (Other Sources)
-- 2024: 0 residents, as listed in the project GeoJSON; the online settlement profile is the cited web reference. Earlier census counts (1989, 2002, 2014) were not independently verified in a directly accessible census table. ([source](https://explore-georgia.ge/en/settlements/alphabetical))
+- 0 residents in the 2014 census. The current English village profile also reports no permanent residents in the 2024 census. ([source](https://explore-georgia.ge/en/kvemo-kartli/tetritskaro-municipality/ugudeti))
 
 ## Crafts And Traditions
-- nothing found yet
+- No village-specific craft, trade, or feast-day tradition was located after searches in English, Georgian, and Russian. ([source](https://explore-georgia.ge/en/kvemo-kartli/tetritskaro-municipality/ugudeti))
 
 ## Churches, Towers, Monuments
-- nothing found yet
+- A church is mapped at Ugudeti, but no official heritage-register entry or reliable construction date for it was located. The mapped location is at 41.724988, 44.219930. ([source](https://sobory.ru/forum3/viewtopic.php?t=29881))
 
 ## Photos And Videos
-- No village-specific photo or video URLs were confirmed in the reviewed results. Search YouTube by Latin, Georgian-script, and Russian names plus Tetritskaro Municipality. ([source](https://www.youtube.com/results?search_query=ugudeti+Tetritskaro))
+- No village-specific photograph or YouTube video was located in English, Georgian, or Russian searches. A mapped church location is available here. ([source](https://sobory.ru/forum3/viewtopic.php?t=29881))
 
 ## Articles
-- No village-specific article URLs were confirmed in the reviewed results. ([source](https://explore-georgia.ge/en/kvemo-kartli/tetritskaro-municipality/ugudeti))
+- Village profile with the historical name, first written attestation, map reference, and 2024 population note. ([source](https://explore-georgia.ge/en/kvemo-kartli/tetritskaro-municipality/ugudeti))
 
 ## Road
 

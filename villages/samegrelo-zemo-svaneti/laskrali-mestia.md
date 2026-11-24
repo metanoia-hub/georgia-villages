@@ -46,7 +46,7 @@
 
 ## Photos And Videos
 - Illustrated map/location page. ([source](https://mapcarta.com/31412190))
-- No relevant YouTube video surfaced in targeted English, Georgian, and Russian searches; YouTube search. ([source](https://www.youtube.com/results?search_query=Laskrali+ლასკრალი+Ласкрали+Svaneti))
+- No relevant YouTube video surfaced in targeted English, Georgian, and Russian searches; YouTube search. ([source](https://www.youtube.com/results?search_query=Laskrali+%E1%83%9A%E1%83%90%E1%83%A1%E1%83%99%E1%83%A0%E1%83%90%E1%83%9A%E1%83%98+Ласкрали+Svaneti))
 
 ## Articles
 - Mtisambebi report says Laskrali was fully depopulated at publication time. ([source](https://mtisambebi.ge/news/people/item/1322-tbilisidan-zemo-svanetshi-dabrunebuli-xarwianebis-eqvsshviliani-ojaxi))

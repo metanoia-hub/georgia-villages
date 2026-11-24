@@ -49,7 +49,7 @@
 
 ## Photos And Videos
 - Illustrated monastery page with photographs. ([source](https://georgiantravelguide.com/en/skhieris-monasteri))
-- No relevant YouTube video surfaced in the targeted English, Georgian, and Russian searches; YouTube search. ([source](https://www.youtube.com/results?search_query=Skhieri+Oni+monastery+სხიერი+Схиери))
+- No relevant YouTube video surfaced in the targeted English, Georgian, and Russian searches; YouTube search. ([source](https://www.youtube.com/results?search_query=Skhieri+Oni+monastery+%E1%83%A1%E1%83%AE%E1%83%98%E1%83%94%E1%83%A0%E1%83%98+Схиери))
 - https://commons.wikimedia.org/wiki/File%3AOni_town.jpg
 - https://commons.wikimedia.org/wiki/File%3AOni_sign.jpg
 

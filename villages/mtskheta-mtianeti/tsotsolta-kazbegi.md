@@ -50,7 +50,7 @@
 ## Photos And Videos
 - Tsotsolta location page with map and imagery. ([source](https://mapcarta.com/13568394))
 - Photographer portfolio page referencing Truso Valley and Tsotsolta village. ([source](https://weekofart.com/photographer/ana-gelashvili/))
-- No village-specific YouTube video was located in English, Georgian or Russian searches, including the Russian spelling and municipality name. ([source](https://www.youtube.com/results?search_query=Tsotsolta+Kazbegi+%D0%A6%D0%BE%D1%86%D0%BE%D0%BB%D1%82%D0%B0+%E1%83%AA%E1%83%ოცოლთა))
+- No village-specific YouTube video was located in English, Georgian or Russian searches, including the Russian spelling and municipality name. ([source](https://www.youtube.com/results?search_query=Tsotsolta+Kazbegi+%D0%A6%D0%BE%D1%86%D0%BE%D0%BB%D1%82%D0%B0+%E1%83%AA%E1%83%%E1%83%9D%E1%83%AA%E1%83%9D%E1%83%9A%E1%83%97%E1%83%90))
 
 ## Articles
 - Truso: Historical and Ethnocultural Issues, with historical population, family and monument information. ([source](https://www.academia.edu/48990593/Truso_Historical_and_Ethnocultural_Issues))

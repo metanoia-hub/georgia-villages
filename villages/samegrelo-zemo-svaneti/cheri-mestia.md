@@ -45,7 +45,7 @@
 - nothing found yet
 
 ## Photos And Videos
-- No village-specific photo gallery or relevant YouTube walk-through/drone video located in English, Georgian, or Russian searches; YouTube search. ([source](https://www.youtube.com/results?search_query=Cheri+Mestia+ჭერი+Чери+Сванетия))
+- No village-specific photo gallery or relevant YouTube walk-through/drone video located in English, Georgian, or Russian searches; YouTube search. ([source](https://www.youtube.com/results?search_query=Cheri+Mestia+%E1%83%AD%E1%83%94%E1%83%A0%E1%83%98+Чери+Сванетия))
 
 ## Articles
 - Official Mestia Municipality administrative list places Cheri in the Khaishi community. ([source](https://www.mestia.gov.ge/ge/node/1340/))
