@@ -5,7 +5,7 @@
 ## Size
 - Population: 2002: **14** · 2014: **6** · 2024: **0**
 - Peak population found: **14 (2002)**
-- Houses: not counted yet
+- Houses: 11 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: first census with 0 residents: 2024 (last with residents: 2014)
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 2002 Geostat village volume PDF (confirms 14)
 

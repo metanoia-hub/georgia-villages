@@ -5,7 +5,7 @@
 ## Size
 - Population: 1923: **26** · 2002: **26** · 2014: **16**
 - Peak population found: **26 (1923/2002)**
-- Houses: not counted yet
+- Houses: 17 buildings drawn on OpenStreetMap within 600 m (ruins are often not drawn, so this is a lowest count; check the satellite view)
 - Last change: unknown
 - Population sources: Mashke 2002/2014/2024 census table pop-stat.mashke.org/georgia-census2024.htm (from Geostat) ; 2002 Geostat village volume PDF (confirms 26) ; 1923 Georgia rural census by settlement (Mashke pop-stat.mashke.org/georgia-ethnic-loc1923.htm), unit: Dushetis/Tianetis
 
